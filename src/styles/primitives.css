@@ -3,10 +3,37 @@
 .segment-thumb { position: absolute; z-index: -1; top: 3px; bottom: 3px; left: 3px; width: calc((100% - 6px) / var(--segments)); background: white; border-radius: 5px; box-shadow: 0 1px 3px #26324215; transform: translateX(calc(var(--selected) * 100%)); transition: transform 350ms cubic-bezier(.22,.68,0,1.02); }
 .segment-button { display: flex; align-items: center; justify-content: center; gap: 6px; height: 30px; padding: 0 12px; border: none; border-radius: 5px; background: transparent; color: #85909e; font: inherit; font-size: 11px; white-space: nowrap; cursor: pointer; }
 .segment-button .icon { width: 14px; height: 14px; }
+.segmented[data-icon-only='true'] .segment-button { width: 28px; height: 28px; padding: 0; }
+.segmented[data-icon-only='true'] .segment-button .icon { width: 16px; height: 16px; }
 .segment-button[aria-pressed='true'] { color: #414b58; }
 .segmented[data-shape='pill'] { border-radius: 24px; }
 .segmented[data-shape='pill'] .segment-thumb, .segmented[data-shape='pill'] .segment-button { border-radius: 22px; }
 .segmented[data-shape='pill'] .segment-button { height: 34px; padding-inline: 20px; }
+.segmented[data-shape='pill'][data-icon-only='true'] .segment-button { width: 30px; height: 28px; padding: 0; }
+
+/* Compact capsule: only the moving silhouette receives the liquid effect. */
+.segmented[data-effect='gooey'] {
+  --segment-fill: var(--ui-accent, #515963);
+  --segment-height: 24px;
+  padding: 2px;
+  background: color-mix(in srgb, var(--segment-fill) 10%, #fff);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--segment-fill) 12%, transparent);
+}
+.segmented[data-effect='gooey'] .segment-thumb {
+  inset: 2px auto 2px 2px;
+  width: calc((100% - 4px) / var(--segments));
+  background: var(--segment-fill);
+  box-shadow: none;
+  transition: transform 320ms cubic-bezier(.22, 1, .36, 1);
+}
+.segmented[data-effect='gooey'][data-liquid-ready='true'] .segment-thumb { visibility: hidden; }
+.segmented[data-effect='gooey'] .segment-liquid { position: absolute; inset: 2px; z-index: -1; pointer-events: none; }
+.segment-liquid-layer { position: absolute !important; inset: 0; }
+.segment-liquid-target { display: block; width: calc(100% / var(--segments)); height: var(--segment-height); border-radius: 999px; transition: transform 320ms cubic-bezier(.22, 1, .36, 1); }
+.segmented[data-effect='gooey'][data-shape='pill'][data-icon-only='true'] .segment-button { width: 26px; height: var(--segment-height); padding: 0; }
+.segmented[data-effect='gooey'] .segment-button .icon { width: 14px; height: 14px; }
+.segmented[data-effect='gooey'] .segment-button { color: #697582; }
+.segmented[data-effect='gooey'] .segment-button[aria-pressed='true'] { color: var(--ui-onAccent, #fff); }
 :where(.weather-component,.text-field,.segmented), :where(.weather-component,.text-field,.segmented) * { box-sizing: border-box; }
 :where(.text-field,.segmented) button:focus-visible { outline: 2px solid #a66e43; outline-offset: 3px; }
 @media (prefers-reduced-motion: reduce) { .segmented * { transition: none !important; } }

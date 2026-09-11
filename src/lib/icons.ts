@@ -24,6 +24,7 @@ const paths = {
   pause: '<path d="M8 5v14m8-14v14"/>',
   reset: '<path d="M3 10a9 9 0 1 1 2.5 8M3 4v6h6"/>',
   code: '<path d="m7 6-5 6 5 6m10-12 5 6-5 6M14 3l-4 18"/>',
+  eye: '<path d="M2 12c2.5-4.7 5.8-7 10-7s7.5 2.3 10 7c-2.5 4.7-5.8 7-10 7S4.5 16.7 2 12Z"/><circle cx="12" cy="12" r="3"/>',
   copy: '<rect x="8" y="8" width="12" height="13" rx="2"/><path d="M15 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h3"/>',
   ruler: '<rect x="3" y="7" width="18" height="10" rx="2"/><path d="M7 7v5m4-5v3m4-3v5m3-5v3"/>',
   type: '<path d="M3 5h14m-7 0v15m-4 0h8M17 12h5m-2.5 0v8"/>',

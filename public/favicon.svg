@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="18" fill="#f6f5f2"/><circle cx="32" cy="32" r="13" fill="#dc8b46"/><g stroke="#dc8b46" stroke-width="3" stroke-linecap="round"><path d="M32 7v5m0 40v5M7 32h5m40 0h5M14 14l4 4m28 28 4 4m0-36-4 4M18 46l-4 4"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 320 320" fill="#7240d8">
+  <title>UIUX Explore</title>
+  <path d="M276 184C313 145 324 104 298 73C268 37 198 34 130 62C63 89 8 140 8 185C8 220 40 244 88 254C105 257 121 257 140 252L133 224C113 230 90 228 73 224C43 217 30 204 38 179C48 147 88 111 143 87C201 62 253 65 274 83C294 100 283 132 256 164Z"/>
+  <path d="M149 141C142 137 135 141 137 149L166 270C168 278 175 279 180 272L209 235L257 216C265 213 266 206 259 202Z"/>
+</svg>

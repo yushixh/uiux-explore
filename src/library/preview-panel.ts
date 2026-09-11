@@ -49,8 +49,8 @@ export class PreviewPanel {
     const codeStage = query(this.element, '.code-stage');
     const footer = query(this.element, '.panel-footer');
     this.view = new SegmentedControl<'preview' | 'code'>({
-      label: `${options.name}展示方式`, value: 'preview',
-      options: [{ value: 'preview', label: '预览' }, { value: 'code', label: '代码' }],
+      label: `${options.name}展示方式`, value: 'preview', iconOnly: true,
+      options: [{ value: 'preview', label: '预览', icon: 'eye' }, { value: 'code', label: '代码', icon: 'code' }],
       onChange: view => {
         this.currentView = view;
         this.stage.hidden = view !== 'preview';

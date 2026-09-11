@@ -1,5 +1,4 @@
 import { createElement, query } from '../lib/dom';
-import { icon } from '../lib/icons';
 import './library-shell.css';
 
 /** Page geometry only; navigation, data and demos belong to the caller. */
@@ -15,8 +14,8 @@ export class LibraryShell {
       <div class="library-shell">
         <header class="library-header">
           <div class="library-header-inner">
-            <a class="wordmark" href="./" aria-label="Daylight，全部组件">${icon('sun')}<span>daylight<span class="text-accent">.</span></span></a>
-            <h1 class="sr-only">组件库</h1>
+            <a class="wordmark" href="./" aria-label="UIUX Explore，全部组件"><img class="brand-mark" src="/favicon.svg?v=3" width="24" height="24" alt=""/><span>UIUX <span class="wordmark-name">Explore</span></span></a>
+            <h1 class="sr-only">UIUX Explore 组件库</h1>
             <div class="library-header-actions"></div>
           </div>
         </header>

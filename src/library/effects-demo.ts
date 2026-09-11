@@ -53,17 +53,15 @@ export async function createOrbDemo(metadata: ComponentMetadata, context: DemoCo
   const { ThinkingOrb } = await import('../components/effects/thinking-orb');
   const demo = setup(metadata, context);
   let state: OrbState = 'searching'; let size: OrbSize = 64; let speed = 1;
-  const large = new ThinkingOrb({ state, size, colors: demo.panel.colors });
-  const inline = new ThinkingOrb({ state, size: 20, colors: demo.panel.colors });
-  demo.effects.push(large, inline);
-  demo.stage.innerHTML = '<div class="orb-presentation" data-layout="region" data-layout-label="独立状态"><div class="orb-main-mount"></div><p class="orb-label" role="status">搜索中</p></div><div class="orb-inline-example" data-layout="region" data-layout-label="行内状态"><div class="orb-inline-mount"></div><span data-layout="element" data-layout-label="状态文字">正在搜索参考资料</span></div>';
-  query(demo.stage, '.orb-main-mount').append(large.element);
-  query(demo.stage, '.orb-inline-mount').append(inline.element);
+  const orb = new ThinkingOrb({ state, size, colors: demo.panel.colors });
+  demo.effects.push(orb);
+  demo.stage.innerHTML = '<div class="orb-presentation" data-layout="region" data-layout-label="独立状态"><div class="orb-main-mount"></div><p class="orb-label" role="status" data-layout="element" data-layout-label="状态文字">搜索中</p></div>';
+  query(demo.stage, '.orb-main-mount').append(orb.element);
   demo.stage.classList.add('orb-stage');
-  const stateSelect = demo.select('状态', states, state, value => { state = value; large.setState(value); inline.setState(value); query(demo.stage, '.orb-label').textContent = states.find(x => x[0] === value)![1]; query(demo.stage, '.orb-inline-example span').textContent = states.find(x => x[0] === value)![1]; });
-  const sizeSelect = demo.select('尺寸', [['64', '64 px'], ['20', '20 px']], '64', value => { size = Number(value) as OrbSize; large.setSize(size); });
-  const speedSelect = demo.select('速度', [['0.5', '0.5×'], ['1', '1×'], ['1.5', '1.5×']], '1', value => { speed = Number(value); large.setSpeed(speed); inline.setSpeed(speed); });
-  return demo.finish(() => { state = 'searching'; size = 64; speed = 1; stateSelect.value = state; sizeSelect.value = '64'; speedSelect.value = '1'; for (const orb of [large, inline]) { orb.setState(state); orb.setSpeed(speed); orb.reset(); } large.setSize(size); query(demo.stage, '.orb-label').textContent = '搜索中'; query(demo.stage, '.orb-inline-example span').textContent = '正在搜索参考资料'; }, () => `import { ThinkingOrb } from './src/components/effects';\n\nconst orb = new ThinkingOrb({\n  colors, state: '${state}', size: ${size}, speed: ${speed},\n});\nmount.append(orb.element);\n\n// 卸载时调用 orb.destroy();`);
+  const stateSelect = demo.select('状态', states, state, value => { state = value; orb.setState(value); query(demo.stage, '.orb-label').textContent = states.find(x => x[0] === value)![1]; });
+  const sizeSelect = demo.select('尺寸', [['64', '64 px'], ['20', '20 px']], '64', value => { size = Number(value) as OrbSize; orb.setSize(size); });
+  const speedSelect = demo.select('速度', [['0.5', '0.5×'], ['1', '1×'], ['1.5', '1.5×']], '1', value => { speed = Number(value); orb.setSpeed(speed); });
+  return demo.finish(() => { state = 'searching'; size = 64; speed = 1; stateSelect.value = state; sizeSelect.value = '64'; speedSelect.value = '1'; orb.setState(state); orb.setSpeed(speed); orb.reset(); orb.setSize(size); query(demo.stage, '.orb-label').textContent = '搜索中'; }, () => `import { ThinkingOrb } from './src/components/effects';\n\nconst orb = new ThinkingOrb({\n  colors, state: '${state}', size: ${size}, speed: ${speed},\n});\nmount.append(orb.element);\n\n// 卸载时调用 orb.destroy();`);
 }
 
 export async function createBeamDemo(metadata: ComponentMetadata, context: DemoContext) {

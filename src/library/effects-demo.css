@@ -1,13 +1,11 @@
-.effect-demo-stage { position: relative; min-height: 480px; padding: 60px 40px; display: flex; justify-content: center; align-items: center; flex-direction: column; color: var(--ui-ink); background: var(--ui-surface); gap: 32px; }
+.effect-demo-stage { position: relative; min-height: var(--preview-height, 400px); padding: 36px 28px; display: flex; justify-content: center; align-items: center; flex-direction: column; color: var(--ui-ink); background: var(--ui-surface); gap: 24px; }
 .demo-select { display: flex; align-items: center; gap: 10px; font-size: 12px; color: #747e8a; }
 .demo-select select { padding: 8px 26px 8px 10px; border: 1px solid #e1e5ea; border-radius: 7px; background: #fff; color: #424d58; max-width: 150px; }
 .demo-action { border: 1px solid #dfe4ea; border-radius: 8px; padding: 8px 12px; font-size: 12px; color: #526070; background: white; }
 .demo-action:disabled { opacity: .4; cursor: not-allowed; }
-.orb-stage { gap: 56px; }
 .orb-presentation { display: grid; justify-items: center; gap: 24px; }
 .orb-main-mount { display: grid; place-items: center; height: 84px; width: 84px; }
 .orb-label { margin: 0; font-size: 15px; letter-spacing: .08em; color: var(--ui-ink); }
-.orb-inline-example { display: flex; gap: 12px; align-items: center; min-width: 236px; padding: 17px 22px; background: var(--ui-raised); border: 1px solid var(--ui-line); border-radius: 12px; font-size: 13px; color: var(--ui-muted); }
 .beam-surface { width: min(340px, 100%); }
 .beam-demo-card { width: 100%; padding: 28px; border-radius: 20px; background: var(--ui-raised); border: 1px solid var(--ui-line); }
 .sample-eyebrow { font-size: 12px; color: var(--ui-muted); }
@@ -20,4 +18,4 @@
 .metal-composer-actions > span { font-size: 12px; color: var(--ui-muted); }
 .metal-demo-button { display: flex; gap: 16px; align-items: center; border-radius: 24px; padding: 12px 18px; background: var(--ui-raised); color: var(--ui-accent); font-size: 13px; border: 1px solid var(--ui-line); white-space: nowrap; }
 .image-stage { gap: 20px; }.image-phase { font-size: 13px; color: var(--ui-muted); margin: 0; }
-@media (max-width: 600px) { .effect-demo-stage { min-height: 380px; padding: 42px 24px; }.metal-composer { padding: 20px; }.metal-composer-actions { flex-wrap: wrap; }.metal-composer-actions > span { display: none; }.metal-composer-actions { justify-content: flex-end; }.effect-feedback { bottom: 24px; font-size: 12px; }.demo-select select { max-width: 125px; }.beam-demo-card { width: 100%; padding: 24px; }.beam-demo-card h3 { font-size: 20px; } }
+@media (max-width: 600px) { .effect-demo-stage { padding: 28px 20px; }.metal-composer { padding: 20px; }.metal-composer-actions { flex-wrap: wrap; }.metal-composer-actions > span { display: none; }.metal-composer-actions { justify-content: flex-end; }.effect-feedback { bottom: 16px; font-size: 12px; }.demo-select select { max-width: 125px; }.beam-demo-card { width: 100%; padding: 24px; }.beam-demo-card h3 { font-size: 20px; } }

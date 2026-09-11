@@ -19,10 +19,36 @@ export function createCatalogPage(entries: readonly CatalogEntry[]) {
   let selected = entries.find(entry => entry.id === location.hash.slice(1))?.id ?? entries[0]!.id;
   let inspecting = false; let level: Exclude<LayoutLevel, 'off'> = 'container';
 
-  shell.actions.innerHTML = '<label class="global-palette"><span>全局配色</span><select aria-label="全局配色"></select></label><div class="global-mode"></div>';
-  const globalPalette = query<HTMLSelectElement>(shell.actions, '.global-palette select');
-  palettes.forEach(palette => globalPalette.add(new Option(palette.name, palette.id)));
-  const modeControl = new SegmentedControl<ColorMode>({ label: '全局明暗', value: 'light', options: [{ value: 'light', label: '明亮', icon: 'sun' }, { value: 'dark', label: '深色', icon: 'moon' }], onChange: value => { colors.setMode(value); applyAll(); } });
+  shell.actions.innerHTML = '<details class="global-palette"><summary aria-label="全局配色"><span class="palette-dots" aria-hidden="true"></span></summary><div class="global-palette-options" role="group" aria-label="全局配色方案"></div></details><div class="global-mode"></div>';
+  const globalPalette = query<HTMLDetailsElement>(shell.actions, '.global-palette');
+  const paletteTrigger = query(globalPalette, 'summary');
+  const paletteChoices = query(globalPalette, '.global-palette-options');
+  palettes.forEach(palette => {
+    const button = createElement<HTMLButtonElement>('<button type="button" class="global-palette-option"><span class="palette-dots" aria-hidden="true"></span></button>');
+    button.dataset.palette = palette.id;
+    button.setAttribute('aria-label', palette.name);
+    button.title = palette.name;
+    for (const color of palette.colors) {
+      const dot = document.createElement('i'); dot.style.backgroundColor = color;
+      query(button, '.palette-dots').append(dot);
+    }
+    button.addEventListener('click', () => {
+      colors.setPalette(palette.id); syncGlobalPalette(); applyAll();
+      globalPalette.open = false; paletteTrigger.focus();
+    }, { signal });
+    paletteChoices.append(button);
+  });
+  function syncGlobalPalette(): void {
+    const palette = palettes.find(item => item.id === colors.selection)!;
+    paletteTrigger.title = `全局配色：${palette.name}`;
+    const dots = query(paletteTrigger, '.palette-dots'); dots.replaceChildren();
+    for (const color of palette.colors) {
+      const dot = document.createElement('i'); dot.style.backgroundColor = color; dots.append(dot);
+    }
+    paletteChoices.querySelectorAll<HTMLButtonElement>('button').forEach(button => setPressed(button, button.dataset.palette === palette.id));
+  }
+  syncGlobalPalette();
+  const modeControl = new SegmentedControl<ColorMode>({ label: '全局明暗', value: 'light', shape: 'pill', effect: 'gooey', iconOnly: true, options: [{ value: 'light', label: '明亮', icon: 'sun' }, { value: 'dark', label: '深色', icon: 'moon' }], onChange: value => { colors.setMode(value); applyAll(); } });
   query(shell.actions, '.global-mode').append(modeControl.element);
 
   shell.sidebar.innerHTML = `<div class="catalog-search">${icon('search')}<input type="search" placeholder="搜索组件" aria-label="搜索组件" autocomplete="off"/><kbd>/</kbd></div><nav class="component-navigation" aria-label="组件"></nav><div class="sidebar-bottom"><span>${entries.length} 个组件</span><a href="https://github.com/Jakubantalik/Libraries.dev" target="_blank" rel="noreferrer">上游源码 ↗</a></div>`;
@@ -142,7 +168,12 @@ export function createCatalogPage(entries: readonly CatalogEntry[]) {
     setPressed(inspectButton, inspecting); query(shell.main, '.inspector-toolbar').hidden = !inspecting;
     demos.forEach((demo, id) => demo.inspector.setLevel(inspecting && id === selected ? level : 'off'));
   }
-  globalPalette.addEventListener('change', () => { colors.setPalette(globalPalette.value as PaletteName); applyAll(); }, { signal });
+  document.addEventListener('pointerdown', event => {
+    if (event.target instanceof Node && !globalPalette.contains(event.target)) globalPalette.open = false;
+  }, { signal });
+  globalPalette.addEventListener('focusout', event => {
+    if (event.relatedTarget instanceof Node && !globalPalette.contains(event.relatedTarget)) globalPalette.open = false;
+  }, { signal });
   shell.main.querySelectorAll<HTMLInputElement>('[name="component-palette"]').forEach(input => input.addEventListener('change', () => { settings.get(selected)!.palette = input.value as Settings['palette']; apply(selected); syncProperties(); }, { signal }));
   mix.addEventListener('change', () => { settings.get(selected)!.mix = mix.value as Settings['mix']; apply(selected); syncProperties(); }, { signal });
   localMode.addEventListener('change', () => { settings.get(selected)!.mode = localMode.value as Settings['mode']; apply(selected); syncProperties(); }, { signal });
@@ -154,6 +185,9 @@ export function createCatalogPage(entries: readonly CatalogEntry[]) {
   search.addEventListener('input', filter, { signal });
   shell.home.addEventListener('click', event => { event.preventDefault(); search.value = ''; filter(); void choose(entries[0]!.id); }, { signal });
   document.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && globalPalette.open) {
+      globalPalette.open = false; paletteTrigger.focus(); event.preventDefault(); return;
+    }
     const editing = event.target instanceof HTMLElement && (event.target.matches('input,textarea,select') || event.target.isContentEditable);
     if (event.key === '/' && !editing && !event.metaKey && !event.ctrlKey) { event.preventDefault(); search.focus(); }
     if (event.key === 'Escape') { if (document.activeElement === search) { search.value = ''; filter(); search.blur(); } else { inspecting = false; updateInspector(); } }
