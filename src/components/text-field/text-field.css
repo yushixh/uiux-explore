@@ -1,0 +1,47 @@
+.text-field { --field-height: 52px; --field-icon: var(--icon-size, 20px); --field-inset: 16px; --field-gap: 12px; display: grid; grid-template-columns: minmax(0,1fr); gap: var(--label-gap, 8px); width: 100%; color: var(--color-ink, #2c3239); }
+.field-label-row { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 16px; align-items: baseline; }
+.field-label-row label { font-size: 13px; line-height: 20px; font-weight: 500; overflow-wrap: anywhere; }
+.field-required { font-size: 10px; line-height: 16px; color: var(--color-faint, #959eaa); }
+.field-control { display: grid; grid-template-columns: var(--field-icon) minmax(0,1fr) 24px; align-items: center; gap: var(--field-gap); min-height: var(--field-height); padding: 0 var(--field-inset); background: #fff; border: 1px solid #dce0e6; border-radius: 10px; box-shadow: 0 2px 3px #23324803; transition: border-color var(--motion-control, 180ms), box-shadow var(--motion-control, 180ms), background-color var(--motion-control, 180ms); }
+.without-leading .field-control { grid-template-columns: minmax(0,1fr) 24px; }
+.field-control:hover { border-color: #adb5c1; }
+.field-control:focus-within { border-color: #b68660; box-shadow: 0 0 0 4px #bf976621; }
+.field-leading { color: #9ba2ad; width: var(--field-icon); height: var(--field-icon); }
+.field-leading .icon { width: 100%; height: 100%; }
+.field-input { min-width: 0; width: 100%; padding: 0; border: 0; outline: 0; background: transparent; color: #343d49; font: inherit; font-size: 14px; line-height: 24px; text-overflow: ellipsis; box-shadow: none; }
+.field-input:focus-visible { outline: none; }
+.field-input::placeholder { color: #a4abb5; }
+.field-input::selection { background: #eedbca; }
+.field-input::-webkit-search-cancel-button { display: none; }
+.field-clear { display: grid; place-items: center; width: 24px; height: 24px; border: 0; border-radius: 6px; color: #939ca8; background: transparent; cursor: pointer; }
+.field-clear .icon { width: 14px; height: 14px; }
+.field-clear:hover { color: #3b4653; background: #eef0f3; }
+.field-message { display: grid; grid-template-columns: auto minmax(0,1fr); align-items: start; gap: 6px; min-height: 20px; color: #9098a3; }
+.field-message-icon:empty { display: none; }
+.field-message-icon .icon { width: 14px; height: 14px; margin-top: 3px; }
+.field-message p { margin: 0; font-size: 11px; line-height: 20px; overflow-wrap: anywhere; }
+.text-field[data-state='error'] .field-control { border-color: #d77e7e; background: #fffcfc; }
+.text-field[data-state='error'] .field-control:focus-within { box-shadow: 0 0 0 4px #d77e7e18; }
+.text-field[data-state='error'] .field-message { color: var(--color-danger, #bd5454); }
+.text-field[data-state='success'] .field-control { border-color: #8eaf9f; }
+.text-field[data-state='success'] .field-message { color: var(--color-success, #4e806c); }
+.text-field[data-disabled='true'] .field-control { background: #f1f3f5; border-color: #e3e6eb; box-shadow: none; cursor: not-allowed; }
+.text-field[data-disabled='true'] .field-input { color: #9ca5b1; cursor: not-allowed; }
+.text-field[data-disabled='true'] .field-leading, .text-field[data-disabled='true'] label { color: #a2a9b2; }
+@media (prefers-reduced-motion: reduce) { .text-field * { transition: none !important; } }
+
+.text-field { color: var(--ui-ink, #28313b); }
+.text-field[data-size='compact'] { --field-height: 40px; --field-icon: 16px; --field-inset: 12px; --field-gap: 8px; }
+.field-label-row label { font-size: 14px; }.field-required,.field-message p { font-size: 12px; }
+.field-control { background: var(--ui-raised, #fff); border-color: var(--ui-line, #dfe4ea); }
+.field-control:hover { border-color: var(--ui-muted, #697582); }
+.field-control:focus-within { border-color: var(--ui-accent, #a4673e); box-shadow: 0 0 0 4px color-mix(in srgb, var(--ui-accent, #a4673e) 14%, transparent); }
+.field-input { color: var(--ui-ink, #28313b); }
+.field-input::selection { background: color-mix(in srgb, var(--ui-accent, #a4673e) 25%, transparent); }
+.field-leading,.field-required,.field-message,.field-clear { color: var(--ui-muted, #697582); }
+.field-clear:hover { color: var(--ui-ink, #28313b); background: var(--ui-surface, #f7f8fa); }
+.text-field[data-state='error'] .field-control { border-color: var(--ui-negative, #b74747); background: color-mix(in srgb, var(--ui-negative, #b74747) 3%, var(--ui-raised, white)); }
+.text-field[data-state='error'] .field-message { color: var(--ui-negative, #b74747); }
+.text-field[data-state='success'] .field-control { border-color: var(--ui-positive, #39765a); }
+.text-field[data-state='success'] .field-message { color: var(--ui-positive, #39765a); }
+.text-field[data-disabled='true'] .field-control { background: var(--ui-surface, #f1f3f5); border-color: var(--ui-line, #dfe4ea); opacity: .65; }

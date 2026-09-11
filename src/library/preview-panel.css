@@ -1,0 +1,15 @@
+/* Shared slots; each preview owns its content height. */
+.component-panel { display: grid; grid-template-columns: minmax(0,1fr); box-shadow: 0 2px 6px #23344b03; }
+.panel-heading { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: center; gap: 16px; min-height: 76px; padding: 18px 24px; }
+.panel-name { overflow-wrap: anywhere; }.panel-view .segmented { background: #f1f3f5; }.panel-view .segment-button { height: 28px; font-size: 11px; }
+.panel-stage { min-width: 0; margin-inline: 12px; overflow: hidden; border-radius: 10px; }
+.panel-footer { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: center; gap: 12px; padding: 20px 24px; min-height: 78px; }
+.panel-controls { min-width: 0; }
+.reset-demo { padding: 8px 0 8px 8px; font-size: 11px; color: #89939f; }.reset-demo:hover { color: #465362; }
+.code-stage { display: grid; grid-template-rows: auto minmax(0,1fr) auto; min-width: 0; height: 424px; margin: 0 12px 12px; border: 1px solid #e7ecf0; border-radius: 10px; background: #f8fafc; }
+.code-toolbar { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: center; gap: 16px; padding: 18px 20px; border-bottom: 1px solid #e7ecf0; font-size: 11px; color: #7a8794; }
+.copy-button { font-size: 11px; color: #687c8d; }.copy-button:hover { color: #324a60; }
+.code-stage pre { min-width: 0; margin: 0; padding: 20px; overflow: auto; font-family: var(--font-mono); font-size: 11px; line-height: 1.9; color: #5c7284; white-space: pre; }
+.copy-status { font-size: 11px; line-height: 20px; padding: 8px 20px; color: #946b45; border-top: 1px solid #e7ecf0; }
+@media (max-width: 600px) { .panel-heading { min-height: 68px; padding: 16px 20px; }.panel-footer { padding: 18px 20px; }.panel-stage { margin-inline: 10px; } }
+@media (max-width: 380px) { .panel-heading { padding-inline: 16px; }.panel-footer { padding-inline: 16px; gap: 4px; }.panel-view .segment-button { padding-inline: 10px; }.panel-controls .segment-button { padding-inline: 10px; } }

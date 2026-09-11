@@ -1,0 +1,33 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --font-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+  --color-canvas: #f8f9fb;
+  --color-paper: #ffffff;
+  --color-ink: #2c3239;
+  --color-muted: #747e8a;
+  --color-faint: #959eaa;
+  --color-line: #e7e9ed;
+  --color-accent: #a66e43;
+  --color-accent-soft: #f3eae1;
+  --color-danger: #bd5454;
+  --color-success: #4e806c;
+  --spacing: 0.25rem;
+  --radius-panel: 1rem;
+  --radius-control: 0.625rem;
+  --ease-atmosphere: cubic-bezier(.22, .68, 0, 1.02);
+}
+
+:root {
+  --space-unit: 4px;
+  --component-inset: clamp(24px, 8.75cqi, 32px);
+  --group-gap: calc(var(--space-unit) * 4);
+  --label-gap: calc(var(--space-unit) * 2);
+  --icon-size: 20px;
+  --motion-atmosphere: 1400ms;
+  --motion-control: 180ms;
+  --layout-container: #b37f49;
+  --layout-region: #4d83b9;
+  --layout-element: #9570b2;
+}

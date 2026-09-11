@@ -1,0 +1,12 @@
+:root { font-family: var(--font-sans); color: var(--color-ink); background: var(--color-canvas); font-synthesis: none; -webkit-font-smoothing: antialiased; }
+body { margin: 0; min-width: 0; }
+[hidden] { display: none !important; }
+button, a { -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
+button { cursor: pointer; }
+button:disabled { cursor: not-allowed; }
+button:focus-visible, a:focus-visible, input:focus-visible, pre:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 3px; }
+button, a, input { transition: color 160ms, background-color 160ms, border-color 160ms; }
+.skip-link { position: fixed; top: -60px; left: 16px; z-index: 100; border-radius: 8px; padding: 10px 16px; background: white; }.skip-link:focus { top: 12px; }
+.icon-button { display: grid; place-items: center; width: 32px; height: 32px; border-radius: 6px; color: var(--color-muted); }
+.icon-button:hover { background: #eceff2; color: var(--color-ink); }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }

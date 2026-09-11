@@ -1,0 +1,30 @@
+/* Page → header/catalog regions → local controls. */
+.library-shell { --page-width: 1184px; --page-inset: clamp(20px, 4vw, 56px); --page-gap: 24px; display: grid; grid-template-rows: auto 1fr; min-height: 100svh; }
+.library-header { border-bottom: 1px solid var(--color-line); background: var(--color-paper); padding-inline: var(--page-inset); }
+.library-header-inner { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: center; gap: var(--page-gap); min-height: 88px; max-width: var(--page-width); margin-inline: auto; }
+.wordmark { display: inline-grid; grid-template-columns: 28px auto; align-items: center; gap: 12px; width: fit-content; font-size: 27px; font-weight: 600; letter-spacing: -1.3px; text-decoration: none; }
+.wordmark > .icon { width: 28px; height: 28px; color: #b7804f; stroke-width: 1.4; }
+.library-header-actions { display: flex; align-items: center; gap: 12px; }
+.inspect-toggle { display: grid; grid-template-columns: 16px auto; align-items: center; gap: 8px; padding: 9px 13px; min-height: 38px; border: 1px solid var(--color-line); border-radius: 8px; color: #687381; background: white; font-size: 12px; }
+.inspect-toggle > .icon { width: 16px; height: 16px; }
+.inspect-toggle:hover, .inspect-toggle[aria-pressed='true'] { border-color: #cfb79f; color: #996a43; background: #fcf8f3; }
+.main-content { display: grid; grid-template-columns: minmax(0,1fr); align-content: start; gap: var(--page-gap); width: min(calc(100% - var(--page-inset) * 2), var(--page-width)); margin-inline: auto; padding-block: 36px 56px; outline: none; }
+.catalog-toolbar { display: grid; grid-template-columns: minmax(0,1fr) 236px; gap: 24px; align-items: center; }
+.catalog-navigation { min-width: 0; overflow-x: auto; padding: 4px; margin: -4px; }
+.catalog-navigation .segmented { width: max-content; background: #eceef1; }
+.catalog-navigation .segment-button { min-width: 74px; height: 34px; font-size: 12px; }
+.catalog-search { display: grid; grid-template-columns: 16px minmax(0,1fr) 24px; align-items: center; gap: 8px; min-height: 40px; padding-inline: 12px 6px; border: 1px solid #e0e4e9; border-radius: 8px; background: white; }
+.catalog-search > .icon { width: 16px; height: 16px; color: #8c96a3; }
+.catalog-search input { width: 100%; min-width: 0; padding: 0; font-size: 12px; line-height: 24px; color: #4b5664; border: 0; outline: none; background: transparent; }
+.catalog-search input::placeholder { color: #8a94a1; }.catalog-search input::-webkit-search-cancel-button { display: none; }
+.catalog-search:focus-within { border-color: #bd9675; box-shadow: 0 0 0 3px #c6a78915; }
+.catalog-search kbd { display: grid; place-items: center; width: 20px; height: 22px; border: 1px solid #e7eaee; border-radius: 4px; color: #949daa; font-family: var(--font-mono); font-size: 10px; }
+.catalog-search .clear-search { width: 24px; height: 28px; }.clear-search .icon { width: 14px; height: 14px; }
+.empty-state { display: grid; justify-items: center; gap: 20px; border: 1px dashed #d5dbe3; border-radius: 16px; background: white; padding: 80px 20px; }
+.empty-state h2 { font-size: 15px; font-weight: 500; }.empty-reset { font-size: 12px; padding: 10px 16px; border: 1px solid #d6c5b4; border-radius: 8px; color: #916b49; }
+.inspector-toolbar { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: center; gap: 12px; padding: 10px 12px; border: 1px solid #e2d8cd; border-radius: 10px; background: #faf7f2; }
+.inspector-levels .segmented { width: fit-content; background: #eee8e1; }
+.component-grid { min-width: 0; }
+@media (max-width: 1023px) { .main-content { max-width: 660px; }.library-header-inner { max-width: 660px; } }
+@media (max-width: 600px) { .library-shell { --page-gap: 20px; }.library-header-inner { min-height: 72px; }.wordmark { font-size: 24px; gap: 9px; grid-template-columns: 24px auto; }.wordmark > .icon { width: 24px; height: 24px; }.main-content { padding-block: 24px 36px; }.catalog-toolbar { grid-template-columns: minmax(0,1fr); gap: 16px; }.catalog-search input { font-size: 16px; }.catalog-search input::placeholder { font-size: 13px; }.catalog-search { min-height: 44px; }.catalog-navigation .segment-button { min-width: 72px; } }
+@media (max-width: 380px) { .library-shell { --page-inset: 16px; }.inspect-toggle { padding-inline: 10px; } }

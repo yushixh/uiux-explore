@@ -1,0 +1,39 @@
+const paths = {
+  sun: '<circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19m0-14-1.5 1.5m-11 11L5 19"/>',
+  moon: '<path d="M20 13.5A8.5 8.5 0 0 1 10.5 4 8.5 8.5 0 1 0 20 13.5Z"/>',
+  grid: '<rect x="3" y="3" width="18" height="18" rx="3"/><path d="M3 9h18M9 3v18"/>',
+  layers: '<path d="m12 3 10 5-10 5L2 8l10-5Zm-10 9 10 5 10-5M2 16l10 5 10-5"/>',
+  input: '<rect x="2.5" y="5.5" width="19" height="13" rx="3"/><path d="M8 9v6m-2-6h4m-4 6h4m4-3h4"/>',
+  orb: '<circle cx="12" cy="12" r="8" stroke-dasharray=".5 3.68879"/>',
+  beam: '<rect x="4" y="4" width="16" height="16" rx="2"/>',
+  gooey: '<circle cx="12" cy="12" r="8" fill="currentColor" stroke="none"/>',
+  metal: '<path d="m12 3 9 9-9 9-9-9Z"/><path d="m12 7 5 5-5 5-5-5Z" fill="currentColor" stroke="none"/>',
+  image: '<rect x="4" y="4" width="16" height="16" rx="2"/><path d="m4 15 5-5 5 5 3-3 3 3"/><circle cx="15.5" cy="8.5" r="1" fill="currentColor" stroke="none"/>',
+  keyboard: '<rect x="3" y="6" width="18" height="12" rx="2"/><path d="M6 9h.01M10 9h.01M14 9h.01M18 9h.01M6 12h.01M10 12h.01M14 12h.01M18 12h.01M8 15h8"/>',
+  search: '<circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/>',
+  chevron: '<path d="m9 5 7 7-7 7"/>',
+  arrow: '<path d="M4 12h16m-6-6 6 6-6 6"/>',
+  mail: '<rect x="3" y="5" width="18" height="14" rx="3"/><path d="m4 7 8 6 8-6"/>',
+  close: '<path d="m6 6 12 12M6 18 18 6"/>',
+  check: '<path d="m5 12 4 4L19 6"/>',
+  alert: '<circle cx="12" cy="12" r="9"/><path d="M12 7v6m0 3v.01"/>',
+  pin: '<path d="M18 10c0 5-6 10-6 10S6 15 6 10a6 6 0 0 1 12 0Z"/><circle cx="12" cy="10" r="2"/>',
+  up: '<path d="M12 20V4m-5 5 5-5 5 5"/>',
+  down: '<path d="M12 4v16m-5-5 5 5 5-5"/>',
+  play: '<path d="m8 5 11 7-11 7V5Z"/>',
+  pause: '<path d="M8 5v14m8-14v14"/>',
+  reset: '<path d="M3 10a9 9 0 1 1 2.5 8M3 4v6h6"/>',
+  code: '<path d="m7 6-5 6 5 6m10-12 5 6-5 6M14 3l-4 18"/>',
+  copy: '<rect x="8" y="8" width="12" height="13" rx="2"/><path d="M15 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h3"/>',
+  ruler: '<rect x="3" y="7" width="18" height="10" rx="2"/><path d="M7 7v5m4-5v3m4-3v5m3-5v3"/>',
+  type: '<path d="M3 5h14m-7 0v15m-4 0h8M17 12h5m-2.5 0v8"/>',
+  radius: '<path d="M4 20V11a7 7 0 0 1 7-7h9M4 4v.01M20 20v.01M12 20v.01M20 12v.01"/>',
+  motion: '<path d="M3 17c8 0 8-10 18-10m-5-4 5 4-5 4M3 7h5m-5 5h2"/>',
+  menu: '<path d="M4 6h16M4 12h16M4 18h16"/>',
+  book: '<path d="M12 5v15m0-15C8 2 4 3 2 4v15c4-2 7-1 10 1 3-2 6-3 10-1V4c-2-1-6-2-10 1Z"/>',
+} as const;
+
+export type IconName = keyof typeof paths;
+export function icon(name: IconName, className = ''): string {
+  return `<svg class="icon ${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths[name]}</svg>`;
+}
