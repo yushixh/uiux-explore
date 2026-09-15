@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-cta",
+  "source": "kage",
+  "slug": "component--lorikeetcx-cta",
+  "url": "https://kage.design/component/lorikeetcx-cta",
+  "name": "Closing conversion CTA by lorikeetcx.ai",
+  "description": "A concise final headline and dark pill action create a decisive conversion moment immediately before the footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142171-11.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=cta",
+    "search?q=conversion",
+    "search?q=closing"
+  ],
+  "pageSha256": "cbb5323b97ab9a4a9e613b6f880d8148e90414b4af70889b25abff1dff0205f9"
+}

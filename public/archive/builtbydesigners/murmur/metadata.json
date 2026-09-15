@@ -1,0 +1,23 @@
+{
+  "id": "murmur",
+  "name": "Murmur",
+  "description": "An open-source collection of animated glass orbs for AI interfaces, with web and SwiftUI versions. Explore visual styles, tune their appearance, and switch between states such as listening, thinking, and responding.",
+  "shortInfo": "Shape responsive glass orbs for AI interfaces",
+  "url": "https://murmur.krispuckett.com/",
+  "handle": "krispuckett",
+  "creatorName": "Kris Puckett",
+  "creatorUrl": "https://x.com/krispuckett",
+  "creatorVerified": true,
+  "platform": "Cross-platform",
+  "categoryLabel": "Development",
+  "categories": [
+    "Development"
+  ],
+  "launchDate": "2026-09-05",
+  "added": "2026-09-05",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/murmur/icon-mtq1lp1p-KIufNIIUDrfgAzaBPG3HthFs2cFKsh.svg",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/murmur/avatar-mtodiu9t-yL3WAhpIhRByRrcsz41oHJydOTstTw.jpg",
+  "shot": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/murmur/shot-mtq1lp1q-kNZ4poafF1tVVjju3JQ9D3vp8Tz6zM.jpg",
+  "shot2x": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/murmur/shot2x-mtq1lp1q-76m8bbIGoW5R6ErnmtuURH4g1w45e6.jpg"
+}

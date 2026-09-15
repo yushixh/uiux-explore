@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--plaid-form",
+  "source": "kage",
+  "slug": "component--plaid-form",
+  "url": "https://kage.design/component/plaid-form",
+  "name": "Gradient contact form by plaid.com",
+  "description": "A compact two-column lead-capture form sits inside a bright, softly glowing gradient section. Strong field grouping, generous white-card padding, and a confident pill-shaped submit action make the form feel approachable while remaining conversion-focused.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/plaid-com/7f22fbce-e808-4b19-99a1-7dcb31fbfb56-1789060801-7.webp",
+  "prompts": [
+    "kage/component--plaid-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/plaid-landing-page",
+  "product": "plaid-com",
+  "tags": [
+    "search?q=contact",
+    "search?q=form",
+    "search?q=gradient",
+    "search?q=responsive"
+  ],
+  "pageSha256": "b16a0775f1b8a2a0f2e9ebeb84ffbc999bea365bdf80f91e9be6a969119e4a21"
+}

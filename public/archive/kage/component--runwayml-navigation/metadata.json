@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--runwayml-navigation",
+  "source": "kage",
+  "slug": "component--runwayml-navigation",
+  "url": "https://kage.design/component/runwayml-navigation",
+  "name": "Announcement bar and primary navigation by runwayml.com",
+  "description": "This header works by separating a high-priority announcement from the main navigation, then balancing a compact wordmark, centered category links, and utility actions in a single calm row. Strong contrast, restrained spacing, and clear button hierarchy make the global navigation easy to scan without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/runwayml-com/e724fd81-b6a6-43a2-b9ac-10cfe806f6fa-1789074881-0.webp",
+  "prompts": [
+    "kage/component--runwayml-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/runwayml-landing-page",
+  "product": "runwayml-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=header",
+    "search?q=responsive"
+  ],
+  "pageSha256": "ae81545a4752fdbac42d402959179cad778539497954158718e1f288b59df6e7"
+}

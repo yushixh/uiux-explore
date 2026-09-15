@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bunq-card-3",
+  "source": "kage",
+  "slug": "component--bunq-card-3",
+  "url": "https://kage.design/component/bunq-card-3",
+  "name": "Business banking feature by bunq.com",
+  "description": "The business section repeats the established pattern with a concise intro, wide CTA, and a large rounded portrait image, giving the page a recognizable modular rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bunq-com/4420c8b4-fa9d-40bf-a5d3-de95f2febdf1-1789146830-7.webp",
+  "prompts": [
+    "kage/component--bunq-card-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bunq-landing-page",
+  "product": "bunq-com",
+  "tags": [
+    "search?q=business",
+    "search?q=image",
+    "search?q=cta"
+  ],
+  "pageSha256": "4c18650c60d8d01f8ef60d2861b45978d6fb48e7f6f2ecddaf357c2fce924810"
+}

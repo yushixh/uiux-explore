@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--viso-now-hero",
+  "source": "kage",
+  "slug": "component--viso-now-hero",
+  "url": "https://kage.design/component/viso-now-hero",
+  "name": "Immersive AI workflow hero by Viso Now",
+  "description": "A cinematic, full-bleed hero combines a high-contrast headline with an interactive creation panel, making the product promise immediately actionable. Template cards beneath the panel provide fast-start examples while layered overlays preserve readability over motion or video backgrounds.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106574-0.webp",
+  "prompts": [
+    "kage/component--viso-now-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/viso-now-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=hero",
+    "search?q=video",
+    "search?q=upload",
+    "search?q=dark"
+  ],
+  "pageSha256": "43dd60528ba5340a23760d98d353b6596e24da37dc076f13ac9771d896d078ae"
+}

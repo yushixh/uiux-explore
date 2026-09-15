@@ -1,0 +1,48 @@
+e=>`/* Opening, choosing and committing are one gesture: press,
+   drag toward what you want, let go. No second tap, no travel
+   back to a menu that opened somewhere else.
+
+   A plain tap still works and leaves it open, because not
+   everyone will find the drag — but the drag is the point. */
+const move = (e) => {
+  const dx = e.clientX - origin.x, dy = e.clientY - origin.y;
+  if (Math.hypot(dx, dy) < 14) return setAim(null);  // still a tap
+  moved = true;
+  setAim(nearestByAngle(dx, dy));
+};
+
+const end = () => {
+  if (moved && aim !== null) commit(ARC[aim]);
+};
+
+/* The fan is polar, so placement is one declaration each —
+   --i is the option's index, set in markup, and CSS does the
+   trigonometry itself. */
+.fan-opt {
+  --spread: ${xy(Number(e.spread),0)}deg;
+  --radius: ${xy(Number(e.radius),0)}px;
+  --a: calc(-90deg - var(--spread) / 2
+            + var(--spread) / (var(--n) - 1) * var(--i));
+  transform: translate(calc(cos(var(--a)) * var(--radius)),
+                       calc(sin(var(--a)) * var(--radius)));
+  transition-delay: calc(var(--i) * ${xy(Number(e.stagger),0)}ms);
+}
+/* shut, they all sit under the core */
+.fan-arc:not([data-open]) .fan-opt {
+  transform: none;
+  scale: 0.4;
+  transition-delay: 0ms;
+}
+
+/* The radius is derived, not picked by eye. Neighbours sit
+   SPREAD/(n-1) apart, so the space between two circles is the
+   chord minus their diameter — and that is what ties the
+   three numbers together. */
+gap = 2 * RADIUS * Math.sin(step / 2) - SIZE;
+
+/* Which is why bigger AND closer needs a wider spread: at 132
+   degrees, 48px circles pulled in to a 68px radius overlap by
+   9. Opening the fan to a half circle buys back exactly the
+   room the shorter radius took away. */
+SPREAD 132, RADIUS 79.5, SIZE 42  ->  gap 3.2
+SPREAD 180, RADIUS 68,   SIZE 48  ->  gap 4.0`

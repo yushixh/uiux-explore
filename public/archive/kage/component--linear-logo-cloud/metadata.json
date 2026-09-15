@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--linear-logo-cloud",
+  "source": "kage",
+  "slug": "component--linear-logo-cloud",
+  "url": "https://kage.design/component/linear-logo-cloud",
+  "name": "Monochrome logo cloud by linear.app",
+  "description": "A restrained dark trust strip that uses generous horizontal spacing, monochrome brand marks, and a small supporting eyebrow to create credibility without competing with the main product message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789060207-2.webp",
+  "prompts": [
+    "kage/component--linear-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/linear-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=dark+mode",
+    "search?q=brand+grid",
+    "search?q=social+proof"
+  ],
+  "pageSha256": "974e5eed2ca5951ac1e1b3276b2865bc8a40f0e3fb2452d4254b6cb9bc27a37a"
+}

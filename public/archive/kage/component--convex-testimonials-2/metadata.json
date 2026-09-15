@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--convex-testimonials-2",
+  "source": "kage",
+  "slug": "component--convex-testimonials-2",
+  "url": "https://kage.design/component/convex-testimonials-2",
+  "name": "Founder credibility testimonials by convex.dev",
+  "description": "A dark, editorial testimonial section that builds trust through a strong proof-led headline and two compact expert profiles. The restrained palette, generous whitespace, and concise credentials make the people and their experience feel authoritative without relying on decorative UI.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789074851-6.webp",
+  "prompts": [
+    "kage/component--convex-testimonials-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/convex-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=dark+mode",
+    "search?q=editorial",
+    "search?q=trust"
+  ],
+  "pageSha256": "9daa62aff6f196d6db23a2293ff1e9af339fb87f9428f0540434de69a7026be1"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--cloudflare-og-image",
+  "source": "kage",
+  "slug": "designs--cloudflare-og-image",
+  "url": "https://kage.design/designs/cloudflare-og-image",
+  "name": "Cloudflare \"Start building\" Open Graph card by cloudflare.com",
+  "description": "A one-idea social card on a strict vertical axis: a small white cloud mark tops the frame, a fully rounded off-white capsule carries the two-word headline at dead centre, and a warm light glow rises from the bottom edge like a sunrise. The saturated orange field is enlivened by a faint repeating dot/glyph texture, so the background reads as designed rather than flat. All hierarchy comes from scale and value contrast — one bright capsule against one saturated field — with no supporting copy, URL or CTA to dilute the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cloudflare-com/aec27aec-0f8b-4c18-8486-51e2b3ce4474-1789213760824.webp",
+  "prompts": [
+    "kage/designs--cloudflare-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-og-image",
+  "product": "cloudflare-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=centered-composition",
+    "search?q=pill-capsule",
+    "search?q=glow",
+    "search?q=dot-texture",
+    "search?q=flat-colour",
+    "search?q=single-message"
+  ],
+  "pageSha256": "85e8b6f395b66defb2cdae88e5745e4575ee0b9eb0652f8d8091450e64305e7e"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--tryobra-og-image",
+  "source": "kage",
+  "slug": "designs--tryobra-og-image",
+  "url": "https://kage.design/designs/tryobra-og-image",
+  "name": "Obra dark OG social card by tryobra.com",
+  "description": "A 1200×630 dark social card built almost entirely from typography: a bold three-line headline mixes solid off-white, stroke-only outline text and orange emphasis words to create hierarchy within a single display face. Decorative concentric charcoal circles bleed off the right edge to balance the left-aligned text block, while the bottom row pairs monospace supporting copy on the left with a filled orange CTA and an outlined URL button on the right. The palette is strict — near-black, warm off-white, one saturated orange, one gray — and everything is flat, with no shadows or gradients outside the logo mark.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/tryobra-com/7e3a33a6-3112-4ca6-a829-1dce7cc55f6a-1789152038453.webp",
+  "prompts": [
+    "kage/designs--tryobra-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ynab-og-image",
+  "product": "tryobra-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=outline-text",
+    "search?q=wordmark",
+    "search?q=monospace",
+    "search?q=cta-buttons",
+    "search?q=concentric-circles",
+    "search?q=high-contrast"
+  ],
+  "pageSha256": "3142e3371aba3fd83167a1b947e7c8404d0162dfec9028eb6889f1a1946cfaa0"
+}

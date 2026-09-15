@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cortex-navigation",
+  "source": "kage",
+  "slug": "component--cortex-navigation",
+  "url": "https://kage.design/component/cortex-navigation",
+  "name": "Minimal dark navigation bar by Cortex",
+  "description": "A compact black header anchors the page with a wordmark, small status badge, centered navigation links, and a right-aligned primary action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cortex/48e48c32-4544-4e71-94d3-849a84be1bb9-1789279408-0.webp",
+  "prompts": [
+    "kage/component--cortex-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cortex-landing-page",
+  "product": "cortex",
+  "tags": [
+    "search?q=dark",
+    "search?q=minimal",
+    "search?q=header"
+  ],
+  "pageSha256": "8f759085c7b41caa93b145289231f6aabec2e31e1d3d4f023dfe5ad0d3376567"
+}

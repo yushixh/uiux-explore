@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--krea-landing-page",
+  "source": "kage",
+  "slug": "designs--krea-landing-page",
+  "url": "https://kage.design/designs/krea-landing-page",
+  "name": "Krea AI homepage — dark generative-media app landing by krea.ai",
+  "description": "A dark, app-style landing page where a permanent left sidebar (pinned white Sign-in pill, grouped tool list with colourful mini-icons) frames a starfield hero whose centrepiece is a conversational prompt bar rather than a traditional CTA. Below, the rhythm changes section by section: a full-width announcement banner, a dense bento of small feature tiles beside one large promo card, horizontally scrolled template and video-model cards with Featured/New pills and credit costs, then a quiet centred model gallery with search and tabs, and finally a dense multi-column sitemap footer. Hierarchy is carried by a few large light display headlines set against otherwise 12–13px utilitarian text, hairline borders and #141414 panels, with a single blue accent reserved for primary actions while media thumbnails supply the colour.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/krea-ai/7686b463-3bc3-4358-9bf2-528bb473cb81-1789146838280.webp",
+  "prompts": [
+    "kage/designs--krea-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "krea-ai",
+  "tags": [
+    "search?q=dark-ui",
+    "search?q=sidebar-navigation",
+    "search?q=prompt-input",
+    "search?q=bento-grid",
+    "search?q=media-cards",
+    "search?q=carousel",
+    "search?q=masonry-gallery",
+    "search?q=sitemap-footer"
+  ],
+  "pageSha256": "c0c07f88fb33faaf8256f7a93dfe6bad0395750d7274796162ed0f923ee0b7c1"
+}

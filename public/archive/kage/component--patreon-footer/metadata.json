@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--patreon-footer",
+  "source": "kage",
+  "slug": "component--patreon-footer",
+  "url": "https://kage.design/component/patreon-footer",
+  "name": "Multi-column utility footer by patreon.com",
+  "description": "A black footer organizes several navigation groups, app badges, locale and currency controls, social links, and legal/company details into a dense but scannable finish.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/patreon-com/f09b5697-c1c9-4600-81d4-e7bb56a9df3f-1789146383-8.webp",
+  "prompts": [
+    "kage/component--patreon-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/patreon-landing-page",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=links",
+    "search?q=localization",
+    "search?q=social",
+    "search?q=dark"
+  ],
+  "pageSha256": "48af5070413d6a04b94023213b7d03492fc48b89ed23d62acecd3b31e68c553a"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--planetscale-banner",
+  "source": "kage",
+  "slug": "component--planetscale-banner",
+  "url": "https://kage.design/component/planetscale-banner",
+  "name": "Announcement strip with inline CTA by planetscale.com",
+  "description": "A compact, high-contrast announcement bar uses centered monospace text and a small inline action to communicate a timely product update without competing with the page’s primary navigation or hero content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/planetscale-com/b4abfdd8-cd39-4289-8914-c1bd40d118b4-1789060671-0.webp",
+  "prompts": [
+    "kage/component--planetscale-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/planetscale-landing-page",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=announcement",
+    "search?q=banner",
+    "search?q=cta",
+    "search?q=utility"
+  ],
+  "pageSha256": "58e98b0c9926b22453a078a92aa1ea9d87fe38fa41858c2caf015f79e6ac6bcf"
+}

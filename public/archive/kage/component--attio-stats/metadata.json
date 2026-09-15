@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--attio-stats",
+  "source": "kage",
+  "slug": "component--attio-stats",
+  "url": "https://kage.design/component/attio-stats",
+  "name": "Scale-proof stats section by attio.com",
+  "description": "A spacious, editorial metrics block that pairs a confident scale statement with a restrained two-by-two stat grid and a subtle upward growth curve. The light technical backdrop adds infrastructure credibility without competing with the numbers.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060460-7.webp",
+  "prompts": [
+    "kage/component--attio-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=metrics",
+    "search?q=growth",
+    "search?q=editorial"
+  ],
+  "pageSha256": "b93593ebef19ddbc83ac7d51ea284b832a1fc4648b547f564fd711f4c3a6b2dd"
+}

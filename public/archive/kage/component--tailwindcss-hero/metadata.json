@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tailwindcss-hero",
+  "source": "kage",
+  "slug": "component--tailwindcss-hero",
+  "url": "https://kage.design/component/tailwindcss-hero",
+  "name": "Editorial utility-first hero by tailwindcss.com",
+  "description": "A high-impact, typography-led hero combines an oversized statement, compact supporting copy, and paired action controls above a code-preview visual. Fine grid lines and restrained borders give the section a technical, editorial character without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tailwindcss-com/8ea80760-a5bd-4198-8781-a7bb4737c216-1789073866-1.webp",
+  "prompts": [
+    "kage/component--tailwindcss-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tailwindcss-landing-page",
+  "product": "tailwindcss-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=typography",
+    "search?q=cta",
+    "search?q=developer"
+  ],
+  "pageSha256": "4e294c39217205a6b3a09dd015b92cdbe6d4f3074a9ccbd41e5bb5f7d11f9edd"
+}

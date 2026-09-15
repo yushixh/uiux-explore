@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--cursor-empty-state",
+  "source": "kage",
+  "slug": "designs--cursor-empty-state",
+  "url": "https://kage.design/designs/cursor-empty-state",
+  "name": "Cursor coding agent landing page by cursor.com",
+  "description": "A restrained developer-tools landing page uses a wide, low-contrast header and a large open hero field to make the concise product statement carry the hierarchy. Black and soft gray pill buttons create clear action priority, while the oversized desktop-app screenshot introduces visual density and a warm photographic backdrop below the fold.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cursor-com/5392efee-9a9c-40ed-b07e-39a30ea372bb-1789072662881.webp",
+  "prompts": [
+    "kage/designs--cursor-empty-state/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resend-empty-state",
+  "product": "cursor-com",
+  "tags": [
+    "search?q=wide+navigation",
+    "search?q=hero+statement",
+    "search?q=pill+buttons",
+    "search?q=product+screenshot",
+    "search?q=airy+layout",
+    "search?q=neutral+palette"
+  ],
+  "pageSha256": "ff76d55e483e69f4b45b4cb84aa5f6c946d0791fb821760299dd59d5c18ef711"
+}

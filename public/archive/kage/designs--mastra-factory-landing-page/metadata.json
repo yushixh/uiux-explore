@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--mastra-factory-landing-page",
+  "source": "kage",
+  "slug": "designs--mastra-factory-landing-page",
+  "url": "https://kage.design/designs/mastra-factory-landing-page",
+  "name": "Mastra Factory — agent-powered software delivery landing page by Mastra Factory",
+  "description": "A near-black developer landing page that argues with rendered product artefacts rather than adjectives: after a ring-motif hero it shows an in-page four-column kanban of agent-processed issues, then a monospace-labelled six-stage pipeline stepper. Hierarchy is built almost entirely from type scale and grey value, with colour rationed to meaning — one orange ribbon announcement, a green glow on the recommended plan, a blue tint on enterprise, a violet pill for the active stage. Rhythm alternates airy centred blocks (hero, final CTA) with dense rounded panels (board, stepper, pricing, case studies, FAQ, footer), closing by repeating the hero's exact CTA pair.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/mastra-factory/e98dc23c-cafd-4086-ae60-932f10b41f0f-1789106602769.webp",
+  "prompts": [
+    "kage/designs--mastra-factory-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "mastra-factory",
+  "tags": [
+    "search?q=dark-theme",
+    "search?q=kanban-mockup",
+    "search?q=pipeline-stepper",
+    "search?q=monospace-accents",
+    "search?q=pricing-cards",
+    "search?q=gradient-glow",
+    "search?q=faq-accordion",
+    "search?q=radial-rings"
+  ],
+  "pageSha256": "285b1c33ebda58825711cd94496cbbacda4494d1c41c960f7802011029528122"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--elevenlabs-feature-grid",
+  "source": "kage",
+  "slug": "component--elevenlabs-feature-grid",
+  "url": "https://kage.design/component/elevenlabs-feature-grid",
+  "name": "Dual-platform feature showcase by elevenlabs.io",
+  "description": "This section works by pairing a concise two-column product overview with a large, softly framed interface preview, making the relationship between two offerings immediately legible. Strong typographic hierarchy, generous whitespace, and a restrained neutral palette keep attention on the product surfaces rather than decorative treatment.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060951-3.webp",
+  "prompts": [
+    "kage/component--elevenlabs-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=product-platform",
+    "search?q=split-layout",
+    "search?q=saas"
+  ],
+  "pageSha256": "ab3e8794906e6e33a2c9f6cd1f6dfaa6aa8eb9b30543926890e87b9f95f0fdc1"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-faq",
+  "source": "kage",
+  "slug": "component--hob-faq",
+  "url": "https://kage.design/component/hob-faq",
+  "name": "Editorial FAQ accordion by hob",
+  "description": "A spacious, full-width FAQ section that uses strong typography, fine dividers, and minimal plus controls to make a long list feel calm and scannable. A centered conversion block beneath the questions provides a clear next step without competing with the content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106504-9.webp",
+  "prompts": [
+    "kage/component--hob-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=editorial",
+    "search?q=conversion"
+  ],
+  "pageSha256": "16df2d6ef23a69353ba30a34113c7eaf3dfa9c2062c904be3a506dd075614921"
+}

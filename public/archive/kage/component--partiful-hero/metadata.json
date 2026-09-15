@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--partiful-hero",
+  "source": "kage",
+  "slug": "component--partiful-hero",
+  "url": "https://kage.design/component/partiful-hero",
+  "name": "Photography-led event creation hero by partiful.com",
+  "description": "A full-width photographic hero uses a blue-purple gradient overlay, oversized two-line headline, rating badge, supporting copy, and a single creation CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/partiful-com/97ae038c-0277-4e29-93fa-45b4a481f7ba-1789146242-1.webp",
+  "prompts": [
+    "kage/component--partiful-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/partiful-landing-page",
+  "product": "partiful-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=events",
+    "search?q=cta"
+  ],
+  "pageSha256": "72cb8013e0f9cc1d7fbe55deb565965335a387bb8bce2e27c38a7a05c3b19004"
+}

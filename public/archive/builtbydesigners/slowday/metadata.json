@@ -1,0 +1,22 @@
+{
+  "id": "slowday",
+  "name": "Slowday",
+  "description": "A social city-discovery app that turns Instagram, TikTok and Google Maps links into saved places, building a personal map shaped by curators whose taste you trust.",
+  "shortInfo": "Turn social finds into a map of places",
+  "url": "https://apps.apple.com/gb/app/slowday/id6760734966",
+  "handle": "nayli_ai",
+  "creatorName": "Nayli",
+  "creatorUrl": "https://x.com/nayli_ai",
+  "creatorVerified": true,
+  "platform": "Mobile",
+  "categoryLabel": "Lifestyle",
+  "categories": [
+    "Lifestyle"
+  ],
+  "launchDate": "2026-04-24",
+  "added": "2026-08-31",
+  "sortOrder": 3,
+  "icon": "/backend/icons/slowday.webp",
+  "avatar": "/backend/avatars/slowday.jpg",
+  "shot": "/screenshots/slowday.png"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--live-captions-by-subanana-og-image",
+  "source": "kage",
+  "slug": "designs--live-captions-by-subanana-og-image",
+  "url": "https://kage.design/designs/live-captions-by-subanana-og-image",
+  "name": "Live Captions social share card by Live Captions by Subanana",
+  "description": "A 1200×630 share card built like a sticker sheet: a warm amber canvas with large organic blob shapes, a left column carrying a die-cut logo badge, a three-line heavy headline outlined in white, and a yellow CTA pill. The right two-thirds is a hand-tilted collage of four pastel mini product surfaces — lavender, cream, pink and mint — each packed with one realistic detail such as a live caption with a blinking cursor, a captioned video frame, meeting notes and a transcript search. Thick white sticker borders, varied rotations and soft shadows unify the collage so the card still reads at chat-thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/live-captions-by-subanana/8ebceaf8-6b56-49c6-8bb9-55b8185780eb-1789106571095.webp",
+  "prompts": [
+    "kage/designs--live-captions-by-subanana-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/descript-og-image",
+  "product": "live-captions-by-subanana",
+  "tags": [
+    "search?q=og-image",
+    "search?q=sticker-style",
+    "search?q=collage",
+    "search?q=blob-shapes",
+    "search?q=pastel-cards",
+    "search?q=cta-pill",
+    "search?q=social-card"
+  ],
+  "pageSha256": "2c29c3199a42936eb53a043646400c85c160483599a0943df5a932f720603bcf"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--railway-stats",
+  "source": "kage",
+  "slug": "component--railway-stats",
+  "url": "https://kage.design/component/railway-stats",
+  "name": "Dark multi-column footer with status bar by railway.com",
+  "description": "A dense, editorial footer that balances promotional cards with grouped navigation links, compliance marks, and a quiet operational status bar. The restrained palette, strong column rhythm, and small utility details make a large amount of information feel organized rather than overwhelming.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/railway-com/2043945d-689d-427f-b51d-92aa383b8c92-1789060665-8.webp",
+  "prompts": [
+    "kage/component--railway-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/railway-landing-page",
+  "product": "railway-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=status",
+    "search?q=dark-ui"
+  ],
+  "pageSha256": "01d3470b9d19bdc6e9f6b8509ef26eccf9dce9254e04fa40a614c112baa55da3"
+}

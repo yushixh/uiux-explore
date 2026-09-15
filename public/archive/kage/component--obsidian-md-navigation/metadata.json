@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--obsidian-md-navigation",
+  "source": "kage",
+  "slug": "component--obsidian-md-navigation",
+  "url": "https://kage.design/component/obsidian-md-navigation",
+  "name": "Dark utility navigation bar by obsidian.md",
+  "description": "This navigation works through restrained contrast, generous horizontal spacing, and a clear split between primary product destinations and utility/account actions. A compact language control adds functionality without competing with the brand or main navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/obsidian-md/18ba00bf-73a3-4c61-9eb0-f66f69cff1b6-1789060832-0.webp",
+  "prompts": [
+    "kage/component--obsidian-md-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/obsidian-md-landing-page",
+  "product": "obsidian-md",
+  "tags": [
+    "search?q=navbar",
+    "search?q=dark-mode",
+    "search?q=saas",
+    "search?q=responsive"
+  ],
+  "pageSha256": "88d8b9d4a1e541a9d67de8641b0ade1b4ca41e116225200c059b43909a7130ad"
+}

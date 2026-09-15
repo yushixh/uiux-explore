@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--tearing-paper-photo",
+  "source": "vantaui",
+  "slug": "explore--components--tearing-paper-photo",
+  "url": "https://www.vantaui.com/explore/components/tearing-paper-photo",
+  "name": "Tearing Paper Photo - VantaUI",
+  "description": "Photo gallery with tearing animation on photo swipe",
+  "image": "https://vantaui-registry.vercel.app/components/tearing-paper-photo",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "8e57003ecca6cc577c0697edc29061b4ad95e0b4af093dbd4f03b56fdb793f87"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--attio-feature-grid",
+  "source": "kage",
+  "slug": "component--attio-feature-grid",
+  "url": "https://kage.design/component/attio-feature-grid",
+  "name": "Editorial product feature grid by attio.com",
+  "description": "A spacious, editorial feature section that combines a strong typographic introduction with a persistent category rail and large product UI showcases. Alternating full-width demonstrations and two-column supporting cards create a clear narrative while the restrained grid, subtle borders, and muted interface colours keep the focus on the product.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060458-3.webp",
+  "prompts": [
+    "kage/component--attio-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=saas",
+    "search?q=product-ui"
+  ],
+  "pageSha256": "0d638f1484697b15b72bd24589783afd8a784499776085283184ef6f07c02d24"
+}

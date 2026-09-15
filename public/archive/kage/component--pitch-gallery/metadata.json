@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--pitch-gallery",
+  "source": "kage",
+  "slug": "component--pitch-gallery",
+  "url": "https://kage.design/component/pitch-gallery",
+  "name": "FAQ accordion on a bold color field by pitch.com",
+  "description": "This FAQ section works through strong contrast, a focused single-column layout, and large pill-shaped question rows that make the interaction obvious. Consistent spacing and a high-contrast circular expand control keep the component easy to scan while preserving a playful, premium feel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/pitch-com/6703b162-6073-44e6-a626-e3df0dc35c4b-1789060650-9.webp",
+  "prompts": [
+    "kage/component--pitch-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/pitch-landing-page",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=dark-mode",
+    "search?q=saas"
+  ],
+  "pageSha256": "62f40ba9bba076017fbaf37615a10c5029dae73a208466080884ec3d510f4dd2"
+}

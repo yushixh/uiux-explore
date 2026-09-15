@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--raycast-testimonials",
+  "source": "kage",
+  "slug": "component--raycast-testimonials",
+  "url": "https://kage.design/component/raycast-testimonials",
+  "name": "Dark feature testimonial cards by raycast.com",
+  "description": "A restrained dark-mode testimonial section that pairs compact customer proof with large, quiet feature panels. The high-contrast quote treatment, muted metadata, and thin outlined cards make the content feel credible without overpowering the surrounding product story.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067517-5.webp",
+  "prompts": [
+    "kage/component--raycast-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=dark+mode",
+    "search?q=feature+cards",
+    "search?q=saas"
+  ],
+  "pageSha256": "75b4f2ff04e1f026d6f37304a810782166ce86b0de30dcd23f8b2cc2f5303f25"
+}

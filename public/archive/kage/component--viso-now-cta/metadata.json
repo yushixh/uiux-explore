@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--viso-now-cta",
+  "source": "kage",
+  "slug": "component--viso-now-cta",
+  "url": "https://kage.design/component/viso-now-cta",
+  "name": "Dark gradient conversion CTA by Viso Now",
+  "description": "A high-contrast, editorial CTA that uses a dark atmospheric panel, oversized left-aligned headline, restrained supporting copy, and a two-button action row. The vivid primary button and muted secondary action create a clear conversion hierarchy without visual clutter.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106577-8.webp",
+  "prompts": [
+    "kage/component--viso-now-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/viso-now-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=cta",
+    "search?q=dark",
+    "search?q=gradient",
+    "search?q=conversion"
+  ],
+  "pageSha256": "54c6515cca1a45c36b8547e1900f21d8cbb38de5986878efabb34fbafc4e003d"
+}

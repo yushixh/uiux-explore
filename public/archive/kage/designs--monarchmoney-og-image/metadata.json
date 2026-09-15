@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--monarchmoney-og-image",
+  "source": "kage",
+  "slug": "designs--monarchmoney-og-image",
+  "url": "https://kage.design/designs/monarchmoney-og-image",
+  "name": "Monarch financial dashboard social card by monarchmoney.com",
+  "description": "A 1200×630 social card uses a warm off-white canvas with the Monarch wordmark centered near the top, leaving the lower two-thirds for a large desktop finance dashboard mockup and an overlapping smartphone. The focal hierarchy moves from the restrained black-and-orange wordmark to the dense product preview; rounded device frames, fine gray UI text, and colorful cash-flow bands provide detail without changing the clean editorial composition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/monarchmoney-com/c36b4f9b-2eea-41d5-b467-be7ac7c2ecc4-1789146547872.webp",
+  "prompts": [
+    "kage/designs--monarchmoney-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=wordmark",
+    "search?q=product-preview",
+    "search?q=dashboard-mockup",
+    "search?q=device-frame",
+    "search?q=financial-ui"
+  ],
+  "pageSha256": "b7832ba60f3314412aa8f62f635cdc4a0d6116282ffbea364d78ddd591c6ea98"
+}

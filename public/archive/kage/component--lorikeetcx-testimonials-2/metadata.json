@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-testimonials-2",
+  "source": "kage",
+  "slug": "component--lorikeetcx-testimonials-2",
+  "url": "https://kage.design/component/lorikeetcx-testimonials-2",
+  "name": "Real stories carousel by lorikeetcx.ai",
+  "description": "A strong centered heading introduces a horizontally arranged testimonial carousel, with the middle card emphasized and coloured light trails adding motion and focus.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142171-10.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-testimonials-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=stories",
+    "search?q=carousel",
+    "search?q=results"
+  ],
+  "pageSha256": "e38140393fe3a4f5ba5dafd61a3a560116c7e6ccbf529b0a7920ae3a9e913af9"
+}

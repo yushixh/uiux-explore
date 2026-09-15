@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--hob-logo-cloud",
+  "source": "kage",
+  "slug": "component--hob-logo-cloud",
+  "url": "https://kage.design/component/hob-logo-cloud",
+  "name": "Supported agent providers by hob",
+  "description": "A small centered caption introduces a six-item horizontal row of pale provider tiles, establishing compatibility without visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106502-2.webp",
+  "prompts": [
+    "kage/component--hob-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=providers",
+    "search?q=logos",
+    "search?q=trust"
+  ],
+  "pageSha256": "377c169548249724a34d4fd5801f78bffef4759fc75eba89792af128632e426d"
+}

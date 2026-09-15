@@ -1,0 +1,22 @@
+{
+  "id": "djr-glyphs",
+  "name": "DJR Glyphs",
+  "description": "An interactive navigator through David Jonathan Ross’s type library for browsing individual glyphs across families, characters and variable-font instances, with links to each typeface.",
+  "shortInfo": "Every DJR glyph in one place",
+  "url": "https://glyphs.djr.com/",
+  "handle": "nickisnoble",
+  "creatorName": "Nick",
+  "creatorUrl": "https://x.com/nickisnoble",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-02-10",
+  "added": "2026-08-18",
+  "sortOrder": 4,
+  "icon": "/backend/icons/djr-glyphs.png",
+  "avatar": "/backend/avatars/djr-glyphs.jpg",
+  "shot": "/screenshots/djr-glyphs.png"
+}

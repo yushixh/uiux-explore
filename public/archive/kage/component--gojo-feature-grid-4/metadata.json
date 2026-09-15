@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--gojo-feature-grid-4",
+  "source": "kage",
+  "slug": "component--gojo-feature-grid-4",
+  "url": "https://kage.design/component/gojo-feature-grid-4",
+  "name": "Alternating feature showcase by Gojo",
+  "description": "A calm, editorial feature section pairs a compact product preview with a clearly structured text block. A small eyebrow, strong headline, supporting copy, and bordered benefit rows make the value easy to scan without overwhelming the visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106543-5.webp",
+  "prompts": [
+    "kage/component--gojo-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=product-ui",
+    "search?q=split-layout",
+    "search?q=responsive",
+    "search?q=saas"
+  ],
+  "pageSha256": "7787dbe477f3e7997ed3e475ad00ee4539e17276ea1ee426d2162ef939a8bc2b"
+}

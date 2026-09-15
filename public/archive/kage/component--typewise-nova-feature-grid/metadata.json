@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--typewise-nova-feature-grid",
+  "source": "kage",
+  "slug": "component--typewise-nova-feature-grid",
+  "url": "https://kage.design/component/typewise-nova-feature-grid",
+  "name": "Controlled AI feature showcase by Typewise Nova",
+  "description": "A dark, editorial feature section pairs a restrained product interaction preview with a three-part value narrative. The bright blue middle statement creates hierarchy and the centered link gives the section a clear next step without adding visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/typewise-nova/b4948f23-79f3-4392-9236-ca27a7b6b602-1789106477-4.webp",
+  "prompts": [
+    "kage/component--typewise-nova-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/typewise-nova-landing-page",
+  "product": "typewise-nova",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=ai-workflow",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "5b8c42db8a0e0a99e9e4dcc6cd4e9ad238c0002f1f1d5dfca5812595d3c7a050"
+}

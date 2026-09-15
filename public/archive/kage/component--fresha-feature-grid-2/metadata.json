@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-feature-grid-2",
+  "source": "kage",
+  "slug": "component--fresha-feature-grid-2",
+  "url": "https://kage.design/component/fresha-feature-grid-2",
+  "name": "New listings by fresha.com",
+  "description": "A second compact listing rail repeats the card pattern for newly added businesses and creates clear content grouping through whitespace and heading hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146192-3.webp",
+  "prompts": [
+    "kage/component--fresha-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=new",
+    "search?q=directory",
+    "search?q=carousel"
+  ],
+  "pageSha256": "9aff38df237b9d9e3ebd23b9650fc739a113cadb9daae40b518979d77a4f7bc6"
+}

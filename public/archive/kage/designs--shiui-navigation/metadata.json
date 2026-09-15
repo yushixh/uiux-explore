@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--shiui-navigation",
+  "source": "kage",
+  "slug": "designs--shiui-navigation",
+  "url": "https://kage.design/designs/shiui-navigation",
+  "name": "SHIUI Hinomaru Ink UI kit catalogue by SHIUI",
+  "description": "A long-form component catalogue uses an off-white paper ground, hairline gray rules, condensed uppercase metadata, and a restrained vermilion accent to evoke a printed Japanese editorial system. The page moves from a framed hero and token swatches into increasingly dense two-column specimen grids: buttons and tags, forms, navigation, feedback, data, overlays, cards, marks, and charts, with each specimen boxed, labeled, and annotated for reuse.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/shiui/3111a107-5e9b-4487-9176-525a4b4c448a-1789365713368.webp",
+  "prompts": [
+    "kage/designs--shiui-navigation/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "shiui",
+  "tags": [
+    "search?q=component-catalogue",
+    "search?q=japanese-editorial",
+    "search?q=thin-borders",
+    "search?q=two-column-grid",
+    "search?q=ink-red-accent",
+    "search?q=dense-library",
+    "search?q=utility-labels"
+  ],
+  "pageSha256": "f633771841fad59885761a841015dc35e20b9d4058045641c858491e475356e5"
+}

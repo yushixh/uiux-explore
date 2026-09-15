@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--linear-navigation",
+  "source": "kage",
+  "slug": "component--linear-navigation",
+  "url": "https://kage.design/component/linear-navigation",
+  "name": "Minimal dark product navigation by linear.app",
+  "description": "A restrained, single-row navigation bar that balances a strong brand anchor with low-contrast utility links and one high-contrast account action. Generous horizontal spacing, a subtle divider, and a compact login/sign-up grouping make the header feel calm, premium, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789060206-0.webp",
+  "prompts": [
+    "kage/component--linear-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/linear-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=navigation",
+    "search?q=dark+ui",
+    "search?q=saas",
+    "search?q=header"
+  ],
+  "pageSha256": "f3c1a6e9638d0523630c77bee2518abc1dfd07d172beb32d6d6b157f33161f14"
+}

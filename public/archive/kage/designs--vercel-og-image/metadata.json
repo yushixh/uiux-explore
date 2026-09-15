@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--vercel-og-image",
+  "source": "kage",
+  "slug": "designs--vercel-og-image",
+  "url": "https://kage.design/designs/vercel-og-image",
+  "name": "Dark Vercel social card by vercel.com",
+  "description": "A 1200×630 social card uses an almost-black canvas with a centered, oversized black triangular mark as the sole focal point. A restrained gray-white halo separates the geometric silhouette from the background, while the absence of headline, wordmark, and supporting copy creates a stark, highly recognizable composition with extreme negative space.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/vercel-com/e389b343-d49a-4acf-bb7d-6cfa471f4d3d-1789059982633.webp",
+  "prompts": [
+    "kage/designs--vercel-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-og-image",
+  "product": "vercel-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=centered-mark",
+    "search?q=high-contrast",
+    "search?q=soft-glow",
+    "search?q=negative-space",
+    "search?q=monochrome"
+  ],
+  "pageSha256": "4ccd74da835240511f8483b79ed101c23f6f7d45eea541af493c5d00815d2c4f"
+}

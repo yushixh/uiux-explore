@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bun-feature-grid-2",
+  "source": "kage",
+  "slug": "component--bun-feature-grid-2",
+  "url": "https://kage.design/component/bun-feature-grid-2",
+  "name": "Production proof feature grid by bun.sh",
+  "description": "A restrained editorial section that pairs a strong product-in-production headline with a concise intro and a three-column set of proof cards. Video thumbnails, testimonial metadata, clear hierarchy, and action buttons make customer evidence easy to scan while preserving a technical, high-contrast brand feel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073823-4.webp",
+  "prompts": [
+    "kage/component--bun-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=testimonials",
+    "search?q=video-cards",
+    "search?q=developer"
+  ],
+  "pageSha256": "ab38ada346dc2a8190b233773915f1528b9a060e569f54fa8620aae7a5af44ad"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--supabase-testimonials",
+  "source": "kage",
+  "slug": "component--supabase-testimonials",
+  "url": "https://kage.design/component/supabase-testimonials",
+  "name": "Community testimonial stream by supabase.com",
+  "description": "A centered community invitation is paired with a low, horizontally flowing field of staggered testimonial cards. The generous whitespace, restrained type, and subtle card borders keep the section editorial and credible while the varied card heights create an energetic social-feed rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/supabase-com/b03f69f9-4b47-487d-8f2b-17d7cd19e877-1789060353-6.webp",
+  "prompts": [
+    "kage/component--supabase-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/supabase-landing-page",
+  "product": "supabase-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=community",
+    "search?q=social-proof",
+    "search?q=masonry"
+  ],
+  "pageSha256": "f32be584e146a3e65ab7685930cd378298a0650402c0939e4458360e75a1faec"
+}

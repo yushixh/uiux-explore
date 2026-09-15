@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--gojo-feature-grid-5",
+  "source": "kage",
+  "slug": "component--gojo-feature-grid-5",
+  "url": "https://kage.design/component/gojo-feature-grid-5",
+  "name": "Editorial feature split by Gojo",
+  "description": "This feature section works through a restrained two-column composition: concise editorial copy and scannable detail rows sit opposite a contained product visual. Generous whitespace, fine dividers, and a small category label make the capability feel clear, premium, and easy to compare with adjacent features.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106543-6.webp",
+  "prompts": [
+    "kage/component--gojo-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=productivity",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "01358dc3af00c6bf582437214eb8fc018a7d3b4aa9809130948892427f1b55dd"
+}

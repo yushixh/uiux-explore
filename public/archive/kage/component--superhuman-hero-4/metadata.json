@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--superhuman-hero-4",
+  "source": "kage",
+  "slug": "component--superhuman-hero-4",
+  "url": "https://kage.design/component/superhuman-hero-4",
+  "name": "Centered product hero with preview by superhuman.com",
+  "description": "A spacious, center-aligned SaaS hero pairs a strong two-line headline and supporting copy with a compact primary/secondary CTA row. A large rounded product preview anchors the section below, using a muted surface and layered interface cards to make the promise tangible without overwhelming the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060756-8.webp",
+  "prompts": [
+    "kage/component--superhuman-hero-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=product-preview",
+    "search?q=cta"
+  ],
+  "pageSha256": "128e36bd6a27cf63bf815b0f4e16c43b451b9fb36f920e44f769667b4337399d"
+}

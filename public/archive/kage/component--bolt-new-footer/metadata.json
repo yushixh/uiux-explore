@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--bolt-new-footer",
+  "source": "kage",
+  "slug": "component--bolt-new-footer",
+  "url": "https://kage.design/component/bolt-new-footer",
+  "name": "Dark split-call-to-action footer by bolt.new",
+  "description": "This footer works by pairing a compact, high-contrast build CTA with a spacious navigation area below. Restrained typography, faint surfaces, generous whitespace, and a nearly hidden oversized typographic texture create a premium developer-tool finish without competing with the links.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bolt-new/4e91875d-336e-4c47-bec8-8771acd62040-1789073975-6.webp",
+  "prompts": [
+    "kage/component--bolt-new-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bolt-new-landing-page",
+  "product": "bolt-new",
+  "tags": [
+    "search?q=dark+mode",
+    "search?q=footer",
+    "search?q=cta",
+    "search?q=link+columns",
+    "search?q=responsive"
+  ],
+  "pageSha256": "0e081af7c99ab353fb0ba5ae42b614a1310f6550f58d07a3022058cc0d423d58"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-table",
+  "source": "kage",
+  "slug": "component--trigger-table",
+  "url": "https://kage.design/component/trigger-table",
+  "name": "Dark feature matrix table by trigger.dev",
+  "description": "A restrained dark-mode feature matrix that turns a long list of capabilities into an easily scan-able three-column grid. Subtle row surfaces, tight spacing, and low-contrast borders create structure without competing with the surrounding product sections.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073777-7.webp",
+  "prompts": [
+    "kage/component--trigger-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=feature+matrix",
+    "search?q=dense+layout",
+    "search?q=saas"
+  ],
+  "pageSha256": "60963ee0099bd2ebf54bf825958c813e93a6c0efb77bab1a6430bf9dffb0387c"
+}

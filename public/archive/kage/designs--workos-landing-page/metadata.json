@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--workos-landing-page",
+  "source": "kage",
+  "slug": "designs--workos-landing-page",
+  "url": "https://kage.design/designs/workos-landing-page",
+  "name": "WorkOS enterprise infrastructure landing page by workos.com",
+  "description": "A spacious enterprise SaaS landing page uses a white canvas, oversized dark typography, and purple-to-blue gradient accents to establish hierarchy without visual clutter. The page moves from a compact hero and customer logo wall into alternating product capability sections, then shifts dramatically to a navy developer/API panel before returning to airy integration, admin, video, testimonial, and footer sections; soft shadows, pale lavender surfaces, rounded product mockups, and small line icons keep the technical content approachable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/workos-com/c1ef5d6b-8620-4482-aad7-47f439cf35f9-1789073673776.webp",
+  "prompts": [
+    "kage/designs--workos-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/clerk-landing-page",
+  "product": "workos-com",
+  "tags": [
+    "search?q=enterprise-saas",
+    "search?q=gradient-headlines",
+    "search?q=feature-grids",
+    "search?q=developer-api",
+    "search?q=logo-wall",
+    "search?q=testimonial",
+    "search?q=dark-code-section",
+    "search?q=soft-shadows"
+  ],
+  "pageSha256": "764414ed671087db944596e0c152913a6d8b282625eaf388b599745989f88f05"
+}

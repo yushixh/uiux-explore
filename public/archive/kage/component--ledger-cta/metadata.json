@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ledger-cta",
+  "source": "kage",
+  "slug": "component--ledger-cta",
+  "url": "https://kage.design/component/ledger-cta",
+  "name": "Decision-making app CTA by ledger.com",
+  "description": "After a large breathing space, a focused content block reframes the product around informed decisions and ends with one clear app action. The simplicity gives the CTA authority.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ledger-com/abaab959-f9d6-43c3-8f0c-09f584ac8799-1789146872-7.webp",
+  "prompts": [
+    "kage/component--ledger-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=app",
+    "search?q=education"
+  ],
+  "pageSha256": "abfcec0636ee9005cdd8da442456e90fc31228b4063fb1a3492af2fb237fc731"
+}

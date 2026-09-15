@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--gojo-og-image",
+  "source": "kage",
+  "slug": "designs--gojo-og-image",
+  "url": "https://kage.design/designs/gojo-og-image",
+  "name": "Gojo social card by Gojo",
+  "description": "A 1200×630 social card uses a heavily blurred, warm-toned background image as an atmospheric full-bleed canvas, with amber, rust, olive and charcoal areas blending into one another. The focal stack is centered: a white abstract mark sits above a large rounded wordmark, followed by a smaller one-line tagline; generous vertical spacing and strong white contrast keep the hierarchy legible over the soft imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/gojo/b8bdefc3-72ca-40c4-856d-cd1d7c8a47a7-1789106501135.webp",
+  "prompts": [
+    "kage/designs--gojo-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-og-image",
+  "product": "gojo",
+  "tags": [
+    "search?q=social-card",
+    "search?q=centered-composition",
+    "search?q=blurred-background",
+    "search?q=high-contrast-type",
+    "search?q=soft-gradient",
+    "search?q=wordmark"
+  ],
+  "pageSha256": "e3b077fcc1966d8c7ec7cc39cda06be6adf87eaae80fc59ea794aa22578bc92e"
+}

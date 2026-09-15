@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chime-feature-grid-2",
+  "source": "kage",
+  "slug": "component--chime-feature-grid-2",
+  "url": "https://kage.design/component/chime-feature-grid-2",
+  "name": "Two-card product benefits by chime.com",
+  "description": "Two equal-height rounded green cards present separate benefits with prominent visual areas above concise copy and CTAs. The repeated structure makes the offerings easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146541-3.webp",
+  "prompts": [
+    "kage/component--chime-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chime-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=cards",
+    "search?q=benefits",
+    "search?q=security"
+  ],
+  "pageSha256": "124f466af1706877d99a5ed8f6553c609c53f3e135d7fb9c431c43b6337b9ecc"
+}

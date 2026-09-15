@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--neon-navigation",
+  "source": "kage",
+  "slug": "component--neon-navigation",
+  "url": "https://kage.design/component/neon-navigation",
+  "name": "Announcement bar and primary navigation by neon.tech",
+  "description": "A thin product announcement sits above a compact dark navigation bar. The navigation balances a left brand mark, center product links, and right-side community and authentication actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neon-tech/ec270806-81ac-4f67-8b23-bd56e790768f-1789141960-0.webp",
+  "prompts": [
+    "kage/component--neon-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neon-empty-state",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=dark",
+    "search?q=sticky",
+    "search?q=utility",
+    "search?q=actions"
+  ],
+  "pageSha256": "bfcc39fb91f3a01379dbdd6f2354851c5447c763f7347a54a434ffbe0ed59a1d"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--termsquad-landing-page",
+  "source": "kage",
+  "slug": "designs--termsquad-landing-page",
+  "url": "https://kage.design/designs/termsquad-landing-page",
+  "name": "Termsquad cloud computer landing page by termsquad.com",
+  "description": "A dark, highly structured infrastructure landing page uses oversized white and muted-gray headlines, thin borders, and restrained green status accents to frame product UI demonstrations. After the hero, the page moves through increasingly concrete proof: persistent-session and agent-squad diagrams, shared-memory messaging, a four-card capability grid, pricing, FAQ, and a green-tinted final CTA; generous vertical gaps separate sections while bordered panels create denser focal areas.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/termsquad-com/d12b8131-9740-4063-aef8-780525dfffce-1789166917198.webp",
+  "prompts": [
+    "kage/designs--termsquad-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=product-ui",
+    "search?q=feature-sections",
+    "search?q=pricing-cards",
+    "search?q=faq-accordion",
+    "search?q=green-accent",
+    "search?q=terminal-interface",
+    "search?q=persistent-sessions"
+  ],
+  "pageSha256": "f41764c2aacae8806025ba6f97a984e0a507354e17b5210870551d28109c0db4"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--together-hero",
+  "source": "kage",
+  "slug": "component--together-hero",
+  "url": "https://kage.design/component/together-hero",
+  "name": "AI-native platform hero by together.ai",
+  "description": "A spacious, editorial hero pairs a bold two-line statement with a soft blue atmospheric background and an abstract technical visual. Strong contrast, compact CTAs, utility navigation, and a restrained trust strip make the section feel credible, modern, and conversion-focused without overwhelming the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/together-ai/60591018-8706-471e-a3f2-ad3109f52987-1789073939-1.webp",
+  "prompts": [
+    "kage/component--together-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/together-landing-page",
+  "product": "together-ai",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=gradient",
+    "search?q=navigation",
+    "search?q=cta"
+  ],
+  "pageSha256": "104583ba70ff0a0770916f15749fe427e895f42f79e1f969030573f860cd0005"
+}

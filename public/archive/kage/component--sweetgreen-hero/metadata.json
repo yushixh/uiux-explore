@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--sweetgreen-hero",
+  "source": "kage",
+  "slug": "component--sweetgreen-hero",
+  "url": "https://kage.design/component/sweetgreen-hero",
+  "name": "Seasonal campaign hero by sweetgreen.com",
+  "description": "A full-width, image-led seasonal hero creates strong emotional impact with a dark berry gradient, oversized editorial headline, and a bright order button anchored in the lower-left content area.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sweetgreen-com/33a74ca8-f609-4778-a60f-a45f3e4cc9aa-1789146472-1.webp",
+  "prompts": [
+    "kage/component--sweetgreen-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sweetgreen-landing-page",
+  "product": "sweetgreen-com",
+  "tags": [
+    "search?q=campaign",
+    "search?q=image",
+    "search?q=cta"
+  ],
+  "pageSha256": "3c5c8b0f17123d0c04f28564c1318322c03fb30c5ed2664523dc7845901602ba"
+}

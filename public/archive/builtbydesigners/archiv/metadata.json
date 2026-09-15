@@ -1,0 +1,23 @@
+{
+  "id": "archiv",
+  "name": "Archiv",
+  "description": "A collection app for identifying and organizing objects from the world around you. Turn photos of everyday finds into a visual archive, browse by category, and adjust the collection grid to suit your view.",
+  "shortInfo": "Make a visual archive of the physical world",
+  "url": "https://archiv.systems/",
+  "handle": "dmcgco",
+  "creatorName": "David McGillivray",
+  "creatorUrl": "https://x.com/dmcgco",
+  "creatorVerified": true,
+  "platform": "Mobile",
+  "categoryLabel": "Collections",
+  "categories": [
+    "Collections"
+  ],
+  "launchDate": "2026-09-05",
+  "added": "2026-09-05",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/archiv/icon-mtraiph0-XMWlGsX0hyQ6m9c0efDv4fi12yx28p.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/archiv/avatar-mtodgnyu-YISU82k0psxeUEY5nb0HuDiyI90bkZ.jpg",
+  "shot": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/archiv/shot-mtraiph2-PQZ0o6IDKdo4zIKlEli60t6rlxgWYO.png",
+  "shot2x": ""
+}

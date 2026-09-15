@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mmbl-feature-grid-2",
+  "source": "kage",
+  "slug": "component--mmbl-feature-grid-2",
+  "url": "https://kage.design/component/mmbl-feature-grid-2",
+  "name": "Conversational task extraction feature section by mmbl.io",
+  "description": "This section works by pairing a concise split headline with a visual before-and-after workflow: an unstructured thought is transformed into neatly classified tasks. The contrast between the large capture panel and the stacked result cards makes the product value immediately legible while colourful metadata and waveform accents add personality without overwhelming the interface.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mmbl-io/849f4ec6-ce65-4185-a867-71fbc561b804-1789060566-2.webp",
+  "prompts": [
+    "kage/component--mmbl-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mmbl-landing-page",
+  "product": "mmbl-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=task-management",
+    "search?q=productivity"
+  ],
+  "pageSha256": "4dcd929a50e9e6a69863020694371a6c6e590a65f286bc4aa706af09ee48a007"
+}

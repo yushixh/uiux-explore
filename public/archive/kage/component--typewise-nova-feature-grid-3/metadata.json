@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--typewise-nova-feature-grid-3",
+  "source": "kage",
+  "slug": "component--typewise-nova-feature-grid-3",
+  "url": "https://kage.design/component/typewise-nova-feature-grid-3",
+  "name": "Dark channel feature grid by Typewise Nova",
+  "description": "A premium dark-mode feature section that pairs a concise value proposition with a compact grid of channel pills. Strong contrast, restrained blue accents, and subtle borders make the component feel polished without overwhelming the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/typewise-nova/b4948f23-79f3-4392-9236-ca27a7b6b602-1789106477-6.webp",
+  "prompts": [
+    "kage/component--typewise-nova-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/typewise-nova-landing-page",
+  "product": "typewise-nova",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=feature+grid",
+    "search?q=channel+cards",
+    "search?q=saas"
+  ],
+  "pageSha256": "0007a8ed9ddb6fa644954b9224e2789bfa87c058c9a8423c9a9bc86203ea6c9e"
+}

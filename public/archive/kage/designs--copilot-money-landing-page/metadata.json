@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--copilot-money-landing-page",
+  "source": "kage",
+  "slug": "designs--copilot-money-landing-page",
+  "url": "https://kage.design/designs/copilot-money-landing-page",
+  "name": "Copilot Money landing page by copilot.money",
+  "description": "A dark fintech landing page built on a near-black navy canvas with oversized pale-gray display type and a single vivid blue CTA colour. The hero's personality comes from tilted, emoji-stamped category pills floating around the headline, echoed again as a decorative strip above the footer. Mid-page, the design flips to a full-bleed light section for the wealth-tracking features, a hard rhythm break before returning to dark bento grids for pricing, a masonry wall of tweet-style testimonials, and a closing CTA with a device collage. Feature storytelling is done entirely through embedded UI mockups inside rounded cards — real charts, transaction lists and tickers rather than abstract illustrations.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/copilot-money/645bb157-e222-4315-91ed-1b76fbb9bd6b-1789146535264.webp",
+  "prompts": [
+    "kage/designs--copilot-money-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "copilot-money",
+  "tags": [
+    "search?q=dark-theme",
+    "search?q=bento-grid",
+    "search?q=floating-pills",
+    "search?q=product-mockups",
+    "search?q=testimonial-masonry",
+    "search?q=pricing-toggle",
+    "search?q=awards-laurels",
+    "search?q=fintech"
+  ],
+  "pageSha256": "9a9a2be8090b3c3c780a4f6285943a97285ea7d034982d632080b3257cf39d9d"
+}

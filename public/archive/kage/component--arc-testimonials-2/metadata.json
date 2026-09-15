@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--arc-testimonials-2",
+  "source": "kage",
+  "slug": "component--arc-testimonials-2",
+  "url": "https://kage.design/component/arc-testimonials-2",
+  "name": "Playful testimonial quartet by arc.net",
+  "description": "A high-energy testimonial strip that uses oversized centered quotes, compact outlined attribution pills, and playful line icons to create a confident, community-led feeling. It transitions directly into a contrasting conversion band so social proof naturally leads into action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/arc-net/a4b44bb4-fce3-4305-950f-d12af4bc9a59-1789060399-6.webp",
+  "prompts": [
+    "kage/component--arc-testimonials-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/arc-landing-page",
+  "product": "arc-net",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=responsive",
+    "search?q=cta"
+  ],
+  "pageSha256": "12ff684d4014f4805e7131d222711fdc64709501b7abd0acea2ac81ab9c1f217"
+}

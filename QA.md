@@ -14,6 +14,7 @@ npm run dev
 
 ## 当前记录
 
+- [资源库验收](docs/qa-archive.md)：七来源归档、完整性检查、源码/Prompt 浏览与窄屏复验。
 - [七组件接入验收](docs/qa-v4.md)：工作区、配色与组件接入。
 - [Gooey 专项复验](docs/qa-gooey.md)：滑动选择修复、实际 Browser 操作及新增防回归断言。
 - [当前架构](docs/architecture-v4.md)：组件分层和生命周期。

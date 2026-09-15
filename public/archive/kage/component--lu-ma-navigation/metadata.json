@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lu-ma-navigation",
+  "source": "kage",
+  "slug": "component--lu-ma-navigation",
+  "url": "https://kage.design/component/lu-ma-navigation",
+  "name": "Minimal top navigation by lu.ma",
+  "description": "A nearly blank header keeps attention on the product promise, with a small brand mark at the upper left and a restrained sign-in action at the upper right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lu-ma/a4be0bf4-46ad-4066-8582-e9890f24d9e0-1789146184-0.webp",
+  "prompts": [
+    "kage/component--lu-ma-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lu-ma-landing-page",
+  "product": "lu-ma",
+  "tags": [
+    "search?q=minimal",
+    "search?q=utility",
+    "search?q=desktop"
+  ],
+  "pageSha256": "d8123245f6db76b65079e01f7a4fd79ed0a64a29f950993df02073785fe6a699"
+}

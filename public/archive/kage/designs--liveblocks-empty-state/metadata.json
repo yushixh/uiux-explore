@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--liveblocks-empty-state",
+  "source": "kage",
+  "slug": "designs--liveblocks-empty-state",
+  "url": "https://kage.design/designs/liveblocks-empty-state",
+  "name": "Liveblocks landing page by liveblocks.io",
+  "description": "A near-black developer landing page where hierarchy is carried almost entirely by type scale and luminance rather than colour. The top edge fades from a faint blue-violet glow into solid black, framing a tight 72px nav and a centred hero: a pill-shaped announcement badge, a two-line display headline at roughly 64-72px, a muted grey subheadline, then a single white pill CTA beside a quiet text link. Density stays extremely low and spacing generous until a blurred product visual begins to emerge from the black below, hinting at the demo without breaking the monochrome mood.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/liveblocks-io/98df7b6b-464d-40a0-a4c4-8946ac011a3c-1789072811018.webp",
+  "prompts": [
+    "kage/designs--liveblocks-empty-state/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resend-empty-state",
+  "product": "liveblocks-io",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=centered-hero",
+    "search?q=announcement-pill",
+    "search?q=white-cta",
+    "search?q=gradient-glow",
+    "search?q=developer-marketing",
+    "search?q=minimal-nav"
+  ],
+  "pageSha256": "34ba885df66de901ec316218fba80f90774b32c49ed78b12eaf31f19d9d72a0a"
+}

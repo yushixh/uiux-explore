@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--planetscale-og-image",
+  "source": "kage",
+  "slug": "designs--planetscale-og-image",
+  "url": "https://kage.design/designs/planetscale-og-image",
+  "name": "PlanetScale dark social-proof OG card by planetscale.com",
+  "description": "A 1200×630 social card built almost entirely from typographic trust signals on a near-black canvas with a faint dot-grid texture. Hierarchy is a strict three-tier centered stack: a large white wordmark with its circular mark, a widely-tracked monospace uppercase tagline in mid-gray, then a 5×4 wall of customer wordmarks set in flat muted gray. Every logo is forced into the same grayscale so the composition reads as one texture, and the bottom row is cropped by the canvas edge with reduced opacity, implying the list continues beyond the frame.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/planetscale-com/02cf683e-6d59-4481-9b33-da1ad55f9c16-1789060079242.webp",
+  "prompts": [
+    "kage/designs--planetscale-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-og-image",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=logo-wall",
+    "search?q=social-proof",
+    "search?q=monochrome",
+    "search?q=dot-texture",
+    "search?q=centered-stack",
+    "search?q=mono-type"
+  ],
+  "pageSha256": "5f4e31982db4f45fdffa9bfec212f4cbdb0558990969e03e8bedd2d0e6c28b35"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-feature-grid-3",
+  "source": "kage",
+  "slug": "component--modeinspect-feature-grid-3",
+  "url": "https://kage.design/component/modeinspect-feature-grid-3",
+  "name": "Tabbed feature grid with code preview by Modeinspect",
+  "description": "This section pairs a strong editorial headline with a numbered feature selector and a contextual preview card, making several capabilities feel focused rather than overwhelming. The restrained monochrome palette, active-state contrast, and compact code sample create a technical, product-led rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106492-5.webp",
+  "prompts": [
+    "kage/component--modeinspect-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=tabs",
+    "search?q=code-preview"
+  ],
+  "pageSha256": "0d3a91da9c552c734e32343c67d08915f145819d32b6e8833696f112dce93284"
+}

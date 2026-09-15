@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fly-card",
+  "source": "kage",
+  "slug": "component--fly-card",
+  "url": "https://kage.design/component/fly-card",
+  "name": "Two-column product capability cards by fly.io",
+  "description": "A centered product-introduction section pairs a short, high-impact statement with two equal capability cards. Soft lavender surfaces, restrained borders, generous spacing, and text-led links make the cards feel approachable while preserving a clear path to explore each offering.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fly-io/55088b40-21c4-4b5b-a67c-8a1494f33e2d-1789073898-5.webp",
+  "prompts": [
+    "kage/component--fly-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fly-landing-page",
+  "product": "fly-io",
+  "tags": [
+    "search?q=cards",
+    "search?q=product",
+    "search?q=comparison",
+    "search?q=cta"
+  ],
+  "pageSha256": "49d0347d22ed1d7e77fc76239db1691370154770826643888c5576dad4b56d00"
+}

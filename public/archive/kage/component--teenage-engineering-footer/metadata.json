@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--teenage-engineering-footer",
+  "source": "kage",
+  "slug": "component--teenage-engineering-footer",
+  "url": "https://kage.design/component/teenage-engineering-footer",
+  "name": "Minimal Utility Footer by teenage.engineering",
+  "description": "A low-profile footer that balances a regional selector, compact utility navigation, and a right-aligned legal line on one dark horizontal band. Its restrained typography, generous negative space, and subtle contrast make it feel precise without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/teenage-engineering/02d63820-361c-4c31-b791-8f2d75691669-1789060824-9.webp",
+  "prompts": [
+    "kage/component--teenage-engineering-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/teenage-engineering-landing-page",
+  "product": "teenage-engineering",
+  "tags": [
+    "search?q=footer",
+    "search?q=minimal",
+    "search?q=navigation",
+    "search?q=dark-mode"
+  ],
+  "pageSha256": "b27154096aff55e88ec89eaa8481fe7474fb9bf2da38bc1e9c84c3e3d7be61ad"
+}

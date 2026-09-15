@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-cta",
+  "source": "kage",
+  "slug": "component--hob-cta",
+  "url": "https://kage.design/component/hob-cta",
+  "name": "Minimal multi-column footer CTA by hob",
+  "description": "A quiet, spacious footer section that combines a small promotional line with four evenly distributed navigation columns. Its restrained typography, faint divider, and generous whitespace make the CTA feel supportive rather than intrusive.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106505-10.webp",
+  "prompts": [
+    "kage/component--hob-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=footer",
+    "search?q=cta",
+    "search?q=minimal",
+    "search?q=navigation"
+  ],
+  "pageSha256": "2a3789627d0d48f858d058b13dc88a72e721231a037f48916351994318b960b8"
+}

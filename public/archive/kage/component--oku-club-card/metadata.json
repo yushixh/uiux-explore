@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--oku-club-card",
+  "source": "kage",
+  "slug": "component--oku-club-card",
+  "url": "https://kage.design/component/oku-club-card",
+  "name": "Team introduction by oku.club",
+  "description": "The team section centers an editorial introduction above three simple illustrated profile entries with names and locations.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/oku-club/e710a983-c1d6-4177-b014-2738acd07d09-1789146244-8.webp",
+  "prompts": [
+    "kage/component--oku-club-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/oku-club-landing-page",
+  "product": "oku-club",
+  "tags": [
+    "search?q=team",
+    "search?q=about",
+    "search?q=profiles"
+  ],
+  "pageSha256": "5172967fae655e89acd7844107977f28833e7ba13852d12f8ecade7c2081179f"
+}

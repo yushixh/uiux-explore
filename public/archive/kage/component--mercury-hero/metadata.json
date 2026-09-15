@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-hero",
+  "source": "kage",
+  "slug": "component--mercury-hero",
+  "url": "https://kage.design/component/mercury-hero",
+  "name": "Atmospheric banking hero by mercury.com",
+  "description": "The opening hero combines a large white promise, supporting copy, two actions, and a dramatic landscape image with a desk in the foreground.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141942-1.webp",
+  "prompts": [
+    "kage/component--mercury-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=cta",
+    "search?q=image"
+  ],
+  "pageSha256": "e5615ed7eb3fef1542ba8be66f8811cdac2a85f53bded85876174c87f7589c1f"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--labs-winszn-footer",
+  "source": "kage",
+  "slug": "component--labs-winszn-footer",
+  "url": "https://kage.design/component/labs-winszn-footer",
+  "name": "Minimal dark legal footer by labs.winszn.xyz",
+  "description": "A deliberately sparse footer that uses a large field of negative space and a small, low-contrast copyright line anchored near the lower-left edge. Its restrained typography and near-black palette make the page feel editorial, premium, and quietly finished.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/labs-winszn-xyz/4df5b54d-904b-4cf9-bf65-93181d626a5e-1789097621-8.webp",
+  "prompts": [
+    "kage/component--labs-winszn-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/labs-winszn-landing-page",
+  "product": "labs-winszn-xyz",
+  "tags": [
+    "search?q=footer",
+    "search?q=minimal",
+    "search?q=dark",
+    "search?q=monospace"
+  ],
+  "pageSha256": "e955fbc832539a623c4a182e37bbd6049a448af8b2df54fa8fe9df468b83b2e5"
+}

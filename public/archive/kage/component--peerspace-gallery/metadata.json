@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--peerspace-gallery",
+  "source": "kage",
+  "slug": "component--peerspace-gallery",
+  "url": "https://kage.design/component/peerspace-gallery",
+  "name": "Editorial possibilities gallery by peerspace.com",
+  "description": "A black editorial section uses a huge centered title behind a horizontal strip of portrait images, with arrows and a small CTA creating a carousel-like composition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146241-4.webp",
+  "prompts": [
+    "kage/component--peerspace-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/peerspace-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=gallery",
+    "search?q=carousel",
+    "search?q=editorial"
+  ],
+  "pageSha256": "b73c12f579a4d454e5ce72b33f7486d629b929860178206bd403f688b195ce8a"
+}

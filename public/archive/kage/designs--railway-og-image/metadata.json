@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--railway-og-image",
+  "source": "kage",
+  "slug": "designs--railway-og-image",
+  "url": "https://kage.design/designs/railway-og-image",
+  "name": "Railway OG social card — 'Ship Without Friction' by railway.com",
+  "description": "A 1200×630 social card on a near-black canvas with a faint dot-grid texture. The composition splits into two zones: a static type block on the left (small wordmark lockup top-left, a three-line all-caps heavy headline anchored bottom-left) and a dynamic product visual on the right two-thirds — isometric service cards (backend, frontend, redis, postgres) connected by glowing purple deployment lines that bleed off the canvas edges. It works because of that diagonal tension between quiet typography and a cropped, depth-cued product render, with colour discipline: white type, muted greys, purple glow as the only loud accent plus tiny green status checks.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/railway-com/87569956-4268-4c80-9b21-29a75c7f6d8a-1789060086522.webp",
+  "prompts": [
+    "kage/designs--railway-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-og-image",
+  "product": "railway-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=dark-canvas",
+    "search?q=isometric-cards",
+    "search?q=glow-connectors",
+    "search?q=big-type",
+    "search?q=deployment-topology",
+    "search?q=wordmark-lockup"
+  ],
+  "pageSha256": "99c50da6fce13f23b8ff3febd61f75ea347be8a719f73817fa5fe001677141e4"
+}

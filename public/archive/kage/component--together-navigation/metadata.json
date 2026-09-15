@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--together-navigation",
+  "source": "kage",
+  "slug": "component--together-navigation",
+  "url": "https://kage.design/component/together-navigation",
+  "name": "Announcement bar and split navigation header by together.ai",
+  "description": "A crisp, high-contrast announcement strip sits above a spacious, pill-like navigation system. The primary nav keeps product areas centered, while a separated action cluster makes sales contact and sign-in immediately scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/together-ai/60591018-8706-471e-a3f2-ad3109f52987-1789073939-0.webp",
+  "prompts": [
+    "kage/component--together-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/together-landing-page",
+  "product": "together-ai",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=announcement",
+    "search?q=saas"
+  ],
+  "pageSha256": "100596ac0287e6371be8bb2c89510b22e7cd5bf97c8964d8267ad660b5ac42ac"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--prisma-logo-cloud",
+  "source": "kage",
+  "slug": "component--prisma-logo-cloud",
+  "url": "https://kage.design/component/prisma-logo-cloud",
+  "name": "Trusted-by logo strip by prisma.io",
+  "description": "A restrained social-proof band that uses a centered eyebrow and a single, evenly spaced row of monochrome-to-colour customer marks. Generous whitespace and consistent optical sizing make the logos feel credible without competing with the surrounding hero content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073818-2.webp",
+  "prompts": [
+    "kage/component--prisma-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=brand+grid",
+    "search?q=b2b",
+    "search?q=minimal"
+  ],
+  "pageSha256": "fd99027346e473eaad7d665962d0963673cfc742c1a1a63e479ea12d1b0590c2"
+}

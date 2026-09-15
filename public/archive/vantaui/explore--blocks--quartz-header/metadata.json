@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--quartz-header",
+  "source": "vantaui",
+  "slug": "explore--blocks--quartz-header",
+  "url": "https://www.vantaui.com/explore/blocks/quartz-header",
+  "name": "Quartz Header - VantaUI",
+  "description": "Minimal navigation bar",
+  "image": "https://vantaui-registry.vercel.app/blocks/quartz-header",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "5b501052616ecdf6ccb0a2a21b19aac0c7f27e29e173a7854b67612527e36654"
+}

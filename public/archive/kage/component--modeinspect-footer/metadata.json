@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-footer",
+  "source": "kage",
+  "slug": "component--modeinspect-footer",
+  "url": "https://kage.design/component/modeinspect-footer",
+  "name": "Dark utility footer by Modeinspect",
+  "description": "A restrained dark footer that combines a concise product statement, grouped navigation, legal utilities, and a quiet visual anchor. Its strong grid, muted contrast, and single lime accent make the section feel premium without competing with the page’s primary conversion moment.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106494-11.webp",
+  "prompts": [
+    "kage/component--modeinspect-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=footer",
+    "search?q=dark",
+    "search?q=navigation",
+    "search?q=cta"
+  ],
+  "pageSha256": "e63fe8eb50c3a8c6487252d5ccf65e75c852a46a6f8cd144bd617a371595e669"
+}

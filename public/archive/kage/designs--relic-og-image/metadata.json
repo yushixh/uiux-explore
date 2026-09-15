@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--relic-og-image",
+  "source": "kage",
+  "slug": "designs--relic-og-image",
+  "url": "https://kage.design/designs/relic-og-image",
+  "name": "Relic Open Graph social card by Relic",
+  "description": "A 1200×630 social card split into a quiet typographic left column and a tactile paper collage on the right. The top-left locks up an amber rounded-triangle mark with the wordmark and a black OPEN SOURCE pill; the headline sets two lines in a heavy geometric sans before pivoting to a high-contrast italic serif for the final phrase in amber — the card's strongest colour moment. The right half layers stationery ephemera (handwritten list, napkin, receipt, business card, polaroid) with soft directional shadows, topped by a translucent amber version of the logo object acting as the brand anchor, while a small letterspaced amber domain line closes the bottom-left.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/relic/ccd4e5af-176c-45b9-a369-36c1e674eb1e-1789279303995.webp",
+  "prompts": [
+    "kage/designs--relic-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-og-image",
+  "product": "relic",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=split-composition",
+    "search?q=paper-collage",
+    "search?q=italic-serif-accent",
+    "search?q=amber-accent",
+    "search?q=open-source-badge",
+    "search?q=tactile-shadows"
+  ],
+  "pageSha256": "6a9e032e8ce7b037c5cf3ba07f9e23410bcf306c5ce6d65c67f6f3734191a68b"
+}

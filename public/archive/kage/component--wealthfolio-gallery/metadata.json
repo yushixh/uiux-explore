@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--wealthfolio-gallery",
+  "source": "kage",
+  "slug": "component--wealthfolio-gallery",
+  "url": "https://kage.design/component/wealthfolio-gallery",
+  "name": "Editorial feature gallery by Wealthfolio",
+  "description": "A spacious, horizontally scrolling feature gallery that pairs oversized product previews with compact editorial labels and descriptions. It works through strong typographic hierarchy, generous whitespace, and restrained controls that keep the product visuals as the focus.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfolio/bf50ab71-633d-4b86-816e-5951eb096cd4-1789106472-2.webp",
+  "prompts": [
+    "kage/component--wealthfolio-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfolio-landing-page",
+  "product": "wealthfolio",
+  "tags": [
+    "search?q=gallery",
+    "search?q=carousel",
+    "search?q=editorial",
+    "search?q=product"
+  ],
+  "pageSha256": "3effa67178216bfa66cd583225d39ce934baa63bbad1b3f176441fa7005ce408"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cash-hero",
+  "source": "kage",
+  "slug": "component--cash-hero",
+  "url": "https://kage.design/component/cash-hero",
+  "name": "Centered product visual with split headline by cash.app",
+  "description": "The hero uses a vivid single-colour field, a large headline on the left, a supporting paragraph and CTA on the right, and a tall centered product mockup as the visual anchor. The phone is intentionally cropped by the section edge, creating depth while keeping the message and action visible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cash-app/7c13f178-963d-4437-bcf4-5300340c2bdd-1789146485-1.webp",
+  "prompts": [
+    "kage/component--cash-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cash-landing-page",
+  "product": "cash-app",
+  "tags": [
+    "search?q=split-layout",
+    "search?q=phone",
+    "search?q=cta"
+  ],
+  "pageSha256": "1e36eefeb1c037425ad1d335c544ddb0ca0cba0e5c322849774d968243fe6585"
+}

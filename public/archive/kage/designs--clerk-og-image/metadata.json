@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--clerk-og-image",
+  "source": "kage",
+  "slug": "designs--clerk-og-image",
+  "url": "https://kage.design/designs/clerk-og-image",
+  "name": "Clerk — Open Graph social card by clerk.com",
+  "description": "A 1200×630 social card built on a near-black canvas with a radial blue glow rising from the right. Three layers carry the composition: a small white wordmark at top-left, a giant glossy 3D rendition of the C-shaped logo mark occupying the right half with a blue orb at its core, and a bold two-line headline anchored bottom-left where 'comprehensive' and 'Platform' shift to pale sky blue. Faint circuit-trace line art in the upper right adds texture without competing at thumbnail size. The diagonal reading path (wordmark → headline → artwork) and the stark scale contrast between the ~64px headline and the ~32px wordmark make it instantly legible in a 40px-tall link preview.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/clerk-com/9cd60332-9d74-4482-aa34-db8bb91b5d3b-1789060100151.webp",
+  "prompts": [
+    "kage/designs--clerk-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-og-image",
+  "product": "clerk-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=wordmark",
+    "search?q=3d-logo",
+    "search?q=gradient-glow",
+    "search?q=bold-headline",
+    "search?q=dark-theme",
+    "search?q=brand-card"
+  ],
+  "pageSha256": "b1a37173e372e2d289ae10a864552c3d3b9ffeb8ed42bcc127f33c97518dcb40"
+}

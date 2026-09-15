@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--loqua-form",
+  "source": "kage",
+  "slug": "component--loqua-form",
+  "url": "https://kage.design/component/loqua-form",
+  "name": "Interactive try-it demo by Loqua",
+  "description": "A practical demo section turns the promise into an interaction with explanatory copy, a highlighted sample transcript, and a large live input area.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loqua/e5cf041a-edc7-487a-b4b8-8f4d563da4de-1789192874-6.webp",
+  "prompts": [
+    "kage/component--loqua-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "loqua",
+  "tags": [
+    "search?q=playground",
+    "search?q=input",
+    "search?q=interactive"
+  ],
+  "pageSha256": "85a81e278cf23a6a6d0b0f978a82b63b2211e655ac2b0d3356f89849a8aa7035"
+}

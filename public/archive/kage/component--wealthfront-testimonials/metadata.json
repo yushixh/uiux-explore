@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--wealthfront-testimonials",
+  "source": "kage",
+  "slug": "component--wealthfront-testimonials",
+  "url": "https://kage.design/component/wealthfront-testimonials",
+  "name": "Editorial testimonial and proof statistics by wealthfront.com",
+  "description": "A deep purple social-proof band pairs a large editorial quote with a lifestyle image and overlaid attribution, followed by four proof metrics and dense disclosure text.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfront-com/3e3be85e-7bdd-4e6a-8630-f389b2c5e8da-1789146565-5.webp",
+  "prompts": [
+    "kage/component--wealthfront-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=testimonial",
+    "search?q=proof",
+    "search?q=stats"
+  ],
+  "pageSha256": "8b17a18f010fc3197121cf0cbfd5d53ae265344e9d32e87e9c03f138c9e65df8"
+}

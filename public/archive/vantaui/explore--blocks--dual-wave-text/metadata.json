@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--dual-wave-text",
+  "source": "vantaui",
+  "slug": "explore--blocks--dual-wave-text",
+  "url": "https://www.vantaui.com/explore/blocks/dual-wave-text",
+  "name": "Dual Wave Text - VantaUI",
+  "description": "Opposing wave text across dual columns with scroll-driven sine wave math and synced images.",
+  "image": "https://vantaui-registry.vercel.app/blocks/dual-wave-text",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "38536c70ab9b85e757487763de3ac340ee1c578786cdc7713d2aff569b987e68"
+}

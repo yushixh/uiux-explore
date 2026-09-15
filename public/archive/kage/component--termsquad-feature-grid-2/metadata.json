@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--termsquad-feature-grid-2",
+  "source": "kage",
+  "slug": "component--termsquad-feature-grid-2",
+  "url": "https://kage.design/component/termsquad-feature-grid-2",
+  "name": "Parallel agent orchestration feature by termsquad.com",
+  "description": "The section explains delegation through a hierarchy diagram: one coordinator, several parallel workers, and a reviewer. The visual is supported by three concise principles underneath, making the workflow easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/termsquad-com/d12b8131-9740-4063-aef8-780525dfffce-1789166958-3.webp",
+  "prompts": [
+    "kage/component--termsquad-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=agents",
+    "search?q=workflow",
+    "search?q=diagram"
+  ],
+  "pageSha256": "b24db11e4cacbd8671ba5f63451c76b817a242b1b50a6eb4f5fbce1ed400a331"
+}

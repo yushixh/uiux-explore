@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--domestika-feature-grid-2",
+  "source": "kage",
+  "slug": "component--domestika-feature-grid-2",
+  "url": "https://kage.design/component/domestika-feature-grid-2",
+  "name": "Learning benefits grid by domestika.org",
+  "description": "A centered section heading introduces eight benefits in a clean two-column layout, each pairing a pale line icon with a concise title and explanatory text.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/domestika-org/a1bec580-5d19-4289-a277-048dcd6cb3c6-1789146411-5.webp",
+  "prompts": [
+    "kage/component--domestika-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/domestika-landing-page",
+  "product": "domestika-org",
+  "tags": [
+    "search?q=benefits",
+    "search?q=features",
+    "search?q=learning"
+  ],
+  "pageSha256": "6b0d2838e0c9088e49b1511df1c11e6a5a9318cf5f7f8a7224c598cc860d54a7"
+}

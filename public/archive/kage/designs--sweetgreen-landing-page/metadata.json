@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--sweetgreen-landing-page",
+  "source": "kage",
+  "slug": "designs--sweetgreen-landing-page",
+  "url": "https://kage.design/designs/sweetgreen-landing-page",
+  "name": "Sweetgreen restaurant homepage by sweetgreen.com",
+  "description": "The page builds identity through full-width colour blocks that shift from a deep berry gradient hero through cream, sage and tan bands, each change of ground resetting the rhythm. A high-contrast serif carries every display headline while an uppercase grotesk handles eyebrows, nav and buttons, with a single acid-lime accent reserved almost exclusively for the primary CTA. Menu exploration is a clean three-column grid of top-down bowl photography with serif category tabs, and the lower page alternates split editorial sections (text left, warm photography right) before settling into a utilitarian newsletter strip and link-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/sweetgreen-com/33a74ca8-f609-4778-a60f-a45f3e4cc9aa-1789146424113.webp",
+  "prompts": [
+    "kage/designs--sweetgreen-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "sweetgreen-com",
+  "tags": [
+    "search?q=color-blocked-sections",
+    "search?q=serif-display",
+    "search?q=uppercase-eyebrows",
+    "search?q=pill-buttons",
+    "search?q=neon-accent",
+    "search?q=top-down-food-photography",
+    "search?q=menu-category-tabs",
+    "search?q=split-editorial-bands"
+  ],
+  "pageSha256": "eab096c677d685584b838ac8d3058287109bad7858d0dc2a7d1e4ea8a184917b"
+}

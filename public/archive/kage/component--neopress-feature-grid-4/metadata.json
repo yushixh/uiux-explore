@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neopress-feature-grid-4",
+  "source": "kage",
+  "slug": "component--neopress-feature-grid-4",
+  "url": "https://kage.design/component/neopress-feature-grid-4",
+  "name": "Built-in SEO tools by Neopress",
+  "description": "A centered introduction leads into a structured grid of metadata, schema, sitemap, robots, redirect, and accessibility tools, with code samples and compact utility cards.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neopress/126c1916-850c-4473-b9b4-49923d5d31e2-1789365757-10.webp",
+  "prompts": [
+    "kage/component--neopress-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neopress-landing-page",
+  "product": "neopress",
+  "tags": [
+    "search?q=seo-tools",
+    "search?q=grid",
+    "search?q=code"
+  ],
+  "pageSha256": "e5d01bbd9149f1231a8eaa18442481cf3fc09fc27fa22251c0fa6013a97c7ce2"
+}

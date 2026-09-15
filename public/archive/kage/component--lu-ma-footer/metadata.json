@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lu-ma-footer",
+  "source": "kage",
+  "slug": "component--lu-ma-footer",
+  "url": "https://kage.design/component/lu-ma-footer",
+  "name": "Compact utility footer by lu.ma",
+  "description": "A restrained footer uses a fine divider, a small brand label, grouped utility links, social icons, and a second row of legal links without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lu-ma/a4be0bf4-46ad-4066-8582-e9890f24d9e0-1789146185-6.webp",
+  "prompts": [
+    "kage/component--lu-ma-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lu-ma-landing-page",
+  "product": "lu-ma",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=social"
+  ],
+  "pageSha256": "eff33d8ff0c56de5a28abe5b950152645738bd1a7a6f48d08b412d5c1fcaba6f"
+}

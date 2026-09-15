@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--astro-build-logo-cloud-3",
+  "source": "kage",
+  "slug": "component--astro-build-logo-cloud-3",
+  "url": "https://kage.design/component/astro-build-logo-cloud-3",
+  "name": "Sponsor logo grid by astro.build",
+  "description": "A dark, editorial sponsor section that turns a collection of partner marks into a structured visual field. Varied cell sizes and restrained dividers create hierarchy while keeping every logo legible and evenly presented.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/astro-build/2448cc02-1e48-497c-9333-8941f9d81557-1789073853-10.webp",
+  "prompts": [
+    "kage/component--astro-build-logo-cloud-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/astro-build-landing-page",
+  "product": "astro-build",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=sponsors",
+    "search?q=dark+mode",
+    "search?q=bento+grid"
+  ],
+  "pageSha256": "464f8207dfcf624ea39bee8fc12c108b96a8cd5be3cc281e6285ddbed16cef2b"
+}

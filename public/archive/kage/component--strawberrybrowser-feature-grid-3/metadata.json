@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--strawberrybrowser-feature-grid-3",
+  "source": "kage",
+  "slug": "component--strawberrybrowser-feature-grid-3",
+  "url": "https://kage.design/component/strawberrybrowser-feature-grid-3",
+  "name": "Editorial feature grid by strawberrybrowser.com",
+  "description": "A calm, editorial two-column feature grid pairs large rounded visual panels with concise titles and muted descriptions. Generous whitespace, soft off-white surfaces, and restrained borders make the product capabilities feel premium without overwhelming the content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/strawberrybrowser-com/0a6dd4bb-409f-4c45-aa48-6abac7e2076e-1789060562-4.webp",
+  "prompts": [
+    "kage/component--strawberrybrowser-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/strawberrybrowser-landing-page",
+  "product": "strawberrybrowser-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=bento-layout",
+    "search?q=saas"
+  ],
+  "pageSha256": "d7af1a8017804b6001a98d027aa01c5cd28f5cee192a9f96cb514204e0b26eba"
+}

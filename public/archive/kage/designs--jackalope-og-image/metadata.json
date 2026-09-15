@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--jackalope-og-image",
+  "source": "kage",
+  "slug": "designs--jackalope-og-image",
+  "url": "https://kage.design/designs/jackalope-og-image",
+  "name": "Jackalope “Many agents. One workspace.” OG social card by Jackalope",
+  "description": "A 1200×630 social card split into a light brand half and a dark product half on a warm off-white field. Nine outlined rabbit silhouettes shift hue from orange through violet to blue before resolving into one solid black jackalope — a literal “many → one” story — while thin orange and blue circuit traces with node dots thread across the canvas. The two-line statement (“Many agents.” in ink, “One workspace.” in orange) anchors the bottom-left above a monospace domain, and a dark tasks-board screenshot, tilted a few degrees and bleeding off the right and bottom edges, supplies the dense UI contrast that makes the flat left half read instantly at feed size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/jackalope/9fc9e3fd-285b-4d05-a4b4-8d77be8b9b45-1789192902136.webp",
+  "prompts": [
+    "kage/designs--jackalope-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "jackalope",
+  "tags": [
+    "search?q=social-card",
+    "search?q=1200x630",
+    "search?q=split-composition",
+    "search?q=bold-headline",
+    "search?q=illustrated-motif",
+    "search?q=dark-ui-screenshot",
+    "search?q=monospace",
+    "search?q=circuit-traces"
+  ],
+  "pageSha256": "104a9c7c26ae8769d21843fd45800d073ad680147d5f6c597fdbcae61bea84c4"
+}

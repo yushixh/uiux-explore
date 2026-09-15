@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--ynab-landing-page",
+  "source": "kage",
+  "slug": "designs--ynab-landing-page",
+  "url": "https://kage.design/designs/ynab-landing-page",
+  "name": "YNAB landing page by ynab.com",
+  "description": "A personal-finance landing page that sells emotional relief, built on a cream canvas with indigo-to-purple gradient waves bookending it. The page pairs a chunky rounded serif display face with a neutral sans body, uses one loud lime-green CTA colour against navy ink, and changes rhythm down the page: dense hero with an illustrated phone and flying dollar bills, then an airy press strip, a 2×2 white stat grid with green baseline rules, a giant italic founder quote with blue highlighter marks, a three-step how-it-works beside an app collage, a hand-drawn arrow feeding into testimonial cards with wavy coloured bottoms, and finally a dark wave band CTA and navy footer. Organic shapes, doodle sparks and soft blobs keep the money topic friendly without a single stock photo.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/ynab-com/e7a182c7-b158-445f-80c9-594412562788-1789146545386.webp",
+  "prompts": [
+    "kage/designs--ynab-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "ynab-com",
+  "tags": [
+    "search?q=wavy-dividers",
+    "search?q=serif-display",
+    "search?q=illustrated-mockups",
+    "search?q=stat-cards",
+    "search?q=highlighter-quote",
+    "search?q=testimonials",
+    "search?q=lime-cta",
+    "search?q=cream-canvas"
+  ],
+  "pageSha256": "75b963850956693395308d89c10612069c688d0cb1bae3df3ab860e89a83b4bc"
+}

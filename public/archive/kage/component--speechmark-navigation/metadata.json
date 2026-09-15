@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--speechmark-navigation",
+  "source": "kage",
+  "slug": "component--speechmark-navigation",
+  "url": "https://kage.design/component/speechmark-navigation",
+  "name": "Soft editorial navigation bar by Speechmark",
+  "description": "A restrained top navigation that combines a compact wordmark lockup, evenly spaced text links, and one high-contrast pill CTA. A faint oversized abstract shape at the far edge adds depth without competing with the navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/speechmark/77b904ee-7a59-4d24-b7d4-3e274188b21e-1789106591-0.webp",
+  "prompts": [
+    "kage/component--speechmark-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/speechmark-landing-page",
+  "product": "speechmark",
+  "tags": [
+    "search?q=navbar",
+    "search?q=editorial",
+    "search?q=minimal",
+    "search?q=pill-button"
+  ],
+  "pageSha256": "6c262f8ca502a06eb0282a2d722323616930f9edfac4a6746db7236c85846a12"
+}

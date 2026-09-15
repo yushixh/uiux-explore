@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cal-feature-grid-2",
+  "source": "kage",
+  "slug": "component--cal-feature-grid-2",
+  "url": "https://kage.design/component/cal-feature-grid-2",
+  "name": "Benefits feature grid by cal.com",
+  "description": "A polished SaaS benefits section that pairs a centered introduction with a responsive two-column grid of feature cards. Each card combines concise value-focused copy with a restrained product-interface vignette, creating a strong balance between explanation and visual proof.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cal-com/cdeba7c5-dd46-4ce9-ba9c-2d344d57a58b-1789060423-4.webp",
+  "prompts": [
+    "kage/component--cal-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cal-landing-page",
+  "product": "cal-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=product-ui",
+    "search?q=cards"
+  ],
+  "pageSha256": "6f61a8c0013d118cc4fe3abd1b522e63baadaf69aabb80adfdd625c38a9e600f"
+}

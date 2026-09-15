@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--superhuman-hero",
+  "source": "kage",
+  "slug": "component--superhuman-hero",
+  "url": "https://kage.design/component/superhuman-hero",
+  "name": "Ambient conversion hero by superhuman.com",
+  "description": "A spacious, editorial hero that pairs a dark product-value panel with a vivid atmospheric conversion strip. The contrast, restrained typography, and low-friction CTAs create a clear path from promise to action without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060757-10.webp",
+  "prompts": [
+    "kage/component--superhuman-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=cta",
+    "search?q=gradient",
+    "search?q=footer"
+  ],
+  "pageSha256": "0c8fb169222937f23ac109e94573a118d1266f2199aa52622bfd1415ff37ea2b"
+}

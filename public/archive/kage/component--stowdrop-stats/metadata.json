@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stowdrop-stats",
+  "source": "kage",
+  "slug": "component--stowdrop-stats",
+  "url": "https://kage.design/component/stowdrop-stats",
+  "name": "Editorial feature stats grid by stowdrop.app",
+  "description": "A dark, editorial product section that pairs an oversized narrative headline with a compact grid of feature cards. Thin rules, tiny orange section labels, restrained typography, and generous vertical space make the component feel calm, premium, and highly scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067824-7.webp",
+  "prompts": [
+    "kage/component--stowdrop-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=stats",
+    "search?q=dark-ui",
+    "search?q=feature-grid",
+    "search?q=editorial"
+  ],
+  "pageSha256": "c744543189d36a59391646ed813f559429ccc8513e2254b04c9269a54680f88b"
+}

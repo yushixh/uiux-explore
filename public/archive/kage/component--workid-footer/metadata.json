@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workid-footer",
+  "source": "kage",
+  "slug": "component--workid-footer",
+  "url": "https://kage.design/component/workid-footer",
+  "name": "Trust-focused multi-column footer by WorkID.ai",
+  "description": "This footer works through a restrained, high-trust layout: brand and support contact occupy the left, grouped navigation sits on the right, and a separated legal disclaimer closes the section. Light borders, generous whitespace, and compact typography keep the experience credible without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workid-ai/2843b616-ed30-482d-adaf-40c736e4842a-1789106674-5.webp",
+  "prompts": [
+    "kage/component--workid-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workid-landing-page",
+  "product": "workid-ai",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=trust",
+    "search?q=responsive"
+  ],
+  "pageSha256": "a862bb1e6de588a6345708eeeef4b584ba09cc418f50a58060009b9be8b0c2a7"
+}

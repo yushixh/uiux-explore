@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--venmo-hero-2",
+  "source": "kage",
+  "slug": "component--venmo-hero-2",
+  "url": "https://kage.design/component/venmo-hero-2",
+  "name": "Business growth media section by venmo.com",
+  "description": "A white business-oriented section centers a headline and supporting copy above a CTA and a large orange-yellow rounded media frame.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/venmo-com/e421e2ca-b11c-49c9-b106-d3994196da77-1789146508-4.webp",
+  "prompts": [
+    "kage/component--venmo-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/venmo-landing-page",
+  "product": "venmo-com",
+  "tags": [
+    "search?q=business",
+    "search?q=video",
+    "search?q=cta"
+  ],
+  "pageSha256": "464e5633fb1925bbbe05c5e4467c743d4f04267d1280346b1ab9d3c80a58baee"
+}

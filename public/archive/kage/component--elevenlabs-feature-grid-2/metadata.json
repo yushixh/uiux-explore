@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--elevenlabs-feature-grid-2",
+  "source": "kage",
+  "slug": "component--elevenlabs-feature-grid-2",
+  "url": "https://kage.design/component/elevenlabs-feature-grid-2",
+  "name": "Editorial AI feature grid by elevenlabs.io",
+  "description": "A spacious, editorial feature section pairs a two-column introduction with a large visual bento grid, concise capability cards, and a restrained social-proof CTA. It works through strong hierarchy, soft surfaces, generous whitespace, and product UI previews that make abstract capabilities feel tangible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060952-4.webp",
+  "prompts": [
+    "kage/component--elevenlabs-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=bento",
+    "search?q=saas"
+  ],
+  "pageSha256": "c501d9024b41e050f230f09ee262efec71ca28b68d056f923804a0ac21ebbe8a"
+}

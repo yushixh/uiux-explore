@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-cta",
+  "source": "kage",
+  "slug": "component--modeinspect-cta",
+  "url": "https://kage.design/component/modeinspect-cta",
+  "name": "Oversized split-line launch CTA by Modeinspect",
+  "description": "A dramatic, minimal closing CTA that uses a nearly full-bleed dark field and oversized two-line typography to create a decisive final action moment. Its restrained palette, generous negative space, and centered composition make the message feel confident without relying on supporting imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106494-10.webp",
+  "prompts": [
+    "kage/component--modeinspect-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=cta",
+    "search?q=typography",
+    "search?q=dark",
+    "search?q=editorial"
+  ],
+  "pageSha256": "0c50765e93bc83758c69c962930b7fcf73d62ca1edf289395a0377f05129e295"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--raycast-2-0-navigation",
+  "source": "kage",
+  "slug": "component--raycast-2-0-navigation",
+  "url": "https://kage.design/component/raycast-2-0-navigation",
+  "name": "Floating dark navigation bar by Raycast 2.0",
+  "description": "A compact rounded navigation bar sits inset from the viewport edges, pairing a small brand mark with evenly spaced product links and a high-contrast download action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-2-0/585c4674-841f-40bf-a211-e6fd2d8f71e9-1789192910-0.webp",
+  "prompts": [
+    "kage/component--raycast-2-0-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-2-0-landing-page",
+  "product": "raycast-2-0",
+  "tags": [
+    "search?q=dark",
+    "search?q=floating",
+    "search?q=navigation"
+  ],
+  "pageSha256": "6aade2f9398bacc9b84b0d78c876ec3359d824f991927b2850ea06050d67b712"
+}

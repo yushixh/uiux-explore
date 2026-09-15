@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--public-og-image",
+  "source": "kage",
+  "slug": "designs--public-og-image",
+  "url": "https://kage.design/designs/public-og-image",
+  "name": "Public investing social card by public.com",
+  "description": "A roughly 1200×630 social card uses a clean asymmetric split: a large black editorial serif headline occupies the white left half, while a rounded black image panel anchors the right. A trading dashboard and phone are layered inside the panel with a cool blue foreground glow; the small lowercase wordmark sits at bottom left, creating a restrained fintech composition with strong focal hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/public-com/a403b7ca-65de-44e7-b971-637003438474-1789146489419.webp",
+  "prompts": [
+    "kage/designs--public-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "public-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=split-layout",
+    "search?q=serif-headline",
+    "search?q=product-screenshot",
+    "search?q=rounded-corners",
+    "search?q=high-contrast"
+  ],
+  "pageSha256": "e5a4b32744e5cdf669821dc9a58df2f9675d8e32f537ae85c1141d727656f671"
+}

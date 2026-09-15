@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--patreon-og-image",
+  "source": "kage",
+  "slug": "designs--patreon-og-image",
+  "url": "https://kage.design/designs/patreon-og-image",
+  "name": "Patreon OG social card by patreon.com",
+  "description": "A 1200×630 card built around a single full-bleed photograph: a near-black floral backdrop with deep reds and mossy greens, and the subject placed on the right third gazing off-canvas left, which pulls the eye back toward the type. The headline is an oversized, light-weight grotesque set in white across two staggered lines that fill the lower half, overlapping the subject with no knockout because the photography is dark enough to hold the contrast. The only other element is a small all-caps wordmark in the bottom-left corner, so brand, message and image form exactly three layers.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/patreon-com/58c60078-c3c4-4242-b2aa-1c98ebc37b20-1789146359394.webp",
+  "prompts": [
+    "kage/designs--patreon-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/goodreads-og-image",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=full-bleed-photo",
+    "search?q=oversized-headline",
+    "search?q=staggered-type",
+    "search?q=all-caps-wordmark",
+    "search?q=moody-florals",
+    "search?q=high-contrast"
+  ],
+  "pageSha256": "1d55c8662f2ec1b6c5b6252c851ffe61aeb51fecaad988b8b7837125de32e25b"
+}

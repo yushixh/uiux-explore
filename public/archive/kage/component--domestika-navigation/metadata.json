@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--domestika-navigation",
+  "source": "kage",
+  "slug": "component--domestika-navigation",
+  "url": "https://kage.design/component/domestika-navigation",
+  "name": "Primary marketplace navigation by domestika.org",
+  "description": "The dark navigation bar packs the brand, primary destinations, search, commerce shortcut, account access, and a bright sign-up button into one efficient row.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/domestika-org/a1bec580-5d19-4289-a277-048dcd6cb3c6-1789146410-1.webp",
+  "prompts": [
+    "kage/component--domestika-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/domestika-landing-page",
+  "product": "domestika-org",
+  "tags": [
+    "search?q=header",
+    "search?q=search",
+    "search?q=navigation"
+  ],
+  "pageSha256": "fa670007252ac561357749c15f5f664020c21c1eac2695dfa43ef78a38a6ce18"
+}

@@ -1,0 +1,33 @@
+@property --gradient-rotation {
+  syntax: "<angle>";
+  initial-value: 120deg;
+  inherits: false;
+}
+
+@keyframes gradient-rotate {
+  0% {
+    --gradient-rotation: 0deg;
+  }
+
+  100% {
+    --gradient-rotation: 360deg;
+  }
+}
+
+.gradient-button-hover:hover::before {
+  animation: gradient-rotate 2s linear infinite;
+}
+
+@keyframes gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}

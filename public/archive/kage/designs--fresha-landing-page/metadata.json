@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--fresha-landing-page",
+  "source": "kage",
+  "slug": "designs--fresha-landing-page",
+  "url": "https://kage.design/designs/fresha-landing-page",
+  "name": "Fresha selfcare booking marketplace landing page by fresha.com",
+  "description": "A consumer booking marketplace that keeps a near-black-on-white editorial base and spends its colour budget in exactly three places: a lavender-to-peach pastel gradient hero, a purple live-booking counter, and yellow review stars. The page runs on rhythm rather than ornament — an airy hero with a segmented pill search bar collapses into three dense, near-identical venue-card carousels, then breathes out again for the app download, testimonial and big-number stats sections, before a business section pairs left-aligned copy with overlapping scheduler/mobile UI mockups. It closes with a deliberately utilitarian country-pill and SEO link grid and a flat grey footer, signalling that the visual theatre lives only where decisions happen.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146164858.webp",
+  "prompts": [
+    "kage/designs--fresha-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=search-bar",
+    "search?q=card-carousel",
+    "search?q=pastel-gradient",
+    "search?q=social-proof",
+    "search?q=marketplace-cards",
+    "search?q=seo-links",
+    "search?q=pill-buttons"
+  ],
+  "pageSha256": "85c742ccfcbde1ecbbb1185fd90c37d074037f6c2a0aeaae9706225c2d272911"
+}

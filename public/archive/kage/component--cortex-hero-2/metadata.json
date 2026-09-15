@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cortex-hero-2",
+  "source": "kage",
+  "slug": "component--cortex-hero-2",
+  "url": "https://kage.design/component/cortex-hero-2",
+  "name": "Multi-language developer section by Cortex",
+  "description": "A centered headline presents broad language support, followed by a horizontal language selector and a large code sample panel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cortex/48e48c32-4544-4e71-94d3-849a84be1bb9-1789279410-7.webp",
+  "prompts": [
+    "kage/component--cortex-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cortex-landing-page",
+  "product": "cortex",
+  "tags": [
+    "search?q=hero",
+    "search?q=languages",
+    "search?q=code"
+  ],
+  "pageSha256": "82183467b620b8dffad3b0d452486c33e01f4a21bf5e138cfb91c8b28843b244"
+}

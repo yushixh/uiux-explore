@@ -1,0 +1,28 @@
+{
+  "id": "kage--designs--adscope-landing-page",
+  "source": "kage",
+  "slug": "designs--adscope-landing-page",
+  "url": "https://kage.design/designs/adscope-landing-page",
+  "name": "AdScope advertising analytics landing page by AdScope",
+  "description": "A long-form SaaS landing page uses a restrained white and pale-gray canvas, near-black typography, thin rounded borders, and a highlighter-lime accent for actions, badges, checks, and the closing CTA. The page moves from a spacious split hero into compact integration cards, a two-column problem/solution comparison, an accordion-and-product-preview feature section, detailed pricing, FAQ rows, and a high-contrast lime conversion band; density increases in the middle sections and relaxes again around the final CTA and footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/adscope/d628eaa8-0259-4816-ad11-db69e3ce98d4-1789106618752.webp",
+  "prompts": [
+    "kage/designs--adscope-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "adscope",
+  "tags": [
+    "search?q=sticky-header",
+    "search?q=hero-dashboard-preview",
+    "search?q=integration-cards",
+    "search?q=comparison-panels",
+    "search?q=feature-accordion",
+    "search?q=pricing-cards",
+    "search?q=faq-accordion",
+    "search?q=lime-cta",
+    "search?q=responsive-product-tour"
+  ],
+  "pageSha256": "30c088deabcdb6123fe105dc4d9aff1d713b2d64491804fd06eb01d64ef6a1de"
+}

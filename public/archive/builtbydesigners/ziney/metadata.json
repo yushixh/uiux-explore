@@ -1,0 +1,22 @@
+{
+  "id": "ziney",
+  "name": "Ziney",
+  "description": "Pick your paper and make a zine: an artsy browser zine editor with a public library of finished issues.",
+  "shortInfo": "An artsy zine editor and library",
+  "url": "https://ziney.app/",
+  "handle": "pauline_makes",
+  "creatorName": "Pauline Wee",
+  "creatorUrl": "https://x.com/pauline_makes",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-09-02",
+  "added": "2026-09-02",
+  "sortOrder": 31,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/ziney/reviewed-1788762530119-ziney-1htcKgu5RzcmoRZfoiK9NO2uN482fe.svg",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/world-time-bestie/avatar-mtq3ackp-U8EsKM2l5JI5Cnwyk8EPjODto63ZIt.jpg",
+  "shot": "/screenshots/ziney.png"
+}

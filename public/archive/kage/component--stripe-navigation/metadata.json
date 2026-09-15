@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stripe-navigation",
+  "source": "kage",
+  "slug": "component--stripe-navigation",
+  "url": "https://kage.design/component/stripe-navigation",
+  "name": "Gradient Backdrop SaaS Navigation by stripe.com",
+  "description": "A crisp, wide desktop navigation bar balances compact brand navigation on the left with high-contrast authentication and conversion actions on the right. A soft diagonal multicolor backdrop adds distinctive energy while the restrained white header surface preserves legibility and hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stripe-com/f883ce83-9776-477f-9170-0bb4400c0ec7-1789067511-0.webp",
+  "prompts": [
+    "kage/component--stripe-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stripe-landing-page",
+  "product": "stripe-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=gradient",
+    "search?q=header"
+  ],
+  "pageSha256": "a18ef981080b671fffaaaa431d780832307a2dd845cdd926ace89e056f03845d"
+}

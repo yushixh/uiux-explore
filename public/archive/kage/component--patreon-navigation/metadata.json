@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--patreon-navigation",
+  "source": "kage",
+  "slug": "component--patreon-navigation",
+  "url": "https://kage.design/component/patreon-navigation",
+  "name": "Transparent creator navigation by patreon.com",
+  "description": "A compact overlay navigation keeps the image-led experience visible while balancing creator links, a centered wordmark, search, login, and a high-contrast signup action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/patreon-com/f09b5697-c1c9-4600-81d4-e7bb56a9df3f-1789146380-0.webp",
+  "prompts": [
+    "kage/component--patreon-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/patreon-landing-page",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=transparent",
+    "search?q=desktop",
+    "search?q=actions"
+  ],
+  "pageSha256": "d0c556451f12599d83d739bd38f3d3ba6efd0a0541d39ccc8ef59a1836f2c39e"
+}

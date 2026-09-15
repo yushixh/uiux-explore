@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--matrix-footer",
+  "source": "vantaui",
+  "slug": "explore--blocks--matrix-footer",
+  "url": "https://www.vantaui.com/explore/blocks/matrix-footer",
+  "name": "Matrix Footer - VantaUI",
+  "description": "Simple footer block with grid lines.",
+  "image": "https://vantaui-registry.vercel.app/blocks/matrix-footer",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "f524b8e7d1bd5d8d448e321aa2db580ac029d68aa14b3b11f9518467b6689a5d"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--datafa-testimonials-3",
+  "source": "kage",
+  "slug": "component--datafa-testimonials-3",
+  "url": "https://kage.design/component/datafa-testimonials-3",
+  "name": "Three-column testimonial strip by datafa.st",
+  "description": "A spacious, low-chrome testimonial row that lets concise customer quotes carry the section, with highlighted phrases creating visual rhythm. Repeated star ratings and compact identity metadata make the proof easy to scan without turning it into heavy cards.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789067841-4.webp",
+  "prompts": [
+    "kage/component--datafa-testimonials-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/datafa-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=editorial"
+  ],
+  "pageSha256": "a38838f44b56adc83ff8fc5d8c270d2907a974cf72bb945bec412a3b5e2d1cc0"
+}

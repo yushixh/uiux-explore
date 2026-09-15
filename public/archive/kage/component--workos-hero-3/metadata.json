@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workos-hero-3",
+  "source": "kage",
+  "slug": "component--workos-hero-3",
+  "url": "https://kage.design/component/workos-hero-3",
+  "name": "Centered enterprise setup hero by workos.com",
+  "description": "This hero works through a restrained, high-trust SaaS layout: a large centered value proposition, one vivid primary action paired with a lower-emphasis video link, and a soft product-interface preview that gives the page technical credibility without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workos-com/c1ef5d6b-8620-4482-aad7-47f439cf35f9-1789073892-6.webp",
+  "prompts": [
+    "kage/component--workos-hero-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-landing-page",
+  "product": "workos-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=enterprise",
+    "search?q=cta"
+  ],
+  "pageSha256": "a5ac056c007403bbcd69ed15bacb9a579c431e417bca6c80e21e749166814f3c"
+}

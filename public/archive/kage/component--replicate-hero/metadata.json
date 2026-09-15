@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--replicate-hero",
+  "source": "kage",
+  "slug": "component--replicate-hero",
+  "url": "https://kage.design/component/replicate-hero",
+  "name": "Gradient API hero with live code preview by replicate.com",
+  "description": "A high-impact developer-tool hero that pairs a concise left-aligned value proposition with a dark primary CTA and an embedded split code-and-output preview. A vivid, soft-focus gradient creates energy behind the content while the restrained navigation and editor chrome keep the section product-focused.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/replicate-com/18021eac-ea1d-469d-8210-9b10eacb77c7-1789073921-1.webp",
+  "prompts": [
+    "kage/component--replicate-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/replicate-landing-page",
+  "product": "replicate-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=gradient",
+    "search?q=code",
+    "search?q=api",
+    "search?q=tabs"
+  ],
+  "pageSha256": "cc3a401ed9a8d8087d62d322c7e005d53fe7d14b95b0de5f41caf1bdcc2b2337"
+}

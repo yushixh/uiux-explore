@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--adscope-navigation",
+  "source": "kage",
+  "slug": "component--adscope-navigation",
+  "url": "https://kage.design/component/adscope-navigation",
+  "name": "Minimal SaaS navigation bar by AdScope",
+  "description": "This header works through restraint: a wide, airy layout, a compact centered link group, and a clear two-level action hierarchy that separates returning users from the primary conversion. A subtle tinted brand mark adds recognition without competing with the navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/adscope/d628eaa8-0259-4816-ad11-db69e3ce98d4-1789106702-0.webp",
+  "prompts": [
+    "kage/component--adscope-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/adscope-landing-page",
+  "product": "adscope",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=header",
+    "search?q=cta"
+  ],
+  "pageSha256": "12373ab0efb960af8a9bad342b3f1a4b1a2033c639de8d431ca4e280ee02eb65"
+}

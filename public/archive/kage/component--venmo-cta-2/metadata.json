@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--venmo-cta-2",
+  "source": "kage",
+  "slug": "component--venmo-cta-2",
+  "url": "https://kage.design/component/venmo-cta-2",
+  "name": "App download CTA by venmo.com",
+  "description": "A bright blue download band uses an oversized centered title, QR code, and tall phone visual to make app acquisition immediately actionable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/venmo-com/e421e2ca-b11c-49c9-b106-d3994196da77-1789146508-5.webp",
+  "prompts": [
+    "kage/component--venmo-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/venmo-landing-page",
+  "product": "venmo-com",
+  "tags": [
+    "search?q=app",
+    "search?q=download",
+    "search?q=mobile"
+  ],
+  "pageSha256": "348050896ee011c5f73bf9fa7ee63dfbf21c0aa02c488e35c3ef56bf1a80e316"
+}

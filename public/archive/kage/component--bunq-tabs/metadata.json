@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bunq-tabs",
+  "source": "kage",
+  "slug": "component--bunq-tabs",
+  "url": "https://kage.design/component/bunq-tabs",
+  "name": "Audience selector tabs by bunq.com",
+  "description": "A large breathing space culminates in a centered segmented selector that switches between audience paths before the business content begins.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bunq-com/4420c8b4-fa9d-40bf-a5d3-de95f2febdf1-1789146830-6.webp",
+  "prompts": [
+    "kage/component--bunq-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bunq-landing-page",
+  "product": "bunq-com",
+  "tags": [
+    "search?q=tabs",
+    "search?q=audience",
+    "search?q=switcher"
+  ],
+  "pageSha256": "58300029bfc2796e776d430d969ca79e0d0f839af12211389725248ea2e6ec47"
+}

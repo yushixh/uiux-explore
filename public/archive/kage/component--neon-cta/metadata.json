@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neon-cta",
+  "source": "kage",
+  "slug": "component--neon-cta",
+  "url": "https://kage.design/component/neon-cta",
+  "name": "Final platform call to action by neon.tech",
+  "description": "A dark closing banner repeats the strongest product promise, adds supporting copy, and provides primary, secondary, and command-style actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neon-tech/ec270806-81ac-4f67-8b23-bd56e790768f-1789141963-9.webp",
+  "prompts": [
+    "kage/component--neon-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neon-empty-state",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=cta",
+    "search?q=dark",
+    "search?q=actions"
+  ],
+  "pageSha256": "4b607de3083bfb68c6405c241373038368b0b09fd1c582569cc16cd5196e88dd"
+}

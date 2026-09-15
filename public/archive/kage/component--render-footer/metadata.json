@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--render-footer",
+  "source": "kage",
+  "slug": "component--render-footer",
+  "url": "https://kage.design/component/render-footer",
+  "name": "Grid-backed multi-column footer by render.com",
+  "description": "This footer works by pairing a dense, highly scannable link directory with a strong dark panel and a restrained grid-and-pixel visual system. The surrounding whitespace, decorative edge fragments, and separate legal/social bar give the component a distinctive branded finish without competing with navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/render-com/a2f1bfec-cff8-46a3-938e-5c68bed6eccd-1789073951-10.webp",
+  "prompts": [
+    "kage/component--render-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/render-landing-page",
+  "product": "render-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=grid",
+    "search?q=dark-mode",
+    "search?q=cta"
+  ],
+  "pageSha256": "e4828532539699d6b6e24f5e5ec7e1f9ea7c8e39941a6b6195c50ffb8a5e1b44"
+}

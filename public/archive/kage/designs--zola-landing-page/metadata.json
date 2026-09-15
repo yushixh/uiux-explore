@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--zola-landing-page",
+  "source": "kage",
+  "slug": "designs--zola-landing-page",
+  "url": "https://kage.design/designs/zola-landing-page",
+  "name": "Zola wedding planning landing page by zola.com",
+  "description": "A warm, editorial consumer landing page that alternates a bright white top with a long deep-teal feature band. Hierarchy is carried by large serif headlines paired with rounded sans body text, and each feature row combines a real photo card with overlaid UI chips so product benefits feel tangible. Accent colours (lavender, pink, mint) rotate per section to keep the long scroll rhythmic without clutter. The page closes with a burgundy detail showcase, an advisor support section, an icon-grid vendor directory, and a link-rich footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/zola-com/ad1936e8-70c2-47e9-b9d5-59869832f93f-1789146275382.webp",
+  "prompts": [
+    "kage/designs--zola-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "zola-com",
+  "tags": [
+    "search?q=full-bleed+hero",
+    "search?q=alternating+feature+rows",
+    "search?q=sticky+sub-nav",
+    "search?q=serif+headlines",
+    "search?q=photo+cards",
+    "search?q=sticky-CTA+rail",
+    "search?q=category+icon+grid"
+  ],
+  "pageSha256": "f44ec9d915d73c353b69ce548dc264f4717b9fa50fb9c505f1d29a3cfb2c8bba"
+}

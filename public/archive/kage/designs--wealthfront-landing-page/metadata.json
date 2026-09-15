@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--wealthfront-landing-page",
+  "source": "kage",
+  "slug": "designs--wealthfront-landing-page",
+  "url": "https://kage.design/designs/wealthfront-landing-page",
+  "name": "Wealthfront homepage — APY-led fintech landing page by wealthfront.com",
+  "description": "A deep-indigo hero built around one oversized APY numeral, softened by an italic-serif counterphrase and a tilted phone mockup with a debit card layered behind it. Below, the page alternates dark and light full-bleed bands — proof stats, mirrored product cards with checklists, photo-based client stories, a dark Forbes pull-quote plus stat row, a light FAQ accordion — so the rhythm is set by background inversion rather than layout changes. Type scale is steep (display numeral ~120px down to 12px disclosures), depth comes from gradients and layered mockups rather than shadows, and the footer swells with regulatory fine print that reads as deliberate fintech credibility.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/wealthfront-com/3e3be85e-7bdd-4e6a-8630-f389b2c5e8da-1789146498501.webp",
+  "prompts": [
+    "kage/designs--wealthfront-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=stats-band",
+    "search?q=phone-mockup",
+    "search?q=client-testimonials",
+    "search?q=faq-accordion",
+    "search?q=serif-italic-accent",
+    "search?q=dark-footer"
+  ],
+  "pageSha256": "9f1e95c46a5e83b77aba9d9f4147fa419b2f631197b7e2e4152c030b3e2158bb"
+}

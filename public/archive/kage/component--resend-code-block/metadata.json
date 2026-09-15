@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resend-code-block",
+  "source": "kage",
+  "slug": "component--resend-code-block",
+  "url": "https://kage.design/component/resend-code-block",
+  "name": "React email development by resend.com",
+  "description": "A framework-oriented feature uses a centered title, supporting copy, paired CTAs, and a large code/editor preview to make the developer path tangible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resend-com/a5fe426a-0829-45e6-9969-dd938a799528-1789141643-7.webp",
+  "prompts": [
+    "kage/component--resend-code-block/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resend-empty-state",
+  "product": "resend-com",
+  "tags": [
+    "search?q=react",
+    "search?q=code-preview",
+    "search?q=cta"
+  ],
+  "pageSha256": "9ef115cf211cb6fac6fb39c45ac75c015801f75d9c425a36219b4c7ace9652e6"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--moji-og-image",
+  "source": "kage",
+  "slug": "designs--moji-og-image",
+  "url": "https://kage.design/designs/moji-og-image",
+  "name": "Moji Open Graph social card by Moji",
+  "description": "A 1200×630 share card split into two zones: a paper-white identity column on the left and a tilted dark-mode app screenshot floating over a sumi-e ink-wash texture on the right. Hierarchy on the left runs brush-drawn mark → red seal stamp → high-contrast serif wordmark → letterspaced caps tagline with one red keyword → a hairline-divided four-icon feature row → repo URL, all locked to a single left margin. The palette is strictly paper white, ink black and seal red (the stamp motif repeats top-left and bottom-right), so the dark UI panel carries all the contrast weight and the card reads instantly at thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/moji/de80257d-ad3e-4889-8cb7-8abf50ee8f4d-1789192950741.webp",
+  "prompts": [
+    "kage/designs--moji-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "moji",
+  "tags": [
+    "search?q=social-card",
+    "search?q=ink-wash",
+    "search?q=serif-wordmark",
+    "search?q=dark-ui-screenshot",
+    "search?q=seal-stamp",
+    "search?q=feature-icons",
+    "search?q=app-promo",
+    "search?q=editorial"
+  ],
+  "pageSha256": "674e330dccb645563d288fcd3870b8cc67c44abde4c6fc1ba7ac2583e61bb2d3"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--posthog-og-image",
+  "source": "kage",
+  "slug": "designs--posthog-og-image",
+  "url": "https://kage.design/designs/posthog-og-image",
+  "name": "PostHog social card — desktop-window composition by posthog.com",
+  "description": "A 1200×630 social card that stages PostHog's desktop-OS landing metaphor: a full-bleed sage-green low-poly landscape with a thin browser-chrome strip and orange CTA pill, plus a floating cream window carrying the lockup, a heavy black headline with a blue selection-highlight phrase, and a nested get-started panel containing a two-tone monospace command chip. Focal order reads wordmark → headline → highlighted phrase → command chip, while small labelled shortcut icons flank the window to sustain the OS conceit. Flat shapes, large radii, a single soft shadow and roughly three colours (sage, cream, ink) keep the card legible even at thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/posthog-com/e03826ba-decc-4369-9fe3-adaf740a85d6-1789060043263.webp",
+  "prompts": [
+    "kage/designs--posthog-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/adscope-og-image",
+  "product": "posthog-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=desktop-os-metaphor",
+    "search?q=floating-window",
+    "search?q=monospace-command-chip",
+    "search?q=highlighted-headline",
+    "search?q=low-poly-illustration",
+    "search?q=cta-pill",
+    "search?q=retro-chrome"
+  ],
+  "pageSha256": "f90d48f0fb121dd21ab334c300297b7dde9b432880638138608c8e4f77aae610"
+}

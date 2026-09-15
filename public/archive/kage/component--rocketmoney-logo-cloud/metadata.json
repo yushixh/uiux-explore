@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--rocketmoney-logo-cloud",
+  "source": "kage",
+  "slug": "component--rocketmoney-logo-cloud",
+  "url": "https://kage.design/component/rocketmoney-logo-cloud",
+  "name": "Member proof and press logos by rocketmoney.com",
+  "description": "An editorial proof section uses a ring of diverse lifestyle images to create warmth around a centered membership claim, then anchors that claim with a small featured-in label and monochrome publication marks.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/rocketmoney-com/33d2822e-a753-4b7c-bf3f-3f514d417ce5-1789146589-2.webp",
+  "prompts": [
+    "kage/component--rocketmoney-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/rocketmoney-landing-page",
+  "product": "rocketmoney-com",
+  "tags": [
+    "search?q=social+proof",
+    "search?q=logos",
+    "search?q=press"
+  ],
+  "pageSha256": "0d6a545485f5d3c5d5df0c3ca2e60df12eb2bdeba2195fc6b6747145901492a1"
+}

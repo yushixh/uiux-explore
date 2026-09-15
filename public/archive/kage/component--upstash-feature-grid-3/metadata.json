@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--upstash-feature-grid-3",
+  "source": "kage",
+  "slug": "component--upstash-feature-grid-3",
+  "url": "https://kage.design/component/upstash-feature-grid-3",
+  "name": "Agent-ready feature card grid by upstash.com",
+  "description": "A calm, editorial feature grid that turns a product’s developer capabilities into three scannable cards. The wide lead card establishes the section’s value while compact cards combine concise benefit copy with practical command snippets, ecosystem badges, and low-friction text links.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/upstash-com/210669b2-56ab-47a0-9be6-e94255ecbd31-1789073748-5.webp",
+  "prompts": [
+    "kage/component--upstash-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/upstash-landing-page",
+  "product": "upstash-com",
+  "tags": [
+    "search?q=feature+grid",
+    "search?q=developer+tools",
+    "search?q=command+line",
+    "search?q=saas"
+  ],
+  "pageSha256": "a0764553e5b49f273960ad4594da1593f0081a84d6760a45196a9e66a7a953ac"
+}

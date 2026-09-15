@@ -1,0 +1,22 @@
+{
+  "id": "byos",
+  "name": "Build Your Own Singaporean",
+  "description": "A modular builder with local hairstyles, clothing, objects, skin tones and brand colours, helping anyone create distinctly Singaporean characters and scenes without design software.",
+  "shortInfo": "Create distinctly Singaporean characters and scenes",
+  "url": "https://byos.gov.sg/",
+  "handle": "rachodoodles",
+  "creatorName": "Rachel",
+  "creatorUrl": "https://x.com/rachodoodles",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2025-01-01",
+  "added": "2026-09-02",
+  "sortOrder": 5,
+  "icon": "/backend/icons/byos.svg",
+  "avatar": "/backend/avatars/byos.jpg",
+  "shot": "/screenshots/byos.jpg"
+}

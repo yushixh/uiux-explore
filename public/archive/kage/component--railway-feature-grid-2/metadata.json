@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--railway-feature-grid-2",
+  "source": "kage",
+  "slug": "component--railway-feature-grid-2",
+  "url": "https://kage.design/component/railway-feature-grid-2",
+  "name": "Guided feature journey grid by railway.com",
+  "description": "This section works by turning a set of platform benefits into a guided vertical journey: each feature block pairs a strong editorial message and compact proof points with a restrained product visualization. A continuous rail, color-coded markers, and alternating atmospheric panels create progression without making the content feel like a conventional card grid.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/railway-com/2043945d-689d-427f-b51d-92aa383b8c92-1789060663-4.webp",
+  "prompts": [
+    "kage/component--railway-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/railway-landing-page",
+  "product": "railway-com",
+  "tags": [
+    "search?q=feature+grid",
+    "search?q=dark+ui",
+    "search?q=product+marketing",
+    "search?q=timeline"
+  ],
+  "pageSha256": "95403d34692abb4c2d21223f9c366adba2c7658e72ad82ae9675b28c2e48e932"
+}

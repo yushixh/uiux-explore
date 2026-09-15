@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fplxi-stats",
+  "source": "kage",
+  "slug": "component--fplxi-stats",
+  "url": "https://kage.design/component/fplxi-stats",
+  "name": "Four-card metrics strip by fplxi.com",
+  "description": "A compact horizontal row of four metric cards creates a fast-scanning proof point section. Consistent card geometry, restrained typography, and one dark emphasis card establish hierarchy without making the strip feel like a dense dashboard.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fplxi-com/54b8421e-1a9f-4884-bebf-8d70ddcd8ef8-1789073156-2.webp",
+  "prompts": [
+    "kage/component--fplxi-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fplxi-landing-page",
+  "product": "fplxi-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=metrics",
+    "search?q=dashboard",
+    "search?q=cards"
+  ],
+  "pageSha256": "e1af4d6f0853155c79ec60c53cdcdd5ad37a07e8dc7b346915ffe00c2d32c682"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--viso-now-footer",
+  "source": "kage",
+  "slug": "component--viso-now-footer",
+  "url": "https://kage.design/component/viso-now-footer",
+  "name": "Dark multi-column conversion footer by Viso Now",
+  "description": "A spacious, high-contrast footer that combines a compact brand and CTA block with organized multi-column navigation. The restrained dark palette, subtle divider, trust badges, social links, and legal row make the section feel credible without competing with the page’s primary content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106577-9.webp",
+  "prompts": [
+    "kage/component--viso-now-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/viso-now-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=footer",
+    "search?q=dark-mode",
+    "search?q=navigation",
+    "search?q=saas"
+  ],
+  "pageSha256": "7bf6bc73c9152bfaec16dcb4e2f4288aad82919c6b372ba6d5fa1e5cb900fa13"
+}

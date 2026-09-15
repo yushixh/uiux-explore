@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mmbl-footer",
+  "source": "kage",
+  "slug": "component--mmbl-footer",
+  "url": "https://kage.design/component/mmbl-footer",
+  "name": "Minimal utility footer by mmbl.io",
+  "description": "A restrained, single-row footer that balances brand presence, supporting copy, a central utility link, and right-aligned legal or platform links. A thin divider and generous dark space give the section a polished, low-noise finish without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mmbl-io/849f4ec6-ce65-4185-a867-71fbc561b804-1789060567-6.webp",
+  "prompts": [
+    "kage/component--mmbl-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mmbl-landing-page",
+  "product": "mmbl-io",
+  "tags": [
+    "search?q=footer",
+    "search?q=minimal",
+    "search?q=dark",
+    "search?q=navigation"
+  ],
+  "pageSha256": "235da86ba310625a756e44609f91dc9918f39687985b297695edf836f6835459"
+}

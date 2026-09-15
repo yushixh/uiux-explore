@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--notion-cta",
+  "source": "kage",
+  "slug": "component--notion-cta",
+  "url": "https://kage.design/component/notion-cta",
+  "name": "Centered split-action CTA by notion.com",
+  "description": "A quiet, high-contrast call-to-action block that creates a clear conversion moment with one bold heading and two adjacent actions: a primary blue button and a softer secondary option. Generous whitespace and restrained styling keep the focus on the decision without making the section feel heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/notion-com/9e072824-4b09-4216-9cff-06c643793f91-1789060360-5.webp",
+  "prompts": [
+    "kage/component--notion-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/notion-landing-page",
+  "product": "notion-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=centered",
+    "search?q=conversion",
+    "search?q=minimal"
+  ],
+  "pageSha256": "037ec7ec4d11f8cead1c0f1c487b6b0b460f225ea7d0f7815470873493e0a257"
+}

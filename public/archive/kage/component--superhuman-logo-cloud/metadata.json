@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--superhuman-logo-cloud",
+  "source": "kage",
+  "slug": "component--superhuman-logo-cloud",
+  "url": "https://kage.design/component/superhuman-logo-cloud",
+  "name": "Trusted logo strip by superhuman.com",
+  "description": "A restrained trust-building logo cloud that uses a centered eyebrow and a single row of evenly sized bordered cells. The monochrome treatment and generous whitespace keep the section quiet, credible, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060754-3.webp",
+  "prompts": [
+    "kage/component--superhuman-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=logos",
+    "search?q=trust",
+    "search?q=brand"
+  ],
+  "pageSha256": "55588bb471a57f38e0a32fc4970ad979cbcf513c93a17a587416e83442f1731f"
+}

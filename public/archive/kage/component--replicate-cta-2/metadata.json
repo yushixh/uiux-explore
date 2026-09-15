@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--replicate-cta-2",
+  "source": "kage",
+  "slug": "component--replicate-cta-2",
+  "url": "https://kage.design/component/replicate-cta-2",
+  "name": "Dark technical feature split by replicate.com",
+  "description": "A high-contrast, editorial feature section pairs abstract data visualizations with concise product messaging in a two-column grid. Fine red rules, oversized negative space, and warm accent typography make the infrastructure story feel technical without becoming dense.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/replicate-com/18021eac-ea1d-469d-8210-9b10eacb77c7-1789073923-5.webp",
+  "prompts": [
+    "kage/component--replicate-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/replicate-landing-page",
+  "product": "replicate-com",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=feature-grid",
+    "search?q=technical",
+    "search?q=editorial"
+  ],
+  "pageSha256": "6fabb705ac75bc9b577edd85f33cdcc62c0d9fef3acf188e83dcdbd42a3f2d9e"
+}

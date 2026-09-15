@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mistral-gallery",
+  "source": "kage",
+  "slug": "component--mistral-gallery",
+  "url": "https://kage.design/component/mistral-gallery",
+  "name": "Split-feature case study carousel by mistral.ai",
+  "description": "A high-impact horizontal gallery pairs one dominant case-study card with a partially visible neighbouring card, creating a clear focal point while signalling more content. Dark image-led cards, restrained metadata, and compact pagination make the section feel premium, browsable, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mistral-ai/b4bd1aa3-e31c-42a6-8066-6d42fc3e7f45-1789073963-3.webp",
+  "prompts": [
+    "kage/component--mistral-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mistral-landing-page",
+  "product": "mistral-ai",
+  "tags": [
+    "search?q=carousel",
+    "search?q=case+studies",
+    "search?q=editorial",
+    "search?q=responsive"
+  ],
+  "pageSha256": "417e24b273ad526e860c21b4c3ab5df3d6403d31ffde23382d1bad926759b963"
+}

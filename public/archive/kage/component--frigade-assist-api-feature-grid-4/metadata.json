@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--frigade-assist-api-feature-grid-4",
+  "source": "kage",
+  "slug": "component--frigade-assist-api-feature-grid-4",
+  "url": "https://kage.design/component/frigade-assist-api-feature-grid-4",
+  "name": "Three-column capability grid by Frigade Assist API",
+  "description": "A restrained three-column feature grid turns broad product value into three scannable outcomes. Small muted eyebrow labels, bold lead sentences, compact supporting copy, and understated arrow links create hierarchy without cards, icons, or visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/frigade-assist-api/d96f9c4b-8236-4442-b795-92795f229d4a-1789106744-6.webp",
+  "prompts": [
+    "kage/component--frigade-assist-api-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/frigade-assist-api-landing-page",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=b2b",
+    "search?q=capabilities"
+  ],
+  "pageSha256": "2d39c1be340c3aa0a9b0048cb13833c0da8c934a8ee436cbcd08194188eddc56"
+}

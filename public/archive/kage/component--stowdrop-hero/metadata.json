@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--stowdrop-hero",
+  "source": "kage",
+  "slug": "component--stowdrop-hero",
+  "url": "https://kage.design/component/stowdrop-hero",
+  "name": "Dark SaaS product hero with live app preview by stowdrop.app",
+  "description": "This hero works by pairing a high-contrast, oversized value proposition with a restrained trust strip, a single primary CTA, and a large interactive-looking product window that proves the promise below the fold. Subtle grid texture, warm ambient glow, and a floating conversational card add depth without competing with the core message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067821-1.webp",
+  "prompts": [
+    "kage/component--stowdrop-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=dark+mode",
+    "search?q=saas+hero",
+    "search?q=product+preview",
+    "search?q=orange+accent",
+    "search?q=mac+app"
+  ],
+  "pageSha256": "3b315eba01c233c9388da87b61379ccdf9f7e91228e5aa1aea9be0fd32b46b47"
+}

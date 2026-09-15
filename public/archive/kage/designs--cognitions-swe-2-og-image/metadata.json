@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--cognitions-swe-2-og-image",
+  "source": "kage",
+  "slug": "designs--cognitions-swe-2-og-image",
+  "url": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "name": "SWE-2 model announcement OG card by Cognition's SWE-2",
+  "description": "A 1200×630 announcement card built almost entirely from one centered lockup on a near-black ground: a small kicker line sits above a huge tightly-tracked grotesque headline paired with a hexagonal logomark. Behind it, a faint white-on-black technical chart — ruler ticks, ruled horizontals and a fan of curves with tiny numerals and mirrored micro-labels — supplies depth without competing for attention. A subtle film-grain overlay and a strict black/white/gray palette make the giant type read as the only real subject.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cognitions-swe-2/606419e4-9cd5-4268-925b-66228e762f06-1789365637424.webp",
+  "prompts": [
+    "kage/designs--cognitions-swe-2-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-og-image",
+  "product": "cognitions-swe-2",
+  "tags": [
+    "search?q=social-card",
+    "search?q=announcement",
+    "search?q=big-type",
+    "search?q=grain",
+    "search?q=technical-chart",
+    "search?q=monochrome",
+    "search?q=kicker"
+  ],
+  "pageSha256": "7b07233174bf8c77ecc5cbc88732030650437eb8f85e280f313c741251f28b8d"
+}

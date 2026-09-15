@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cloudflare-hero",
+  "source": "kage",
+  "slug": "component--cloudflare-hero",
+  "url": "https://kage.design/component/cloudflare-hero",
+  "name": "Orange network hero by cloudflare.com",
+  "description": "A large rounded orange hero uses a centered announcement pill, oversized value proposition, supporting copy, and one high-contrast CTA over a subtle network-like texture.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cloudflare-com/1ca6ff30-a094-43e2-8124-fd26c9356e55-1789213790-1.webp",
+  "prompts": [
+    "kage/component--cloudflare-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "cloudflare-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=orange",
+    "search?q=cta"
+  ],
+  "pageSha256": "a8a8dc340b98aeef5792c55b7775dcbb7cf234d652c80b495751993688822f68"
+}

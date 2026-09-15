@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--plan-matrix",
+  "source": "vantaui",
+  "slug": "explore--blocks--plan-matrix",
+  "url": "https://www.vantaui.com/explore/blocks/plan-matrix",
+  "name": "Plan Matrix - VantaUI",
+  "description": "A structured pricing matrix designed for quick plan comparison with retro grid backdrop",
+  "image": "https://vantaui-registry.vercel.app/blocks/plan-matrix",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "89b15e86d77130615e737ea51334ecb2c05e92a13c7d14e3ea05a4821d3f0f56"
+}

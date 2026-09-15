@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resurf-cta",
+  "source": "kage",
+  "slug": "component--resurf-cta",
+  "url": "https://kage.design/component/resurf-cta",
+  "name": "Download conversion prompt by Resurf",
+  "description": "A simple closing CTA repeats the product promise, provides one strong download action, and adds a small compatibility note without adding competing content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resurf/ff64fde5-ed9d-4c90-b5a1-3641329afaa7-1789365708-6.webp",
+  "prompts": [
+    "kage/component--resurf-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "resurf",
+  "tags": [
+    "search?q=download",
+    "search?q=conversion",
+    "search?q=action"
+  ],
+  "pageSha256": "d220b1f76db3c62dfb871e64beb96bc208e5595e595da5f219f510d7decfea45"
+}

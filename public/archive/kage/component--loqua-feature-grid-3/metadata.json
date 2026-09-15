@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--loqua-feature-grid-3",
+  "source": "kage",
+  "slug": "component--loqua-feature-grid-3",
+  "url": "https://kage.design/component/loqua-feature-grid-3",
+  "name": "Command and hands-free workflows by Loqua",
+  "description": "The lower capability section continues the alternating editorial pattern, emphasizing asking, rewriting, commands, and listening with oversized media blocks and concise explanations.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loqua/e5cf041a-edc7-487a-b4b8-8f4d563da4de-1789192874-5.webp",
+  "prompts": [
+    "kage/component--loqua-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "loqua",
+  "tags": [
+    "search?q=workflow",
+    "search?q=hands-free",
+    "search?q=alternating"
+  ],
+  "pageSha256": "208a1a063a2e768c1656a056fda37367f6336859a5bdac8adbd9019f4a06dec0"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cadenya-hero",
+  "source": "kage",
+  "slug": "component--cadenya-hero",
+  "url": "https://kage.design/component/cadenya-hero",
+  "name": "Floating agent-runtime hero by Cadenya",
+  "description": "The hero pairs an oversized organic product image with a framed explanatory panel and a large serif statement anchored below. The asymmetrical composition creates a memorable focal point while keeping two clear actions visible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192866-1.webp",
+  "prompts": [
+    "kage/component--cadenya-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cadenya-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=hero",
+    "search?q=editorial",
+    "search?q=cta",
+    "search?q=organic"
+  ],
+  "pageSha256": "596e9ea18ef30296568a7c527ac5859cd925dd10771b62c07bb9a940f1b96acf"
+}

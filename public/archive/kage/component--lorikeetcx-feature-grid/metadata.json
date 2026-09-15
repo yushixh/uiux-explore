@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-feature-grid",
+  "source": "kage",
+  "slug": "component--lorikeetcx-feature-grid",
+  "url": "https://kage.design/component/lorikeetcx-feature-grid",
+  "name": "Two-column channel examples by lorikeetcx.ai",
+  "description": "Two side-by-side feature narratives contrast failure-prone conversations with a resolved workflow, using supporting interface mockups as evidence.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142170-5.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=features",
+    "search?q=channels",
+    "search?q=examples"
+  ],
+  "pageSha256": "8ec17d6dd6cef3df85e9f0d83561d4ef840f4abafbea83c0f67c640c0d97aafc"
+}

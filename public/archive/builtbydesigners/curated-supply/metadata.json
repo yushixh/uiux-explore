@@ -1,0 +1,22 @@
+{
+  "id": "curated-supply",
+  "name": "Curated Supply",
+  "description": "A design-led directory of more than 1,000 useful, well-made objects across workspace, carry, coffee, audio and home, selected for material quality, utility and lasting design.",
+  "shortInfo": "Thoughtfully curated, well-made objects",
+  "url": "https://www.curated.supply/",
+  "handle": "justinmfarrugia",
+  "creatorName": "Justin",
+  "creatorUrl": "https://x.com/justinmfarrugia",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Discovery",
+  "categories": [
+    "Discovery"
+  ],
+  "launchDate": "2025-09-09",
+  "added": "2026-08-18",
+  "sortOrder": 11,
+  "icon": "/backend/icons/curated-supply.png",
+  "avatar": "/backend/avatars/curated-supply.jpg",
+  "shot": "/screenshots/curated-supply.jpg"
+}

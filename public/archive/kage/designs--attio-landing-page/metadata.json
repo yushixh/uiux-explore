@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--attio-landing-page",
+  "source": "kage",
+  "slug": "designs--attio-landing-page",
+  "url": "https://kage.design/designs/attio-landing-page",
+  "name": "Attio agentic revenue CRM landing page by attio.com",
+  "description": "A long-form CRM landing page that starts with a bright, spacious hero and progressively moves through product proof, feature modules, and customer evidence before switching into a high-contrast black platform section. The page uses oversized but restrained sans-serif headlines, pale blue-gray product backdrops, hairline grid rules, and dense UI screenshots; the lower half changes rhythm through dark architectural panels, then returns to white for scale metrics, case studies, changelog cards, and a compact newsletter footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060032648.webp",
+  "prompts": [
+    "kage/designs--attio-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=agentic-crm",
+    "search?q=product-ui",
+    "search?q=editorial-layout",
+    "search?q=split-theme",
+    "search?q=thin-borders",
+    "search?q=workflow-diagrams",
+    "search?q=customer-stories"
+  ],
+  "pageSha256": "5523e3ab09f257a064ae496fedfb2698e23a535656cf6796357e5c9cfeb95844"
+}

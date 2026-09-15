@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--betterment-stats",
+  "source": "kage",
+  "slug": "component--betterment-stats",
+  "url": "https://kage.design/component/betterment-stats",
+  "name": "Customer confidence metrics by betterment.com",
+  "description": "A dark navy band presents oversized numeric proof in a horizontal row of light cards, with a small methodology note below.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/betterment-com/48b23e19-a777-4bc7-89e7-1aceabf18629-1789146558-7.webp",
+  "prompts": [
+    "kage/component--betterment-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/betterment-landing-page",
+  "product": "betterment-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=metrics",
+    "search?q=social-proof",
+    "search?q=cards"
+  ],
+  "pageSha256": "f33217333fa3eaf942b14a81a64aeaf446e39cab0fb53f7cca01a12817de06ea"
+}

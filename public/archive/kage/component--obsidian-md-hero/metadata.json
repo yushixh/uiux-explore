@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--obsidian-md-hero",
+  "source": "kage",
+  "slug": "component--obsidian-md-hero",
+  "url": "https://kage.design/component/obsidian-md-hero",
+  "name": "Dark product hero with floating app preview by obsidian.md",
+  "description": "This hero works through a restrained dark canvas, a strong left-aligned message, one vivid primary action, and a large product preview that makes the promise tangible. The overlapping mobile view adds depth and communicates cross-device continuity without competing with the headline.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/obsidian-md/18ba00bf-73a3-4c61-9eb0-f66f69cff1b6-1789060832-1.webp",
+  "prompts": [
+    "kage/component--obsidian-md-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/obsidian-md-landing-page",
+  "product": "obsidian-md",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=hero",
+    "search?q=product-preview",
+    "search?q=saas"
+  ],
+  "pageSha256": "c63140112921e95367d55f9c2808d025c3a3e192cddb037b983337604b0098c8"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--peerspace-feature-grid",
+  "source": "kage",
+  "slug": "component--peerspace-feature-grid",
+  "url": "https://kage.design/component/peerspace-feature-grid",
+  "name": "Activity discovery section by peerspace.com",
+  "description": "A white split layout pairs an activity headline and dense category list with one large vertical image, then closes with a browse button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146240-3.webp",
+  "prompts": [
+    "kage/component--peerspace-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/peerspace-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=activities",
+    "search?q=categories",
+    "search?q=discovery"
+  ],
+  "pageSha256": "92846eb2c77a888edb4e531edef00ccc10b6a083e61d37b84c9203a268b12146"
+}

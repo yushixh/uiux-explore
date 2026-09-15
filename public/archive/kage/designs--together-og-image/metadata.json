@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--together-og-image",
+  "source": "kage",
+  "slug": "designs--together-og-image",
+  "url": "https://kage.design/designs/together-og-image",
+  "name": "together.ai OG social card — gradient cloud hero by together.ai",
+  "description": "A 1200×630 social card that treats its background as light rather than imagery: a hazy sky-blue gradient wash fills the canvas, with a soft blurred 3D curve occupying the right half and a single thin diagonal light streak cutting across it. All content is stacked in one left column — a compact logo lockup (three overlapping lavender, magenta and orange dots beside a black lowercase wordmark) sitting above a two-line headline where the first line is heavy near-black and the second drops to a lighter gray at the same size. The bottom third stays completely empty, which keeps the card legible at thumbnail scale and gives the composition its airy, unhurried rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/together-ai/4e578250-00f4-4b9b-8b8a-92ba9614e2e8-1789073688984.webp",
+  "prompts": [
+    "kage/designs--together-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "together-ai",
+  "tags": [
+    "search?q=social-card",
+    "search?q=logo-lockup",
+    "search?q=bold-headline",
+    "search?q=pastel-gradient",
+    "search?q=blurred-abstract",
+    "search?q=negative-space",
+    "search?q=left-aligned"
+  ],
+  "pageSha256": "077a82473f1425b2c82b2d617b09f3cbc2deb58f46404dbbb39a5a00b0f3a9ab"
+}

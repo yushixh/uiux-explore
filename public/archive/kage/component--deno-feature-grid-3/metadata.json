@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--deno-feature-grid-3",
+  "source": "kage",
+  "slug": "component--deno-feature-grid-3",
+  "url": "https://kage.design/component/deno-feature-grid-3",
+  "name": "Editorial feature grid by deno.com",
+  "description": "A modular feature section that alternates concise product messaging with tactile technical visualizations. It works through strong typographic hierarchy, generous whitespace, soft tonal backgrounds, and a progression from approachable capability to dark, high-contrast security detail.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073866-5.webp",
+  "prompts": [
+    "kage/component--deno-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/deno-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=developer-tools",
+    "search?q=responsive"
+  ],
+  "pageSha256": "fe842a78c607bf232e268ac772dcb7b8aee542170e5d923a37a68c5f210d9e78"
+}

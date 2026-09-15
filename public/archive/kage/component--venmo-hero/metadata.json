@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--venmo-hero",
+  "source": "kage",
+  "slug": "component--venmo-hero",
+  "url": "https://kage.design/component/venmo-hero",
+  "name": "Blue media hero by venmo.com",
+  "description": "A saturated blue hero combines a centered headline and supporting text with a large rounded lifestyle video frame and a floating QR-code affordance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/venmo-com/e421e2ca-b11c-49c9-b106-d3994196da77-1789146507-1.webp",
+  "prompts": [
+    "kage/component--venmo-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/venmo-landing-page",
+  "product": "venmo-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=video",
+    "search?q=qr"
+  ],
+  "pageSha256": "ea00751da0b6d0a205a8c67295a276968becc29ff1c138910e6225d2afc94be0"
+}

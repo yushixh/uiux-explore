@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--loom-og-image",
+  "source": "kage",
+  "slug": "designs--loom-og-image",
+  "url": "https://kage.design/designs/loom-og-image",
+  "name": "Loom Social Card by loom.com",
+  "description": "This social card splits the canvas in two: a solid black left half that carries the wordmark at the top, a bold white headline in the middle, and a quiet URL lockup at the bottom, and a light right half that shows a product video frame with teal UI accents. The 50/50 split creates instant readability at thumbnail size, while the asymmetric placement of the headline keeps the text block feeling editorial rather than boxed. Colour is used sparingly — black, white, and a single teal accent — so the card reads clearly even at very small share sizes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/loom-com/6abb0949-23da-412f-ae85-a063809b1fc5-1789067061973.webp",
+  "prompts": [
+    "kage/designs--loom-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/descript-og-image",
+  "product": "loom-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=split-composition",
+    "search?q=wordmark",
+    "search?q=headline",
+    "search?q=product-imagery",
+    "search?q=teal-accent"
+  ],
+  "pageSha256": "c22a79541836e837a29f8efe39610a471bc226f57189961c5dc6e498fef79a0a"
+}

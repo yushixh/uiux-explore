@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stowdrop-hero-2",
+  "source": "kage",
+  "slug": "component--stowdrop-hero-2",
+  "url": "https://kage.design/component/stowdrop-hero-2",
+  "name": "Immersive product hero with proof section by stowdrop.app",
+  "description": "This section works by pairing a large, cinematic product visual with a restrained dark interface and a lower proof block that turns privacy and performance claims into scannable evidence. The asymmetrical two-column content, warm accent colour, and generous vertical pacing create a premium, technically credible first impression.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067823-6.webp",
+  "prompts": [
+    "kage/component--stowdrop-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=hero+media",
+    "search?q=product+proof",
+    "search?q=editorial+layout"
+  ],
+  "pageSha256": "076f519bfa38cba0663ab27b7bd192d10611698082b16f47171501cdb32362c3"
+}

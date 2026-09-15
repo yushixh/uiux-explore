@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--blinkist-gallery-2",
+  "source": "kage",
+  "slug": "component--blinkist-gallery-2",
+  "url": "https://kage.design/component/blinkist-gallery-2",
+  "name": "Learning wherever you are by blinkist.com",
+  "description": "A lifestyle-focused headline and copy lead into four rounded photographic tiles labeled by everyday context, communicating flexible use across the day.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/blinkist-com/923d3302-3f7c-4bf2-9567-691903266cb3-1789146454-9.webp",
+  "prompts": [
+    "kage/component--blinkist-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/blinkist-landing-page",
+  "product": "blinkist-com",
+  "tags": [
+    "search?q=lifestyle",
+    "search?q=gallery",
+    "search?q=mobile"
+  ],
+  "pageSha256": "eac6d5898f4a1d9dd6b082ce5c30335fa5ddbce70384874527832ea77983c3c0"
+}

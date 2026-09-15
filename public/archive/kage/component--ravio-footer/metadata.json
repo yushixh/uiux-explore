@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ravio-footer",
+  "source": "kage",
+  "slug": "component--ravio-footer",
+  "url": "https://kage.design/component/ravio-footer",
+  "name": "Multi-column site footer by Ravio",
+  "description": "The footer uses a dark background, brand/legal block, multiple organized link columns, and compliance badges to close the information architecture.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ravio/21fc8fab-2ae9-4a70-87c8-10ebee6c9a8e-1789142161-9.webp",
+  "prompts": [
+    "kage/component--ravio-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ravio-landing-page",
+  "product": "ravio",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "e0246464c0dc9e967192e84c0d377ddea26a9a8ebaff7457130c3d27f28a3a14"
+}

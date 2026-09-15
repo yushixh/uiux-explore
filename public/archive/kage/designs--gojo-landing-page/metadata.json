@@ -1,0 +1,28 @@
+{
+  "id": "kage--designs--gojo-landing-page",
+  "source": "kage",
+  "slug": "designs--gojo-landing-page",
+  "url": "https://kage.design/designs/gojo-landing-page",
+  "name": "Gojo landing page — notch utility suite by Gojo",
+  "description": "A calm, utility-led product page... Analysis below in description.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106500045.webp",
+  "prompts": [
+    "kage/designs--gojo-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=macos",
+    "search?q=notch",
+    "search?q=utility",
+    "search?q=feature-alternating",
+    "search?q=app-ui-mockups",
+    "search?q=dark-hero",
+    "search?q=pricing-toggle",
+    "search?q=comparison-alternatives",
+    "search?q=long-form-feature-list"
+  ],
+  "pageSha256": "e19563e724fdeafb72d6d4a132a5542416c0852a2f92d2b616b3459aaaee2b03"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--inngest-landing-page",
+  "source": "kage",
+  "slug": "designs--inngest-landing-page",
+  "url": "https://kage.design/designs/inngest-landing-page",
+  "name": "Inngest landing page — 'Unbreakable Agents, Invisible Infra' by inngest.com",
+  "description": "A near-black developer landing page that leads with typography: an enormous uppercase grotesque headline whose second line drops to outline-only stroke, while floating mono code-callout chips (step.run(), step.waitForEvent()) drift through a particle field. Below the hero the page alternates airy statement sections with dense utilitarian grids — three feature cards with one coral-gradient active tab, a 3×2 durability-primitive grid, a 2×3 use-case grid — all separated by hairline borders on barely-raised panels, with a single coral accent doing all the colour work. The rhythm then shifts through proof (grayscale logo strip, portrait testimonial carousel), explanation (before/after architecture diagram, numbered SDK-step carousel), and trust (throughput line chart, CISO compliance grid), closing with three template quickstart cards and a multi-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/inngest-com/085d18d8-47d3-43b1-92ae-d8bd045a677d-1789073653425.webp",
+  "prompts": [
+    "kage/designs--inngest-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "inngest-com",
+  "tags": [
+    "search?q=dark-theme",
+    "search?q=display-typography",
+    "search?q=particle-background",
+    "search?q=monospace-labels",
+    "search?q=feature-grid",
+    "search?q=testimonial-carousel",
+    "search?q=compliance-grid",
+    "search?q=before-after-diagram"
+  ],
+  "pageSha256": "2335624117872bb1f389d045524282383f95354946e7894255d49540e254bd6e"
+}

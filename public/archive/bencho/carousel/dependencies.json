@@ -1,0 +1,13 @@
+{
+  "dependencies": [],
+  "tokens": [
+    "--bg",
+    "--font-ui",
+    "--ink-rgb",
+    "--lift",
+    "--sway"
+  ],
+  "stubs": [
+    "SHOTS"
+  ]
+}

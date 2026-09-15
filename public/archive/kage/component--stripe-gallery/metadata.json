@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stripe-gallery",
+  "source": "kage",
+  "slug": "component--stripe-gallery",
+  "url": "https://kage.design/component/stripe-gallery",
+  "name": "Platform value proposition with product showcase by stripe.com",
+  "description": "A spacious B2B product section pairs a concise value proposition with a prominent, colorful product visual and three outcome-focused supporting links. The asymmetric split, restrained typography, and layered interface callouts make a complex platform feel tangible without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stripe-com/f883ce83-9776-477f-9170-0bb4400c0ec7-1789067514-6.webp",
+  "prompts": [
+    "kage/component--stripe-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stripe-landing-page",
+  "product": "stripe-com",
+  "tags": [
+    "search?q=saas",
+    "search?q=showcase",
+    "search?q=feature-grid",
+    "search?q=b2b"
+  ],
+  "pageSha256": "48ec29760ec7855a95f82d3d85f553a7c890503b399bc498e43993e8538ec383"
+}

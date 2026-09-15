@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--jackalope-footer",
+  "source": "kage",
+  "slug": "component--jackalope-footer",
+  "url": "https://kage.design/component/jackalope-footer",
+  "name": "Large brand footer by Jackalope",
+  "description": "The footer continues the strong indigo color field with an oversized wordmark treatment, grouped navigation columns, and a compact legal row.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/jackalope/0b3edf93-8385-4e4a-8f92-3c01052ad81d-1789193039-9.webp",
+  "prompts": [
+    "kage/component--jackalope-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/jackalope-landing-page",
+  "product": "jackalope",
+  "tags": [
+    "search?q=footer",
+    "search?q=site-links",
+    "search?q=brand"
+  ],
+  "pageSha256": "d20fc126271acddcce2e3722802682c22853db94fda1c3e63b89f7c73aa1c7c5"
+}

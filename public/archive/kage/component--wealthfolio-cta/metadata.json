@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--wealthfolio-cta",
+  "source": "kage",
+  "slug": "component--wealthfolio-cta",
+  "url": "https://kage.design/component/wealthfolio-cta",
+  "name": "Add-ons showcase CTA by Wealthfolio",
+  "description": "A calm, bordered callout that pairs an overlapping product-preview collage with a compact list of add-ons and one clear browse CTA. The asymmetric composition creates visual interest while the repeated icon-title-description rows make the offering easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfolio/bf50ab71-633d-4b86-816e-5951eb096cd4-1789106474-8.webp",
+  "prompts": [
+    "kage/component--wealthfolio-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfolio-landing-page",
+  "product": "wealthfolio",
+  "tags": [
+    "search?q=cta",
+    "search?q=feature-list",
+    "search?q=product-preview",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "8f052a6deee9b7e3d890265fba7b80a9f965b7183f83e7e6c6150c6d3e2f92fc"
+}

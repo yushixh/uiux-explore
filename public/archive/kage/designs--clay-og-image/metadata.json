@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--clay-og-image",
+  "source": "kage",
+  "slug": "designs--clay-og-image",
+  "url": "https://kage.design/designs/clay-og-image",
+  "name": "Clay social card by clay.com",
+  "description": "A 1200×630 social card uses a bright cyan sky and softly textured green landscape as a full-bleed illustrated backdrop. A dense arrangement of whimsical 3D objects creates the upper focal field, while the lower dark-green gradient clears visual space for a large centered white wordmark paired with a colorful arched icon.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/clay-com/ce4b0cf8-bf15-4191-ac52-305fb90e5e86-1789060074470.webp",
+  "prompts": [
+    "kage/designs--clay-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-og-image",
+  "product": "clay-com",
+  "tags": [
+    "search?q=3d-illustration",
+    "search?q=landscape-scene",
+    "search?q=centered-wordmark",
+    "search?q=textured-gradient",
+    "search?q=playful-objects",
+    "search?q=social-card"
+  ],
+  "pageSha256": "422ef50bc8578d2430092c8fb30cb1e264c88fc5ffe9c08cb1849d4c946be358"
+}

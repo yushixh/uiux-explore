@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--rev-hero",
+  "source": "vantaui",
+  "slug": "explore--blocks--rev-hero",
+  "url": "https://www.vantaui.com/explore/blocks/rev-hero",
+  "name": "Rev Hero - VantaUI",
+  "description": "A clean product hero with an eyebrow, headline, gradient CTA, and auto-rotating feature tabs over a shared background.",
+  "image": "https://vantaui-registry.vercel.app/blocks/rev-hero",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "a8534eb2f49ede1c7f0c35be8577e248e5854822ef3f6530f115e62f20b28371"
+}

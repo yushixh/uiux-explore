@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stowdrop-feature-grid-5",
+  "source": "kage",
+  "slug": "component--stowdrop-feature-grid-5",
+  "url": "https://kage.design/component/stowdrop-feature-grid-5",
+  "name": "Keyboard shortcut feature grid by stowdrop.app",
+  "description": "A spacious, editorial feature section that presents a strong two-column headline and supporting copy above several keyboard-shortcut tables. Fine rules, muted labels, compact keycaps, and orange micro-accents make a dense reference feel calm, premium, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067825-9.webp",
+  "prompts": [
+    "kage/component--stowdrop-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=feature+grid",
+    "search?q=keyboard",
+    "search?q=documentation"
+  ],
+  "pageSha256": "81df461f0646f82c1f75788660405e905d62c29eb308fafcac932fc41702b25d"
+}

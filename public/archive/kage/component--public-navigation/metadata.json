@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--public-navigation",
+  "source": "kage",
+  "slug": "component--public-navigation",
+  "url": "https://kage.design/component/public-navigation",
+  "name": "Minimal brokerage navigation by public.com",
+  "description": "A compact white header establishes the brand, exposes a small set of topical links, and keeps sign-in and sign-up actions persistently visible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/public-com/cb41c975-325f-4844-b439-84e9d28bd7b7-1789146533-0.webp",
+  "prompts": [
+    "kage/component--public-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/public-landing-page",
+  "product": "public-com",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=account+access"
+  ],
+  "pageSha256": "7b5f32e7977ebf70200177f29902b5662c2a4ee24fafef1a9887a9530d19cb9c"
+}

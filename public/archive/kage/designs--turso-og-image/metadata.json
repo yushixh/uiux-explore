@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--turso-og-image",
+  "source": "kage",
+  "slug": "designs--turso-og-image",
+  "url": "https://kage.design/designs/turso-og-image",
+  "name": "Turso Open Graph social card by turso.tech",
+  "description": "A 1200×630 share card built on a single centred axis: a small mint mascot-plus-wordmark lockup sits at the top, and a three-line stacked headline fills the middle with two key words picked out in mint green against a near-black navy field. The type is an extremely heavy geometric sans at roughly 110px with tight line-height, so the card stays legible at thumbnail size. Everything else is suppressed — no URL, buttons or imagery — letting the negative space make the two-colour headline the entire message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/turso-tech/acb1b1db-bae8-4cb9-8205-3a0be91cc9f3-1789073643947.webp",
+  "prompts": [
+    "kage/designs--turso-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=social-card",
+    "search?q=centered-composition",
+    "search?q=wordmark-lockup",
+    "search?q=heavy-type",
+    "search?q=mint-accent",
+    "search?q=negative-space",
+    "search?q=two-tone-headline"
+  ],
+  "pageSha256": "ea556f1612341ad9a6763696b775dbada077f9426dc02f18215c0d594c3f5b63"
+}

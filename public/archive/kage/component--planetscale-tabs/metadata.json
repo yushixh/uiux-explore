@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--planetscale-tabs",
+  "source": "kage",
+  "slug": "component--planetscale-tabs",
+  "url": "https://kage.design/component/planetscale-tabs",
+  "name": "Editorial technical tabs by planetscale.com",
+  "description": "A restrained, documentation-style tab panel that uses a strong black active state, thin rules, and dense monospace typography to organize technical product narratives. The large bordered content area supports rich explanatory copy, diagrams, and a supporting quote without feeling like a marketing card.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/planetscale-com/b4abfdd8-cd39-4289-8914-c1bd40d118b4-1789060672-4.webp",
+  "prompts": [
+    "kage/component--planetscale-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/planetscale-landing-page",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=tabs",
+    "search?q=editorial",
+    "search?q=technical",
+    "search?q=monospace"
+  ],
+  "pageSha256": "f9008d5118b3ff5f71e3e4312b64ca770e6cc96506fcf42e461ce80a514c9475"
+}

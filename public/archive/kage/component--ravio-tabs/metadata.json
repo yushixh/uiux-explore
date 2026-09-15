@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ravio-tabs",
+  "source": "kage",
+  "slug": "component--ravio-tabs",
+  "url": "https://kage.design/component/ravio-tabs",
+  "name": "Product preview tabs by Ravio",
+  "description": "A tab strip introduces product capabilities above a large pale-blue product interface preview, making the software tangible before the next content block.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ravio/21fc8fab-2ae9-4a70-87c8-10ebee6c9a8e-1789142159-2.webp",
+  "prompts": [
+    "kage/component--ravio-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ravio-landing-page",
+  "product": "ravio",
+  "tags": [
+    "search?q=tabs",
+    "search?q=product",
+    "search?q=preview"
+  ],
+  "pageSha256": "09cc465983103ab06b67f01c5dd35e4435c5564ebac14b9bd02c3e3b8b8e1c96"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neon-logo-cloud",
+  "source": "kage",
+  "slug": "component--neon-logo-cloud",
+  "url": "https://kage.design/component/neon-logo-cloud",
+  "name": "Customer logo strip by neon.tech",
+  "description": "A restrained divider and a single row of subdued customer marks provide social proof without interrupting the dark visual system.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neon-tech/ec270806-81ac-4f67-8b23-bd56e790768f-1789141961-2.webp",
+  "prompts": [
+    "kage/component--neon-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neon-empty-state",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=logos",
+    "search?q=trust",
+    "search?q=monochrome"
+  ],
+  "pageSha256": "76ae0e8256690c5764d48d4775d353d70b9a8ee14fadb091bbfe2d0660c36d22"
+}

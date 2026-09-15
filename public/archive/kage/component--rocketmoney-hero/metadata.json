@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--rocketmoney-hero",
+  "source": "kage",
+  "slug": "component--rocketmoney-hero",
+  "url": "https://kage.design/component/rocketmoney-hero",
+  "name": "Product introduction hero by rocketmoney.com",
+  "description": "The hero combines a large promise-led headline and explanatory copy with one decisive CTA, while a large app mockup supplies immediate product proof. A soft gray rounded panel visually contains the composition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/rocketmoney-com/33d2822e-a753-4b7c-bf3f-3f514d417ce5-1789146589-1.webp",
+  "prompts": [
+    "kage/component--rocketmoney-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/rocketmoney-landing-page",
+  "product": "rocketmoney-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=product",
+    "search?q=cta"
+  ],
+  "pageSha256": "a9daec131c251d37ef5545242a39ef181e7ce5343ee5a1a8b6922c9a343750dc"
+}

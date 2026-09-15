@@ -1,0 +1,2283 @@
+[
+  {
+    "id": "magnet-select",
+    "name": "Magnetic select",
+    "rich": true,
+    "cat": "Select",
+    "kind": "Select",
+    "stroke": true,
+    "css": "/* ONE decision, and the rest is arithmetic. GROW is the knob.\n   ROOM is the space the swell physically takes on every side —\n   half the extra width, exactly — so the neighbours are never\n   merely NEAR clear of it. AURA is the part that is not\n   arithmetic: the push beyond what the geometry demands, which\n   is the difference between a cluster making room and a\n   cluster being repelled. */\nconst grow = 1.16 + 0.22 * pull;\nconst room = CHIP * (grow - 1) / 2;\nconst aura = 3 + 9 * pull;\n\n/* And the shove is a VECTOR, which is the whole reason these\n   are a cluster and not a row. In a line the direction reduces\n   to a sign and every chip is pushed along the same axis\n   whatever its actual relationship to the one you pressed;\n   here each one goes the way it lies. The aura decays with\n   real distance — exp() rather than 1/d, because an inverse\n   law is violent at the first neighbour and flat everywhere\n   after. */\nconst dx = p.x - sel.x, dy = p.y - sel.y;\nconst gap = Math.hypot(dx, dy), far = gap / PITCH;\nconst fall = Math.exp(-(far - 1) / 1.8);\nconst push = room + aura * fall;\n\n/* The selected chip goes WIDE BEFORE IT GOES TALL: two springs\n   at different stiffnesses rather than one scale, so the\n   transient is anisotropic and the rest state is not. That is\n   the whole of the jelly, and it is four numbers rather than a\n   keyframe track — which matters, because a keyframed squash\n   is the same squash at every bounce setting and this one is\n   not there at all when the spring is critically damped. The\n   far chips are 22ms late per step, which is what makes it a\n   force travelling outward rather than a layout changing all\n   at once. */\nanimate={{ x: (dx / gap) * push, y: (dy / gap) * push,\n           scaleX: s, scaleY: s, rotate: (dx / gap) * tilt * fall }}\ntransition={{\n  x:      { ...swing(k),        delay: far * 0.022 },\n  scaleX: { ...swing(k * 1.24), delay: far * 0.022 },\n  scaleY: { ...swing(k * 0.86), delay: far * 0.022 },\n}}\n\n/* The hover is NOT any of this. It lives on an inner element\n   with a CSS transform, because CSS scale and transform are\n   applied in sequence rather than folded together and a rule\n   here would fight the spring above every frame. Two elements,\n   two transforms — and it buys the hover its own curve, which\n   it needs: the field springs, a hover must not. Same 1.045\n   and the same 260ms as the search block, small enough to be\n   felt rather than seen. */",
+    "params": [
+      {
+        "id": "pull",
+        "label": "Pull",
+        "hint": "how hard the selected one pushes the rest away",
+        "kind": "range",
+        "group": "feel",
+        "default": 55,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      },
+      {
+        "id": "bounce",
+        "label": "Bounce",
+        "kind": "range",
+        "group": "feel",
+        "default": 55,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      },
+      {
+        "id": "give",
+        "label": "Give",
+        "hint": "how far a chip leans toward the cursor",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      },
+      {
+        "id": "size",
+        "label": "Size",
+        "hint": "three options, or seven",
+        "kind": "choice",
+        "group": "form",
+        "default": "Large",
+        "options": [
+          "Small",
+          "Large"
+        ]
+      }
+    ],
+    "demo": [
+      {
+        "to": {
+          "sel": ".mag-chip",
+          "i": 1
+        },
+        "ms": 560
+      },
+      {
+        "act": "down",
+        "ms": 130
+      },
+      {
+        "act": "up",
+        "ms": 1000
+      },
+      {
+        "to": {
+          "sel": ".mag-chip",
+          "i": 0
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 130
+      },
+      {
+        "act": "up",
+        "ms": 1200
+      }
+    ]
+  },
+  {
+    "id": "slide-confirm",
+    "name": "Slide to confirm",
+    "cat": "Drag",
+    "kind": "Drag",
+    "demo": [
+      {
+        "to": {
+          "sel": ".sld-grip"
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 180
+      },
+      {
+        "to": {
+          "sel": ".sld-track",
+          "x": 0.42
+        },
+        "ms": 460
+      },
+      {
+        "to": {
+          "sel": ".sld-track",
+          "x": 0.96
+        },
+        "ms": 520
+      },
+      {
+        "act": "up",
+        "ms": 1800
+      }
+    ],
+    "fill": true,
+    "stroke": true,
+    "css": "/* The handle follows the finger exactly and the offset is\n   taken at the FIRST MOVE, never at the press. Deciding it on\n   pointerdown is what makes a slider teleport: a press away\n   from the handle sets the offset to the handle's own middle\n   and the first move jumps it the whole way in one frame. */\nconst move = (e) => {\n  const at = local(e.clientX);\n  if (grab === null) { grab = at - x.get(); return; }\n  x.set(clamp(at - grab, 0, TRAVEL));\n};\n\n/* And the commit is a MORPH, not a hand-over. The handle's\n   width and its offset move together and by the same amount,\n   so the right edge is stationary and the handle opens out\n   behind itself to fill the track it crossed. A scale would\n   have dragged the corner radius with it. */\nanimate(x, TRAVEL, spring);\nsetDone(true);          /* width: GRIP -> span - PAD * 2 */",
+    "params": [
+      {
+        "id": "width",
+        "label": "Width",
+        "hint": "the track's length — the handle keeps its size",
+        "kind": "range",
+        "group": "form",
+        "default": 280,
+        "min": 220,
+        "max": 380,
+        "step": 4,
+        "unit": "px"
+      },
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 28,
+        "min": 0,
+        "max": 28,
+        "step": 1,
+        "unit": "px"
+      },
+      {
+        "id": "speed",
+        "label": "Speed",
+        "hint": "how fast it takes over once you let go",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      }
+    ]
+  },
+  {
+    "id": "picker",
+    "rich": true,
+    "name": "Assignees",
+    "cat": "Select",
+    "kind": "Select",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".pik-row",
+          "i": 2
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 120
+      },
+      {
+        "act": "up",
+        "ms": 620
+      },
+      {
+        "to": {
+          "sel": ".pik-row",
+          "i": 3
+        },
+        "ms": 300
+      },
+      {
+        "act": "down",
+        "ms": 120
+      },
+      {
+        "act": "up",
+        "ms": 1000
+      },
+      {
+        "to": {
+          "sel": ".pik-row",
+          "i": 3
+        },
+        "ms": 240
+      },
+      {
+        "act": "down",
+        "ms": 110
+      },
+      {
+        "act": "up",
+        "ms": 420
+      },
+      {
+        "to": {
+          "sel": ".pik-row",
+          "i": 2
+        },
+        "ms": 240
+      },
+      {
+        "act": "down",
+        "ms": 110
+      },
+      {
+        "act": "up",
+        "ms": 900
+      }
+    ],
+    "css": "/* The pill grows because one number changes: the width\n   of the rail the faces sit in. They are absolutely placed\n   inside it, so nobody moves when somebody arrives — there is\n   simply more room, and CSS carries the width across.\n\n   Worked out rather than measured. Every block on this bench\n   is drawn at a fraction of its own size, and a layout\n   animation that measures screen rectangles gets a different\n   answer at every zoom. Arithmetic gets the same one. */\nconst rail = picked.length\n  ? FACE + (picked.length - 1) * (FACE - overlap)\n  : 0;\n\n.pik-rail {\n  position: relative;\n  transition: width 300ms cubic-bezier(0.33, 0.55, 0.2, 1);\n}\n.pik-face {\n  position: absolute;\n  transform: translateX(/* i * (FACE - overlap) */);\n  /* the gap between two faces is the CARD's colour, not white,\n     or the stack grows a halo in dark mode */\n  box-shadow: 0 0 0 2px var(--fill-slab, var(--card));\n}\n\n/* ── Grid ─────────────────────────────────────────────────\n   The same four faces packed into the footprint of ONE, so\n   the pill does not grow at all. Nothing overlaps, which is\n   the point: a row hides parts of faces behind other faces,\n   the quad shows all of every face and pays in size.\n\n   The box does not fill up — it SUBDIVIDES. One face is the\n   whole box, four are a quarter each, and three fill reading\n   order and leave the last cell empty: the quad is four fixed\n   slots, so three people occupy three of them.\n\n   Placed by transform, not by left/top/width/height, so a\n   face changing arrangement travels instead of teleporting —\n   one vector and one scale describe both layouts. */\nconst cell = (FACE - gutter) / 2;\nconst scale = cell / FACE;",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 22,
+        "min": 0,
+        "max": 26,
+        "step": 1,
+        "unit": "px"
+      },
+      {
+        "id": "stack",
+        "label": "Stack",
+        "hint": "a growing row, or four packed into the width of one",
+        "kind": "choice",
+        "group": "form",
+        "default": "Row",
+        "options": [
+          "Row",
+          "Grid"
+        ]
+      },
+      {
+        "id": "overlap",
+        "label": "Overlap",
+        "hint": "how far the faces stack over each other",
+        "kind": "range",
+        "group": "form",
+        "default": 10,
+        "min": 0,
+        "max": 22,
+        "step": 1,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "id": "checklist",
+    "name": "Checklist",
+    "cat": "Press",
+    "kind": "Press",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".chk-row",
+          "i": 0
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 120
+      },
+      {
+        "act": "up",
+        "ms": 520
+      },
+      {
+        "to": {
+          "sel": ".chk-row",
+          "i": 1
+        },
+        "ms": 300
+      },
+      {
+        "act": "down",
+        "ms": 120
+      },
+      {
+        "act": "up",
+        "ms": 520
+      },
+      {
+        "to": {
+          "sel": ".chk-row",
+          "i": 2
+        },
+        "ms": 300
+      },
+      {
+        "act": "down",
+        "ms": 120
+      },
+      {
+        "act": "up",
+        "ms": 1700
+      }
+    ],
+    "css": "/* ONE SPRING PER ROW, AND EVERYTHING IS READ OFF IT. The\n   box filling, the tick drawing, the rule crossing the words\n   and the words giving up their ink are four readings of a\n   single number, not four things animated toward the same\n   moment. Four transitions is four chances for one to arrive\n   early and break the illusion that this is one event. */\nconst t = useSpring(on ? 1 : 0, bounce);\n\n/* WHERE THE OVERSHOOT IS ALLOWED, AND WHERE IT IS NOT. A\n   spring goes past its target and comes back, which is what\n   makes a check feel like a press — but only some of these\n   survive it. The fill takes the raw value and swells past\n   full. The tick and the rule take it CLAMPED: a tick that\n   overshoots draws itself past its own end and pulls back,\n   which is a glitch rather than a bounce. One spring, two\n   readings, and the difference is one clamp. */\ntransform: `scale(${t})`            /* raw    */\nstrokeDashoffset={1 - clamp(t, 0, 1)} /* clamped */\n\n/* THE TICK IS DRAWN, NOT FADED. pathLength=\"1\" normalises the\n   dash to the stroke's own length, so the offset is a\n   fraction rather than a number measured off this particular\n   path — change the checkmark and nothing else has to know. */\n<path d=\"M6 12.4 L10.3 16.7 L18 7.6\" pathLength={1}\n      strokeDasharray={1} strokeDashoffset={1 - t} />\n\n/* THE RULE FOLLOWS THE TICK, IT DOES NOT RACE IT. A window on\n   the same number rather than a second timer, so there is\n   nothing to keep in step. Started together they read as one\n   wipe across the row; started apart they read as cause and\n   effect. */\nconst cut = clamp((t - 0.12) / 0.72, 0, 1);\n\n/* AND IT IS SCALED, NOT GROWN. A width in pixels needs the\n   word measured; scaleX from the left edge needs nothing, and\n   a 1.5px line has no corner for a scale to distort. The span\n   is sized to the WORDS rather than the row, so the rule\n   stops where the text does. */\ntransform: `scaleX(${cut})`\n\n/* AND FINISHING THE LIST TAKES THE FLOOR OUT FROM UNDER IT.\n   Not a state — every task ticked IS the finish, so unticking\n   one during the three seconds makes this false on the same\n   render and the rows climb back without anything having to\n   remember that they had fallen. */\nconst fell = done.every(Boolean);\n\n/* Down is a duration with gravity's shape in it — it starts at\n   nothing and gains, which is what easeIn is — and the fourth\n   keyframe is the rebound, which is the difference between\n   landing and being placed. Up is a SPRING, because coming\n   back is the list reasserting itself rather than anything\n   being dropped, and because a spring interrupts cleanly:\n   untick a task halfway through the fall and the row is picked\n   up from wherever it had got to. */\nanimate={fell ? { y: [0, drop, drop - 9, drop], rotate: tilt }\n              : { y: 0, rotate: 0 }}\ntransition={fell ? { duration: 0.62, delay: wait,\n                     times: [0, 0.66, 0.84, 1],\n                     ease: [\"easeIn\", \"easeOut\", \"easeIn\"] }\n                 : { type: \"spring\", stiffness: 420, damping: 26 }}\n\n/* Every row falls the SAME distance, because the heap keeps\n   the spacing the list had — three touching blocks losing\n   their support fall together. So the sequence comes from when\n   they let go rather than how far they travel: the bottom row\n   first, 45ms apart, which is a stack collapsing from\n   underneath. */\n\n/* THE FILL OPENS FROM THE MIDDLE, inside a ring that never\n   changes. A checkbox that swaps its background is a\n   different colour arriving; one whose fill grows out of the\n   centre is the box being filled in, which is what the word\n   means. */",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 18,
+        "min": 0,
+        "max": 40,
+        "step": 2,
+        "unit": "px"
+      },
+      {
+        "id": "box",
+        "label": "Box",
+        "hint": "the checkbox",
+        "kind": "range",
+        "group": "form",
+        "default": 18,
+        "min": 14,
+        "max": 28,
+        "step": 1,
+        "unit": "px"
+      },
+      {
+        "id": "bounce",
+        "label": "Bounce",
+        "hint": "how far the box swells past full",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      }
+    ]
+  },
+  {
+    "id": "carousel",
+    "rich": true,
+    "name": "Carousel",
+    "cat": "Swipe",
+    "kind": "Swipe",
+    "fill": false,
+    "stroke": false,
+    "demo": [
+      {
+        "to": {
+          "sel": ".car-track",
+          "x": 0.7,
+          "y": 0.5
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 160
+      },
+      {
+        "to": {
+          "sel": ".car-track",
+          "x": 0.24,
+          "y": 0.44
+        },
+        "ms": 340
+      },
+      {
+        "act": "up",
+        "ms": 1300
+      }
+    ],
+    "css": "/* NOTHING EVER LEAVES THE FRAME, and that is the whole\n   arrangement. This was a row twice — cards in a line, the\n   ones at the ends either dissolving into a mask or cut by\n   the edge of a box — and both are answers to the same\n   question: what happens to a card when it runs out of block?\n   A ring does not ask it. The furthest a card gets is the\n   radius, which is a number the component chose. */\nconst th = (i - turn) * (Math.PI * 2 / n);\nconst f  = (Math.cos(th) + 1) / 2;   /* 1 front, 0 back */\nconst x  = Math.sin(th) * orbit;\nconst s  = mix(backScale, 1, f);\n\n/* IT IS THEREFORE ENDLESS. A row has a first card and a last\n   one and has to decide what to do at each; a ring has\n   neither, so the swipe never runs out and never rubber-bands.\n   Swipe once and the front card shrinks and goes to the back\n   while the next comes forward — which falls out of the\n   geometry rather than being animated on top of it. */\n\n/* AND THE ANGLE IS NOT TAKEN MODULO ANYTHING. Wrapping turn\n   to 0..360 sends a card the long way round the moment it\n   crosses the seam, which is the one visible bug this\n   arrangement can have. */\nturn.current = turn0 - dx / PULL;   /* no clamp, no wrap */\n\n/* THE BACK OF THE RING RIDES UP. Scale alone says smaller,\n   which reads as further away OR as literally smaller; a card\n   that also lifts as it recedes is unmistakably going back,\n   because that is what a ring seen from slightly above does.\n   One term, and most of what makes the depth read. */\nconst y = -(1 - f) * 22;\n\n/* PAINT ORDER IS A Z-INDEX, BY HAND. Everything here is 2D —\n   scale and offset, not translateZ — so nothing sorts itself\n   and a card would paint in DOM order over the one in front\n   of it. f already knows which is nearer. */\nconst z = Math.round(f * 100);\n\n/* THREE MOTIONS, THREE ELEMENTS, ONE TRANSFORM EACH. The slot\n   carries the ring, the floater the drift, the card the tilt.\n   One node cannot be written by three authors — a drag, a CSS\n   animation and a pair of springs — without one losing. */\n<div className=\"slot\">      /* placed by the drag  */\n  <div className=\"float\">   /* keyframes, untouched */\n    <div className=\"card\" />/* sprung by the pointer */\n\n/* IT SINKS, IT DOES NOT LIFT. Every tilt card rotates TOWARD\n   the cursor; this one goes away under it. One minus sign,\n   and it is the difference between a surface being displayed\n   to you and one being touched. */\nconst rx = -ny * max;\nconst ry =  nx * max;",
+    "params": [
+      {
+        "id": "spread",
+        "label": "Spread",
+        "hint": "how far round the ring reaches",
+        "kind": "range",
+        "group": "form",
+        "default": 138,
+        "min": 110,
+        "max": 150,
+        "step": 2,
+        "unit": "px"
+      },
+      {
+        "id": "depth",
+        "label": "Depth",
+        "hint": "how much smaller the back gets",
+        "kind": "range",
+        "group": "form",
+        "default": 100,
+        "min": 0,
+        "max": 150,
+        "step": 5
+      },
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 18,
+        "min": 0,
+        "max": 40,
+        "step": 2,
+        "unit": "px"
+      },
+      {
+        "id": "float",
+        "label": "Float",
+        "hint": "how much they drift at rest",
+        "kind": "range",
+        "group": "feel",
+        "default": 15,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      },
+      {
+        "id": "sink",
+        "label": "Sink",
+        "hint": "how deep the pointer presses",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      },
+      {
+        "id": "settle",
+        "label": "Settle",
+        "hint": "how quickly a throw lands",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      }
+    ]
+  },
+  {
+    "id": "palette",
+    "rich": true,
+    "name": "Palette",
+    "cat": "Press",
+    "kind": "Press",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".pal-go"
+        },
+        "ms": 560
+      },
+      {
+        "act": "down",
+        "ms": 150
+      },
+      {
+        "act": "up",
+        "ms": 1500
+      },
+      {
+        "act": "down",
+        "ms": 150
+      },
+      {
+        "act": "up",
+        "ms": 1600
+      }
+    ],
+    "css": "/* THE COLOURS ARE PICKED IN OKLCH, which is the whole\n   difference between this and the random-hex generator\n   everybody writes first. In HSL, \"lightness\" is a lie:\n   hsl(60 90% 50%) is a bright yellow and hsl(240 90% 50%) is\n   a near-black blue — at the same number. A palette built by\n   holding L and stepping the hue comes out with one swatch\n   that glows and one you can barely see.\n\n   OKLCH is perceptually uniform, so a ramp written in it is a\n   ramp you can actually see. Generated there, converted to\n   hex on the way out, because hex is what somebody wants to\n   paste into their own file. */\n\n/* AND THEY ARE A RAMP, NOT A SPIN. Four random hues do not\n   make a palette however even their lightness is. What makes\n   a set look chosen is that it agrees about one thing and\n   varies another: these hold a hue family and ramp the\n   lightness across it, which is what a person does by hand. */\nconst L = 0.9 - p * 0.5;                        /* light to deep */\nconst C = 0.05 + Math.sin(p * Math.PI) * 0.105; /* vivid in the middle */\nconst H = base + i * step;                      /* 16-34 degrees apart */\n\n/* CHROMA PEAKS IN THE MIDDLE rather than being held flat, for\n   the same reason a very light and a very dark colour cannot\n   be vivid: there is no room left in the gamut, and asking\n   for it is what makes generated palettes go chalky at one\n   end and muddy at the other. */\n\n/* ONE SET IN THREE GETS AN ACCENT — the last swatch jumps to\n   the far side of the wheel. A ramp on its own is tasteful and\n   slightly dull, and the odd complement is what stops a run of\n   generated sets feeling like one set regenerated. */\n\n/* THE SWAP IS HIDDEN, and that is the whole motion. Each\n   swatch draws into a circle and the colour changes at the\n   top of that — the frame there is least of it to look at —\n   then it spreads back into its slot. You never see a\n   crossfade because there is nothing to cross. A palette that\n   dissolved from old to new would show you every muddy colour\n   in between, and none of those are in either palette. */\nconst d = swellOf(t);                     /* 0 at rest, 1 drawn in */\nconst shown = t >= 0.4 ? next[i] : now[i];\n\n/* AND THEY ALL GO AT ONCE. The obvious version staggers them,\n   so the change travels along the bar — which looks good and\n   says the wrong thing. A wave says these are a sequence and\n   that one caused the next. They are a set, and one press\n   replaced all of them in the same instant. */\n\n/* THE BLUR RIDES THE MOTION AND IS ZERO AT REST. It has to\n   be: an alpha-contrast filter blurs everything under it, so\n   a standing blur smears neighbouring colours into one\n   gradient. Because every swatch is a single solid colour at\n   every frame, the filter can only ever bridge the GAP\n   between two of them — which is liquid. Blur applied inside\n   a colour is just smear. */\nconst heat = Math.sin(Math.PI * t) * 5;",
+    "params": [
+      {
+        "id": "count",
+        "label": "Colours",
+        "hint": "how many in the set",
+        "kind": "range",
+        "group": "form",
+        "default": 4,
+        "min": 3,
+        "max": 5,
+        "step": 1
+      },
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 14,
+        "min": 0,
+        "max": 29,
+        "step": 1,
+        "unit": "px"
+      },
+      {
+        "id": "morph",
+        "label": "Morph",
+        "hint": "how quickly a colour changes",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      }
+    ]
+  },
+  {
+    "id": "aspect",
+    "rich": true,
+    "name": "Aspect ratio",
+    "cat": "Select",
+    "kind": "Select",
+    "fill": false,
+    "stroke": false,
+    "demo": [
+      {
+        "to": {
+          "sel": ".asp-tab",
+          "i": 2
+        },
+        "ms": 620
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 1000
+      },
+      {
+        "to": {
+          "sel": ".asp-tab",
+          "i": 0
+        },
+        "ms": 560
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 1000
+      },
+      {
+        "to": {
+          "sel": ".asp-tab",
+          "i": 1
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 900
+      }
+    ],
+    "css": "/* THE THREE FORMATS HAVE THE SAME AREA, and that is the\n   whole idea. The common build fixes the width and lets the\n   height do whatever the ratio says — which makes the\n   landscape a third of the portrait, so switching feels like\n   the picture GREW rather than like it was cropped.\n\n   Equal area is what a crop actually is: the same amount of\n   picture, held a different way. Within 0.02% across all\n   three, and every shape fits inside one 276 square, so the\n   block's bounding box never changes and the wall cannot\n   rescale it mid-move. */\nland   276 x 207     /* 4:3 */\nsquare 239 x 239     /* 1:1 */\ntall   207 x 276     /* 3:4 */\n\n/* WIDTH AND HEIGHT, NEVER A SCALE. The same rule the detail\n   overlay's block follows and for the same reason: a scaled\n   box drags its corner radius with it, and the corner has to\n   read as the same rounded frame throughout rather than as a\n   rectangle being stretched. */\ntransition: width 520ms cubic-bezier(0.22, 1, 0.36, 1),\n            height 520ms cubic-bezier(0.22, 1, 0.36, 1);\n\n/* COVER is what keeps the picture undistorted while the frame\n   moves, so this reads as a crop changing — which is what it\n   is — rather than as an image being squashed. Contain would\n   letterbox it and fill would stretch it. The source is 3:4\n   and is not cropped in the file, so one picture makes all\n   three and the portrait tab is the whole illustration. */\nbackground-size: cover;\nbackground-position: center;\n\n/* THE STAGE IS THE FULL SQUARE and never changes size, so the\n   picture is centred in a box that is not moving. Sizing the\n   stage to the picture instead makes the tabs below it climb\n   and drop as the shape changes — the one thing here with no\n   business moving. */\n\n/* ONE THUMB SLIDING, not three backgrounds fading. A fill\n   that appears under the new tab while another disappears is\n   two events; a thumb that travels is one, and it is the one\n   that says these three are positions of the same control.\n\n   And it LEADS: its duration is a fraction of the picture's\n   rather than a number of its own. A control that takes as\n   long as the thing it controls feels like it did not hear\n   you; one that arrives first reads as the cause of what\n   follows. */\ntransition: transform calc(var(--asp-ms) * 0.55) ...;\n\n/* THE ICONS ARE THE SHAPES. Drawn rather than imported —\n   lucide does ship a rectangle in each orientation, but here\n   the icon is not a symbol FOR the format, it IS the format,\n   so it has to be at the real ratio. Same constant area as\n   the pictures, or three marks of visibly different size\n   would say the formats are different sizes. */",
+    "params": [
+      {
+        "id": "morph",
+        "label": "Morph",
+        "hint": "how quickly it changes shape",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      },
+      {
+        "id": "corner",
+        "label": "Corner",
+        "hint": "the picture's radius",
+        "kind": "range",
+        "group": "form",
+        "default": 18,
+        "min": 0,
+        "max": 40,
+        "step": 2
+      }
+    ]
+  },
+  {
+    "id": "tilt",
+    "rich": true,
+    "name": "Tilt card",
+    "cat": "Hover",
+    "kind": "Hover",
+    "pro": true,
+    "fill": false,
+    "stroke": false,
+    "demo": [
+      {
+        "to": {
+          "sel": ".tlt",
+          "x": 0.22,
+          "y": 0.18
+        },
+        "ms": 640
+      },
+      {
+        "ms": 380
+      },
+      {
+        "to": {
+          "sel": ".tlt",
+          "x": 0.8,
+          "y": 0.76
+        },
+        "ms": 720
+      },
+      {
+        "ms": 380
+      },
+      {
+        "to": {
+          "sel": ".tlt",
+          "x": 0.82,
+          "y": 0.2
+        },
+        "ms": 580
+      },
+      {
+        "ms": 340
+      },
+      {
+        "to": {
+          "sel": ".tlt",
+          "x": 0.5,
+          "y": 0.5
+        },
+        "ms": 520
+      },
+      {
+        "ms": 360
+      },
+      {
+        "to": {
+          "sel": ".tlt",
+          "x": 1.7,
+          "y": 0.5
+        },
+        "ms": 660
+      },
+      {
+        "ms": 900
+      }
+    ],
+    "css": "/* IT SINKS, IT DOES NOT LIFT. Every tilt card on the\n   internet rotates TOWARD the cursor: the corner nearest you\n   rises to meet you and the card reads as a slab of glass\n   catching the light. This one does the opposite — the point\n   you are over goes AWAY and the far side comes up.\n\n   One minus sign, and it is the whole component. A surface\n   that rises to your finger is being displayed to you; a\n   surface that gives under it is being touched. */\nconst rx = -ny * tilt;   /* cursor at the top → top goes back */\nconst ry =  nx * tilt;   /* cursor right → right goes back  */\n\n/* THE ROTATION ALONE IS NOT ENOUGH. A rotation about the\n   centre is symmetric — near side down, far side up by the\n   same amount — and on its own it reads as a card pivoting,\n   not as one being pressed. What makes it a press is that the\n   darkest point tracks the pointer: a depression catches\n   shadow at its deepest, and the rim opposite catches light.\n   These two gradients do at least as much work as the\n   transform, and neither convinces on its own. */\nbackground-image:\n  radial-gradient(42% 34% at X% Y%, rgba(9,14,28,0.25), transparent),\n  radial-gradient(52% 42% at (100-X)% (100-Y)%, rgba(255,255,255,0.15), transparent);\n\n/* THE SHADOW TIGHTENS. A thing pressed into a surface has\n   less air under it, so the gap closes and the shadow draws\n   in. Growing it on hover is the reflex — it is what a card\n   that LIFTS would do — and it fights every other cue here. */\nbox-shadow: 0 mix(20, 9, lit)px mix(44, 24, lit)px -8px rgba(15,23,42,0.2);\n\n/* ONE PAIR OF NUMBERS IS THE STATE. Two springs hold where\n   the pointer is, normalised to -1..1, and the rotation, both\n   gradients and the shadow are all read off them — three\n   readings of one number rather than three things animating\n   towards the same place. The spring is on the POSITION, not\n   on the rotation, so they cannot disagree about where the\n   finger is.\n\n   Sprung rather than tracked one-to-one because a card with\n   no weight follows the cursor exactly and reads as a texture\n   pinned to the mouse. The lag is what gives it mass. */\nconst sx = useSpring(on ? nx : 0);\nconst sy = useSpring(on ? ny : 0);\n\n/* PERSPECTIVE ON THE FRAME, not on the card. On the card\n   itself it is applied per element, so the vanishing point\n   rides along with the rotation instead of staying put in the\n   room — and the frame is also what the pointer is measured\n   against, because asking a rotating object where it is gets\n   you an answer that has already turned away. */\nperspective: 800px;",
+    "params": [
+      {
+        "id": "tilt",
+        "label": "Tilt",
+        "hint": "how far it turns under you",
+        "kind": "range",
+        "group": "feel",
+        "default": 10,
+        "min": 0,
+        "max": 20,
+        "step": 1
+      },
+      {
+        "id": "shade",
+        "label": "Shade",
+        "hint": "how deep the dent reads",
+        "kind": "range",
+        "group": "feel",
+        "default": 60,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      },
+      {
+        "id": "corner",
+        "label": "Corner",
+        "hint": "the card's radius",
+        "kind": "range",
+        "group": "form",
+        "default": 20,
+        "min": 0,
+        "max": 40,
+        "step": 2
+      }
+    ]
+  },
+  {
+    "id": "sound",
+    "rich": true,
+    "name": "Now playing",
+    "cat": "Press",
+    "kind": "Press",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".snd-tap"
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 150
+      },
+      {
+        "act": "up",
+        "ms": 900
+      },
+      {
+        "to": {
+          "sel": ".snd-op[data-lead]"
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 150
+      },
+      {
+        "act": "up",
+        "ms": 800
+      },
+      {
+        "to": {
+          "sel": ".snd-like"
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 150
+      },
+      {
+        "act": "up",
+        "ms": 1200
+      }
+    ],
+    "css": "/* ONE NUMBER IS THE STATE, and everything else is read off\n   it. A single tween runs 0 → 1 and every position, size,\n   radius and type size is a mix() of its two ends — so there\n   is no transition anywhere in the stylesheet for the shape.\n\n   With eight CSS transitions there are eight chances for one\n   to arrive early and break the illusion that this is one\n   object. With one number there are none. */\nconst p = useTween(open ? 1 : 0, ms);\nconst mix = (a, b, t) => a + (b - a) * t;\n\n/* EASED, NOT SPRUNG, and the corner is the reason. A spring\n   past its target takes every value derived from it along:\n   measured, the height reached 492 against a target of 404\n   and the radius went with it, dipping under its own end\n   value and coming back. That is a wobble, not a bounce.\n\n   Quart-out is cubic-bezier(0.22, 1, 0.36, 1) in all but\n   name — quick off the mark, lands without ever passing the\n   number it is going to. */\nconst e = 1 - (1 - t) ** 4;\n\n/* SO THE BOUNCE IS A SECOND NUMBER, and it only scales. The\n   progress stays monotonic and the composition stays\n   internally consistent every frame — the sleeve, the box and the margin\n   between them always in the ratio that keeps the corners\n   concentric. What bounces is the whole object, uniformly: a\n   scale takes the box, the sleeve, the corners and the type\n   together, so nothing can get out of step with anything\n   else. It is the same picture, briefly smaller.\n\n   Its own LINEAR clock, because the progress above is\n   quart-out and near its end for most of the move — a swell\n   read off it spikes in the first two frames and is flat for\n   the rest. Peak pushed\n   late so the object gathers and releases as it lands.\n\n   ON THE CLOSE ONLY. Opening already has its event: the box\n   goes 78 → 189 and that is the thing you are meant to watch,\n   so a scale on top is a second size change in the same\n   direction at the same time. Closing collapses into a bar\n   and most of it stops existing — there the dip is something\n   to go with the disappearance. */\nconst u = useTween(open ? 1 : 0, ms, (t) => t);\nconst swell = Math.sin(Math.PI * clamp(u, 0, 1) ** 1.5);\nscale: open ? 1 : 1 - 0.035 * swell;\n\n/* THE COVER IS THE HINGE. It is the only thing on the bar big\n   enough to be recognised, so it is what the eye tracks — and\n   it never crossfades or disappears. It travels from a 40px\n   square to a 64px one without ever leaving the corner it\n   started in, and everything else takes its lead from where\n   it went.\n\n   ONE MARGIN, BOTH STATES — not one per state. At 10 on the\n   bar and 16 on the card the sleeve, the track and the\n   transport all slid inward as it opened: a fourth motion\n   nobody asked for, on top of the three that are the point.\n   The object grows; its frame does not move. */\n<span style={{\n  left:   10,\n  top:    10,\n  width:  mix(40, 64, p),\n  height: mix(40, 64, p),\n}} />\n\n/* THE WIDTH NEVER CHANGES. A bar that also got wider would be\n   growing in two directions at once, and the second adds\n   nothing: what a player does when it opens is show you more,\n   downward. Holding it still also means the transport only\n   has to travel rather than resize and travel. */\nheight: mix(78, 189, p);\n\n/* THE CORNERS ARE CONCENTRIC — the box's radius is the\n   sleeve's plus the margin between them. Not a preference:\n   two curves offset by a constant distance stay parallel,\n   and any other pair pinches at 45°. 32 was picked by eye\n   and it was six too many — the card's curve swept wider\n   than the artwork's and left its top-left sitting inside a\n   bend that had already turned.\n\n   IT IS ALSO WHY THE CORNER CAN BE A KNOB. It was a control\n   once and it was removed, because what it set was the box's\n   corner on its own: turn it down and the card squared off\n   around a sleeve that had not; turn it up and the card's\n   curve swept wide of the picture. Every setting but one was\n   wrong. What the slider moves now is the SLEEVE, and the box\n   is derived — so the pair stays concentric at every value\n   and there is no setting that pinches. A knob on a\n   relationship, not on one of its halves.\n\n   AND THE OFFSET FADES IN. Ten pixels at every setting,\n   including zero, drew a perfectly sharp picture inside a\n   card that was still visibly rounded — concentric on paper,\n   two different decisions to look at. At radius zero there is\n   no curve to stay parallel to, so the rule was answering a\n   question nobody had asked there. Scaled by how far up the\n   slider you are, it reaches its full ten by the default:\n   below that the corners converge until they are square\n   together, above it the rule takes over, which is where it\n   earns its keep. */\nconst PAD = 10, CORNER = 16;\nconst artR = [corner * 40 / 64, corner];        /* 0 → 32 */\nconst off  = PAD * Math.min(1, corner / CORNER);\nborder-radius: mix(artR[0] + off, artR[1] + off, p);\n\n/* The parts that only exist in the card are held back to the\n   last 40% of the move, so they arrive into a shape that has\n   stopped growing rather than sliding about inside one that\n   has not. */\nconst late = clamp((p - 0.6) / 0.4, 0, 1);\n\n/* THE PLAY MARK IS DRAWN, NOT SWAPPED. Two icons exchanged\n   is a cut however short you make the crossfade, and this is\n   the one control you press more than once — a cut you see\n   forty times is the thing you end up looking at.\n\n   So both marks are the SAME two quadrilaterals and the\n   difference between them is where eight points are. The\n   pause is a pair of bars; the play is that pair with the\n   inner edges pulled to the middle and collapsed to a point,\n   which is a triangle split down its own axis. Wound the\n   same way in both, or the halves turn inside out crossing. */\nconst PAUSE_L = [6,4, 10,4, 10,20, 6,20];\nconst PLAY_L  = [6.5,4, 13.25,8, 13.25,16, 6.5,20];\n\n/* THE GOO IS ZERO AT BOTH ENDS. Everything soft here rides\n   sin(pi * t), so it is a bulge on the way rather than a\n   difference between the two states — press twice and it\n   lands on exactly what it started as. The mark squashes\n   across as it stretches up, the halves lean in until they\n   touch, and the whole thing tips a few degrees and comes\n   back level. Changing size without changing volume is what\n   reads as soft rather than as redrawn. */\nconst goo = Math.sin(clamp(t, 0, 1) * Math.PI);\ntransform: rotate(9deg * goo * dir)\n           scale(1 - 0.13 * goo, 1 + 0.11 * goo);",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "hint": "the sleeve, and the box around it",
+        "kind": "range",
+        "group": "form",
+        "default": 16,
+        "min": 0,
+        "max": 32,
+        "step": 2
+      },
+      {
+        "id": "morph",
+        "label": "Morph",
+        "hint": "how quickly it opens",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      }
+    ]
+  },
+  {
+    "id": "drag-ball",
+    "name": "Dragging ball",
+    "cat": "Drag",
+    "kind": "Drag",
+    "fill": true,
+    "stroke": false,
+    "demo": [
+      {
+        "to": {
+          "sel": ".drg-ball"
+        },
+        "ms": 420
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "to": {
+          "sel": ".drg-well",
+          "x": 0.86,
+          "y": 0.24
+        },
+        "ms": 620
+      },
+      {
+        "to": {
+          "sel": ".drg-well",
+          "x": 0.16,
+          "y": 0.78
+        },
+        "ms": 700
+      },
+      {
+        "to": {
+          "sel": ".drg-well",
+          "x": 0.6,
+          "y": 0.4
+        },
+        "ms": 520
+      },
+      {
+        "act": "up",
+        "ms": 700
+      }
+    ],
+    "params": [
+      {
+        "id": "stretch",
+        "label": "Stretch",
+        "hint": "how much it deforms as it moves",
+        "kind": "range",
+        "group": "feel",
+        "default": 36,
+        "min": 0,
+        "max": 70,
+        "step": 2
+      },
+      {
+        "id": "give",
+        "label": "Give",
+        "hint": "how quickly it rounds back out",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 10,
+        "max": 100,
+        "step": 5
+      },
+      {
+        "id": "grip",
+        "label": "Grip",
+        "hint": "how hard it squeezes when held",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 5
+      },
+      {
+        "id": "size",
+        "label": "Size",
+        "hint": "the ball",
+        "kind": "range",
+        "group": "form",
+        "default": 56,
+        "min": 32,
+        "max": 84,
+        "step": 4,
+        "unit": "px"
+      }
+    ],
+    "css": "e=>`/* ONE body, deformed by its own speed. A trail would put a\n   second circle behind this one, and that reads as exactly\n   what it is — a thread while you drag slowly and a detached\n   blob when you drag fast. Stretch lengthens the single body\n   into its direction of travel instead, so the elasticity has\n   nothing to leave behind. */\n<Liquid blur={4.5} contrast={16} fill=\"var(--board)\" filterPadding={80}>\n  <Liquid.Item\n    effect=\"move\"\n    move={{ springiness: ${xy(Number(e.give)/100,2)}, stretch: ${xy(Number(e.stretch)/100,2)}, wobble: 0.35, trail: 0 }}\n  >\n    <motion.span\n      drag\n      dragConstraints={{ left: -122, right: 122, top: -72, bottom: 72 }}\n      dragElastic={0.14}\n      dragMomentum={false}\n      style={{ width: ${e.size}, height: ${e.size} }}\n    />\n  </Liquid.Item>\n</Liquid>\n\n/* the ball carries no fill of its own — the group paints the\n   merged silhouette behind it, and a background here would lay\n   a hard circle over the liquid edge */\n.drg-ball { border-radius: 999px; cursor: grab; touch-action: none; }\n\n/* AND IT HAS TO BE GRABBED, not just dragged. Three beats,\n   and none of them is the drag: hover swells it a little so\n   you know it is live, the press PINCHES it, and letting go\n   rounds it back out on a spring. */\nwhileHover={{ scaleX: 1.03, scaleY: 1.03 }}\nwhileTap={{ scaleX: 0.92, scaleY: 1.04 }}\ntransition={{ type: \"spring\", stiffness: 520, damping: 24 }}\n\n/* A PINCH, NOT A SHRINK. A circle that gets uniformly smaller\n   reads as a button being pressed INTO a surface; this one is\n   not on a surface, it is in your hand, and what a held ball\n   does is narrow across the grip and bulge along it. Area is\n   roughly kept, so it reads as squeezed rather than resized.\n\n   It works because the metaball library renders its children\n   inside the filtered group rather than drawing circles from\n   their measurements — so a CSS transform on the span comes\n   through in the painted silhouette. */\n\n/* ONE NOTE IN, ONE NOTE OUT, whichever event brings it. The\n   sounds hung off onDragStart/onDragEnd, so a press that\n   never moved was silent — which is exactly the gesture the\n   squeeze was added for. Both handlers are idempotent and\n   wired to the pointer AND the drag, so whichever framer\n   forwards first makes the sound and the other does nothing;\n   the pair can never go out of balance. */\nconst grab = () => { if (armed.current) return;\n                     armed.current = true;  play(\"lift\"); };\nconst drop = () => { if (!armed.current) return;\n                     armed.current = false; play(\"drop\"); };`",
+    "cssTemplate": true
+  },
+  {
+    "id": "seek",
+    "name": "Search",
+    "cat": "Press",
+    "kind": "Press",
+    "pro": true,
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".sek",
+          "x": 0.28,
+          "y": 0.5
+        },
+        "ms": 520
+      },
+      {
+        "to": {
+          "sel": ".sek-hit"
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 150
+      },
+      {
+        "act": "up",
+        "ms": 1500
+      }
+    ],
+    "css": "/* ONE OBJECT, NOT TWO. Everything follows from that.\n\n   The obvious build is an icon that fades out and an input\n   that fades in — obvious because it is easy, and wrong\n   because two things swapping is never mistaken for one thing\n   changing, however well the crossfade is tuned. So there is\n   a single box whose WIDTH is the state, with the icon and\n   the field both inside it the whole time.\n\n   Which turns the interesting problems into geometry rather\n   than choreography. */\n\n/* 1 · THE LENS NEVER MOVES relative to the box. It sits at a\n      fixed inset from the left edge — and at the closed width\n      that inset happens to centre it:\n\n        (44 - 18) / 2 = 13\n\n      13 is also the padding the open field wants. One number\n      is both \"centred in a circle\" and \"aligned in a field\",\n      so the lens travelling leftward across the page is not\n      an animation anybody wrote. It is the box growing around\n      a mark that stayed put. */\nleft: var(--inset);\n\n/* 2 · IT GROWS FROM ITS MIDDLE, so the composition stays\n      centred at every frame. From the left would pin the lens\n      and throw the field off centre; from the right would\n      slide the lens across the page. Neither is the object\n      transforming, and both are what you get by accident. */\n\n/* 3 · ONE SHAPE RULE. Fully round at every width: at 44 it is\n      a circle, at 320 a pill, and those are the same\n      statement rather than two ends of a tween. The radius\n      used to interpolate 22 → 13, which was a second thing\n      that had to agree with the first — a stadium corner\n      needs no agreement at all. Height is fixed, so it cannot\n      be anything else. */\nborder-radius: 999px;\n\n/* FLAT, AND GLASS ONLY IF ASKED. The surface reads --pane,\n   the bench's own material token, so it follows the Glass\n   dial rather than deciding for itself: 0 resolves to a solid\n   board, 100 to the frosted pane. It was a translucent ink\n   wash with an inset hairline — glass by every visual measure\n   while answering to no control, which is the worst of both,\n   because it could not be turned off.\n\n   And it picks up Fill for free: flat resolves --pane to\n   --board, and Fill redeclares --board, so a dark fill gives\n   a dark pill without this rule naming a colour.\n\n   The edge is the same story. It is a transparent ::before\n   until Stroke colours it — a hairline nobody switched on is\n   a hairline the control cannot remove. */\nbackground: var(--pane);\n\n/* 4 · ONE NUMBER DRIVES EVERYTHING. The width is sprung in\n      JS; the radius, the placeholder's opacity and its slide\n      are all read off how far through that spring it is. That\n      is the whole reason the transformation reads as\n      continuous — with one source there is nothing that can\n      arrive at the wrong time relative to anything else. */\nconst p = (w - SHUT) / (OPEN - SHUT);\n--say: clamp((p - 0.55) / 0.45, 0, 1);   /* the last third */\n\n/* THE PRESS IS A REAL BEAT. A click compresses the object for\n   90ms before it expands: a thing that yields before it moves\n   reads as having been pushed, and a thing that only moves\n   reads as having been triggered. Long enough to feel, short\n   enough that nobody waits for it. */\n\n/* FOCUS LANDS WITH THE EXPANSION, not at the end of it, so\n   the caret is already there when the field arrives. Waiting\n   for the width to settle puts a visible pause between the\n   box being ready and the box being usable. */\n\n/* THE MAGNET is measured from the FRAME, which never moves,\n   and not from the object, which does. A vector read off the\n   thing it is displacing is a feedback loop — it converges,\n   but it converges by ringing, and on an object this small\n   the ring is visible as a shiver.\n\n   A few pixels, and the ceiling is the whole design: past\n   about seven it stops being a thing that acknowledges you\n   and starts being a thing you are dragging around. */\nconst pull = (1 - d / R) ** 1.4 * (2 + (give / 100) * 5);\n\n/* And it is off once open. A field that drifts toward the\n   pointer while you are trying to click into it is a field\n   fighting you. */",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 32,
+        "min": 0,
+        "max": 32,
+        "step": 2,
+        "unit": "px"
+      },
+      {
+        "id": "give",
+        "label": "Give",
+        "hint": "how far it leans toward the cursor",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "spring",
+        "label": "Spring",
+        "hint": "how the width settles",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "width",
+        "label": "Width",
+        "hint": "the field at rest",
+        "kind": "range",
+        "group": "form",
+        "default": 320,
+        "min": 240,
+        "max": 400,
+        "step": 10,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "id": "pull",
+    "rich": true,
+    "name": "Pull to refresh",
+    "cat": "Drag",
+    "kind": "Drag",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".bal-plot",
+          "x": 0.9,
+          "y": 0.5
+        },
+        "ms": 620
+      },
+      {
+        "to": {
+          "sel": ".bal-plot",
+          "x": 0.18,
+          "y": 0.5
+        },
+        "ms": 1100
+      },
+      {
+        "to": {
+          "sel": ".bal-plot",
+          "x": 0.62,
+          "y": 0.5
+        },
+        "ms": 760
+      },
+      {
+        "ms": 300
+      },
+      {
+        "to": {
+          "sel": ".bal-scroll",
+          "y": 0.1
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 200
+      },
+      {
+        "to": {
+          "sel": ".bal-scroll",
+          "y": 0.66
+        },
+        "ms": 900
+      },
+      {
+        "act": "up",
+        "ms": 900
+      }
+    ],
+    "glass": false,
+    "css": "/* THE PART THAT MATTERS: the commitment happens at a\n   DISTANCE, not on release. Crossing the threshold is what\n   arms the refresh, so you know it will happen while your\n   finger is still down — let go after that and it goes, and\n   you knew. A version that decides on release has hidden the\n   only information the gesture carries. */\n\n/* Rubber, not a rail. A linear pull reaches the threshold at\n   exactly the threshold and tells you nothing on the way;\n   this saturates, so the last twenty pixels cost more than\n   the first twenty and RESISTANCE is what you feel rather\n   than distance. */\nconst R     = 700 - (resistance / 100) * 380;\nconst drawn = (R * raw) / (R + raw);\nconst p     = clamp(at / threshold, 0, 1);\n\n/* THE GOO IS THE COMMITMENT, not a decoration on it. Five\n   droplets sit scattered at rest and are drawn together as\n   you pull; crossing the threshold is the moment they touch\n   and fuse into one body. That fusion is legible at a glance\n   and at a distance, which is exactly what this gesture has\n   to communicate before you let go. One number does it: */\n--spread: 20 - p * 17.5;     /* px from the centre, each drop */\ntransform: rotate(calc(var(--a) + var(--turn)))\n           translateY(calc(var(--spread) * -1px));\n\n/* The ring turns as a WHOLE while it works — the animation is\n   on the group box, not on the droplets — so the DOM and the\n   liquid silhouette rotate together and the library never\n   re-measures a moving rect. */\n.bal[data-phase=\"work\"] .bal-goo { animation: bal-spin var(--rpm) linear infinite; }\n\n/* ONE ARRAY IS THE WHOLE TRUTH. The balance is the last\n   point, the change is last minus first, the percentage is\n   that over the first, and the scrub just moves the index.\n   They were three hand-written figures beside a decorative\n   line — three things that can disagree with each other and\n   with the chart above them. */\nconst value  = series[scrub ?? series.length - 1];\nconst change = value - series[0];\n\n/* The scrub reads a FRACTION of the plot's own box, so it\n   needs no zoom correction: both sides of the division are\n   screen pixels and the ratio holds at any scale. It snaps to\n   a real reading rather than interpolating between two and\n   presenting the result as a measurement. */\nconst t = clamp((e.clientX - r.left) / r.width, 0, 1);\nsetScrub(Math.round(t * last));\n\n/* NO MONO. tabular-nums is the only thing the monospaced face\n   was providing — same advance for every digit, so nothing\n   shifts as the number changes under the pointer — and Inter\n   has it. */\nfont-variant-numeric: tabular-nums;\n\n/* Tracking the finger is instant, because it IS the finger.\n   The spring is only ever the journey home — elasticity is\n   feedback, never latency. */\nuseSpring(target, 58, /* instant while */ dragging);",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "hint": "the card, and the tabs with it",
+        "kind": "range",
+        "group": "form",
+        "default": 26,
+        "min": 0,
+        "max": 40,
+        "step": 2
+      },
+      {
+        "id": "spin",
+        "label": "Spin",
+        "hint": "how fast the ring turns while it works",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "dots",
+        "label": "Dots",
+        "hint": "marks in the loading wheel",
+        "kind": "range",
+        "group": "form",
+        "default": 6,
+        "min": 3,
+        "max": 10,
+        "step": 1
+      }
+    ]
+  },
+  {
+    "id": "escape",
+    "name": "Escape button",
+    "cat": "Hover",
+    "kind": "Hover",
+    "cursorOnly": true,
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".esc-btn"
+        },
+        "ms": 480
+      },
+      {
+        "to": {
+          "sel": ".ply-field",
+          "x": 0.24
+        },
+        "ms": 340
+      },
+      {
+        "to": {
+          "sel": ".esc-btn"
+        },
+        "ms": 420
+      },
+      {
+        "to": {
+          "sel": ".ply-field",
+          "x": 0.78
+        },
+        "ms": 340
+      },
+      {
+        "to": {
+          "sel": ".esc-btn"
+        },
+        "ms": 420
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 900
+      }
+    ],
+    "glass": false,
+    "css": "/* A button that slides away from the cursor, and then stops.\n\n   READ THIS PART FIRST. Near-miss targeting is one hop from a\n   genuine dark pattern: the same mechanism aimed the other way\n   is a close button that drifts out from under a finger, a\n   Decline placed a little harder to hit than an Accept, an\n   unsubscribe that needs a second go. It is the same code. It\n   is not the same thing only because of the count below.\n\n   What keeps this on the right side of the line:\n     · it gives in on its own, after a fixed number of tries\n     · it gives in within a few seconds, every time\n     · a keyboard never sees it move at all\n   Remove any one of those and you have shipped the pattern\n   you were imitating. */\n\n/* The vector from the button's HOME to the cursor, in the\n   button's own pixels — a board may be drawn at any zoom, and\n   a rect comes back in screen ones. Home, not the button's\n   current rect: measuring off a box the displacement has just\n   moved is a feedback loop, and it converges by RINGING. Ten\n   events at one fixed cursor point gave 21, 35, 26, 32, 28,\n   30, 29px — a ±6px shiver on a 40px pill, re-seeded by every\n   event. The field never moves and the button is centred in\n   it, so the field's centre is home. */\nconst box = field.getBoundingClientRect();\nconst k   = box.width / field.offsetWidth;\nconst dx  = (cursor.x - (box.left + box.width / 2)) / k;\nconst dy  = (cursor.y - (box.top + box.height / 2)) / k;\nconst distance = Math.hypot(dx, dy);\n\n/* SQUARED, not linear. The button has to be almost inert at\n   the edge of its field and bolt over the last third —\n   linear made it drift away from a cursor two rooms distant,\n   which reads as a bug rather than as nerves. */\nconst flee  = (1 - distance / radius) ** 2;\nconst reach = 14 + (skittishness / 100) * 106;\n\n/* The field paints nothing. It was a grey well, on the\n   reasoning that an invisible boundary reads as the button\n   sticking — right about a SMALL boundary, wrong about the\n   component. At 300x160 the clamp sat fifty pixels from home\n   and the button hit it constantly, so the wall had to be\n   drawn to explain itself; and a drawn wall is a widget in a\n   box, which is the one thing here that has a frame round it.\n   At 360x240 the clamp is over a hundred pixels out and is\n   almost never reached, so it needs no explaining. The box\n   still exists — it is what the travel is clamped to and what\n   home is measured from — it simply has no surface. */\n\n/* Away, and never out of its own container. The direction is\n   undefined when the cursor is exactly on home and INVERTS as\n   it crosses — which is the good behaviour rather than a bug:\n   the button darts around you to the other side instead of\n   being walked into a corner. Held through the undefined\n   frame, and the flip travels rather than teleporting. */\nif (distance > 6) dir = { x: -dx / distance, y: -dy / distance };\nx = clamp(dir.x * flee * reach, -room.x, room.x);\ny = clamp(dir.y * flee * reach, -room.y, room.y);\n\n/* ONE DODGE PER APPROACH. Counting every frame inside the\n   radius spends the whole joke in a third of a second; the\n   flag re-arms only on the way out of the full field, so one\n   sweep through is one dodge however fast it was. */\nif (distance < radius * 0.55 && armed) { armed = false; dodges++; }\nif (distance > radius) armed = true;\n\n/* Two durations behind one attribute. Fleeing is short —\n   long enough that the dart across the cursor travels, short\n   enough that it is never a wind-up. Coming home is soft,\n   because that one is a relief rather than a reaction. */\n.esc-btn            { transition: transform 620ms cubic-bezier(.22,1.12,.36,1); }\n.esc-btn[data-fled] { transition: transform 130ms cubic-bezier(.3,.8,.4,1); }\n\n/* Reduced motion takes the travel and leaves the joke: the\n   count still runs, it still gives in on the same dodge, and\n   the button never leaves the middle. */\n\n/* ── Fill and Stroke ─────────────────────────────────────────\n   The surface reads the stage's fill tokens with its own value\n   left as the var() FALLBACK rather than as a second\n   declaration underneath, which is what lets one line serve\n   both cases.\n\n   And both happen. .bench-app carries a data-fill of its own\n   that follows the theme, so on the wall this is already\n   filled and the overlay's control is a choice to DIFFER from\n   the bench rather than a switch from nothing. The fallback is\n   for a surface mounted outside .bench-app altogether —\n   which is what this file is for, since a block lifted out of\n   this project has to draw.\n\n   --fill-on-rgb rather than --fill-on wherever the ink is not\n   at full strength, because a fallback has to nest inside the\n   rgba() to survive: rgba(var(--fill-on-rgb, var(--ink-rgb)), .78).\n\n   The hairline hangs on a ::before that is transparent until\n   [data-stroke=\"on\"] colours it — the same ::before every\n   other surface on the bench uses. Nothing here is glass, so\n   there is no lit rim for the stroke to lose to: the hairline\n   is the only edge these can have. */",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 28,
+        "min": 0,
+        "max": 28,
+        "step": 2,
+        "unit": "px"
+      },
+      {
+        "id": "skittishness",
+        "label": "Skittishness",
+        "hint": "how hard it pushes away",
+        "kind": "range",
+        "group": "feel",
+        "default": 55,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "patience",
+        "label": "Patience",
+        "hint": "dodges before it gives in",
+        "kind": "range",
+        "group": "feel",
+        "default": 4,
+        "min": 1,
+        "max": 8,
+        "step": 1
+      },
+      {
+        "id": "radius",
+        "label": "Radius",
+        "kind": "range",
+        "group": "form",
+        "default": 120,
+        "min": 60,
+        "max": 200,
+        "step": 5,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "id": "slosh",
+    "name": "Slosh slider",
+    "cat": "Slide",
+    "kind": "Slide",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".slo-fill",
+          "x": 1
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 200
+      },
+      {
+        "to": {
+          "sel": ".slo-track",
+          "x": 0.15
+        },
+        "ms": 600
+      },
+      {
+        "to": {
+          "sel": ".slo-track",
+          "x": 0.7
+        },
+        "ms": 220
+      },
+      {
+        "to": {
+          "sel": ".slo-track",
+          "x": 0.62
+        },
+        "ms": 460
+      },
+      {
+        "act": "up",
+        "ms": 1500
+      }
+    ],
+    "glass": false,
+    "css": "/* A slider whose value has mass.\n\n   The handle is RIGID. It is under your finger, and anything\n   under a finger that lags it is broken. The fill is a second\n   spring behind it — softer, barely damped — so a fast drag\n   throws it past the handle, into the end stop, and rocks it\n   back two or three times before it settles. */\n\n/* Stiffness falls and damping rises together, which is why\n   these are one knob and not two: thin liquid is slow to\n   answer and slow to forget, and that is the same sentence\n   twice. 0 is exactly an ordinary slider and has to be\n   exactly that, not a very stiff spring that still rings. */\nconst soft  = viscosity / 100;\nconst stiff = 0.34 - soft * 0.29;\nconst damp  = 0.74 + soft * 0.22;\n\nfv += (value - fill) * stiff * dt;\nfv *= Math.pow(damp, dt);      /* per FRAME, so a dropped one\n                                  cannot double the loss */\nfill += fv * dt;\n\n/* The end stop is a wall, and a wall gives some back. Without\n   this the overshoot at the top of the track is swallowed and\n   the liquid stops behaving like liquid exactly where you are\n   looking at it. */\nif (fill > 100) { fill = 100; fv = -fv * 0.42; }\nif (fill < 0)   { fill = 0;   fv = -fv * 0.42; }\n\n/* The release is a throw, not a stop: the handle leaves along\n   the velocity it actually had and decelerates. */\nvalue += hv * dt;\nhv    *= Math.pow(0.86 + (momentum / 100) * 0.115, dt);\n\n/* THE MENISCUS is what sells it. A bar that lags is a laggy\n   bar; a bar whose leading edge leans the way it is going is\n   a surface with momentum in it. Clipped, never skewed — a\n   skew leans the whole body and lifts the bottom edge off the\n   floor of the track, which is a bar tipping over. */\n--lean: clamp(-20px, (tilt / 100) * fv * 3, 20px);\nclip-path: polygon(0 0, calc(100% + var(--lean)) 0,\n                   calc(100% - var(--lean)) 100%, 0 100%);\n\n/* No transitions anywhere on this block. Every number is\n   written by the loop, and a transition on top of a spring is\n   two opinions about the same value. The loop parks itself\n   once handle, fill and both velocities are at rest. */\n\n/* The liquid is the fill's own ink at low alpha, so a light\n   track holds a dark body and a dark one holds a light. The\n   same alpha is NOT the same contrast, though: 0.14 of ink\n   over white reads cleanly, 0.14 of near-white over #0e0f11\n   left the liquid all but invisible. The dark fill gets its\n   own number, exactly as dark glass carries a brightness pass\n   that light does not. */\n.slo-fill                      { background: rgba(var(--fill-on-rgb), 0.14); }\n[data-fill=\"dark\"] .slo-fill   { background: rgba(var(--fill-on-rgb), 0.24); }\n\n/* ── Fill and Stroke ─────────────────────────────────────────\n   The surface reads the stage's fill tokens with its own value\n   left as the var() FALLBACK rather than as a second\n   declaration underneath, which is what lets one line serve\n   both cases.\n\n   And both happen. .bench-app carries a data-fill of its own\n   that follows the theme, so on the wall this is already\n   filled and the overlay's control is a choice to DIFFER from\n   the bench rather than a switch from nothing. The fallback is\n   for a surface mounted outside .bench-app altogether —\n   which is what this file is for, since a block lifted out of\n   this project has to draw.\n\n   --fill-on-rgb rather than --fill-on wherever the ink is not\n   at full strength, because a fallback has to nest inside the\n   rgba() to survive: rgba(var(--fill-on-rgb, var(--ink-rgb)), .78).\n\n   The hairline hangs on a ::before that is transparent until\n   [data-stroke=\"on\"] colours it — the same ::before every\n   other surface on the bench uses. Nothing here is glass, so\n   there is no lit rim for the stroke to lose to: the hairline\n   is the only edge these can have. */",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 13,
+        "min": 0,
+        "max": 20,
+        "step": 1,
+        "unit": "px"
+      },
+      {
+        "id": "viscosity",
+        "label": "Viscosity",
+        "hint": "0 is a rigid fill, 100 is loose liquid",
+        "kind": "range",
+        "group": "feel",
+        "default": 15,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "momentum",
+        "label": "Momentum",
+        "hint": "how far it coasts after release",
+        "kind": "range",
+        "group": "feel",
+        "default": 55,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "tilt",
+        "label": "Tilt",
+        "hint": "lean on the leading edge",
+        "kind": "range",
+        "group": "form",
+        "default": 45,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      }
+    ]
+  },
+  {
+    "id": "liq-create",
+    "name": "Create menu",
+    "cat": "Press",
+    "kind": "Press",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".crt-pill"
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 150
+      },
+      {
+        "act": "up",
+        "ms": 900
+      },
+      {
+        "to": {
+          "sel": ".crt-item button",
+          "i": 1
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 900
+      }
+    ],
+    "css": "/* One shape, not two. The pill does not open a panel next to\n   itself and it does not grow a chin — it IS the panel, seen\n   small. Pressing it makes it spread: the pill goes, and what\n   is left standing in the same spot is the window. */\n\n/* The press lands first: the pill simply gets smaller. Going\n   straight to the expansion skips the acknowledgement and the\n   panel seems to arrive slightly before it was asked for.\n\n   The two overlap on purpose. The shrink takes 120ms and the\n   spread starts at 95, so it is still on its way down as it\n   begins to widen. Waiting for the shrink to land leaves a\n   stretch where nothing moves at all, and thirty still\n   milliseconds in the middle of a gesture reads as a\n   stutter. */\nconst press = () => {\n  setSink(true);\n  setTimeout(() => { setSink(false); setOpen(true); }, 95);\n};\n\n/* and the rows come in close behind the shell rather than\n   after it — a panel that arrives empty and fills a beat\n   later reads as a pause even though nothing stopped */\ntransitionDelay: open ? 70 + i * 38 : (n - 1 - i) * 30;\n\n/* a plain uniform shrink — nothing squashes and nothing\n   spreads — and in fast, because a press should be felt at\n   once and not eased into */\n[data-sink] .crt-body { scale: 0.94; transition: scale 110ms; }\ntransition: scale 340ms cubic-bezier(0.22, 1, 0.36, 1);   /* and back, cleanly */\n\n/* the label is held at full strength through the press:\n   fading it during the squash hides the beat it is for */\n[data-sink] .crt-pill { opacity: 1; }\n\n/* The two states are two sets of custom properties and one\n   attribute picks between them. Nothing here is measured. */\n.crt-stage            { --w: 132px; --h: 46px;  --r: 999px; }\n.crt-stage[data-open] { --w: 212px; --h: 190px; --r: 26px;  }\n\n/* The spread is ONE move. Width, height and the corner all\n   run the same curve for the same time — staggering the axes\n   read as two animations queued up rather than one thing\n   changing size. Measured through the open, the two stay\n   within 3% of each other's progress.\n\n   And nothing overshoots. A spring past the target drags the\n   corner radius with it: the corners dip under 28 and come\n   back, which is a wobble rather than a bounce, and it is the\n   first thing that makes a panel look cheap. */\ntransition:\n  width         480ms cubic-bezier(0.22, 1, 0.36, 1),\n  height        480ms cubic-bezier(0.22, 1, 0.36, 1),\n  border-radius 480ms cubic-bezier(0.22, 1, 0.36, 1);\n\n/* Centred by transform, never by a negative margin. A margin\n   would have to be animated alongside the size, and the two\n   axes run on different clocks — the box drifted 34px above\n   centre halfway through. A percentage translate is always\n   half of whatever the box is right now. */\nleft: 50%; top: 50%; transform: translate(-50%, -50%);\n\n/* Nothing else happens. No burst, nothing flies off: one\n   shape changes shape.\n\n   And no metaball filter, which is the point. The other\n   liquid studies have two or more shapes that have to fuse;\n   this has exactly one, so a blur can only damage it — at the\n   radius the others use, a fifth of a row's height, the\n   corners came back bulged and uneven instead of at the\n   radius they were given. */\n\n/* The rows are fully round, so each nests inside the card's\n   own corners instead of squaring off against them — and none\n   of them carries a background. The highlight is one shape on\n   its own filtered layer, so it travels between rows as a\n   single body of liquid rather than fading out of one and\n   into the next. */\n.crt-item button { border-radius: 999px; background: none; }\n\n/* 28 outside against a 10px inset leaves 18 for the rows to\n   nest in, and a 34px row rounds fully at 17 — so the two\n   curves are concentric rather than merely both round */\n--r: 28px;\n\n/* Into the stretch fast and out of it slowly. At equal speeds\n   it straightened while still travelling, which is exactly\n   what made the hover feel wrong. */\n.crt-hov-pill          { transition: scale 300ms cubic-bezier(0.3, 0.9, 0.4, 1); }\n.crt-hov-pill[data-moving=\"true\"] {\n  scale: 0.96 1.16;\n  transition: scale 110ms cubic-bezier(0.3, 1, 0.4, 1);\n}\nsetTimeout(() => setMoving(false), 90);   // lands with the 380ms travel\n\n/* only a move between rows stretches it; arriving from\n   nowhere has no direction to stretch along */\nif (over !== null && over !== i) setMoving(true);\n\n/* Solid, unlike the other liquid studies. Those fade their\n   layer because the type sits behind it; here the labels are\n   white and ride ON the shape. */\n.crt-blobs { filter: url(#liq-goo); }\n\n/* No close button and no title bar — anywhere but the menu\n   puts it away. Registered only while it is open, and in an\n   effect, so the very press that opened it (whose pointerdown\n   has already been and gone) cannot close it on the same\n   click.\n\n   AND IT ASKS THE VISIBLE BOX, NOT THE ELEMENT. contains() is\n   the obvious test and it was wrong here: the ref is the STAGE,\n   the square this block reserves so opening the menu does not\n   resize what is under it. The stage is 305 square, the menu\n   inside it is 265x208, and every press in between counted as\n   a press on the menu — 48px of dead ground above it and 49\n   below, where clicking did nothing at all. */\nuseEffect(() => {\n  if (!open) return;\n  const away = e => {\n    const b = panel.current?.querySelector(\".crt-panel\")?.getBoundingClientRect();\n    const on = b && e.clientX >= b.left && e.clientX <= b.right\n                 && e.clientY >= b.top  && e.clientY <= b.bottom;\n    if (!on) setOpen(false);\n  };\n  document.addEventListener(\"pointerdown\", away);\n  return () => document.removeEventListener(\"pointerdown\", away);\n}, [open]);",
+    "glass": false,
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 28,
+        "min": 0,
+        "max": 40,
+        "step": 2,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "id": "liq-arrange",
+    "rich": true,
+    "name": "Reorder list",
+    "cat": "Drag",
+    "kind": "Drag",
+    "fill": true,
+    "stroke": true,
+    "css": "/* Three things a normal reorderable list does not do. */\n\n/* 1 · free, and not fenced. The row goes wherever the finger\n      goes with nothing clamping it — only its height decides\n      where the list opens, and that reading is clamped\n      instead, so carrying one right out of the list and back\n      is a real gesture rather than a slip off a rail. */\nconst x = (e.clientX - g.px) / k;\nconst y = g.oy + (e.clientY - g.py) / k;\nconst target = clamp(Math.round(y / STEP), 0, order.length - 1);\n\n/* it stretches along whichever axis is moving and thins the\n   other, then leans the way it is being thrown — a row flung\n   sideways should not deform like one dropped straight down */\nsetWarp({\n  x: clamp(Math.abs(dx) / dt / 2.6, 0, 0.26),\n  y: clamp(Math.abs(dy) / dt / 2.6, 0, 0.26),\n  tilt: clamp(dx / dt * 2.6, -7, 7),      // signed: a flick back rights it\n});\ntransform: rotate(tilt) scale(1 + x - y * 0.55, 1 + y - x * 0.55);\n\n/* no event arrives once the finger stops, so the warp would\n   stay stuck at whatever it last was */\ncalm.current = setTimeout(() => setWarp({ x: 0, y: 0, tilt: 0 }), 90);\n\n/* letting go of the position is what puts it back in line:\n   the same element springs from wherever it was carried to\n   the slot the others opened for it */\nsetDrag(null);\n\n/* 2 · the gap heals. The rows are surfaces on a metaball\n      layer, far enough apart at rest to stay separate — but\n      while they flow up to close a hole they pass through\n      each other's reach and briefly run together. */\n.arr-blobs { filter: url(#cal-goo); }\n\n/* Solid ink, not a wash — which is also simpler: a goo filter\n   thresholds alpha, so a translucent shape would be cut away\n   rather than blurred, and the layer no longer has to carry\n   the fade on the shapes' behalf. */\n.arr-skin { background: var(--ink); }\n.arr-row  { color: rgba(255, 255, 255, 0.78); }\n\n/* 3 · THE PICTURE IS ALWAYS A CIRCLE, and the Corner knob\n      does not touch it. It followed the knob for a while,\n      concentric with the row — the right rule for a shape\n      that is PART of the thing containing it. A face is not:\n      it is a photograph of a person, and how a photograph of\n      a person is cut has nothing to do with how the row it\n      sits in is. The knob cuts the row; that is all it does.\n\n      32 in a 44 row, so six pixels of the pill show all the\n      way round it — the picture is a thing the row contains\n      rather than part of its edge. */\n.arr-av   { width: 32px; height: 32px; border-radius: 999px; }\n.arr-row  { padding-left: 6px; }\n\n/* There was a rank in front of every row and it is gone. A\n   list you can drag does not need one — the order IS the\n   answer, and a figure counting it off is the same\n   information written twice. It also cost the picture its\n   place at the left edge, which is the thing worth looking\n   at. */\n\n/* Anything sitting ON ink is faded through --on-ink-rgb, never\n   a hardcoded white: the fill turns light in dark mode and a\n   white label goes with it. */\n\n/* 4 · position and deformation cannot share a transform. The\n      position is pinned to the finger and must never ease;\n      the stretch has to ease back the moment it stops. */\n.arr-blob { transform: translateY(y); }        /* no transition */\n.arr-skin { transform: scale(sx, sy); }        /* transitioned */\n\n/* every other row's slot, with the held one taken out and the\n   hole reopened at the target */\nconst rest = order.filter(x => x !== drag.id);\nconst i = rest.indexOf(id);\nreturn i < target ? i : i + 1;\n\n/* Fully round: at 44px tall the ends are half circles, which\n   is also the shape two of them make when they fuse. */\n.arr-skin { border-radius: 999px; }\n\n/* Initials on a tint. A real photograph goes here as an\n   <img>, inlined as a data URI — the bundle has to stand\n   alone, so nothing can be linked. */\n.arr-av { width: 28px; height: 28px; border-radius: 999px; }",
+    "demo": [
+      {
+        "to": {
+          "sel": ".arr-row",
+          "i": 0
+        },
+        "ms": 620
+      },
+      {
+        "act": "down",
+        "ms": 260
+      },
+      {
+        "to": {
+          "sel": ".arr-stage",
+          "y": 0.88
+        },
+        "ms": 900
+      },
+      {
+        "act": "up",
+        "ms": 900
+      },
+      {
+        "to": {
+          "sel": ".arr-row",
+          "i": 0
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 200
+      },
+      {
+        "to": {
+          "sel": ".arr-stage",
+          "y": 0.06
+        },
+        "ms": 900
+      },
+      {
+        "act": "up",
+        "ms": 700
+      }
+    ],
+    "glass": false,
+    "params": [
+      {
+        "id": "give",
+        "label": "Give",
+        "hint": "how much a flung row deforms",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "lean",
+        "label": "Lean",
+        "kind": "range",
+        "group": "feel",
+        "default": 18,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 22,
+        "min": 0,
+        "max": 22,
+        "step": 2,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "id": "toolbar",
+    "name": "Canvas toolbar",
+    "cat": "Select",
+    "kind": "Select",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".bar-tool",
+          "i": 2
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 120
+      },
+      {
+        "act": "up",
+        "ms": 620
+      },
+      {
+        "to": {
+          "sel": ".bar-tool",
+          "i": 5
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 120
+      },
+      {
+        "act": "up",
+        "ms": 700
+      }
+    ],
+    "css": "/* The shape slot keeps whichever shape you last chose, so\n   the bar learns your habit instead of resetting to a default\n   every time. The small thing these get wrong most often. */\nconst [shape, setShape] = useState(SHAPES[0]);\nconst pick = (s) => { setShape(s); setTool(\"shape\"); };\n\n/* a corner wedge, the universal \"there is more here\" */\n.notch::after {\n  border-left: 5px solid transparent;\n  border-bottom: 5px solid var(--ink);\n  opacity: 0.4;\n}",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 14,
+        "min": 0,
+        "max": 25,
+        "step": 1,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "id": "radial",
+    "name": "Radial menu",
+    "cat": "Press",
+    "kind": "Press",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".fan-core"
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 160
+      },
+      {
+        "act": "up",
+        "ms": 800
+      },
+      {
+        "to": {
+          "sel": ".fan-opt",
+          "i": 2
+        },
+        "ms": 560
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 800
+      }
+    ],
+    "params": [
+      {
+        "id": "count",
+        "label": "Tools",
+        "hint": "how many are on the fan",
+        "kind": "range",
+        "group": "form",
+        "default": 5,
+        "min": 2,
+        "max": 6,
+        "step": 1
+      },
+      {
+        "id": "stagger",
+        "label": "Stagger",
+        "hint": "how far apart they deal out",
+        "kind": "range",
+        "group": "feel",
+        "default": 28,
+        "min": 0,
+        "max": 70,
+        "step": 1,
+        "unit": "ms"
+      },
+      {
+        "id": "radius",
+        "label": "Radius",
+        "kind": "range",
+        "group": "form",
+        "default": 68,
+        "min": 44,
+        "max": 104,
+        "step": 1,
+        "unit": "px"
+      },
+      {
+        "id": "spread",
+        "label": "Arc",
+        "kind": "range",
+        "group": "form",
+        "default": 180,
+        "min": 60,
+        "max": 300,
+        "step": 5,
+        "unit": "°"
+      }
+    ],
+    "css": "e=>`/* Opening, choosing and committing are one gesture: press,\n   drag toward what you want, let go. No second tap, no travel\n   back to a menu that opened somewhere else.\n\n   A plain tap still works and leaves it open, because not\n   everyone will find the drag — but the drag is the point. */\nconst move = (e) => {\n  const dx = e.clientX - origin.x, dy = e.clientY - origin.y;\n  if (Math.hypot(dx, dy) < 14) return setAim(null);  // still a tap\n  moved = true;\n  setAim(nearestByAngle(dx, dy));\n};\n\nconst end = () => {\n  if (moved && aim !== null) commit(ARC[aim]);\n};\n\n/* The fan is polar, so placement is one declaration each —\n   --i is the option's index, set in markup, and CSS does the\n   trigonometry itself. */\n.fan-opt {\n  --spread: ${xy(Number(e.spread),0)}deg;\n  --radius: ${xy(Number(e.radius),0)}px;\n  --a: calc(-90deg - var(--spread) / 2\n            + var(--spread) / (var(--n) - 1) * var(--i));\n  transform: translate(calc(cos(var(--a)) * var(--radius)),\n                       calc(sin(var(--a)) * var(--radius)));\n  transition-delay: calc(var(--i) * ${xy(Number(e.stagger),0)}ms);\n}\n/* shut, they all sit under the core */\n.fan-arc:not([data-open]) .fan-opt {\n  transform: none;\n  scale: 0.4;\n  transition-delay: 0ms;\n}\n\n/* The radius is derived, not picked by eye. Neighbours sit\n   SPREAD/(n-1) apart, so the space between two circles is the\n   chord minus their diameter — and that is what ties the\n   three numbers together. */\ngap = 2 * RADIUS * Math.sin(step / 2) - SIZE;\n\n/* Which is why bigger AND closer needs a wider spread: at 132\n   degrees, 48px circles pulled in to a 68px radius overlap by\n   9. Opening the fan to a half circle buys back exactly the\n   room the shorter radius took away. */\nSPREAD 132, RADIUS 79.5, SIZE 42  ->  gap 3.2\nSPREAD 180, RADIUS 68,   SIZE 48  ->  gap 4.0`",
+    "cssTemplate": true
+  },
+  {
+    "id": "stepper",
+    "name": "Drag stepper",
+    "cat": "Press",
+    "kind": "Press",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".step-side",
+          "i": 1
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 1500
+      },
+      {
+        "act": "up",
+        "ms": 700
+      }
+    ],
+    "css": "/* Tap for one, hold to sweep. A stepper is precise and\n   slow, a slider is fast and vague, and almost every product\n   picks one and makes the other job painful. This is both on\n   the same control, chosen by how long you hold — so the\n   coarse move never costs you the fine one. */\nconst press = (dir) => (e) => {\n  origin = { x: e.clientX, v };\n  timer = setTimeout(() => setSweeping(true), 260);\n};\n\nconst lift = () => {\n  clearTimeout(timer);\n  if (!sweeping) setV((n) => n + dir);   // it was a tap\n  setSweeping(false);\n};\n\n/* the sweep is proportional to how wide the control is, so it\n   feels the same at any size */\nsetV(origin.v + ((e.clientX - origin.x) / railWidth) * 100);",
+    "params": []
+  },
+  {
+    "id": "confirm",
+    "name": "Inline confirm",
+    "cat": "Press",
+    "kind": "Press",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".say-face"
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 900
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 1100
+      }
+    ],
+    "css": "/* The button becomes its own dialog. Nothing opens over the\n   page, nothing shifts around it, and the choice stays under\n   the cursor that asked for it — a modal moves your attention\n   somewhere else to answer a question you just asked here.\n\n   Undo lives in the same footprint too, on a timer, so the\n   destructive path never needs a toast either. */\n\n/* the width is the animation */\n.shell { transition: width 340ms cubic-bezier(0.24, 1.34, 0.38, 1); }\n.shell[data-phase=\"idle\"]   { width: 148px; }\n.shell[data-phase=\"asking\"] { width: 218px; }\n.shell[data-phase=\"done\"]   { width: 206px; }\n\n/* how long undo is still on offer */\n@keyframes burn { from { width: 100%; } to { width: 0; } }",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 22,
+        "min": 0,
+        "max": 22,
+        "step": 1,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "id": "toasts",
+    "name": "Notify",
+    "cat": "Press",
+    "kind": "Press",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".bell-btn"
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 1500
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 900
+      }
+    ],
+    "css": "/* The component is the button. A press does two things:\n   the bell swings, and the button stays down. The\n   confirmation is the control itself, so there is nothing to\n   read and nothing to dismiss. */\n\n/* The bell swings on a damped oscillation, not a single\n   shake: each pass smaller than the last, which is what a\n   struck bell actually does. */\nbell.animate([\n  { transform: \"rotate(0deg)\" },\n  { transform: \"rotate(-17deg)\", offset: 0.11 },\n  { transform: \"rotate(14deg)\",  offset: 0.27 },\n  { transform: \"rotate(-9deg)\",  offset: 0.44 },\n  { transform: \"rotate(6deg)\",   offset: 0.61 },\n  { transform: \"rotate(-3deg)\",  offset: 0.78 },\n  { transform: \"rotate(0deg)\" },\n], { duration: 820, easing: \"ease-out\" });\n\n/* it hangs from its crown, so that is where it pivots */\ntransform-origin: 50% 16%;\n\n/* only the yes rings — turning it off is not an event the\n   bell should celebrate */\nif (!on) ring();\n\n/* the label swap would jolt the pill from one width to\n   another, so the two labels are stacked out of flow and the\n   pill is given the width of whichever is showing. It grows\n   into its answer instead of snapping to it. */\nconst shown = say.querySelector('[data-show=\"true\"]');\nsetW(shown.offsetWidth);          // useLayoutEffect, pre-paint\n\n.bell-say { transition: width 460ms cubic-bezier(0.24, 1.34, 0.38, 1); }\n.bell-btn[data-on=\"true\"] { background: var(--ink); color: var(--on-ink); }",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 22,
+        "min": 0,
+        "max": 22,
+        "step": 1,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "id": "icon-bar",
+    "name": "Icon bar",
+    "cat": "Select",
+    "kind": "Select",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".gnav-item",
+          "i": 3
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 120
+      },
+      {
+        "act": "up",
+        "ms": 760
+      },
+      {
+        "to": {
+          "sel": ".gnav-item",
+          "i": 1
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 120
+      },
+      {
+        "act": "up",
+        "ms": 800
+      }
+    ],
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 26,
+        "min": 0,
+        "max": 26,
+        "step": 2,
+        "unit": "px"
+      },
+      {
+        "id": "dilate",
+        "label": "Dilate",
+        "hint": "how far it stretches in transit",
+        "kind": "range",
+        "group": "feel",
+        "default": 100,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "bounce",
+        "label": "Bounce",
+        "hint": "how hard it lands",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "speed",
+        "label": "Speed",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "hug",
+        "label": "Hug",
+        "kind": "range",
+        "group": "form",
+        "default": 6,
+        "min": 3,
+        "max": 10,
+        "step": 0.5,
+        "unit": "px"
+      },
+      {
+        "id": "axis",
+        "label": "Axis",
+        "kind": "choice",
+        "group": "form",
+        "default": "row",
+        "options": [
+          "row",
+          "column"
+        ]
+      }
+    ],
+    "css": "e=>`/* small surfaces get soft frost, never the lens.\n   below roughly 50px the warp cannot resolve and reads as\n   grey noise rather than glass. */\n.gnav {\n  display: flex;\n  flex-direction: ${e.axis===`column`?`column`:`row`};\n  background: rgba(255, 255, 255, 0.6);\n  -webkit-backdrop-filter: blur(2px) saturate(150%);\n  backdrop-filter: blur(2px) saturate(150%);\n  border-radius: 999px;\n  padding: var(--bar-pad);\n  gap: var(--bar-gap);\n}\n\n/* the slot is shared with the toolbar, so bars of glyphs read\n   as one family at one size; only the drawing inside it is\n   the component's own */\n.gnav-item {\n  width: var(--bar-slot);\n  height: var(--bar-slot);\n}\n/* ── the two phase indicator ─────────────────────────────\n   Moving between slots is split rather than eased over one\n   distance. Phase one: the leading edge jumps and the pill\n   dilates to span both slots. Phase two: the trailing edge\n   catches up and contracts onto the target, overshooting\n   slightly. The handoff between them is what decides how far\n   it stretches. */\n.gnav-ind[data-phase=\"stretch\"] {\n  transition:\n    transform ${Math.round(190*(1.6-Number(e.speed)/100*1.2))}ms cubic-bezier(0.32, 0.72, 0.24, 1),\n    width ${Math.round(190*(1.6-Number(e.speed)/100*1.2))}ms cubic-bezier(0.32, 0.72, 0.24, 1);\n}\n/* the third control point past 1 is the overshoot, and is the\n   whole of Bounce */\n.gnav-ind[data-phase=\"settle\"] {\n  transition:\n    transform ${Math.round(420*(1.6-Number(e.speed)/100*1.2))}ms\n      cubic-bezier(0.28, ${xy(1+Number(e.bounce)/100*.56,3)}, 0.36, 1),\n    width ${Math.round(420*(1.6-Number(e.speed)/100*1.2))}ms\n      cubic-bezier(0.24, ${xy(1+Number(e.bounce)/100*.68,3)}, 0.38, 1);\n}`",
+    "cssTemplate": true
+  },
+  {
+    "id": "dock",
+    "name": "Magnifying dock",
+    "cat": "Hover",
+    "kind": "Hover",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".gdock-item",
+          "i": 0
+        },
+        "ms": 460
+      },
+      {
+        "to": {
+          "sel": ".gdock-item",
+          "i": 4
+        },
+        "ms": 1500
+      },
+      {
+        "to": {
+          "sel": ".gdock-item",
+          "i": 2
+        },
+        "ms": 800
+      },
+      {
+        "ms": 500
+      }
+    ],
+    "params": [
+      {
+        "id": "magnify",
+        "label": "Magnify",
+        "kind": "range",
+        "group": "feel",
+        "default": 1.32,
+        "min": 1,
+        "max": 2,
+        "step": 0.02,
+        "unit": "×"
+      },
+      {
+        "id": "lift",
+        "label": "Lift",
+        "kind": "range",
+        "group": "feel",
+        "default": 8,
+        "min": 0,
+        "max": 22,
+        "step": 1,
+        "unit": "px"
+      },
+      {
+        "id": "spread",
+        "label": "Reach",
+        "hint": "glyphs either side that feel it",
+        "kind": "range",
+        "group": "form",
+        "default": 2,
+        "min": 0,
+        "max": 4,
+        "step": 1
+      }
+    ],
+    "css": "e=>`/* Scaling a translucent tile over translucent glass looks\n   cheap, so the dock scales the glyph and has no tile behind\n   it at all. --d is the item's distance from the cursor, set\n   on each item in JS; everything else is here. */\n.gdock-glyph {\n  /* a raised cosine over the reach: 1 under the cursor, 0 at\n     the edge of it, and nothing at all past it */\n  --f: max(0, (1 + cos(180deg * var(--d) / ${Number(e.spread)+1})) / 2);\n  transform: translateY(calc(${xy(Number(e.lift))}px * var(--f) * -1))\n             scale(calc(1 + ${xy(Number(e.magnify))} * var(--f) - var(--f)));\n  transform-origin: 50% 100%;\n  transition: transform 220ms cubic-bezier(0.32, 0.72, 0.24, 1);\n}\n\n/* the glyph magnifies, not the button. Scaling the whole item\n   drags the running dot and the label along with it, and the\n   label ends up 15px further from the bar purely as a side\n   effect of the zoom. */\n.gdock-item { transform: none; }\n\n.gdock-tip { display: ${e.labels?`block`:`none`}; }`",
+    "cssTemplate": true
+  },
+  {
+    "id": "progress",
+    "name": "Progress ticks",
+    "cat": "Hover",
+    "kind": "Hover",
+    "fill": true,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".tick-row",
+          "x": 0.12
+        },
+        "ms": 460
+      },
+      {
+        "to": {
+          "sel": ".tick-row",
+          "x": 0.88
+        },
+        "ms": 1600
+      },
+      {
+        "ms": 500
+      }
+    ],
+    "css": "/* dark cards stay solid. no frost, no edge highlight,\n   they are a different material to the glass. */\nbackground: #0e0f11;\nborder-radius: 20px;\ncolor: #f2f1ee;\nbox-shadow: none;"
+  },
+  {
+    "id": "humidity",
+    "rich": true,
+    "name": "Wheel",
+    "cat": "Drag",
+    "kind": "Drag",
+    "pro": true,
+    "fill": false,
+    "stroke": false,
+    "demo": [
+      {
+        "to": {
+          "sel": ".hwheel",
+          "x": 0.5,
+          "y": 0.12
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 200
+      },
+      {
+        "to": {
+          "sel": ".hwheel",
+          "x": 0.76,
+          "y": 0.19
+        },
+        "ms": 260
+      },
+      {
+        "to": {
+          "sel": ".hwheel",
+          "x": 0.9,
+          "y": 0.44
+        },
+        "ms": 260
+      },
+      {
+        "to": {
+          "sel": ".hwheel",
+          "x": 0.86,
+          "y": 0.72
+        },
+        "ms": 260
+      },
+      {
+        "to": {
+          "sel": ".hwheel",
+          "x": 0.62,
+          "y": 0.89
+        },
+        "ms": 260
+      },
+      {
+        "to": {
+          "sel": ".hwheel",
+          "x": 0.34,
+          "y": 0.86
+        },
+        "ms": 260
+      },
+      {
+        "to": {
+          "sel": ".hwheel",
+          "x": 0.13,
+          "y": 0.64
+        },
+        "ms": 260
+      },
+      {
+        "to": {
+          "sel": ".hwheel",
+          "x": 0.14,
+          "y": 0.34
+        },
+        "ms": 260
+      },
+      {
+        "to": {
+          "sel": ".hwheel",
+          "x": 0.36,
+          "y": 0.14
+        },
+        "ms": 260
+      },
+      {
+        "act": "up",
+        "ms": 900
+      }
+    ],
+    "params": [
+      {
+        "id": "wave",
+        "label": "Wave",
+        "hint": "0 is a still gauge",
+        "kind": "range",
+        "group": "feel",
+        "default": 2.6,
+        "min": 0,
+        "max": 7,
+        "step": 0.1
+      },
+      {
+        "id": "ticks",
+        "label": "Density",
+        "kind": "range",
+        "group": "form",
+        "default": 60,
+        "min": 24,
+        "max": 96,
+        "step": 4
+      },
+      {
+        "id": "sweep",
+        "label": "Sweep",
+        "kind": "range",
+        "group": "form",
+        "default": 300,
+        "min": 240,
+        "max": 340,
+        "step": 5,
+        "unit": "°"
+      }
+    ],
+    "css": "e=>`/* figma 155:13094 — geometry is the spec, frost is by eye */\n.gcard {\n  width: 316px;\n  height: 316px;\n  border-radius: 16px;\n  background: rgba(255, 255, 255, 0.6);\n}\n\n/* The band: ${e.ticks} ticks over ${xy(Number(e.sweep),0)}deg, leaving\n   ${xy(360-Number(e.sweep),0)}deg of gap at the bottom. Each tick is placed\n   from its own index, so the count is the only thing that\n   changes when the band gets finer. */\n.hwheel-tick {\n  --start: 120deg;\n  --sweep: ${xy(Number(e.sweep),0)}deg;\n  --step: calc(var(--sweep) / ${Number(e.ticks)-1});\n  rotate: calc(var(--start) + var(--step) * var(--i));\n}\n\n/* the lit ticks carry a travelling wave whose amplitude\n   scales with the reading — at 0 the ring is a static gauge,\n   and this is the number that decides whether it looks\n   alive */\n--wave-amp: calc(1 + var(--reading) * ${xy(Number(e.wave))});\n\n/* title 16px at 16.04 / 21.5 */\n/* chip 70 x 31, radius 8, #f4f4f4 */\n/* note in DM Mono 12px at 30% */\n\n/* #hglass-dispersion is feTurbulence driving three\n   feDisplacementMap passes at 34 / 24 / 13, one per colour\n   channel, recombined with screen blends. different channels\n   bending by different amounts is the chromatic fringing. */`",
+    "cssTemplate": true
+  },
+  {
+    "id": "command",
+    "name": "Command bar",
+    "cat": "Type",
+    "kind": "Type",
+    "pro": true,
+    "fill": true,
+    "stroke": false,
+    "demo": [
+      {
+        "to": {
+          "sel": ".cmd"
+        },
+        "ms": 520
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 1600
+      }
+    ],
+    "css": "/* THE MORPH PATTERN, and it is not the move one. Here the\n   library owns x: it animates the element and its silhouette\n   in perfect sync, so while the button is leaving the two are\n   still one body of liquid, necking thinner until the goo\n   gives up. That is the whole effect.\n\n   It carries a second decision with it. Morph positions its\n   items with a CSS transform on a real wrapper, in LAYOUT\n   pixels, which scales correctly inside a scaled card on its\n   own — so this component must NOT carry the 1/k correction\n   every `move` group needs. Right for move, wrong for morph. */\nconst has = !!q.trim();\n\n<Liquid blur={3} contrast={22} fill=\"var(--fill-slab)\" shadow=\"...\">\n  <Liquid.Item>                        {/* the bar: never moves */}\n  <Liquid.Item x={has ? 0 : -(BTN + GAP)}>   {/* the button */}\n\n/* THE OFFSET IS ALL ON THE BUTTON. Splitting it between the\n   two keeps the pair centred — which is what the reference\n   does — but everything inside the bar travels with it, so the\n   mic fading out was also sliding sideways. A thing leaving in\n   two ways at once reads as neither. The bar holds still and\n   the button walks out from under its right edge. */\n\n/* THE FILL MUST BE OPAQUE. The goo is a blur then a steep\n   alpha contrast — a = 18a - 7 — so anything under about 0.39\n   comes out at zero. --pane is rgba glass: as a fill it would\n   not look faint, it would not be drawn at all. */\n\n/* and the mic only ever fades. No scale, no travel: the one\n   thing it does is stop being there. */\n.cmd-mic { opacity: 0; transition: opacity 150ms ease; }\n.cmd-mic[data-show=\"true\"] { opacity: 1; }",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 28,
+        "min": 0,
+        "max": 28,
+        "step": 2,
+        "unit": "px"
+      },
+      {
+        "id": "bridge",
+        "label": "Bridge",
+        "hint": "how far the button stretches before it breaks free",
+        "kind": "range",
+        "group": "feel",
+        "default": 3,
+        "min": 1,
+        "max": 12,
+        "step": 1,
+        "unit": "px"
+      },
+      {
+        "id": "edge",
+        "label": "Edge",
+        "hint": "how sharp the liquid boundary is",
+        "kind": "range",
+        "group": "form",
+        "default": 22,
+        "min": 12,
+        "max": 30,
+        "step": 1
+      }
+    ]
+  },
+  {
+    "id": "roster",
+    "rich": true,
+    "name": "Selection list",
+    "cat": "Select",
+    "kind": "Select",
+    "fill": true,
+    "stroke": false,
+    "demo": [
+      {
+        "to": {
+          "sel": ".rst-tick",
+          "i": 1
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 130
+      },
+      {
+        "act": "up",
+        "ms": 560
+      },
+      {
+        "to": {
+          "sel": ".rst-tick",
+          "i": 3
+        },
+        "ms": 420
+      },
+      {
+        "act": "down",
+        "ms": 130
+      },
+      {
+        "act": "up",
+        "ms": 620
+      },
+      {
+        "to": {
+          "sel": ".rst-cta"
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 140
+      },
+      {
+        "act": "up",
+        "ms": 900
+      }
+    ],
+    "css": "/* selection lives in a Set so order of clicks never\n   leaks into the rendered order */\nconst [picked, setPicked] = useState<Set<string>>(new Set());\n\nconst toggle = (id: string) =>\n  setPicked((s) => {\n    const next = new Set(s);\n    next.has(id) ? next.delete(id) : next.add(id);\n    return next;\n  });",
+    "params": [
+      {
+        "id": "corner",
+        "label": "Corner",
+        "kind": "range",
+        "group": "form",
+        "default": 20,
+        "min": 0,
+        "max": 40,
+        "step": 2,
+        "unit": "px"
+      },
+      {
+        "id": "rows",
+        "label": "Rows",
+        "hint": "how many people are on the list",
+        "kind": "choice",
+        "group": "form",
+        "default": "4",
+        "options": [
+          "2",
+          "3",
+          "4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sleep",
+    "name": "Range dial",
+    "cat": "Drag",
+    "kind": "Drag",
+    "fill": false,
+    "stroke": false,
+    "demo": [
+      {
+        "to": {
+          "sel": ".g-arc",
+          "x": 0.78,
+          "y": 0.28
+        },
+        "ms": 540
+      },
+      {
+        "act": "down",
+        "ms": 180
+      },
+      {
+        "to": {
+          "sel": ".g-arc",
+          "x": 0.9,
+          "y": 0.62
+        },
+        "ms": 900
+      },
+      {
+        "act": "up",
+        "ms": 900
+      }
+    ],
+    "css": "/* angles wrap, so the span is measured the short way\n   round and both handles are free to cross midnight */\nconst span = ((end - start) + 360) % 360;\n\n/* handle position on the arc */\nconst x = cx + r * Math.cos((angle - 90) * Math.PI / 180);\nconst y = cy + r * Math.sin((angle - 90) * Math.PI / 180);",
+    "params": [
+      {
+        "id": "snap",
+        "label": "Snap",
+        "hint": "the grid the handles land on",
+        "kind": "choice",
+        "group": "feel",
+        "default": "15",
+        "options": [
+          "5",
+          "15",
+          "30"
+        ]
+      },
+      {
+        "id": "density",
+        "label": "Density",
+        "kind": "range",
+        "group": "form",
+        "default": 48,
+        "min": 24,
+        "max": 96,
+        "step": 8
+      },
+      {
+        "id": "reach",
+        "label": "Reach",
+        "kind": "range",
+        "group": "form",
+        "default": 56,
+        "min": 44,
+        "max": 68,
+        "step": 1,
+        "unit": "px"
+      }
+    ]
+  },
+  {
+    "id": "liq-toggle",
+    "name": "Liquid toggle",
+    "cat": "Press",
+    "kind": "Press",
+    "fill": false,
+    "stroke": true,
+    "demo": [
+      {
+        "to": {
+          "sel": ".liq-sw"
+        },
+        "ms": 460
+      },
+      {
+        "act": "down",
+        "ms": 130
+      },
+      {
+        "act": "up",
+        "ms": 900
+      },
+      {
+        "act": "down",
+        "ms": 130
+      },
+      {
+        "act": "up",
+        "ms": 800
+      }
+    ],
+    "params": [
+      {
+        "id": "speed",
+        "label": "Speed",
+        "kind": "range",
+        "group": "feel",
+        "default": 50,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      },
+      {
+        "id": "stretch",
+        "label": "Stretch",
+        "hint": "how much it lengthens as it moves",
+        "kind": "range",
+        "group": "feel",
+        "default": 36,
+        "min": 0,
+        "max": 100,
+        "step": 1
+      }
+    ],
+    "css": "e=>`/* Two blobs, not one, and ONE POSITION between them. The\n   thumb's x is a motion value — a finger writes it, a spring\n   settles it — and the drop is a spring FOLLOWING that value\n   rather than the same target with a delay on it.\n\n   That difference is the whole component. A delay describes a\n   click and nothing else: the drop sets off late and arrives\n   where the thumb already was. A spring is always chasing\n   wherever the thumb is now, so the pair stretches by exactly\n   how fast you are moving it — drag slowly and it stays one\n   shape, flick it and the goo necks out behind. */\nconst x = useMotionValue(4);\nconst chase = useSpring(x, { stiffness: ${Math.max(40,Math.round(260-Number(e.lag)*1.4))}, damping: 22, mass: 1 });\nconst dropX = useTransform(chase, (v) => v + ${xy((40-Number(e.drop))/2,1)});\n\n/* let go, and it lands. Bounce is the damping and Speed the\n   stiffness, so both knobs are properties of one spring\n   rather than of a curve. */\nanimate(x, on ? 48 : 4, {\n  type: \"spring\",\n  stiffness: ${xy(220-(50-Number(e.speed))*1.2,0)},\n  damping: ${xy(26-Number(e.bounce)/100*12,1)},\n  mass: 0.9,\n});\n\n.liq-drop { width: ${e.drop}px; height: ${e.drop}px; margin-top: ${xy(-Number(e.drop)/2,1)}px; }\n\n/* the squash lives in the easing. A drop that keeps a perfect\n   circle the whole way is a ball, not a liquid — the\n   overshoot is what makes it land. */\n\n/* opaque on purpose: a goo filter over a translucent fill\n   thresholds the alpha away and the shape disappears */\nbackground: var(--ink);\n\n/* the filter, shared by all three */\n<filter id=\"liq-goo\">\n  <feGaussianBlur stdDeviation=\"9\" result=\"smear\" />\n  <feColorMatrix in=\"smear\" type=\"matrix\" values=\"\n    1 0 0 0 0\n    0 1 0 0 0\n    0 0 1 0 0\n    0 0 0 19 -9\" />\n</filter>`",
+    "cssTemplate": true
+  }
+]

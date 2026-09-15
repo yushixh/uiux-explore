@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stowdrop-navigation",
+  "source": "kage",
+  "slug": "component--stowdrop-navigation",
+  "url": "https://kage.design/component/stowdrop-navigation",
+  "name": "Starfield SaaS navigation bar by stowdrop.app",
+  "description": "A restrained, single-line SaaS header combines a compact brand lockup, low-contrast navigation, and one warm high-contrast trial CTA. A sparse dotted background adds atmosphere without competing with navigation or reducing legibility.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067821-0.webp",
+  "prompts": [
+    "kage/component--stowdrop-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=navbar",
+    "search?q=saas",
+    "search?q=dark-mode",
+    "search?q=cta"
+  ],
+  "pageSha256": "dd8127222ac530c472b3f33db1c325e23ffbedc052bfe16c78f4f7a86991d057"
+}

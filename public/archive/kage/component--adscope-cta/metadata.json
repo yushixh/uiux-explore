@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--adscope-cta",
+  "source": "kage",
+  "slug": "component--adscope-cta",
+  "url": "https://kage.design/component/adscope-cta",
+  "name": "Centered rounded CTA panel by AdScope",
+  "description": "A quiet, high-contrast call-to-action section that uses generous whitespace, centered alignment, and a single dark pill button to create a clear next step without visual competition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/adscope/d628eaa8-0259-4816-ad11-db69e3ce98d4-1789106704-6.webp",
+  "prompts": [
+    "kage/component--adscope-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/adscope-landing-page",
+  "product": "adscope",
+  "tags": [
+    "search?q=cta",
+    "search?q=minimal",
+    "search?q=centered",
+    "search?q=rounded"
+  ],
+  "pageSha256": "eb2ce3e968ff996eca30f3c61ca3769f4e5c2cb092fd838af986c8723acabc40"
+}

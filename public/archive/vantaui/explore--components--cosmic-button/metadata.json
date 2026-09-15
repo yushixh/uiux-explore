@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--cosmic-button",
+  "source": "vantaui",
+  "slug": "explore--components--cosmic-button",
+  "url": "https://www.vantaui.com/explore/components/cosmic-button",
+  "name": "Cosmic Button - VantaUI",
+  "description": "Button with a 3D orbiting galaxy, drifting stars, and a rotating spark edge that lights up on hover.",
+  "image": "https://vantaui-registry.vercel.app/components/cosmic-button",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "50bfa8692bb5f0af5a447866e457b02d01518d774b94773d30b5ef40cf619f99"
+}

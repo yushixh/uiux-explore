@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--replicate-landing-page",
+  "source": "kage",
+  "slug": "designs--replicate-landing-page",
+  "url": "https://kage.design/designs/replicate-landing-page",
+  "name": "Replicate AI infrastructure landing page by replicate.com",
+  "description": "A long-form AI developer landing page moves from a vivid pink-purple-yellow gradient hero into practical product proof: a live code-and-output demo, pill filters, horizontal model cards, contributor avatars, and a centered community statement. The middle shifts to a bordered white technical explainer with stacked run, fine-tuning, and deployment modules, then to a dark enterprise section with orange chart treatments and dense two-column capability cards; it finishes with an oversized editorial “Imagine what you can build” collage, gradient divider lines, and a restrained multi-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/replicate-com/18021eac-ea1d-469d-8210-9b10eacb77c7-1789073681668.webp",
+  "prompts": [
+    "kage/designs--replicate-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "replicate-com",
+  "tags": [
+    "search?q=gradient+hero",
+    "search?q=code+examples",
+    "search?q=model+cards",
+    "search?q=community+logos",
+    "search?q=editorial+typography",
+    "search?q=dark+metrics+section",
+    "search?q=technical+landing+page"
+  ],
+  "pageSha256": "cd8f987c112346c1905bd1e92aea7df9287f75ed98bdc7814f0ba691e2b345ae"
+}

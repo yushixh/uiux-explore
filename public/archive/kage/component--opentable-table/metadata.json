@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-table",
+  "source": "kage",
+  "slug": "component--opentable-table",
+  "url": "https://kage.design/component/opentable-table",
+  "name": "Popular cities directory by opentable.com",
+  "description": "A location directory uses tabs and a three-column list of expandable city links, giving users a dense but orderly route into regional content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146316-9.webp",
+  "prompts": [
+    "kage/component--opentable-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=directory",
+    "search?q=locations",
+    "search?q=table"
+  ],
+  "pageSha256": "f0468fa8834fc31391467bf116d669eb2b342a4cd989d644900b4095b035904f"
+}

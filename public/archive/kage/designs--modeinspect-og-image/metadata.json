@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--modeinspect-og-image",
+  "source": "kage",
+  "slug": "designs--modeinspect-og-image",
+  "url": "https://kage.design/designs/modeinspect-og-image",
+  "name": "Modeinspect OG social card by Modeinspect",
+  "description": "A typography-only social card at roughly 1200×630 built on a single centered axis. A soft vertical gradient — pale lime at the top fading to muted lavender-taupe at the bottom — carries a three-line headline in deep indigo, set very large in a geometric grotesque with tight leading, with the word 'code' swapped into a chunky pixel-style face as the conceptual punchline. The only other element is a small bottom-centered lockup of a cursor glyph with a lime sparkle behind it beside the wordmark, so the headline does all the communicating and the brand stays a quiet footnote.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/modeinspect/0a9bb1e8-234f-4268-8595-1036794bc838-1789106453685.webp",
+  "prompts": [
+    "kage/designs--modeinspect-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mock-magic-video-presets-og-image",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=og-card",
+    "search?q=typography-led",
+    "search?q=gradient",
+    "search?q=pixel-accent",
+    "search?q=centered-composition",
+    "search?q=no-imagery"
+  ],
+  "pageSha256": "bba70929612b6be2ca11db54b0086982a2261db181be7f2388cffe88193b86a3"
+}

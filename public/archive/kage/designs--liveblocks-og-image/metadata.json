@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--liveblocks-og-image",
+  "source": "kage",
+  "slug": "designs--liveblocks-og-image",
+  "url": "https://kage.design/designs/liveblocks-og-image",
+  "name": "Liveblocks OG social card by liveblocks.io",
+  "description": "A 1200×630 social card built on a near-black canvas with a faint photographic grain and corner vignette, letting a single two-line white grotesque headline carry the entire composition at ~90px. The product concept is enacted rather than illustrated: two collaboration cursor chips — a magenta '✨ AI' tag and a lavender 'Stacy' name tag with cursor arrows — overlap the headline edges at opposite corners, bringing the only colour on the card. A small centred wordmark at the bottom closes the vertical axis, so hierarchy reads headline → cursor accents → brand in one glance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/liveblocks-io/6cc138af-9823-44f7-94fe-cb6f58bd874b-1789072815096.webp",
+  "prompts": [
+    "kage/designs--liveblocks-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "liveblocks-io",
+  "tags": [
+    "search?q=social-card",
+    "search?q=og-image",
+    "search?q=multiplayer-cursors",
+    "search?q=dark-canvas",
+    "search?q=centered-headline",
+    "search?q=name-tag-chips",
+    "search?q=grain-texture",
+    "search?q=wordmark-lockup"
+  ],
+  "pageSha256": "ad3a5919e33ce35fb5056b8ef2473eea3e892f14ac58c4debec88cd68b0f8c42"
+}

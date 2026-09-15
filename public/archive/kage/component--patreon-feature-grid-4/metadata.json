@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--patreon-feature-grid-4",
+  "source": "kage",
+  "slug": "component--patreon-feature-grid-4",
+  "url": "https://kage.design/component/patreon-feature-grid-4",
+  "name": "Turn passions into businesses by patreon.com",
+  "description": "A large centered heading introduces two concise business benefits, paired with an earnings interface that makes monetization and growth feel measurable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/patreon-com/f09b5697-c1c9-4600-81d4-e7bb56a9df3f-1789146382-6.webp",
+  "prompts": [
+    "kage/component--patreon-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/patreon-landing-page",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=business",
+    "search?q=analytics",
+    "search?q=growth",
+    "search?q=columns"
+  ],
+  "pageSha256": "aa503dc1e1879caac3c1f896c5f1add162c9c34669b901dfcc742d7917898dc8"
+}

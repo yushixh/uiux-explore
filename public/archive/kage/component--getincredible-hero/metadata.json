@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--getincredible-hero",
+  "source": "kage",
+  "slug": "component--getincredible-hero",
+  "url": "https://kage.design/component/getincredible-hero",
+  "name": "Soft-gradient statement hero by getincredible.com",
+  "description": "A spacious hero pairs an oversized, tightly set statement with a compact eyebrow, supporting line, and single pill CTA inside a large rounded panel. A vivid lime glow concentrated in the lower-left fades into a warm off-white field, creating energy while keeping the message highly legible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/getincredible-com/e2886fef-b68a-4ec0-9c25-0cadbf1e05de-1789067377-1.webp",
+  "prompts": [
+    "kage/component--getincredible-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/getincredible-landing-page",
+  "product": "getincredible-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=gradient",
+    "search?q=typography",
+    "search?q=saas"
+  ],
+  "pageSha256": "5c4e51c90c637f1f7b1ed0a79aa9d3972b1a1b5b56edf3c4224119f9a87a0a79"
+}

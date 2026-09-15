@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--telescope-zoom",
+  "source": "vantaui",
+  "slug": "explore--blocks--telescope-zoom",
+  "url": "https://www.vantaui.com/explore/blocks/telescope-zoom",
+  "name": "Telescope Zoom - VantaUI",
+  "description": "Scroll-driven zoom with nested masked layers and floating images that rush toward the camera.",
+  "image": "https://vantaui-registry.vercel.app/blocks/telescope-zoom",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "04680b05d50a6de2f00aed00ec0ead12a563d4872065f76d0ab963bae14a40f7"
+}

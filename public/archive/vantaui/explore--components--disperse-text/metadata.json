@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--disperse-text",
+  "source": "vantaui",
+  "slug": "explore--components--disperse-text",
+  "url": "https://www.vantaui.com/explore/components/disperse-text",
+  "name": "Disperse Text - VantaUI",
+  "description": "A text featuring a dispersion effect on hover",
+  "image": "https://vantaui-registry.vercel.app/components/disperse-text",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "11c92fee960452f73ef10525974d50c3d37ffff0c99895d322f3bb3cac307567"
+}

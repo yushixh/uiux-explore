@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--elevenlabs-og-image",
+  "source": "kage",
+  "slug": "designs--elevenlabs-og-image",
+  "url": "https://kage.design/designs/elevenlabs-og-image",
+  "name": "ElevenLabs wordmark-over-warped-grid OG card by elevenlabs.io",
+  "description": "A 1200×630 social card built around a single focal element: the \"ElevenLabs\" wordmark with its \"II\" two-bar glyph, set in a tight-tracked bold grotesque at display size, near-black (#191919), straddling the horizontal midline. Behind it, a warm off-white field (#F5F4F1) is covered in hairline gray (#D9D7D1) lines that undulate like distorted graph paper, denser toward the edges and corners and softened by a radial fade so a quiet glow sits behind the type. Monochrome in three inks — field, black wordmark, gray pattern — with no headline, URL, imagery or secondary focal point; the wordmark alone carries the card and the warped mesh is pure texture.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/elevenlabs-io/739514f0-6888-4336-8d0c-fa92ac7af835-1789060753591.webp",
+  "prompts": [
+    "kage/designs--elevenlabs-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=wordmark",
+    "search?q=warped-grid",
+    "search?q=hairline-pattern",
+    "search?q=centered-composition",
+    "search?q=monochrome"
+  ],
+  "pageSha256": "447aec83fb03c17c04e5a1e8954962918990bc6082b68842bfdbedf968ba9408"
+}

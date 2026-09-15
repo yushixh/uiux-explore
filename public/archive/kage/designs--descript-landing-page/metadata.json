@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--descript-landing-page",
+  "source": "kage",
+  "slug": "designs--descript-landing-page",
+  "url": "https://kage.design/designs/descript-landing-page",
+  "name": "Descript AI video editor landing page by descript.com",
+  "description": "Descript's homepage is a long editorial marketing page that alternates deep-maroon and near-black bands with cream trust bands. A floating white pill nav sits over a hero set in an oversized cream serif headline, with red letter-spaced eyebrow labels and a single red CTA; proof comes from large editor mockups including a floating AI-chat card. Down the page the rhythm shifts through a logo marquee, three dark testimonial cards, a tabbed numbered workflow slide (01 Record) with prev/next arrows, an AI-tools carousel, a 01–06 use-case switcher, then cream bands holding compliance badges, oversized stat numerals, lavender review cards, a split FAQ accordion, and a dense four-column footer with a secondary guides/tools panel. The high-contrast serif paired with a neutral grotesque and a strictly reserved red accent hold all thirteen sections together.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/descript-com/c210b18a-1678-4bef-91b5-c444a8589f04-1789146847529.webp",
+  "prompts": [
+    "kage/designs--descript-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "descript-com",
+  "tags": [
+    "search?q=serif-display",
+    "search?q=ai-editor-mockup",
+    "search?q=logo-marquee",
+    "search?q=numbered-carousel",
+    "search?q=use-case-tabs",
+    "search?q=review-cards",
+    "search?q=accordion-faq",
+    "search?q=dark-editorial"
+  ],
+  "pageSha256": "1e24c8c5786a6242bb3edea3fdc1a6136a53834e20cd38abb7078e9ed6b15b66"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--loqua-feature-grid",
+  "source": "kage",
+  "slug": "component--loqua-feature-grid",
+  "url": "https://kage.design/component/loqua-feature-grid",
+  "name": "Works across every app by Loqua",
+  "description": "A dark rounded panel shifts the visual rhythm and proves breadth by pairing a strong statement with rows of app chips and platform buttons.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loqua/e5cf041a-edc7-487a-b4b8-8f4d563da4de-1789192873-3.webp",
+  "prompts": [
+    "kage/component--loqua-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "loqua",
+  "tags": [
+    "search?q=integrations",
+    "search?q=dark-panel",
+    "search?q=platforms"
+  ],
+  "pageSha256": "8e88995ef385fa2515ce1fe51fab476ad17952d98cb53dbedb236f34c4c55b96"
+}

@@ -1,0 +1,42 @@
+e=>`/* small surfaces get soft frost, never the lens.
+   below roughly 50px the warp cannot resolve and reads as
+   grey noise rather than glass. */
+.gnav {
+  display: flex;
+  flex-direction: ${e.axis===`column`?`column`:`row`};
+  background: rgba(255, 255, 255, 0.6);
+  -webkit-backdrop-filter: blur(2px) saturate(150%);
+  backdrop-filter: blur(2px) saturate(150%);
+  border-radius: 999px;
+  padding: var(--bar-pad);
+  gap: var(--bar-gap);
+}
+
+/* the slot is shared with the toolbar, so bars of glyphs read
+   as one family at one size; only the drawing inside it is
+   the component's own */
+.gnav-item {
+  width: var(--bar-slot);
+  height: var(--bar-slot);
+}
+/* ── the two phase indicator ─────────────────────────────
+   Moving between slots is split rather than eased over one
+   distance. Phase one: the leading edge jumps and the pill
+   dilates to span both slots. Phase two: the trailing edge
+   catches up and contracts onto the target, overshooting
+   slightly. The handoff between them is what decides how far
+   it stretches. */
+.gnav-ind[data-phase="stretch"] {
+  transition:
+    transform ${Math.round(190*(1.6-Number(e.speed)/100*1.2))}ms cubic-bezier(0.32, 0.72, 0.24, 1),
+    width ${Math.round(190*(1.6-Number(e.speed)/100*1.2))}ms cubic-bezier(0.32, 0.72, 0.24, 1);
+}
+/* the third control point past 1 is the overshoot, and is the
+   whole of Bounce */
+.gnav-ind[data-phase="settle"] {
+  transition:
+    transform ${Math.round(420*(1.6-Number(e.speed)/100*1.2))}ms
+      cubic-bezier(0.28, ${xy(1+Number(e.bounce)/100*.56,3)}, 0.36, 1),
+    width ${Math.round(420*(1.6-Number(e.speed)/100*1.2))}ms
+      cubic-bezier(0.24, ${xy(1+Number(e.bounce)/100*.68,3)}, 0.38, 1);
+}`

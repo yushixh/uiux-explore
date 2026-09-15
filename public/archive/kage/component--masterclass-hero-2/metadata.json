@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--masterclass-hero-2",
+  "source": "kage",
+  "slug": "component--masterclass-hero-2",
+  "url": "https://kage.design/component/masterclass-hero-2",
+  "name": "Video class highlight by masterclass.com",
+  "description": "A full-bleed video panel provides an immersive product sample, with a left-side category selector layered over a darkened frame and a visible pause control.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146212-8.webp",
+  "prompts": [
+    "kage/component--masterclass-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/masterclass-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=video",
+    "search?q=categories",
+    "search?q=overlay"
+  ],
+  "pageSha256": "cc384d01b6684c01113a04ed4603800f7d8ae5a1fac767461209ae51dc3f2358"
+}

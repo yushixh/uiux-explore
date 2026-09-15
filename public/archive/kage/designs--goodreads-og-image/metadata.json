@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--goodreads-og-image",
+  "source": "kage",
+  "slug": "designs--goodreads-og-image",
+  "url": "https://kage.design/designs/goodreads-og-image",
+  "name": "Goodreads Open Graph social card by goodreads.com",
+  "description": "A restrained 1200×630 social card built from three flat colours and one curved edge. A plum field fills roughly 85% of the canvas beneath a cream band, and its top edge rises, dips to a point at dead centre and rises again — a subtle nod to the valley of an open book. The headline is set in a warm, high-contrast serif at display scale with a single italic word for emphasis, and the lowercase wordmark repeats beneath it in amber at about half the size. No photography, gradients or product UI; all of the visual interest comes from the organic curve, the colour block and typographic scale.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/goodreads-com/09a603bf-fc2e-42c1-92da-62f9c723f214-1789146302269.webp",
+  "prompts": [
+    "kage/designs--goodreads-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-og-image",
+  "product": "goodreads-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=serif",
+    "search?q=two-tone",
+    "search?q=wave",
+    "search?q=centered",
+    "search?q=italic-accent",
+    "search?q=flat",
+    "search?q=wordmark"
+  ],
+  "pageSha256": "101db569628aba1fab9aacadfad0ddf04566441d5cad35f613d6e4d609a2c8e4"
+}

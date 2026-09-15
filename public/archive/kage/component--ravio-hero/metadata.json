@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ravio-hero",
+  "source": "kage",
+  "slug": "component--ravio-hero",
+  "url": "https://kage.design/component/ravio-hero",
+  "name": "Benchmarking hero by Ravio",
+  "description": "The opening hero pairs a small live-status eyebrow with a large editorial headline, supporting explanation, dual CTAs, and faint dashboard-like background geometry.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ravio/21fc8fab-2ae9-4a70-87c8-10ebee6c9a8e-1789142158-1.webp",
+  "prompts": [
+    "kage/component--ravio-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ravio-landing-page",
+  "product": "ravio",
+  "tags": [
+    "search?q=hero",
+    "search?q=headline",
+    "search?q=conversion"
+  ],
+  "pageSha256": "659e1a0bbef61a5ab718b4b05fcd43f9b8c9fc744ea90400fc1c5d3348186d2d"
+}

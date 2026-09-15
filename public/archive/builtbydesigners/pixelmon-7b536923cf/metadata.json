@@ -1,0 +1,22 @@
+{
+  "id": "pixelmon-7b536923cf",
+  "name": "Pixelmon",
+  "description": "A browser game with Game Boy-style graphics where you play as a designer, product manager, or engineer and battle for buy-in.",
+  "shortInfo": "An office role-playing game in a Game Boy world",
+  "url": "https://www.pixelmon.fun/",
+  "handle": "jasoncashdollar",
+  "creatorName": "Jacob Cashdollar",
+  "creatorUrl": "https://x.com/jasoncashdollar",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Play",
+  "categories": [
+    "Play"
+  ],
+  "launchDate": "2026-09-09",
+  "added": "2026-09-09",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/pixelmon-7b536923cf/reviewed-icon-1789030263265-tiXYCP11MpUgtwtymnYfv14bqIPjOc.svg",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/mtucf462-pixelmon/avatar-b1fbfaba-14f2-44b3-9424-7738f3e6db93-xf4zFF0O4mwXvUVEa4hIdMxudVa7xd.jpg",
+  "shot": "/screenshots/pixelmon-7b536923cf.webp"
+}

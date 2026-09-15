@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--betterment-hero-2",
+  "source": "kage",
+  "slug": "component--betterment-hero-2",
+  "url": "https://kage.design/component/betterment-hero-2",
+  "name": "Retirement planning image feature by betterment.com",
+  "description": "A full-bleed lifestyle image creates an emotional pause, while a left-aligned white text block explains the retirement offering and presents two actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/betterment-com/48b23e19-a777-4bc7-89e7-1aceabf18629-1789146557-4.webp",
+  "prompts": [
+    "kage/component--betterment-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/betterment-landing-page",
+  "product": "betterment-com",
+  "tags": [
+    "search?q=retirement",
+    "search?q=lifestyle",
+    "search?q=overlay",
+    "search?q=cta"
+  ],
+  "pageSha256": "b43638e6ea5e89172557f045fa403807534d77bdb20f389eeb19908788f9527d"
+}

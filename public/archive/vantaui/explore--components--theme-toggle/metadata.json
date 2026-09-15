@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--theme-toggle",
+  "source": "vantaui",
+  "slug": "explore--components--theme-toggle",
+  "url": "https://www.vantaui.com/explore/components/theme-toggle",
+  "name": "Theme Toggle - VantaUI",
+  "description": "Switch between dark and light mode",
+  "image": "https://vantaui-registry.vercel.app/components/theme-toggle",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "f3f9f7007af4486a9543d4bf6c62802cc8f1ad3d1638cf14c9d549be000b629e"
+}

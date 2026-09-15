@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--ramp-og-image",
+  "source": "kage",
+  "slug": "designs--ramp-og-image",
+  "url": "https://kage.design/designs/ramp-og-image",
+  "name": "Ramp open graph social card by ramp.com",
+  "description": "A 1200×630 social card that works like a product collage rather than a billboard: the black wordmark anchors the empty left third, a large dark credit card with concentric-line texture forms the focal centre, and a right rail of small app UI vignettes (transaction row, stacked-area chart, reimbursement pill, spending progress) plus a currency-conversion chip fill the frame with believable product evidence. Hierarchy is built by scale contrast — one hero object, then small tiles at decreasing importance — while a warm light-grey canvas, white tiles and sparse yellow/green accents keep the busy composition calm. Type is a single grotesque sans used at drastically different sizes, from display wordmark down to 11px UI labels.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/ramp-com/bf99583e-6458-4fe5-9cfe-adbf22697d1b-1789070601621.webp",
+  "prompts": [
+    "kage/designs--ramp-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=collage",
+    "search?q=product-ui-tiles",
+    "search?q=wordmark",
+    "search?q=data-viz",
+    "search?q=currency-conversion",
+    "search?q=fintech",
+    "search?q=floating-cards"
+  ],
+  "pageSha256": "d6b551c345bf14a3a47c7911919ac3928b1ba873f39d3e433071bf33f295b74a"
+}

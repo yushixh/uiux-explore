@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--raycast-logo-cloud",
+  "source": "kage",
+  "slug": "component--raycast-logo-cloud",
+  "url": "https://kage.design/component/raycast-logo-cloud",
+  "name": "Dark feature showcase split panel by raycast.com",
+  "description": "A quiet, premium product-capabilities section pairs a high-contrast editorial text column with a large, restrained media panel. Progressive emphasis in the copy and a compact feature label create hierarchy without overwhelming the dark canvas.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067518-8.webp",
+  "prompts": [
+    "kage/component--raycast-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=feature-grid",
+    "search?q=split-layout",
+    "search?q=saas"
+  ],
+  "pageSha256": "4f218aed289c67be5b861ceacccfc3f92c980796fbf4f500c5ba56c20dd47c02"
+}

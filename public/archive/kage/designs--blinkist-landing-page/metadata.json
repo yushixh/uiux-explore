@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--blinkist-landing-page",
+  "source": "kage",
+  "slug": "designs--blinkist-landing-page",
+  "url": "https://kage.design/designs/blinkist-landing-page",
+  "name": "Blinkist homepage by blinkist.com",
+  "description": "A consumer learning-app landing page built on a white canvas with a strict repeating pattern: oversized centred navy display headings, a bright green pill CTA anchoring every section, and flat pastel-filled cards that carry the colour. The hero splits mixed-weight headline type against overlapping phone mockups in a soft-blue panel with doodle stars; the page then alternates proof moments — an illustrated feature trio with video, a stat row, a chip cloud of interest topics, a book carousel, a lavender/cream feature carousel, photo testimonials with yellow-highlighted quotes, 95/91/87% claims, a pale-blue logo strip, a use-case photo quartet, an accordion FAQ — before ending in a near-black navy footer packed with small-type link columns. One rounded sans family, italic emphasis words, and completely flat surfaces (no borders or shadows) keep the long page coherent.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/blinkist-com/923d3302-3f7c-4bf2-9567-691903266cb3-1789146388735.webp",
+  "prompts": [
+    "kage/designs--blinkist-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/domestika-landing-page",
+  "product": "blinkist-com",
+  "tags": [
+    "search?q=hero-device-mockups",
+    "search?q=pastel-cards",
+    "search?q=topic-chips",
+    "search?q=carousel",
+    "search?q=stats-row",
+    "search?q=testimonials",
+    "search?q=accordion-faq",
+    "search?q=seo-footer"
+  ],
+  "pageSha256": "049726f81ab4431c4b547b1e3d0fbbabd82ef46362e422eb3404556712f34a49"
+}

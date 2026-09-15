@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neopress-navigation",
+  "source": "kage",
+  "slug": "component--neopress-navigation",
+  "url": "https://kage.design/component/neopress-navigation",
+  "name": "Announcement bar and navigation by Neopress",
+  "description": "A compact announcement strip sits above a minimal navigation with a wordmark, small text links, locale control, and two contrasting actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neopress/126c1916-850c-4473-b9b4-49923d5d31e2-1789365752-0.webp",
+  "prompts": [
+    "kage/component--neopress-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neopress-landing-page",
+  "product": "neopress",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=responsive"
+  ],
+  "pageSha256": "d11989a6c8106f0b2f41fd7c5a7dc62d44d69fb21164dc92f51e869429f53b84"
+}

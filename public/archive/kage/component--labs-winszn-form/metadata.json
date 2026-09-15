@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--labs-winszn-form",
+  "source": "kage",
+  "slug": "component--labs-winszn-form",
+  "url": "https://kage.design/component/labs-winszn-form",
+  "name": "Minimal studio contact form by labs.winszn.xyz",
+  "description": "A restrained, editorial contact form that uses oversized type, a warm near-black canvas, and sparse navigation-like labels to make a simple enquiry feel intentional. Strong alignment, generous whitespace, and a single rust accent keep the component distinctive without adding visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/labs-winszn-xyz/4df5b54d-904b-4cf9-bf65-93181d626a5e-1789097621-7.webp",
+  "prompts": [
+    "kage/component--labs-winszn-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/labs-winszn-landing-page",
+  "product": "labs-winszn-xyz",
+  "tags": [
+    "search?q=contact",
+    "search?q=minimal",
+    "search?q=dark",
+    "search?q=editorial"
+  ],
+  "pageSha256": "dac8ab67956cf4f70c1240062c7e35088882365dd69dc5bc8d3b31054a185437"
+}

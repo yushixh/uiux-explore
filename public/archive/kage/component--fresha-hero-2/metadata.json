@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-hero-2",
+  "source": "kage",
+  "slug": "component--fresha-hero-2",
+  "url": "https://kage.design/component/fresha-hero-2",
+  "name": "Trust positioning statement by fresha.com",
+  "description": "A short centered statement transitions from reviews into proof, pairing a strong claim with a concise supporting line.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146193-7.webp",
+  "prompts": [
+    "kage/component--fresha-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=headline",
+    "search?q=trust",
+    "search?q=positioning"
+  ],
+  "pageSha256": "35a9145c6945e92d3108797c705467259a15fffb9dfb78bf341ef7a5c36211c4"
+}

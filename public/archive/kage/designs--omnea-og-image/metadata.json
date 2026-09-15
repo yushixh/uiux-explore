@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--omnea-og-image",
+  "source": "kage",
+  "slug": "designs--omnea-og-image",
+  "url": "https://kage.design/designs/omnea-og-image",
+  "name": "Omnea 'The Agentic OS for Procurement' social card by omnea.co",
+  "description": "The card is a single typographic statement on a warm cream field: a two-line high-contrast serif headline set at roughly 150px dominates the 1200×630 canvas, with no logo competing for attention. Four white pill chips ('Mitigation Agent', '4th Party Agent', etc.) are scattered asymmetrically around the type — top-right, mid-left, lower-right, bottom-centre — each pairing an uppercase monospace label with a small halftone dot orb in muted red, blue or green, the only saturated colour on the card. Chips slightly overlap the headline's edges, creating a shallow depth that makes the static card feel like agents orbiting the product claim.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/omnea-co/c83dfae3-3b05-42e8-9d0c-0f9fdee76fd1-1789141733736.webp",
+  "prompts": [
+    "kage/designs--omnea-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "omnea-co",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=serif-display",
+    "search?q=typographic",
+    "search?q=floating-pills",
+    "search?q=monospace-labels",
+    "search?q=cream-canvas"
+  ],
+  "pageSha256": "3df0b346dd5ffa575d23a0c5d5ff5d0fdaba2a4b91c0914a57cb788a8d407d81"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bunq-stats",
+  "source": "kage",
+  "slug": "component--bunq-stats",
+  "url": "https://kage.design/component/bunq-stats",
+  "name": "Trust and confidence metrics by bunq.com",
+  "description": "Three large stacked statistic cards use distinct soft gradients, centered icons, and explanatory text to turn trust claims into scannable proof points.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bunq-com/4420c8b4-fa9d-40bf-a5d3-de95f2febdf1-1789146831-8.webp",
+  "prompts": [
+    "kage/component--bunq-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bunq-landing-page",
+  "product": "bunq-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=trust",
+    "search?q=gradient"
+  ],
+  "pageSha256": "8113bbb1e2234ce5f95349d350c6da64ef1d077fdf5c06a7c50ffae09425b15c"
+}

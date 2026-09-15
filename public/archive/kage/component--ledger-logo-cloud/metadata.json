@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ledger-logo-cloud",
+  "source": "kage",
+  "slug": "component--ledger-logo-cloud",
+  "url": "https://kage.design/component/ledger-logo-cloud",
+  "name": "Supported assets and services by ledger.com",
+  "description": "A short introduction is followed by a row of recognizable circular asset marks and a browse action. The restrained presentation signals breadth without becoming a dense catalog.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ledger-com/abaab959-f9d6-43c3-8f0c-09f584ac8799-1789146872-6.webp",
+  "prompts": [
+    "kage/component--ledger-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=logos",
+    "search?q=assets",
+    "search?q=trust"
+  ],
+  "pageSha256": "b4d1f3afcf5ab8064382a91153807ce486b829b8d44024606ce526f5b8587833"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--mistral-landing-page",
+  "source": "kage",
+  "slug": "designs--mistral-landing-page",
+  "url": "https://kage.design/designs/mistral-landing-page",
+  "name": "Mistral AI enterprise AI platform landing page by mistral.ai",
+  "description": "A restrained, grid-led enterprise AI landing page pairs oversized black typography with thin rules, generous white space, and bright pixel-art panels in orange, red, blue, and yellow. The page expands from a compact hero and customer-news carousel into a dense product capability map, then alternates structured service cards with darker deployment options, a vivid orange CTA, and a highly organized multi-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/mistral-ai/b4bd1aa3-e31c-42a6-8066-6d42fc3e7f45-1789073694097.webp",
+  "prompts": [
+    "kage/designs--mistral-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "mistral-ai",
+  "tags": [
+    "search?q=modular-grid",
+    "search?q=pixel-art",
+    "search?q=enterprise-cards",
+    "search?q=editorial-type",
+    "search?q=carousel",
+    "search?q=dark-cta",
+    "search?q=footer-navigation"
+  ],
+  "pageSha256": "83122598c64381b6dcaa7b267a40e25c4a50a1a7a534fe32b0089a8b04b477a3"
+}

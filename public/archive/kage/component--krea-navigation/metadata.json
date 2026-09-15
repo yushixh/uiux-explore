@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--krea-navigation",
+  "source": "kage",
+  "slug": "component--krea-navigation",
+  "url": "https://kage.design/component/krea-navigation",
+  "name": "Persistent workspace sidebar by krea.ai",
+  "description": "A fixed, narrow black workspace rail organizes the product into Home, creative tools, resources, pricing, and authentication. Compact icon-label rows and a prominent sign-in control make the dense navigation scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/krea-ai/7686b463-3bc3-4358-9bf2-528bb473cb81-1789146900-0.webp",
+  "prompts": [
+    "kage/component--krea-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/krea-landing-page",
+  "product": "krea-ai",
+  "tags": [
+    "search?q=sidebar",
+    "search?q=workspace",
+    "search?q=dark"
+  ],
+  "pageSha256": "c107546ede50ba06b3f310c6bf2a3725dd00689ee636410f1cf4d17f31eae848"
+}

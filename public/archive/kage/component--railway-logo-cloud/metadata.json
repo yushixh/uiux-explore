@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--railway-logo-cloud",
+  "source": "kage",
+  "slug": "component--railway-logo-cloud",
+  "url": "https://kage.design/component/railway-logo-cloud",
+  "name": "Atmospheric logo grid by railway.com",
+  "description": "A compact customer-logo section combines a moody, low-contrast editorial backdrop with a crisp two-row grid of evenly sized logo cells. Fine dividers, restrained monochrome marks, and generous centering make the customer list feel premium without competing with the surrounding page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/railway-com/2043945d-689d-427f-b51d-92aa383b8c92-1789060662-2.webp",
+  "prompts": [
+    "kage/component--railway-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/railway-landing-page",
+  "product": "railway-com",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=brand+grid",
+    "search?q=dark+mode",
+    "search?q=social+proof"
+  ],
+  "pageSha256": "ea036296d5c5ca5c68ea1135db0e498cc963f85a036778e7d6e7c7a771930a69"
+}

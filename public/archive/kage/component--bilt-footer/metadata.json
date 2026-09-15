@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bilt-footer",
+  "source": "kage",
+  "slug": "component--bilt-footer",
+  "url": "https://kage.design/component/bilt-footer",
+  "name": "Minimal multi-column footer by bilt.com",
+  "description": "The footer uses a sparse dark layout: legal and company link columns sit above a divider, while the lower row contains a wordmark area, social links, and legal metadata.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146826-9.webp",
+  "prompts": [
+    "kage/component--bilt-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bilt-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "f1b639776ef474afd9c8809270d82b6316eabf05a74fa972f2d979ab2bccdaa1"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--uini-cta",
+  "source": "kage",
+  "slug": "component--uini-cta",
+  "url": "https://kage.design/component/uini-cta",
+  "name": "Pixel-art footer CTA by uini.io",
+  "description": "A dark, editorial footer CTA that combines a compact brand statement with clearly separated navigation columns and a playful pixel-art edge treatment. The high-contrast orange accent and retro details make the closing section feel distinctive without overwhelming the utility of the links.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uini-io/ef5b466a-1fe9-4cb6-9300-79049ee31244-1789059863-11.webp",
+  "prompts": [
+    "kage/component--uini-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uini-landing-page",
+  "product": "uini-io",
+  "tags": [
+    "search?q=footer",
+    "search?q=cta",
+    "search?q=pixel-art",
+    "search?q=navigation"
+  ],
+  "pageSha256": "f76a50d79bbcb8271f7fcf5c6a999ae89ac9514fb7d9fe9a3b2e5e00b98bd76d"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--hinge-hero-2",
+  "source": "kage",
+  "slug": "component--hinge-hero-2",
+  "url": "https://kage.design/component/hinge-hero-2",
+  "name": "Approach statement by hinge.co",
+  "description": "A spacious off-white statement section combines a small eyebrow, very large serif claim, hand-drawn accent treatment, explanatory copy, and a dark pill button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hinge-co/fc8d8d16-7276-4f4c-b1c9-567702ba4b3c-1789146938-2.webp",
+  "prompts": [
+    "kage/component--hinge-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hinge-landing-page",
+  "product": "hinge-co",
+  "tags": [
+    "search?q=editorial",
+    "search?q=statement",
+    "search?q=cta"
+  ],
+  "pageSha256": "b5d72cb0288964ab7b9b9631f1f0858a2ca39cbd99b2ad94fc951a76160694f1"
+}

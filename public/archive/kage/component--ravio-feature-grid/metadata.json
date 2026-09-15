@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ravio-feature-grid",
+  "source": "kage",
+  "slug": "component--ravio-feature-grid",
+  "url": "https://kage.design/component/ravio-feature-grid",
+  "name": "How the product works by Ravio",
+  "description": "An instructional feature section introduces a new workflow with two side-by-side visual cards, explanatory copy, and a larger analytics preview below.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ravio/21fc8fab-2ae9-4a70-87c8-10ebee6c9a8e-1789142160-5.webp",
+  "prompts": [
+    "kage/component--ravio-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ravio-landing-page",
+  "product": "ravio",
+  "tags": [
+    "search?q=features",
+    "search?q=workflow",
+    "search?q=product"
+  ],
+  "pageSha256": "e73dffa914d4a399ad30b69a23e0a998d6304d7671678f408dbf5382c8e151fb"
+}

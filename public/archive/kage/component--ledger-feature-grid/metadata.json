@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ledger-feature-grid",
+  "source": "kage",
+  "slug": "component--ledger-feature-grid",
+  "url": "https://kage.design/component/ledger-feature-grid",
+  "name": "Three benefit pillars by ledger.com",
+  "description": "Three evenly weighted columns translate the product into simple user outcomes. Thin dividers create rhythm while the short descriptions remain scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ledger-com/abaab959-f9d6-43c3-8f0c-09f584ac8799-1789146871-2.webp",
+  "prompts": [
+    "kage/component--ledger-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=benefits",
+    "search?q=icons",
+    "search?q=grid"
+  ],
+  "pageSha256": "4e07144cd6c34fe49bf9f0ec3b6aba20ca25cd0466f3b5313be526139247e34e"
+}

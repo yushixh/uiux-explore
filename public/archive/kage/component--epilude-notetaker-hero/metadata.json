@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--epilude-notetaker-hero",
+  "source": "kage",
+  "slug": "component--epilude-notetaker-hero",
+  "url": "https://kage.design/component/epilude-notetaker-hero",
+  "name": "Meeting notes hero by Epilude Notetaker",
+  "description": "The hero pairs a large editorial headline and concise explanation with a trial CTA, then demonstrates the product in a wide, rounded application visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/epilude-notetaker/4c1f6c09-8367-4067-b5eb-19bb83b45625-1789365729-1.webp",
+  "prompts": [
+    "kage/component--epilude-notetaker-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-landing-page",
+  "product": "epilude-notetaker",
+  "tags": [
+    "search?q=headline",
+    "search?q=dark",
+    "search?q=product"
+  ],
+  "pageSha256": "b5a641c91ea637ebbc8c298a0f58e6abe8fc5589e267439f69e920cad26d0087"
+}

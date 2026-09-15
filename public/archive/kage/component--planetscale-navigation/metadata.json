@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--planetscale-navigation",
+  "source": "kage",
+  "slug": "component--planetscale-navigation",
+  "url": "https://kage.design/component/planetscale-navigation",
+  "name": "Announcement bar and utility navigation by planetscale.com",
+  "description": "A compact SaaS header pairs a high-contrast announcement strip with a restrained, single-row navigation. Clear text hierarchy, small separators, and a pair of differentiated actions make the header easy to scan without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/planetscale-com/b4abfdd8-cd39-4289-8914-c1bd40d118b4-1789060671-1.webp",
+  "prompts": [
+    "kage/component--planetscale-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/planetscale-landing-page",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=announcement",
+    "search?q=cta"
+  ],
+  "pageSha256": "29a95b659d4b9929273e049cdd21ccacefa905335b78f04934472aca96b39b10"
+}

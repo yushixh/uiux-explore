@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--mock-magic-video-presets-og-image",
+  "source": "kage",
+  "slug": "designs--mock-magic-video-presets-og-image",
+  "url": "https://kage.design/designs/mock-magic-video-presets-og-image",
+  "name": "Mock Magic OG social card by Mock Magic: Video Presets",
+  "description": "A 1200×630 social card split into two asymmetric zones: a quiet black left half carrying the wordmark and a two-line white headline, and a dense right half where a laptop, phone and watch stack bleed off the edges. All three screens show the same blue-and-orange painterly artwork, so the product's value (your content on every device) is demonstrated without a single word of explanation. Colour is withheld everywhere except inside the screens, which makes the artwork the only chromatic event and gives the card its pop.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/mock-magic-video-presets/68797593-d96e-42ba-90d2-8956020e6a30-1789106517332.webp",
+  "prompts": [
+    "kage/designs--mock-magic-video-presets-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-og-image",
+  "product": "mock-magic-video-presets",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=device-mockups",
+    "search?q=product-render",
+    "search?q=sans-serif",
+    "search?q=negative-space",
+    "search?q=dark"
+  ],
+  "pageSha256": "ae6e827a09f47f59744615a4b63eab5e58a73b5e392747ad8d4dae94f146d308"
+}

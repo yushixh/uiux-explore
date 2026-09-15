@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--loom-logo-cloud",
+  "source": "kage",
+  "slug": "component--loom-logo-cloud",
+  "url": "https://kage.design/component/loom-logo-cloud",
+  "name": "Centered proof logo cloud by loom.com",
+  "description": "A spacious social-proof section pairs a strong centered headline and primary CTA with a muted, multi-row grid of customer marks. The varied logo proportions, generous whitespace, and restrained monochrome treatment communicate scale and credibility without competing with the conversion action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060437-2.webp",
+  "prompts": [
+    "kage/component--loom-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=brand+grid",
+    "search?q=minimal",
+    "search?q=cta"
+  ],
+  "pageSha256": "c8b5ae6a6079a0ac1c650d8f315ab65ce6ffce75ec438d28e7fc9385458aa61a"
+}

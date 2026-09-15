@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--prisma-og-image",
+  "source": "kage",
+  "slug": "designs--prisma-og-image",
+  "url": "https://kage.design/designs/prisma-og-image",
+  "name": "Prisma OG social card by prisma.io",
+  "description": "A 1200×630 light social card built almost entirely from negative space: a small mark-plus-wordmark lockup sits top-left, a three-line headline in a dark warm-gray rounded geometric sans dominates the left half at roughly 96–110px, and a fan of teal, yellow and coral stripes slices diagonally through the lower-right corner, softened by a blurred warm glow. Brand colour is quarantined in the mark and the stripe motif, so the type carries the message while the single diagonal injects momentum. Hierarchy reads in one sweep — lockup, headline, accent — with the upper-right quadrant deliberately empty.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/prisma-io/cc604ab0-0b69-48f6-88cd-d3d22c48efa6-1789073659558.webp",
+  "prompts": [
+    "kage/designs--prisma-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=diagonal-stripes",
+    "search?q=geometric-sans",
+    "search?q=brand-lockup",
+    "search?q=negative-space",
+    "search?q=light-canvas"
+  ],
+  "pageSha256": "9c6f66cc023955950b4280254614dd3044af00dd749aea8b1e73cb1413ac3f3e"
+}

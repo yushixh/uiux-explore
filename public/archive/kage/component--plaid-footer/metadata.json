@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--plaid-footer",
+  "source": "kage",
+  "slug": "component--plaid-footer",
+  "url": "https://kage.design/component/plaid-footer",
+  "name": "Compact legal and social footer by plaid.com",
+  "description": "A restrained, low-height footer that combines social links with copyright, locale selection, and privacy controls. Its strong horizontal alignment, generous dark space, and compact utility row make the ending feel polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/plaid-com/7f22fbce-e808-4b19-99a1-7dcb31fbfb56-1789060801-8.webp",
+  "prompts": [
+    "kage/component--plaid-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/plaid-landing-page",
+  "product": "plaid-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=legal",
+    "search?q=social",
+    "search?q=dark",
+    "search?q=responsive"
+  ],
+  "pageSha256": "66e74d64dcb33a656f3ee67748f0fb8a1ec17a7fcf1a4855863412b7551f1108"
+}

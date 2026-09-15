@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mintlify-testimonials",
+  "source": "kage",
+  "slug": "component--mintlify-testimonials",
+  "url": "https://kage.design/component/mintlify-testimonials",
+  "name": "Trusted by teams by mintlify.com",
+  "description": "A testimonial section uses a heading and read-more CTA above a two-row, three-column grid of compact quote cards with avatars, names, roles, and companies.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mintlify-com/71224961-d985-451b-9e35-e02eddcee178-1789060645-8.webp",
+  "prompts": [
+    "kage/component--mintlify-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mintlify-landing-page",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=quotes",
+    "search?q=customers",
+    "search?q=grid"
+  ],
+  "pageSha256": "401f09cc81fc8bf2d45b9c0e0ae4c01fd73c8add8e38950576b21a57df186814"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lemonade-feature-grid-2",
+  "source": "kage",
+  "slug": "component--lemonade-feature-grid-2",
+  "url": "https://kage.design/component/lemonade-feature-grid-2",
+  "name": "Fast digital service feature by lemonade.com",
+  "description": "This focused benefit section explains speed with a centered heading and a large phone-oriented visual, supported by short callouts placed around the visual. The composition makes an abstract service promise tangible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lemonade-com/fec12946-54bf-4cf0-ac52-dcd9bbeb95c9-1789146826-4.webp",
+  "prompts": [
+    "kage/component--lemonade-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lemonade-landing-page",
+  "product": "lemonade-com",
+  "tags": [
+    "search?q=automation",
+    "search?q=mobile",
+    "search?q=benefit"
+  ],
+  "pageSha256": "4851c303ec139dce979cf063e613e9ff343e7a208cee3066c3ccb102d9957c93"
+}

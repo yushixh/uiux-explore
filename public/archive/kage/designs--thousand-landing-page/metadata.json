@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--thousand-landing-page",
+  "source": "kage",
+  "slug": "designs--thousand-landing-page",
+  "url": "https://kage.design/designs/thousand-landing-page",
+  "name": "Thousand — Git-backed docs landing page by Thousand",
+  "description": "A warm cream-and-yellow developer-tools landing page that alternates large serif-feeling headlines with dense, highly believable product mockups (file trees, comment threads, terminal output, spreadsheets). The rhythm alternates wide two-column feature rows with stacked bento cards, punctuated by full-width accent blocks (yellow \"Decks and PDFs\" band, near-black \"no lock-in\" section, and a huge yellow closing CTA). Highlights, dotted-underline annotations, and commit-style metadata give the page a distinctive \"documents with editorial markup\" character.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/thousand/cb10af68-535d-4246-97d9-03dbd24306a9-1789106567354.webp",
+  "prompts": [
+    "kage/designs--thousand-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "thousand",
+  "tags": [
+    "search?q=product-ui-mockups",
+    "search?q=highlight-mark",
+    "search?q=commit-threads",
+    "search?q=bento-features",
+    "search?q=faq",
+    "search?q=warm-palette",
+    "search?q=git",
+    "search?q=docs"
+  ],
+  "pageSha256": "431241862284d7d02d0d88cfaff4d20dba4d9a034c3aef6e88ec42ca38aef8fe"
+}

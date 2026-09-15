@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ledger-navigation",
+  "source": "kage",
+  "slug": "component--ledger-navigation",
+  "url": "https://kage.design/component/ledger-navigation",
+  "name": "Announcement bars and primary navigation by ledger.com",
+  "description": "Two compact security and migration notices sit above a minimal black navigation bar. The restrained header keeps the Ledger mark, category links, locale, and cart action clearly separated.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ledger-com/abaab959-f9d6-43c3-8f0c-09f584ac8799-1789146870-0.webp",
+  "prompts": [
+    "kage/component--ledger-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=header",
+    "search?q=alerts",
+    "search?q=navigation"
+  ],
+  "pageSha256": "b1a121c2532bc88e17984b70975d7a91d89896a7f217ac0b6dd6e69cc6c32296"
+}

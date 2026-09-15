@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--thousand-logo-cloud",
+  "source": "kage",
+  "slug": "component--thousand-logo-cloud",
+  "url": "https://kage.design/component/thousand-logo-cloud",
+  "name": "Integration-to-product logo bridge by Thousand",
+  "description": "A compact hero-side logo bridge turns familiar tools into a clear visual story: several softly elevated integration tiles flow through a minimal arrow into the product mark. Generous whitespace, restrained contrast, and a warm neutral canvas keep the composition polished without competing with the headline.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/thousand/cb10af68-535d-4246-97d9-03dbd24306a9-1789106637-2.webp",
+  "prompts": [
+    "kage/component--thousand-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/thousand-landing-page",
+  "product": "thousand",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=integrations",
+    "search?q=hero",
+    "search?q=brand-proof"
+  ],
+  "pageSha256": "cc07cad8404e333cf3eac6f1dd385eef822bada15666be52e9590ecf75691b9b"
+}

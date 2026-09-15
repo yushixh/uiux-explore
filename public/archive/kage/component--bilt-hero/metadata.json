@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bilt-hero",
+  "source": "kage",
+  "slug": "component--bilt-hero",
+  "url": "https://kage.design/component/bilt-hero",
+  "name": "Map-backed rewards hero by bilt.com",
+  "description": "The opening hero uses a dark city-map field with floating reward activity chips, left-aligned headline/supporting copy, and a bright primary button. The visual creates a sense of an active network without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146823-1.webp",
+  "prompts": [
+    "kage/component--bilt-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bilt-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=map",
+    "search?q=rewards",
+    "search?q=dark",
+    "search?q=cta"
+  ],
+  "pageSha256": "df74cd9f3ae4f3aff8b5e0129add3b0a879cd219884fe15e30d7c4cfd1c4b224"
+}

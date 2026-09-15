@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mintlify-cta",
+  "source": "kage",
+  "slug": "component--mintlify-cta",
+  "url": "https://kage.design/component/mintlify-cta",
+  "name": "Latest updates card rail by mintlify.com",
+  "description": "A horizontal editorial CTA rail pairs a quiet introductory card with darker featured content cards, creating a compact, high-contrast route into recent product stories. Generous gutters, restrained borders, and partially visible neighboring cards make the section feel browseable without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mintlify-com/71224961-d985-451b-9e35-e02eddcee178-1789060646-10.webp",
+  "prompts": [
+    "kage/component--mintlify-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mintlify-landing-page",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=carousel",
+    "search?q=editorial",
+    "search?q=cards"
+  ],
+  "pageSha256": "e9b44202cb24d73f9f244253947f046a8bae0eced21183ceeb99973dacf125f0"
+}

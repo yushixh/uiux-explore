@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-feature-grid-3",
+  "source": "kage",
+  "slug": "component--fresha-feature-grid-3",
+  "url": "https://kage.design/component/fresha-feature-grid-3",
+  "name": "Trending listings by fresha.com",
+  "description": "A third listing rail surfaces popular businesses, followed by substantial whitespace that separates marketplace browsing from the app promotion.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146192-4.webp",
+  "prompts": [
+    "kage/component--fresha-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=trending",
+    "search?q=directory",
+    "search?q=carousel"
+  ],
+  "pageSha256": "b04ef317fc4b6665f9ea7aa48719f4bca42627887ea3eb8f7fe32ed0a341296c"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--meetup-feature-grid",
+  "source": "kage",
+  "slug": "component--meetup-feature-grid",
+  "url": "https://kage.design/component/meetup-feature-grid",
+  "name": "Nearby event discovery by meetup.com",
+  "description": "A location-specific heading introduces a four-column event card grid, followed by a second row when needed. Each card uses a strong image, free/status badge, truncated title, schedule, and organizer metadata, with a lightweight “see all” link aligned to the heading.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/meetup-com/38f9f6c4-75f1-46e9-b1c3-f8b44b19e777-1789146456-2.webp",
+  "prompts": [
+    "kage/component--meetup-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=events",
+    "search?q=cards",
+    "search?q=local"
+  ],
+  "pageSha256": "4a5227286d9d7937846f3ccb357439145d4e1d1bd25397f99c5b66ca4465048d"
+}

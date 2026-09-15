@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--cursor-image-trail",
+  "source": "vantaui",
+  "slug": "explore--components--cursor-image-trail",
+  "url": "https://www.vantaui.com/explore/components/cursor-image-trail",
+  "name": "Cursor Image Trail - VantaUI",
+  "description": "Dynamic visual trail following the user’s cursor",
+  "image": "https://vantaui-registry.vercel.app/components/cursor-image-trail",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "81c032554fa9218d0f5c8abda5223cf39714cf844376403a2aa64c2b18570170"
+}

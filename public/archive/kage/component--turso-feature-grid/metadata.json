@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--turso-feature-grid",
+  "source": "kage",
+  "slug": "component--turso-feature-grid",
+  "url": "https://kage.design/component/turso-feature-grid",
+  "name": "Problem-to-architecture comparison grid by turso.tech",
+  "description": "A dark, editorial feature section pairs a concise problem statement with a visual side-by-side architecture comparison. The nested panels, restrained borders, and highlighted accent text make the conceptual shift easy to scan without relying on decorative imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/turso-tech/a01fe972-4603-42df-a7fd-1b66e57f2913-1789073738-3.webp",
+  "prompts": [
+    "kage/component--turso-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/turso-landing-page",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=feature+grid",
+    "search?q=comparison",
+    "search?q=saas"
+  ],
+  "pageSha256": "015ea428579cd30d780f8c594bc091fb73a88448f0feb8a2a8a4a5b91b8d255b"
+}

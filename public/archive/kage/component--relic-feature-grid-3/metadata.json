@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--relic-feature-grid-3",
+  "source": "kage",
+  "slug": "component--relic-feature-grid-3",
+  "url": "https://kage.design/component/relic-feature-grid-3",
+  "name": "Platform availability and everyday uses by Relic",
+  "description": "This combined utility area first reassures users about platform coverage, then translates the product into memorable everyday scenarios and small practical features.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/relic/11197dbe-e39c-44cc-b0a1-5cdca0c05213-1789279381-5.webp",
+  "prompts": [
+    "kage/component--relic-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/relic-landing-page",
+  "product": "relic",
+  "tags": [
+    "search?q=platforms",
+    "search?q=use-cases",
+    "search?q=cards"
+  ],
+  "pageSha256": "72b0c718ba4ac199cfad316bc714ccd41a5dc85f03a3acdf3fecaa4d45e289ff"
+}

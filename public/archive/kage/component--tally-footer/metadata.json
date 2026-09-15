@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--tally-footer",
+  "source": "kage",
+  "slug": "component--tally-footer",
+  "url": "https://kage.design/component/tally-footer",
+  "name": "Minimal multi-column footer navigation by tally.so",
+  "description": "A spacious, low-contrast footer that pairs a compact social icon row with clearly separated link columns. Strong column alignment, restrained typography, and generous whitespace make a large set of destinations feel calm and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060955-10.webp",
+  "prompts": [
+    "kage/component--tally-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=social"
+  ],
+  "pageSha256": "a7300dd66f3a04f2249378e6b5693e8919d69a64363f1f51b8da5e7dc5fe732d"
+}

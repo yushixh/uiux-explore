@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--thousand-feature-grid-3",
+  "source": "kage",
+  "slug": "component--thousand-feature-grid-3",
+  "url": "https://kage.design/component/thousand-feature-grid-3",
+  "name": "Warm editorial feature grid by Thousand",
+  "description": "A spacious, warm-toned feature section pairs oversized editorial headings with tactile product-interface previews. Alternating wide feature cards and a follow-on two-column grid create a calm narrative rhythm while keeping each capability grounded in a recognizable workflow.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/thousand/cb10af68-535d-4246-97d9-03dbd24306a9-1789106638-5.webp",
+  "prompts": [
+    "kage/component--thousand-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/thousand-landing-page",
+  "product": "thousand",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=product-ui",
+    "search?q=bento-layout"
+  ],
+  "pageSha256": "bf42bfcbe91722d3035b1ccb32e46886e9b68f4979c395e0ce705279378ecd84"
+}

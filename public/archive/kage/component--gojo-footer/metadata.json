@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--gojo-footer",
+  "source": "kage",
+  "slug": "component--gojo-footer",
+  "url": "https://kage.design/component/gojo-footer",
+  "name": "Minimal link-directory footer by Gojo",
+  "description": "A quiet, spacious footer that organizes deep product and comparison links into aligned columns, then closes with a thin divider and a restrained legal/status row. Its low-contrast palette and generous whitespace keep utility links available without competing with the page’s primary content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106544-11.webp",
+  "prompts": [
+    "kage/component--gojo-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=footer",
+    "search?q=link-grid",
+    "search?q=minimal",
+    "search?q=saas"
+  ],
+  "pageSha256": "9acdfdeff4a37c3b9763f56e14ae42e575035baa75768ce4ade9e11d06251f97"
+}

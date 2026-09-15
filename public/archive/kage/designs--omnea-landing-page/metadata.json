@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--omnea-landing-page",
+  "source": "kage",
+  "slug": "designs--omnea-landing-page",
+  "url": "https://kage.design/designs/omnea-landing-page",
+  "name": "Omnea — Agentic OS for Procurement landing page by omnea.co",
+  "description": "A long editorial enterprise landing page built almost entirely in a warm off-white/beige palette with near-black serif headlines. The hero is minimal — centred type, a single dark pill CTA and a faint dot-matrix motif — followed by a quiet grey logo strip. The page alternates rhythm: dense bento feature grids with UI mockups, a full-bleed dark \"agent\" section that resets the eye, large stat blocks set in oversized serif numerals, editorial photography with pull-quotes, geometric line-drawn trust/compliance tiles, and finally a testimonial wall, article cards, newsletter capture and a dark closing CTA with a big footer. Small uppercase eyebrow labels with dots organise every section, giving a consistent navigational rhythm despite the varied content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/omnea-co/444fd721-a6f8-467e-8179-cf278abe5ec1-1789141728678.webp",
+  "prompts": [
+    "kage/designs--omnea-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "omnea-co",
+  "tags": [
+    "search?q=serif-headlines",
+    "search?q=bento-grid",
+    "search?q=customer-proof",
+    "search?q=logos-strip",
+    "search?q=dark-section-break",
+    "search?q=editorial-photography",
+    "search?q=enterprise",
+    "search?q=trust-badges"
+  ],
+  "pageSha256": "60e744a273a8a22b30244a18612a98a22a4b13fa8809576fe103ab8abd40f20e"
+}

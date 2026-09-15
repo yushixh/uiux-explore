@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--deno-card",
+  "source": "kage",
+  "slug": "component--deno-card",
+  "url": "https://kage.design/component/deno-card",
+  "name": "Framework showcase product card by deno.com",
+  "description": "A spacious, editorial product card that combines a restrained hero, a product preview, framework ecosystem cues, and a clear conversion area. The asymmetric media-and-copy composition makes the platform feel credible while the lower logo field communicates breadth without overwhelming the primary message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073868-9.webp",
+  "prompts": [
+    "kage/component--deno-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/deno-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=bento",
+    "search?q=product-card",
+    "search?q=developer",
+    "search?q=showcase"
+  ],
+  "pageSha256": "c96848c8669e9a214942cde97ee6542f62e74e2a805fa169abe8a4b9baafe73b"
+}

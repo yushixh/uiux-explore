@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--prisma-feature-grid-2",
+  "source": "kage",
+  "slug": "component--prisma-feature-grid-2",
+  "url": "https://kage.design/component/prisma-feature-grid-2",
+  "name": "Three-step feature card grid by prisma.io",
+  "description": "A spacious instructional section turns a product workflow into three numbered cards, each combining a soft tinted visual panel with concise supporting copy. The restrained palette, strong hierarchy, and single follow-up CTA make a complex process feel approachable and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073819-4.webp",
+  "prompts": [
+    "kage/component--prisma-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=step-by-step",
+    "search?q=saas"
+  ],
+  "pageSha256": "d2da3f84b970e8f78c145c5b1cf6bd57e7bf4ca86d3622c4452876efc9d3062f"
+}

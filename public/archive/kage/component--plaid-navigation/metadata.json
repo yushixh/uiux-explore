@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--plaid-navigation",
+  "source": "kage",
+  "slug": "component--plaid-navigation",
+  "url": "https://kage.design/component/plaid-navigation",
+  "name": "Blue Wave Navigation Bar by plaid.com",
+  "description": "A wide, low-profile navigation backdrop built around a deep-to-bright blue gradient and subtle flowing line texture. Its restrained visual treatment keeps the navigation readable while adding a distinctive, technical brand atmosphere.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/plaid-com/7f22fbce-e808-4b19-99a1-7dcb31fbfb56-1789060797-0.webp",
+  "prompts": [
+    "kage/component--plaid-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/plaid-landing-page",
+  "product": "plaid-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=gradient",
+    "search?q=responsive",
+    "search?q=minimal"
+  ],
+  "pageSha256": "dd5ddc2f44776806b8e9b2edc04c28ab1eb624515577621a7a188288d31efc26"
+}

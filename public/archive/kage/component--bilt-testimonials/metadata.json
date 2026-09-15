@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bilt-testimonials",
+  "source": "kage",
+  "slug": "component--bilt-testimonials",
+  "url": "https://kage.design/component/bilt-testimonials",
+  "name": "Member and editorial proof by bilt.com",
+  "description": "Three dark quote cards provide concise third-party validation beneath a plain-language proof heading, with a simple carousel affordance at the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146826-7.webp",
+  "prompts": [
+    "kage/component--bilt-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bilt-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social-proof",
+    "search?q=quotes"
+  ],
+  "pageSha256": "bc7532dbb030010b102be446302b416ac421fc9599b0843545400923ec124e1d"
+}

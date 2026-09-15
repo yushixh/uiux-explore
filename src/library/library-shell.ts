@@ -15,6 +15,7 @@ export class LibraryShell {
         <header class="library-header">
           <div class="library-header-inner">
             <a class="wordmark" href="./" aria-label="UIUX Explore，全部组件"><img class="brand-mark" src="/favicon.svg?v=3" width="24" height="24" alt=""/><span>UIUX <span class="wordmark-name">Explore</span></span></a>
+            <nav class="module-navigation" aria-label="工作区模块"><a href="#orbs">组件工作台</a><a href="#archive">资源库</a></nav>
             <h1 class="sr-only">UIUX Explore 组件库</h1>
             <div class="library-header-actions"></div>
           </div>
@@ -25,5 +26,8 @@ export class LibraryShell {
     this.main = query(this.element, 'main');
     this.home = query<HTMLAnchorElement>(this.element, '.wordmark');
     this.sidebar = query(this.element, '.library-sidebar');
+    this.element.querySelectorAll<HTMLAnchorElement>('.module-navigation a').forEach(a => {
+      if ((location.hash.startsWith('#archive')) === (a.hash === '#archive')) a.setAttribute('aria-current', 'page');
+    });
   }
 }

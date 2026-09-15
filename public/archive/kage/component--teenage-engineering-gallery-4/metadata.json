@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--teenage-engineering-gallery-4",
+  "source": "kage",
+  "slug": "component--teenage-engineering-gallery-4",
+  "url": "https://kage.design/component/teenage-engineering-gallery-4",
+  "name": "Editorial Product Gallery by teenage.engineering",
+  "description": "A tactile, image-led product gallery that combines a dominant campaign photograph with a restrained product grid and a contrasting dark product showcase. The deliberately visible grid lines, generous white space, and minimal labels make the imagery feel like an art-directed catalogue rather than a conventional ecommerce carousel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/teenage-engineering/02d63820-361c-4c31-b791-8f2d75691669-1789060822-5.webp",
+  "prompts": [
+    "kage/component--teenage-engineering-gallery-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/teenage-engineering-landing-page",
+  "product": "teenage-engineering",
+  "tags": [
+    "search?q=gallery",
+    "search?q=editorial",
+    "search?q=commerce",
+    "search?q=products"
+  ],
+  "pageSha256": "60818796ff9a8d51bfbda27e49f255c848496348afe2f9fa80db95d89aa7a223"
+}

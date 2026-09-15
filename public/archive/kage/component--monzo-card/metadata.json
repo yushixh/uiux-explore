@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--monzo-card",
+  "source": "kage",
+  "slug": "component--monzo-card",
+  "url": "https://kage.design/component/monzo-card",
+  "name": "Trust-and-support feature card grid by monzo.com",
+  "description": "A friendly editorial section combines a strong central trust message and CTA with offset cards that explain practical benefits. The alternating coral and deep-navy cards, oversized rounded corners, and generous whitespace make reassurance feel approachable rather than corporate.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monzo-com/b864c421-0184-411c-901f-a4ffc676dbcc-1789060820-6.webp",
+  "prompts": [
+    "kage/component--monzo-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monzo-landing-page",
+  "product": "monzo-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=trust",
+    "search?q=support",
+    "search?q=fintech"
+  ],
+  "pageSha256": "8e85ddd238289f80994486c1b3fdc5753c4d366b196441b8dcf153df26ec374b"
+}

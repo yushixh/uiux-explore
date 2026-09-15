@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chathop-cta-2",
+  "source": "kage",
+  "slug": "component--chathop-cta-2",
+  "url": "https://kage.design/component/chathop-cta-2",
+  "name": "Final conversion CTA by ChatHop",
+  "description": "The dark narrative transitions into a bright closing conversion band with a short headline, prominent pill button, and low-friction reassurance copy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chathop/788ba903-59f3-47ff-b1c8-618bf4f4ae3c-1789193010-6.webp",
+  "prompts": [
+    "kage/component--chathop-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chathop-landing-page",
+  "product": "chathop",
+  "tags": [
+    "search?q=conversion",
+    "search?q=cta",
+    "search?q=lime"
+  ],
+  "pageSha256": "48b39e40b6524f92fc4c5842d14ca7056a3f84ad2e810258f7a3085a0ee22b3d"
+}

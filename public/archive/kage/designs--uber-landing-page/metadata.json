@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--uber-landing-page",
+  "source": "kage",
+  "slug": "designs--uber-landing-page",
+  "url": "https://kage.design/designs/uber-landing-page",
+  "name": "Uber consumer landing page by uber.com",
+  "description": "Uber's homepage is a black-and-white utility page where a working booking widget sits directly in the hero beside a saturated illustration. Below, alternating text/illustration blocks, a teal highlight panel, a three-by-two service card grid, and a dark app-download and footer section keep a strict left-aligned type rhythm; flat editorial illustrations carry all the colour so the product UI itself stays monochrome.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/uber-com/6fbdb16b-1d65-42c3-b533-0bc1468316af-1789146320631.webp",
+  "prompts": [
+    "kage/designs--uber-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "uber-com",
+  "tags": [
+    "search?q=booking-widget",
+    "search?q=flat-illustration",
+    "search?q=service-cards",
+    "search?q=alternating-rhythm",
+    "search?q=qr-download",
+    "search?q=dense-footer",
+    "search?q=cta-pair",
+    "search?q=teal-accent"
+  ],
+  "pageSha256": "d5bd44c917ccf34c44b7f05ce86401732d89c45d21b217ceafd4975c6ba426ab"
+}

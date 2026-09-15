@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--lemonade-og-image",
+  "source": "kage",
+  "slug": "designs--lemonade-og-image",
+  "url": "https://kage.design/designs/lemonade-og-image",
+  "name": "Lemonade OG social card — 'Forget Everything You Know About Insurance' by lemonade.com",
+  "description": "A 1200×630 social card split roughly in half: the left column stacks a script wordmark above a three-line serif headline, while the right half is occupied by a single monochrome line-art scene (house, bench, person, dog) that bleeds to the canvas edges. The palette is strictly greyscale — charcoal type on white, illustration strokes and flat fills in light grey — with a thin light-grey band along the bottom acting as a ground line that the illustration's shadows sit on. Hierarchy is handled purely by scale and weight contrast: the oversized serif headline reads first, the friendly script logo second, the illustration third, all without a single accent colour.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/lemonade-com/4a8bf056-79a0-4a39-a73f-96f361176acc-1789146794925.webp",
+  "prompts": [
+    "kage/designs--lemonade-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "lemonade-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=serif-headline",
+    "search?q=script-wordmark",
+    "search?q=line-illustration",
+    "search?q=monochrome",
+    "search?q=split-composition",
+    "search?q=insurance"
+  ],
+  "pageSha256": "75745440840836dfe1d90f1458806110c263c9f69a637c17d1d4d54660bcae46"
+}

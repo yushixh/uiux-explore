@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--elevenlabs-hero",
+  "source": "kage",
+  "slug": "component--elevenlabs-hero",
+  "url": "https://kage.design/component/elevenlabs-hero",
+  "name": "Tabbed product showcase hero by elevenlabs.io",
+  "description": "A spacious split hero pairs a concise value proposition with a large, interactive product showcase. Layered tabs, a media carousel, and a secondary feature navigation turn a static hero into a compact overview of the product suite while keeping the primary signup action visible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060950-1.webp",
+  "prompts": [
+    "kage/component--elevenlabs-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=hero",
+    "search?q=tabs",
+    "search?q=carousel",
+    "search?q=saas",
+    "search?q=media"
+  ],
+  "pageSha256": "53b0b162c54f6f26d6d7fbcf8d9be6d183c7c2e7a49db0d70783053228a7ee3c"
+}

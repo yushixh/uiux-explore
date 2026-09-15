@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cal-hero",
+  "source": "kage",
+  "slug": "component--cal-hero",
+  "url": "https://kage.design/component/cal-hero",
+  "name": "Split scheduling hero by cal.com",
+  "description": "This hero works by pairing a concise, high-impact value proposition with a realistic product interface that makes the benefit tangible. Strong contrast, generous whitespace, and low-friction signup actions create a focused path from understanding to conversion.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cal-com/cdeba7c5-dd46-4ce9-ba9c-2d344d57a58b-1789060422-1.webp",
+  "prompts": [
+    "kage/component--cal-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cal-landing-page",
+  "product": "cal-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=split-layout",
+    "search?q=saas",
+    "search?q=scheduling"
+  ],
+  "pageSha256": "cbd1310f7a0ff84c933e57bbfd2316bf457ae75d6c8f12e6591b2ef3a2966b11"
+}

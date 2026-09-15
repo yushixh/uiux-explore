@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-feature-grid-2",
+  "source": "kage",
+  "slug": "component--modeinspect-feature-grid-2",
+  "url": "https://kage.design/component/modeinspect-feature-grid-2",
+  "name": "Editorial feature card grid by Modeinspect",
+  "description": "A calm, editorial feature section pairs a strong introductory statement with an asymmetric grid of numbered cards. Generous spacing, warm neutrals, restrained borders, and miniature product UI previews make each capability feel tangible without overwhelming the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106491-4.webp",
+  "prompts": [
+    "kage/component--modeinspect-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=bento-layout",
+    "search?q=design-system"
+  ],
+  "pageSha256": "729ef2fe82bc0fcd32720a8ad8288457ad9e1d7d5fd4bffc4db7b72a18db8cd2"
+}

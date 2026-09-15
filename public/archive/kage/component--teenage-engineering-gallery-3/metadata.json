@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--teenage-engineering-gallery-3",
+  "source": "kage",
+  "slug": "component--teenage-engineering-gallery-3",
+  "url": "https://kage.design/component/teenage-engineering-gallery-3",
+  "name": "Immersive product gallery by teenage.engineering",
+  "description": "This section works through strong visual pacing: a dominant, edge-to-edge hero image is framed by quieter product tiles above and below. Minimal captions, hairline dividers, generous whitespace, and restrained accent colour keep the gallery feeling like an editorial product catalogue rather than a conventional card grid.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/teenage-engineering/02d63820-361c-4c31-b791-8f2d75691669-1789060822-4.webp",
+  "prompts": [
+    "kage/component--teenage-engineering-gallery-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/teenage-engineering-landing-page",
+  "product": "teenage-engineering",
+  "tags": [
+    "search?q=gallery",
+    "search?q=editorial",
+    "search?q=product",
+    "search?q=media"
+  ],
+  "pageSha256": "34318ead9c26fe9bd21edfd5fbb353649b36f7e655bf8c99f176aed3d3d04e71"
+}

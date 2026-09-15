@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ravio-navigation",
+  "source": "kage",
+  "slug": "component--ravio-navigation",
+  "url": "https://kage.design/component/ravio-navigation",
+  "name": "Primary navigation by Ravio",
+  "description": "A compact sticky-style header establishes the product identity, provides grouped navigation links, and keeps sign-in and the primary demo action visible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ravio/21fc8fab-2ae9-4a70-87c8-10ebee6c9a8e-1789142158-0.webp",
+  "prompts": [
+    "kage/component--ravio-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ravio-landing-page",
+  "product": "ravio",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=actions"
+  ],
+  "pageSha256": "3110474619ac5c047d8c49975ac3780459a72af142a187daaeb2dde2936385a3"
+}

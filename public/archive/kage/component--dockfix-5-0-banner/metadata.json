@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--dockfix-5-0-banner",
+  "source": "kage",
+  "slug": "component--dockfix-5-0-banner",
+  "url": "https://kage.design/component/dockfix-5-0-banner",
+  "name": "Statement image banner by DockFix 5.0",
+  "description": "A short visual interlude resets the page rhythm with a landscape backdrop and a centered, multi-line statement in bold black type.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/dockfix-5-0/2c092be4-cae6-431a-8bc7-3fef5352fd95-1789279442-4.webp",
+  "prompts": [
+    "kage/component--dockfix-5-0-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "dockfix-5-0",
+  "tags": [
+    "search?q=banner",
+    "search?q=statement",
+    "search?q=image"
+  ],
+  "pageSha256": "54a87c429bbcb4d4cd3821062490141a944416914f316a7e17f4c60622371e0d"
+}

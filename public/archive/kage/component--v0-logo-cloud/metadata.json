@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--v0-logo-cloud",
+  "source": "kage",
+  "slug": "component--v0-logo-cloud",
+  "url": "https://kage.design/component/v0-logo-cloud",
+  "name": "Muted monochrome logo cloud by v0.dev",
+  "description": "A restrained horizontal logo strip uses evenly distributed brand marks, generous whitespace, and low-contrast monochrome treatment to create social proof without competing with the page’s primary message. The simple rail can collapse into a wrapped or horizontally scrollable layout on smaller screens.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/v0-dev/99e42d3b-29f6-491c-8f06-cd6295e0d986-1789073272-4.webp",
+  "prompts": [
+    "kage/component--v0-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/v0-empty-state",
+  "product": "v0-dev",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=monochrome",
+    "search?q=responsive"
+  ],
+  "pageSha256": "50960a02c467cb6c074bd67559547101978cd055ffe2fc56ef3656a6c1745f2e"
+}

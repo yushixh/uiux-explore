@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--loqua-landing-page",
+  "source": "kage",
+  "slug": "designs--loqua-landing-page",
+  "url": "https://kage.design/designs/loqua-landing-page",
+  "name": "Loqua — AI voice dictation landing page by Loqua",
+  "description": "A long editorial landing page on a warm cream base with a lime/olive accent, built around generous serif display headlines that alternate with compact sans body copy. The rhythm alternates dramatically: cream feature sections with side-by-side text and demo panels, then a full-bleed black band for the app-compatibility grid and again for a dense testimonial wall, so the page breathes in light/dark cycles. Playful touches — sticker badges, small illustrations, a sticky Product Hunt card and \"Try it now\" interactive demo — keep the restrained layout from feeling corporate.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/loqua/e5cf041a-edc7-487a-b4b8-8f4d563da4de-1789192834410.webp",
+  "prompts": [
+    "kage/designs--loqua-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/jackalope-landing-page",
+  "product": "loqua",
+  "tags": [
+    "search?q=voice-input",
+    "search?q=serif-headlines",
+    "search?q=product-boards",
+    "search?q=testimonials",
+    "search?q=dark-section-contrast",
+    "search?q=illustrated",
+    "search?q=long-scroll"
+  ],
+  "pageSha256": "da36e8b05151becd331f90ef1f89a615dc59bd29e4a60e10498a74997ffdcd74"
+}

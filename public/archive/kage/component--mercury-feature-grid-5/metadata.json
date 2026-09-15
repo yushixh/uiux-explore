@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-feature-grid-5",
+  "source": "kage",
+  "slug": "component--mercury-feature-grid-5",
+  "url": "https://kage.design/component/mercury-feature-grid-5",
+  "name": "Security and protection by mercury.com",
+  "description": "A trust-focused section uses a short heading and three illustrated product cards to explain protection, account security, and controls.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141945-8.webp",
+  "prompts": [
+    "kage/component--mercury-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=security",
+    "search?q=feature",
+    "search?q=trust"
+  ],
+  "pageSha256": "6d487083989aad4beffe6841a66e373b31255eec7da166673ae6515f71b3f7ee"
+}

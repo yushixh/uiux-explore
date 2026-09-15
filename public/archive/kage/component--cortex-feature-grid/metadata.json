@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cortex-feature-grid",
+  "source": "kage",
+  "slug": "component--cortex-feature-grid",
+  "url": "https://kage.design/component/cortex-feature-grid",
+  "name": "Three interfaces workflow section by Cortex",
+  "description": "A centered section headline introduces a three-part workflow, illustrated by a configuration panel, a central mark, and stacked interface cards.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cortex/48e48c32-4544-4e71-94d3-849a84be1bb9-1789279409-4.webp",
+  "prompts": [
+    "kage/component--cortex-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cortex-landing-page",
+  "product": "cortex",
+  "tags": [
+    "search?q=features",
+    "search?q=workflow",
+    "search?q=cards"
+  ],
+  "pageSha256": "f54aded4924a3f298dc72be2b87843f11fe41dce6350708146e176655c2ab3bb"
+}

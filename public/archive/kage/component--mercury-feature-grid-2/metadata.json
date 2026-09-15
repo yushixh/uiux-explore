@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-feature-grid-2",
+  "source": "kage",
+  "slug": "component--mercury-feature-grid-2",
+  "url": "https://kage.design/component/mercury-feature-grid-2",
+  "name": "Everyday banking workflows by mercury.com",
+  "description": "A section heading introduces four small visual feature cards covering common banking tasks, followed by a centered customer quote.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141943-4.webp",
+  "prompts": [
+    "kage/component--mercury-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=feature",
+    "search?q=cards",
+    "search?q=workflow"
+  ],
+  "pageSha256": "aca94412f043b9c6a67d7d976db1569f0fd4f3fbb51f6550efdf43b92a82b640"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--viso-now-testimonials",
+  "source": "kage",
+  "slug": "component--viso-now-testimonials",
+  "url": "https://kage.design/component/viso-now-testimonials",
+  "name": "Testimonial proof panel by Viso Now",
+  "description": "A high-credibility customer story pairs one concise, outcome-led quote with a compact grid of quantified results. The restrained layout, oversized figures, and subtle accent colour make the evidence feel clear and scannable without competing with the narrative.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106576-5.webp",
+  "prompts": [
+    "kage/component--viso-now-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/viso-now-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=metrics",
+    "search?q=b2b"
+  ],
+  "pageSha256": "712a2749e132bf2429439bdbc52a6337b667ef1cb8b71ccc5bdf7e46a3d6d22b"
+}

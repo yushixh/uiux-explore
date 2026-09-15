@@ -1,0 +1,22 @@
+{
+  "id": "humanoid-index",
+  "name": "Humanoid Index",
+  "description": "A research index for browsing and comparing humanoid robots by company, country, dimensions, mobility, capabilities, price and production status, with detailed machine profiles.",
+  "shortInfo": "Compare humanoid robots in production",
+  "url": "https://humanoid-index.com/",
+  "handle": "jad2222222",
+  "creatorName": "Roy",
+  "creatorUrl": "https://x.com/jad2222222",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Discovery",
+  "categories": [
+    "Discovery"
+  ],
+  "launchDate": "2026-05-29",
+  "added": "2026-08-18",
+  "sortOrder": 5,
+  "icon": "/backend/icons/humanoid-index.svg",
+  "avatar": "/backend/avatars/humanoid-index.jpg",
+  "shot": "/screenshots/humanoid-index.jpg"
+}

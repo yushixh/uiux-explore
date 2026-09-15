@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--basedash-in-espanol-francais-portugues-feature-grid-2",
+  "source": "kage",
+  "slug": "component--basedash-in-espanol-francais-portugues-feature-grid-2",
+  "url": "https://kage.design/component/basedash-in-espanol-francais-portugues-feature-grid-2",
+  "name": "Centered AI feature grid by Basedash in Español Français & Português",
+  "description": "A calm, editorial feature section pairs a strong centered headline with supporting copy and a horizontally arranged grid of query-oriented cards. A floating highlighted prompt creates a focal point and makes the otherwise static grid feel interactive and intelligent.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/basedash-in-espanol-francais-portugues/b3381e01-f9b6-42c9-8798-975c026618b1-1789106702-4.webp",
+  "prompts": [
+    "kage/component--basedash-in-espanol-francais-portugues-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=ai",
+    "search?q=editorial",
+    "search?q=cards",
+    "search?q=responsive"
+  ],
+  "pageSha256": "9ebe7d4bdf233fc263400b53fdc07ba73d75ef143db90fb74d20d5c43be6427c"
+}

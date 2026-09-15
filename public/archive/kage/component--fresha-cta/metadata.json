@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-cta",
+  "source": "kage",
+  "slug": "component--fresha-cta",
+  "url": "https://kage.design/component/fresha-cta",
+  "name": "Mobile app promotion by fresha.com",
+  "description": "A spacious app-download block uses a small platform label, oversized heading, short copy, and a large reserved visual area to create a calm promotional pause.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146193-5.webp",
+  "prompts": [
+    "kage/component--fresha-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=app",
+    "search?q=download",
+    "search?q=cta"
+  ],
+  "pageSha256": "02fb1257be496b717337e8ee26ee62973bb1ce3aad31923d24e036589fd9408e"
+}

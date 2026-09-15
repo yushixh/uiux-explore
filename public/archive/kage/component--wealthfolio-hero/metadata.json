@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--wealthfolio-hero",
+  "source": "kage",
+  "slug": "component--wealthfolio-hero",
+  "url": "https://kage.design/component/wealthfolio-hero",
+  "name": "Editorial finance hero with product preview by Wealthfolio",
+  "description": "A calm, editorial hero pairs a high-contrast serif headline with a restrained monospace supporting line, focused calls to action, and a large responsive product preview. Soft cream surfaces, olive accents, and layered desktop/mobile UI communicate trust, privacy, and product depth without visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfolio/bf50ab71-633d-4b86-816e-5951eb096cd4-1789106471-1.webp",
+  "prompts": [
+    "kage/component--wealthfolio-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfolio-landing-page",
+  "product": "wealthfolio",
+  "tags": [
+    "search?q=hero",
+    "search?q=editorial",
+    "search?q=finance",
+    "search?q=product-preview"
+  ],
+  "pageSha256": "49a27020c9545962bc49a2dca3018a512abbe13b5ec990dbe5c2a11b94cfe814"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "orbkit",
+  "name": "Orbkit",
+  "description": "A React library of WebGL shader orbs for AI and voice interfaces. Preview idle, thinking, and speaking states, tune each orb in the playground, and install components through the shadcn registry to customize them in your own project.",
+  "shortInfo": "Add reactive shader orbs to AI interfaces",
+  "url": "https://orbkit.zzzzshawn.cloud/",
+  "handle": "zzzzshawn",
+  "creatorName": "shawn.",
+  "creatorUrl": "https://x.com/zzzzshawn",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Development",
+  "categories": [
+    "Development"
+  ],
+  "launchDate": "2026-09-06",
+  "added": "2026-09-07",
+  "sortOrder": 45,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/orbkit/icon-kQ3jnfx24LYDrozuVArKWoZ6E36TuT.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/orbkit/avatar-a4QGtRuYJS5KoWyWNbPpIwCiA9W34F.jpg",
+  "shot": "/screenshots/orbkit.webp"
+}

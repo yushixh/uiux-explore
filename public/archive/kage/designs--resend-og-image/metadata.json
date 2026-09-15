@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--resend-og-image",
+  "source": "kage",
+  "slug": "designs--resend-og-image",
+  "url": "https://kage.design/designs/resend-og-image",
+  "name": "Resend \"Email for Developers\" OG social card by resend.com",
+  "description": "A 1200×630 social card on a near-black canvas with faint diagonal light streaks rising from the lower corners. The composition is one centered column: a rounded app-icon tile, an oversized high-contrast serif headline with a subtle silver-to-white fade, and a dark code-editor mockup that bleeds off the bottom edge to imply more content below. It stays strictly monochrome — white keywords and muted gray syntax on charcoal panels with hairline borders — so the serif headline carries all the visual weight.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/resend-com/e47aa046-edd7-4e6d-b01e-6a3c61710111-1789060000037.webp",
+  "prompts": [
+    "kage/designs--resend-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "resend-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=serif-display",
+    "search?q=code-editor",
+    "search?q=dark-mode",
+    "search?q=monogram",
+    "search?q=syntax-highlighting",
+    "search?q=centered-composition"
+  ],
+  "pageSha256": "f2ece21b219bc8633d0fd4a5d8656ca88bbd4c77ac811cf4bfd2190701b9ed79"
+}

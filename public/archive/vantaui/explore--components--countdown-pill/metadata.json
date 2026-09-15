@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--countdown-pill",
+  "source": "vantaui",
+  "slug": "explore--components--countdown-pill",
+  "url": "https://www.vantaui.com/explore/components/countdown-pill",
+  "name": "Countdown Pill - VantaUI",
+  "description": "A date countdown inside a pill",
+  "image": "https://vantaui-registry.vercel.app/components/countdown-pill",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "c269361b3f0b288491cef4e85acbbba0b20844356b0db3f9186fe4848ad63023"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resend-testimonials-2",
+  "source": "kage",
+  "slug": "component--resend-testimonials-2",
+  "url": "https://kage.design/component/resend-testimonials-2",
+  "name": "Customer testimonial cards by resend.com",
+  "description": "A centered heading introduces a horizontal row of compact quote cards, giving the page broader social proof through multiple voices.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resend-com/a5fe426a-0829-45e6-9969-dd938a799528-1789141644-11.webp",
+  "prompts": [
+    "kage/component--resend-testimonials-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resend-empty-state",
+  "product": "resend-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=cards",
+    "search?q=proof"
+  ],
+  "pageSha256": "eda2809eeb88399bdbd13cb3a737b9071f33ceb250a605906dfc5d8ba18bdbb2"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--neon-hero",
+  "source": "kage",
+  "slug": "component--neon-hero",
+  "url": "https://kage.design/component/neon-hero",
+  "name": "Backend platform hero by neon.tech",
+  "description": "A cinematic dark hero uses an abstract luminous data texture behind a large two-line headline, short eyebrow, two CTAs, and a row of concise capability statements with product snapshots.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neon-tech/ec270806-81ac-4f67-8b23-bd56e790768f-1789141960-1.webp",
+  "prompts": [
+    "kage/component--neon-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neon-empty-state",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark",
+    "search?q=headline",
+    "search?q=cta"
+  ],
+  "pageSha256": "d9275d0ddc1080ea94e3a7de19d9d71e0caa9bd00783eebb241798583714ee2c"
+}

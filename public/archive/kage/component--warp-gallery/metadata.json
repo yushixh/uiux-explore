@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--warp-gallery",
+  "source": "kage",
+  "slug": "component--warp-gallery",
+  "url": "https://kage.design/component/warp-gallery",
+  "name": "Enterprise customer story gallery by warp.dev",
+  "description": "A structured customer-proof section that pairs a concise enterprise positioning statement with a two-column editorial case-study gallery. The dotted technical canvas, monospace hierarchy, oversized media, and restrained links make the section feel credible, product-led, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060389-6.webp",
+  "prompts": [
+    "kage/component--warp-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=gallery",
+    "search?q=case+studies",
+    "search?q=grid",
+    "search?q=enterprise",
+    "search?q=testimonials"
+  ],
+  "pageSha256": "70693be5f1f6050b9297d6330a7ab10b03d3d786da39c5e33a5866fb938286b6"
+}

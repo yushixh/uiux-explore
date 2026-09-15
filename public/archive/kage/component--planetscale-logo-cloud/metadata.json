@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--planetscale-logo-cloud",
+  "source": "kage",
+  "slug": "component--planetscale-logo-cloud",
+  "url": "https://kage.design/component/planetscale-logo-cloud",
+  "name": "Enterprise logo grid by planetscale.com",
+  "description": "A dense, editorial logo wall uses a strict five-column matrix, thin rules, and generous logo-specific whitespace to make a large customer roster feel organized rather than noisy. Monochrome and coloured marks are allowed to retain brand recognition, while the surrounding typography stays restrained and technical.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/planetscale-com/b4abfdd8-cd39-4289-8914-c1bd40d118b4-1789060672-3.webp",
+  "prompts": [
+    "kage/component--planetscale-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/planetscale-landing-page",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=grid",
+    "search?q=b2b"
+  ],
+  "pageSha256": "c43ccf8228f4bf52ec81fda6e3439ec12fa91aa83e64eafdae251e8f5aa86459"
+}

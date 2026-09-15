@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--zola-feature-grid",
+  "source": "kage",
+  "slug": "component--zola-feature-grid",
+  "url": "https://kage.design/component/zola-feature-grid",
+  "name": "Planning product overview by zola.com",
+  "description": "A light introductory product section follows the emotional hero with a heading and a visual grid of planning capabilities, providing a functional overview before the detailed feature story.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/zola-com/ad1936e8-70c2-47e9-b9d5-59869832f93f-1789146310-3.webp",
+  "prompts": [
+    "kage/component--zola-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/zola-landing-page",
+  "product": "zola-com",
+  "tags": [
+    "search?q=overview",
+    "search?q=features",
+    "search?q=cards"
+  ],
+  "pageSha256": "f66531d367c7bc827a200701f7743505e0d3d993bc2f718eda5900a5f723e69d"
+}

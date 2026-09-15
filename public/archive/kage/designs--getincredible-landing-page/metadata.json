@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--getincredible-landing-page",
+  "source": "kage",
+  "slug": "designs--getincredible-landing-page",
+  "url": "https://kage.design/designs/getincredible-landing-page",
+  "name": "Incredible fintech waitlist landing page by getincredible.com",
+  "description": "A sparse pre-launch landing page built around one oversized rounded hero card with a lime-to-cream gradient, huge tightly-set black headline, and a small pill tag plus black CTA. Below the card the page drops to near-empty white space with a single download CTA and dense fine-print legal text, creating a stark contrast between one bold statement and regulatory small print.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/getincredible-com/e2886fef-b68a-4ec0-9c25-0cadbf1e05de-1789067354734.webp",
+  "prompts": [
+    "kage/designs--getincredible-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ynab-landing-page",
+  "product": "getincredible-com",
+  "tags": [
+    "search?q=waitlist",
+    "search?q=hero-banner",
+    "search?q=lime-gradient",
+    "search?q=typography-led",
+    "search?q=minimal-nav",
+    "search?q=footer-legal",
+    "search?q=pre-launch"
+  ],
+  "pageSha256": "ee7168d04b95e351d1ce732e145c54a60c8f981a5a22e4fdd10569ac636bf9dc"
+}

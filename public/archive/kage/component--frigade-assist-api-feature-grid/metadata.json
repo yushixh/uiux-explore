@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--frigade-assist-api-feature-grid",
+  "source": "kage",
+  "slug": "component--frigade-assist-api-feature-grid",
+  "url": "https://kage.design/component/frigade-assist-api-feature-grid",
+  "name": "Contrast-led feature comparison by Frigade Assist API",
+  "description": "A split-panel feature section that contrasts an outdated, document-only workflow with a guided in-product experience. The stark dark/light-blue pairing, oversized headings, and embedded UI mockups make the product benefit immediately understandable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/frigade-assist-api/d96f9c4b-8236-4442-b795-92795f229d4a-1789106743-3.webp",
+  "prompts": [
+    "kage/component--frigade-assist-api-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/frigade-assist-api-landing-page",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=comparison",
+    "search?q=product-tour",
+    "search?q=saas"
+  ],
+  "pageSha256": "a9bb1a19c41d3f4d3f76aa6bd260731de675dcb3b1f21f64c111ae9498c1282f"
+}

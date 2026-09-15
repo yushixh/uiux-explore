@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--tally-landing-page",
+  "source": "kage",
+  "slug": "designs--tally-landing-page",
+  "url": "https://kage.design/designs/tally-landing-page",
+  "name": "Tally form builder landing page by tally.so",
+  "description": "A very long, airy landing page uses a white canvas, heavy black sans-serif headings, and bright magenta annotation marks to make a no-code form builder feel approachable rather than technical. The hero is sparse and centered around a large product preview, then the page settles into a repeated rhythm of left-aligned section headings, hand-drawn decorative artwork, bordered screenshot cards, compact feature grids, testimonials, and increasingly practical sections for sharing, integrations, templates, and FAQs. Thin gray borders, faint shadows, small corner radii, and restrained blue CTA buttons keep the dense lower content legible while the sketch-like illustrations add movement and personality.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060790017.webp",
+  "prompts": [
+    "kage/designs--tally-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neopress-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=long-form+landing+page",
+    "search?q=hand-drawn+illustrations",
+    "search?q=feature+cards",
+    "search?q=magenta+accents",
+    "search?q=product+screenshots",
+    "search?q=social+proof",
+    "search?q=faq"
+  ],
+  "pageSha256": "32ec17973402674cff9d2143cd32d128c9b66c1565efbefa80fe8d91b8b7709f"
+}

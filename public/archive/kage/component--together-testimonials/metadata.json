@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--together-testimonials",
+  "source": "kage",
+  "slug": "component--together-testimonials",
+  "url": "https://kage.design/component/together-testimonials",
+  "name": "Minimal testimonial showcase by together.ai",
+  "description": "A spacious customer-stories section that creates strong hierarchy with a centered heading, restrained supporting copy, generous whitespace, and a clear closing CTA. The low-contrast story-card rail hints at additional content without competing with the section’s message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/together-ai/60591018-8706-471e-a3f2-ad3109f52987-1789073940-6.webp",
+  "prompts": [
+    "kage/component--together-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/together-landing-page",
+  "product": "together-ai",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=editorial",
+    "search?q=minimal"
+  ],
+  "pageSha256": "6629f816d84d86556c33215f3d0c04414273b3bd550049f3393fe42be387fcf6"
+}

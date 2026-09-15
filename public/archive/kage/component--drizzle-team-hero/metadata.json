@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--drizzle-team-hero",
+  "source": "kage",
+  "slug": "component--drizzle-team-hero",
+  "url": "https://kage.design/component/drizzle-team-hero",
+  "name": "Minimal editorial hero by drizzle.team",
+  "description": "A quiet, typography-led hero that introduces the team with a small conversational greeting and generous whitespace. Its restrained hierarchy creates a premium, editorial feel while leaving room for surrounding navigation and page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/drizzle-team/742c665e-9ce1-4c98-831f-72085091350d-1789073809-1.webp",
+  "prompts": [
+    "kage/component--drizzle-team-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/drizzle-team-landing-page",
+  "product": "drizzle-team",
+  "tags": [
+    "search?q=hero",
+    "search?q=editorial",
+    "search?q=minimal",
+    "search?q=typography"
+  ],
+  "pageSha256": "b6eedc96b421f6b569d223f2004d8e7520f27f6e4222678364acf7ee2ad21e97"
+}

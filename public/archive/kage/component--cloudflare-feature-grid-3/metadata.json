@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cloudflare-feature-grid-3",
+  "source": "kage",
+  "slug": "component--cloudflare-feature-grid-3",
+  "url": "https://kage.design/component/cloudflare-feature-grid-3",
+  "name": "Team workflows and platform capabilities by cloudflare.com",
+  "description": "A dense modular capability section uses a large orange feature card alongside workflow panels, deployment/status details, and supporting security and adoption cards.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cloudflare-com/1ca6ff30-a094-43e2-8124-fd26c9356e55-1789213792-6.webp",
+  "prompts": [
+    "kage/component--cloudflare-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "cloudflare-com",
+  "tags": [
+    "search?q=workflow",
+    "search?q=platform",
+    "search?q=capabilities"
+  ],
+  "pageSha256": "1f4614a2e29750715be598ffc1f1edbab5f1a8f16c5dd7f9f6e87e16f064c069"
+}

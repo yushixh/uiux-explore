@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--relic-feature-grid-2",
+  "source": "kage",
+  "slug": "component--relic-feature-grid-2",
+  "url": "https://kage.design/component/relic-feature-grid-2",
+  "name": "Descriptive memory workflow by Relic",
+  "description": "A two-column feature block pairs a detailed list of capabilities with a dark product-interface preview, making the mechanism tangible without overwhelming the reader.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/relic/11197dbe-e39c-44cc-b0a1-5cdca0c05213-1789279380-3.webp",
+  "prompts": [
+    "kage/component--relic-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/relic-landing-page",
+  "product": "relic",
+  "tags": [
+    "search?q=workflow",
+    "search?q=features",
+    "search?q=interface"
+  ],
+  "pageSha256": "c237bca6c9e903de8da8b24a2716ff5bd84711ac71e0f99cb1cd173ba5f8a513"
+}

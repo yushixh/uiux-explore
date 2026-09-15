@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bun-table",
+  "source": "kage",
+  "slug": "component--bun-table",
+  "url": "https://kage.design/component/bun-table",
+  "name": "Minimal multi-column site footer by bun.sh",
+  "description": "A spacious, editorial footer that combines a compact brand block with grouped navigation columns and a quiet legal baseline. Strong alignment, restrained borders, and generous whitespace make a large amount of navigation feel calm and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073826-11.webp",
+  "prompts": [
+    "kage/component--bun-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=minimal",
+    "search?q=responsive"
+  ],
+  "pageSha256": "f599cea9963fb80c527f1705636ec9b1b60419af8830390bbdc6ac6d0cae7ec9"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--frigade-assist-api-feature-grid-3",
+  "source": "kage",
+  "slug": "component--frigade-assist-api-feature-grid-3",
+  "url": "https://kage.design/component/frigade-assist-api-feature-grid-3",
+  "name": "Three-step workflow feature grid by Frigade Assist API",
+  "description": "A restrained three-column feature grid pairs a large, low-contrast product workflow visual with concise numbered explanations. Strong alignment, generous whitespace, and a vivid blue accent make the sequence easy to scan without competing with the surrounding page narrative.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/frigade-assist-api/d96f9c4b-8236-4442-b795-92795f229d4a-1789106744-5.webp",
+  "prompts": [
+    "kage/component--frigade-assist-api-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/frigade-assist-api-landing-page",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=workflow",
+    "search?q=numbered-cards",
+    "search?q=product-story"
+  ],
+  "pageSha256": "6eebb7a4948c1f86e9c219e3fe95c4bb824f8a4db36f5f9cfe0c5e1137a66e03"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--anthropic-banner",
+  "source": "kage",
+  "slug": "component--anthropic-banner",
+  "url": "https://kage.design/component/anthropic-banner",
+  "name": "Centered dark announcement banner by anthropic.com",
+  "description": "A restrained promotional banner that uses a near-black field, centered editorial typography, and a single high-contrast call-to-action. Generous empty space gives the announcement importance while the compact text stack keeps the component easy to scan and adapt.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/anthropic-com/9400eeef-f6ac-4bf6-a324-e094b3c8d068-1789060505-2.webp",
+  "prompts": [
+    "kage/component--anthropic-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/anthropic-landing-page",
+  "product": "anthropic-com",
+  "tags": [
+    "search?q=banner",
+    "search?q=hero",
+    "search?q=announcement",
+    "search?q=editorial",
+    "search?q=cta"
+  ],
+  "pageSha256": "cfa5878249c0e34e660703dd39fbc799fbf3e26b4ff18695679df1e8cf75ae47"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--attio-og-image",
+  "source": "kage",
+  "slug": "designs--attio-og-image",
+  "url": "https://kage.design/designs/attio-og-image",
+  "name": "Attio monochrome OG social card by attio.com",
+  "description": "A 1200×630 card built on tension between two anchors: a chained run of five outlined isometric hexagonal prisms with dashed fold lines sits top-right like a packaging dieline or blueprint drawing, while a three-line headline drops down the bottom-left, each line one step lighter in gray until it nearly dissolves into the off-white ground. The wordmark is the only black element bottom-right, anchoring the diagonal flow from headline to logo. Faint dashed grid hairlines at the top-left edge expose the layout grid, giving the whitespace a technical, engineered feel rather than emptiness.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/attio-com/7960880a-2ea4-411b-b93d-ba863f84325e-1789066874297.webp",
+  "prompts": [
+    "kage/designs--attio-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/clay-og-image",
+  "product": "attio-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=isometric-linework",
+    "search?q=stepped-tone-headline",
+    "search?q=technical-drawing",
+    "search?q=grid-hairlines",
+    "search?q=generous-whitespace",
+    "search?q=bold-sans"
+  ],
+  "pageSha256": "daeb8ed036b04120bb3450c0bb4987877d8d767c686305fc6d7951301dce16db"
+}

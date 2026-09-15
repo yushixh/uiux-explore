@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ai-observability-by-openobserve-card",
+  "source": "kage",
+  "slug": "component--ai-observability-by-openobserve-card",
+  "url": "https://kage.design/component/ai-observability-by-openobserve-card",
+  "name": "Flexible deployment options card grid by AI Observability by OpenObserve",
+  "description": "A centered dark-gradient section uses a compact eyebrow, clear headline, and supporting copy to introduce three equal deployment cards. The bright white cards, simple purple icons, generous spacing, and concise descriptions make complex infrastructure choices feel approachable and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ai-observability-by-openobserve/e945d001-9c66-4981-a493-d9cb08ea77ee-1789106507-5.webp",
+  "prompts": [
+    "kage/component--ai-observability-by-openobserve-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=card-grid",
+    "search?q=saas",
+    "search?q=deployment",
+    "search?q=dark-gradient"
+  ],
+  "pageSha256": "9fef45bcb55711561c93b759dd6bb089a613700a2a3ca2481e487c0309434a91"
+}

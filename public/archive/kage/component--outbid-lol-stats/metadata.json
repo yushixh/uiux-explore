@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--outbid-lol-stats",
+  "source": "kage",
+  "slug": "component--outbid-lol-stats",
+  "url": "https://kage.design/component/outbid-lol-stats",
+  "name": "Project statistics strip by outbid.lol",
+  "description": "A short centered summary follows the ranking, with a sentence of context and three softly elevated metric cards. The cards use large numbers, tiny labels, and restrained color accents to provide a satisfying endpoint to the data-heavy page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/outbid-lol/7d6cde02-1b78-43c8-adde-d87a2555099d-1789142024-3.webp",
+  "prompts": [
+    "kage/component--outbid-lol-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/outbid-lol-landing-page",
+  "product": "outbid-lol",
+  "tags": [
+    "search?q=metrics",
+    "search?q=summary",
+    "search?q=cards"
+  ],
+  "pageSha256": "32a711979cb35fca58f1f07f94e3c349ff5ca4084acc358658a006969483acc6"
+}

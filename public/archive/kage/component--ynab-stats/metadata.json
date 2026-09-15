@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ynab-stats",
+  "source": "kage",
+  "slug": "component--ynab-stats",
+  "url": "https://kage.design/component/ynab-stats",
+  "name": "Outcome statistics section by ynab.com",
+  "description": "A two-column proof section pairs a problem-oriented heading and CTA with four large percentage cards. The cards use generous whitespace, dark type, and green bottom accents for scanability.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ynab-com/e7a182c7-b158-445f-80c9-594412562788-1789146616-3.webp",
+  "prompts": [
+    "kage/component--ynab-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ynab-landing-page",
+  "product": "ynab-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=outcomes",
+    "search?q=proof"
+  ],
+  "pageSha256": "f70d37362ba188362009106dc09a3e4709b1224835aab66a0e716461a5ab4f01"
+}

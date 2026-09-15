@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lemonade-logo-cloud",
+  "source": "kage",
+  "slug": "component--lemonade-logo-cloud",
+  "url": "https://kage.design/component/lemonade-logo-cloud",
+  "name": "Company credentials and backing by lemonade.com",
+  "description": "Three evenly spaced credential columns provide institutional reassurance through badge-like marks, short headings, and concise descriptions. The clean white treatment keeps the section authoritative rather than promotional.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lemonade-com/fec12946-54bf-4cf0-ac52-dcd9bbeb95c9-1789146827-7.webp",
+  "prompts": [
+    "kage/component--lemonade-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lemonade-landing-page",
+  "product": "lemonade-com",
+  "tags": [
+    "search?q=trust",
+    "search?q=credentials",
+    "search?q=certifications"
+  ],
+  "pageSha256": "e3b37fe0966e96a73dadc7a9bb8cb7fabf4b372ea706edda0be45ec1e565c8d8"
+}

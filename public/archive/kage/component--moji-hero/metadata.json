@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--moji-hero",
+  "source": "kage",
+  "slug": "component--moji-hero",
+  "url": "https://kage.design/component/moji-hero",
+  "name": "Product promise hero by Moji",
+  "description": "The hero uses a dramatic editorial headline on the left and a large angled desktop-app preview on the right, followed by two clear actions and a compact trust/status row. A pale paper-like background and red annotation accents make the software feel crafted rather than generic.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/moji/682da163-2f11-4698-8415-78d5458fc05f-1789193059-1.webp",
+  "prompts": [
+    "kage/component--moji-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/moji-landing-page",
+  "product": "moji",
+  "tags": [
+    "search?q=hero",
+    "search?q=product",
+    "search?q=download"
+  ],
+  "pageSha256": "60c1c72c39ebc282c5c857be2e8630817ab09a16e7a60b78df9c623c7dcb3653"
+}

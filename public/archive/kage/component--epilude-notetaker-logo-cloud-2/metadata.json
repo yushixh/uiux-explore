@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--epilude-notetaker-logo-cloud-2",
+  "source": "kage",
+  "slug": "component--epilude-notetaker-logo-cloud-2",
+  "url": "https://kage.design/component/epilude-notetaker-logo-cloud-2",
+  "name": "Compatible apps strip by Epilude Notetaker",
+  "description": "A compatibility section introduces the broad workflow and presents connected apps as a dense set of dark bordered chips across two rows.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/epilude-notetaker/4c1f6c09-8367-4067-b5eb-19bb83b45625-1789365730-4.webp",
+  "prompts": [
+    "kage/component--epilude-notetaker-logo-cloud-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-landing-page",
+  "product": "epilude-notetaker",
+  "tags": [
+    "search?q=integrations",
+    "search?q=apps",
+    "search?q=chips"
+  ],
+  "pageSha256": "6a80ebd4dc33bc4bc92766a678dab575e67cb55d56601f95f8ec2fd8ee3d5fc3"
+}

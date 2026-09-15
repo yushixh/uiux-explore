@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--termsquad-feature-grid-4",
+  "source": "kage",
+  "slug": "component--termsquad-feature-grid-4",
+  "url": "https://kage.design/component/termsquad-feature-grid-4",
+  "name": "Tools and managed infrastructure grid by termsquad.com",
+  "description": "A centered section heading introduces a four-card grid that covers integrations, browser access, managed compute, and workload capacity. Each card has a distinct but consistent visual treatment and a small action link.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/termsquad-com/d12b8131-9740-4063-aef8-780525dfffce-1789166959-5.webp",
+  "prompts": [
+    "kage/component--termsquad-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=cards",
+    "search?q=tools",
+    "search?q=infrastructure"
+  ],
+  "pageSha256": "9519fa1829920607177805317d9bf7e27241f7e3611762c6d85f20b45869bd43"
+}

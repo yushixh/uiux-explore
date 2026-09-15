@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resurf-tabs",
+  "source": "kage",
+  "slug": "component--resurf-tabs",
+  "url": "https://kage.design/component/resurf-tabs",
+  "name": "Product surfaces walkthrough by Resurf",
+  "description": "A section heading introduces a tabbed product tour, with compact tabs above a large interface image and a one-line caption explaining the surface.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resurf/ff64fde5-ed9d-4c90-b5a1-3641329afaa7-1789365707-3.webp",
+  "prompts": [
+    "kage/component--resurf-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "resurf",
+  "tags": [
+    "search?q=tabs",
+    "search?q=walkthrough",
+    "search?q=interface"
+  ],
+  "pageSha256": "e585fec4e664872b1023ca19c7a3ada868121db7d69c6b73301d8908ea6a6a77"
+}

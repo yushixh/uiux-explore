@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-testimonials",
+  "source": "kage",
+  "slug": "component--opentable-testimonials",
+  "url": "https://kage.design/component/opentable-testimonials",
+  "name": "Local diner reviews by opentable.com",
+  "description": "Three review cards create social proof through avatars, reviewer context, star ratings, short quotes, and a linked restaurant summary at the bottom of each card.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146315-5.webp",
+  "prompts": [
+    "kage/component--opentable-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=reviews",
+    "search?q=testimonials",
+    "search?q=carousel"
+  ],
+  "pageSha256": "b8bc06cca2ad9ac4ce9ad7e97ce3e1a100a8c1a10eb8cc15caf88a42837a7ce8"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--supabase-gallery",
+  "source": "kage",
+  "slug": "component--supabase-gallery",
+  "url": "https://kage.design/component/supabase-gallery",
+  "name": "Expandable customer story gallery by supabase.com",
+  "description": "A restrained customer-story section pairs a clear editorial heading with a compact secondary link and an interactive, horizontally arranged gallery. One vivid featured story dominates the layout while narrow adjacent cards act as visual tabs, creating hierarchy, discovery, and a strong sense of depth without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/supabase-com/b03f69f9-4b47-487d-8f2b-17d7cd19e877-1789060353-5.webp",
+  "prompts": [
+    "kage/component--supabase-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/supabase-landing-page",
+  "product": "supabase-com",
+  "tags": [
+    "search?q=case+studies",
+    "search?q=gallery",
+    "search?q=testimonials",
+    "search?q=cards"
+  ],
+  "pageSha256": "ddb5122e1aa4d6480466471c64fe93977d2d1825f619a49ac3a8ceeb3d50885c"
+}

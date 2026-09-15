@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--astro-build-og-image",
+  "source": "kage",
+  "slug": "designs--astro-build-og-image",
+  "url": "https://kage.design/designs/astro-build-og-image",
+  "name": "Astro OG social card by astro.build",
+  "description": "A 1200×630 dark card split roughly 55/45: the left column carries the identity and message (small wordmark with logo mark, a two-line headline that switches from regular to heavy italic mid-sentence, and a rounded mascot icon with a gradient border), while the right half is a purely atmospheric field of blurred, glowing pills in purple, blue, teal, yellow, pink, orange and white, stacked like abstract code lines and bleeding off the canvas edge. A faint square grid texture and a violet ambient glow anchored in the lower left keep the dark background from reading flat. The single type move — regular-to-italic-bold emphasis — gives the card its personality without needing any extra decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/astro-build/e064bbaa-9564-4de6-aad0-af304596f8d4-1789073665567.webp",
+  "prompts": [
+    "kage/designs--astro-build-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "astro-build",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=blurred-glow",
+    "search?q=grid-texture",
+    "search?q=italic-headline",
+    "search?q=wordmark",
+    "search?q=gradient-border",
+    "search?q=abstract-pills"
+  ],
+  "pageSha256": "e3b58c707c744e934bb45491f09d9c039f43cac41643b3b6ccbb05140238920a"
+}

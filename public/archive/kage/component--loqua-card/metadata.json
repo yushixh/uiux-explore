@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--loqua-card",
+  "source": "kage",
+  "slug": "component--loqua-card",
+  "url": "https://kage.design/component/loqua-card",
+  "name": "Before-and-after workflow comparison by Loqua",
+  "description": "A simple comparison card makes the product benefit tangible through side-by-side baseline and improved metrics, sample output, and a playful speed cue.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loqua/e5cf041a-edc7-487a-b4b8-8f4d563da4de-1789192872-2.webp",
+  "prompts": [
+    "kage/component--loqua-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "loqua",
+  "tags": [
+    "search?q=comparison",
+    "search?q=metrics",
+    "search?q=demo"
+  ],
+  "pageSha256": "4a9b17b98d0604056b24c8b9e5e7b8511c6864fc9f020c2d1fcb083a5e94c358"
+}

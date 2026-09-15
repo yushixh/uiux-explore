@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stowdrop-feature-grid-3",
+  "source": "kage",
+  "slug": "component--stowdrop-feature-grid-3",
+  "url": "https://kage.design/component/stowdrop-feature-grid-3",
+  "name": "Editorial Feature Grid by stowdrop.app",
+  "description": "A dark, editorial feature section that pairs varied-width cards with concise product storytelling and embedded interface previews. It works through strong hierarchy, warm accent labels, restrained surfaces, and layouts that give the most important capability the largest visual footprint.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067823-5.webp",
+  "prompts": [
+    "kage/component--stowdrop-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=bento-layout",
+    "search?q=product-story"
+  ],
+  "pageSha256": "c2921e267719c8bf951b3a43c911c871c7f2c733c22aab792a2bc8425188c7c7"
+}

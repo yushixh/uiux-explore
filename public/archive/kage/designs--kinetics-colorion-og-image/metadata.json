@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--kinetics-colorion-og-image",
+  "source": "kage",
+  "slug": "designs--kinetics-colorion-og-image",
+  "url": "https://kage.design/designs/kinetics-colorion-og-image",
+  "name": "Kinetics motion library OG card by kinetics.colorion.co",
+  "description": "A 1200×630 near-black social card organised into three horizontal bands: a small top-left lockup (orange dot plus bold monospace wordmark), an oversized two-line display headline in extra-bold type where only the final word \"weight.\" flips to orange, and a damped spring curve that enters at full amplitude behind the headline and decays to a settled flat hairline ending in a solid orange dot. A monospace keyword strip in muted gray with middot separators anchors the bottom margin. Colour is restricted to off-white, orange and gray on black, and the pairing of a heavy humanist display face with monospace secondary text gives the whole card a precise, engineering-flavoured tone — the curve literally demonstrates the product's pitch.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/kinetics-colorion-co/8c11e6bb-ded0-439c-87f9-655ef593fd93-1789374924182.webp",
+  "prompts": [
+    "kage/designs--kinetics-colorion-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/moji-og-image",
+  "product": "kinetics-colorion-co",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=monospace",
+    "search?q=spring-curve",
+    "search?q=single-accent",
+    "search?q=line-art",
+    "search?q=dark-theme"
+  ],
+  "pageSha256": "3f784776c01d25c2a490a543cc13460f5fd3bdb2849d3db14d1a79debb4a7376"
+}

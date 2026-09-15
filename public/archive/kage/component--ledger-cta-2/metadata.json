@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ledger-cta-2",
+  "source": "kage",
+  "slug": "component--ledger-cta-2",
+  "url": "https://kage.design/component/ledger-cta-2",
+  "name": "Security-focused closing CTA by ledger.com",
+  "description": "A centered closing message uses a soft purple accent against the black page and one white action button. It provides a clean emotional endpoint before the footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ledger-com/abaab959-f9d6-43c3-8f0c-09f584ac8799-1789146873-10.webp",
+  "prompts": [
+    "kage/component--ledger-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=closing",
+    "search?q=security",
+    "search?q=cta"
+  ],
+  "pageSha256": "52b92ea9899c213a522dfb72eda4743b70f40ef0908795209a1791e8d2373abd"
+}

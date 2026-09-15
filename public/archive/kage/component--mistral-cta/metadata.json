@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mistral-cta",
+  "source": "kage",
+  "slug": "component--mistral-cta",
+  "url": "https://kage.design/component/mistral-cta",
+  "name": "High-contrast split CTA band by mistral.ai",
+  "description": "A bold, full-width conversion band uses a vivid accent background, oversized left-aligned message, and a compact right-aligned pair of contrasting actions. Its generous height and simple geometry create a decisive transition into the footer without relying on imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mistral-ai/b4bd1aa3-e31c-42a6-8066-6d42fc3e7f45-1789073964-7.webp",
+  "prompts": [
+    "kage/component--mistral-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mistral-landing-page",
+  "product": "mistral-ai",
+  "tags": [
+    "search?q=cta",
+    "search?q=footer",
+    "search?q=split-layout",
+    "search?q=high-contrast"
+  ],
+  "pageSha256": "b0e5fc9297e47004c7d3efd92e90ca2599866b044aaed80329085de48f793653"
+}

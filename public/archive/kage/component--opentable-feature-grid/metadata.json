@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-feature-grid",
+  "source": "kage",
+  "slug": "component--opentable-feature-grid",
+  "url": "https://kage.design/component/opentable-feature-grid",
+  "name": "Available-now restaurant carousel by opentable.com",
+  "description": "A heading with a view-all affordance introduces a horizontal row of restaurant cards. Image-led cards combine metadata, ratings, booking activity, save controls, and a repeated availability action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146315-1.webp",
+  "prompts": [
+    "kage/component--opentable-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=carousel",
+    "search?q=restaurant",
+    "search?q=cards"
+  ],
+  "pageSha256": "e09c2039bb5ae12435cf60713a61b6c5d186b19a684391afd86b52810adeb61d"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--oku-club-cta",
+  "source": "kage",
+  "slug": "component--oku-club-cta",
+  "url": "https://kage.design/component/oku-club-cta",
+  "name": "Join the community CTA by oku.club",
+  "description": "A soft-gray conversion band uses a centered heading, brief value proposition, and one strong account-creation button, with decorative art kept at the edges.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/oku-club/e710a983-c1d6-4177-b014-2738acd07d09-1789146245-9.webp",
+  "prompts": [
+    "kage/component--oku-club-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/oku-club-landing-page",
+  "product": "oku-club",
+  "tags": [
+    "search?q=cta",
+    "search?q=signup",
+    "search?q=conversion"
+  ],
+  "pageSha256": "66dbe3cb22e8cd50d8fa6d5c8709b088c2d7f11255710363ecefc7d1cca210f1"
+}

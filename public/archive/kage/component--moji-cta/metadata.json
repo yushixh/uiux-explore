@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--moji-cta",
+  "source": "kage",
+  "slug": "component--moji-cta",
+  "url": "https://kage.design/component/moji-cta",
+  "name": "Open source repository CTA by Moji",
+  "description": "A compact dark CTA band closes the content with an open-source message and one high-contrast repository action. Its horizontal arrangement makes the final decision easy without competing with the preceding download section.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/moji/682da163-2f11-4698-8415-78d5458fc05f-1789193061-7.webp",
+  "prompts": [
+    "kage/component--moji-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/moji-landing-page",
+  "product": "moji",
+  "tags": [
+    "search?q=cta",
+    "search?q=repository",
+    "search?q=open-source"
+  ],
+  "pageSha256": "f3796a917003cab7c1254c7d62bf7c0ca853f6204b033efae113dadf7fce6067"
+}

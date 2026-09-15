@@ -1,0 +1,22 @@
+{
+  "id": "the-good-invoice",
+  "name": "The Good Invoice",
+  "description": "A live invoice builder for freelancers and small studios, with editable client details, line items, taxes, notes, display options, logo upload and polished PDF export.",
+  "shortInfo": "Build a polished invoice and export it as PDF",
+  "url": "https://thegoodinvoice.com/",
+  "handle": "faydesignsstuff",
+  "creatorName": "Fay",
+  "creatorUrl": "https://x.com/faydesignsstuff",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Productivity",
+  "categories": [
+    "Productivity"
+  ],
+  "launchDate": "2026-08-30",
+  "added": "2026-08-30",
+  "sortOrder": 1,
+  "icon": "/backend/icons/the-good-invoice.svg",
+  "avatar": "/backend/avatars/the-good-invoice.jpg",
+  "shot": "/screenshots/the-good-invoice.png"
+}

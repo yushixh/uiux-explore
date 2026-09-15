@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--bun-landing-page",
+  "source": "kage",
+  "slug": "designs--bun-landing-page",
+  "url": "https://kage.design/designs/bun-landing-page",
+  "name": "Bun JavaScript runtime homepage by bun.sh",
+  "description": "A long-form developer-tools landing page uses a mostly white canvas, hairline gray rules, oversized condensed black headlines, and hot pink accents to create a technical editorial feel. The hero establishes the product with a split text/benchmark layout, then the page alternates between compact card grids, large editorial feature bands, benchmark data, API/code demonstrations, a compatibility table, and a high-contrast black CTA footer; the rhythm shifts from dense evidence and comparison modules to spacious narrative sections.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073655216.webp",
+  "prompts": [
+    "kage/designs--bun-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=benchmark-cards",
+    "search?q=developer-landing-page",
+    "search?q=oversized-headlines",
+    "search?q=terminal-ui",
+    "search?q=comparison-tables",
+    "search?q=code-blocks",
+    "search?q=video-cards",
+    "search?q=thin-borders"
+  ],
+  "pageSha256": "f1bbf6981e4b9dcd684579165a2dd895dbd7309065468a4f6c37f8f0f40b8939"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--raycast-2-0-og-image",
+  "source": "kage",
+  "slug": "designs--raycast-2-0-og-image",
+  "url": "https://kage.design/designs/raycast-2-0-og-image",
+  "name": "Raycast 2.0 launch social card by Raycast 2.0",
+  "description": "A 1200×630 launch card on a near-black stage. A small monochrome glyph sits top-centre, the two-line white headline dominates the middle with heavy sans type, and a 3D perspective render of the command bar rises from the bottom edge, dimmed into the background so only the nearest rows (icons, command labels, an 'Open Application' action chip) read clearly. Depth is achieved by fading the UI mockup into black rather than by decoration, with one warm red/orange glow on the left of the mockup as the only accent.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/raycast-2-0/c4792896-d667-4f93-9d7a-45b63e4c8942-1789192848174.webp",
+  "prompts": [
+    "kage/designs--raycast-2-0-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-og-image",
+  "product": "raycast-2-0",
+  "tags": [
+    "search?q=social-card",
+    "search?q=og-image",
+    "search?q=spotlight-mockup",
+    "search?q=dark-ui",
+    "search?q=launch-announcement",
+    "search?q=3d-perspective"
+  ],
+  "pageSha256": "21af401d2f834b4f01ba89cf1dd2bed29a1690cb03c7ad607d83874b19f1e3f1"
+}

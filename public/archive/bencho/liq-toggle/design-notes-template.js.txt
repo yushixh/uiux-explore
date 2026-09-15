@@ -1,0 +1,44 @@
+e=>`/* Two blobs, not one, and ONE POSITION between them. The
+   thumb's x is a motion value — a finger writes it, a spring
+   settles it — and the drop is a spring FOLLOWING that value
+   rather than the same target with a delay on it.
+
+   That difference is the whole component. A delay describes a
+   click and nothing else: the drop sets off late and arrives
+   where the thumb already was. A spring is always chasing
+   wherever the thumb is now, so the pair stretches by exactly
+   how fast you are moving it — drag slowly and it stays one
+   shape, flick it and the goo necks out behind. */
+const x = useMotionValue(4);
+const chase = useSpring(x, { stiffness: ${Math.max(40,Math.round(260-Number(e.lag)*1.4))}, damping: 22, mass: 1 });
+const dropX = useTransform(chase, (v) => v + ${xy((40-Number(e.drop))/2,1)});
+
+/* let go, and it lands. Bounce is the damping and Speed the
+   stiffness, so both knobs are properties of one spring
+   rather than of a curve. */
+animate(x, on ? 48 : 4, {
+  type: "spring",
+  stiffness: ${xy(220-(50-Number(e.speed))*1.2,0)},
+  damping: ${xy(26-Number(e.bounce)/100*12,1)},
+  mass: 0.9,
+});
+
+.liq-drop { width: ${e.drop}px; height: ${e.drop}px; margin-top: ${xy(-Number(e.drop)/2,1)}px; }
+
+/* the squash lives in the easing. A drop that keeps a perfect
+   circle the whole way is a ball, not a liquid — the
+   overshoot is what makes it land. */
+
+/* opaque on purpose: a goo filter over a translucent fill
+   thresholds the alpha away and the shape disappears */
+background: var(--ink);
+
+/* the filter, shared by all three */
+<filter id="liq-goo">
+  <feGaussianBlur stdDeviation="9" result="smear" />
+  <feColorMatrix in="smear" type="matrix" values="
+    1 0 0 0 0
+    0 1 0 0 0
+    0 0 1 0 0
+    0 0 0 19 -9" />
+</filter>`

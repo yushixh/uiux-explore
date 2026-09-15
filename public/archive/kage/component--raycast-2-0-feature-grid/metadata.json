@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--raycast-2-0-feature-grid",
+  "source": "kage",
+  "slug": "component--raycast-2-0-feature-grid",
+  "url": "https://kage.design/component/raycast-2-0-feature-grid",
+  "name": "Three-point release overview by Raycast 2.0",
+  "description": "Three equal columns quickly explain the release promise, each with a small numeric eyebrow, concise heading, short paragraph, and understated text link.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-2-0/585c4674-841f-40bf-a211-e6fd2d8f71e9-1789192910-2.webp",
+  "prompts": [
+    "kage/component--raycast-2-0-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-2-0-landing-page",
+  "product": "raycast-2-0",
+  "tags": [
+    "search?q=overview",
+    "search?q=columns",
+    "search?q=release"
+  ],
+  "pageSha256": "df7d4ed8ae86c82f9a949f44f6d07520545b40dbe59c58b56b34af908a4516a4"
+}

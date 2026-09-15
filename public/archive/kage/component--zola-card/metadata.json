@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--zola-card",
+  "source": "kage",
+  "slug": "component--zola-card",
+  "url": "https://kage.design/component/zola-card",
+  "name": "Registry details showcase by zola.com",
+  "description": "A split editorial block combines a list of secondary benefits with a large magenta product-style visual, making detailed functionality feel tangible and browsable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/zola-com/ad1936e8-70c2-47e9-b9d5-59869832f93f-1789146311-5.webp",
+  "prompts": [
+    "kage/component--zola-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/zola-landing-page",
+  "product": "zola-com",
+  "tags": [
+    "search?q=registry",
+    "search?q=details",
+    "search?q=interactive"
+  ],
+  "pageSha256": "1bdc42a1ec902689db8bad3e7aa1366e5a2e4503133338c33c329d609258d02e"
+}

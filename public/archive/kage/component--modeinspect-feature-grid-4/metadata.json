@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-feature-grid-4",
+  "source": "kage",
+  "slug": "component--modeinspect-feature-grid-4",
+  "url": "https://kage.design/component/modeinspect-feature-grid-4",
+  "name": "Three-step workflow feature grid by Modeinspect",
+  "description": "A dark, editorial feature section turns a three-stage product workflow into a clear horizontal progression. Oversized display type establishes the narrative, while restrained glass-like cards use numbering, labels, concise headings, and supporting copy to make each capability scannable without feeling like a generic SaaS feature list.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106493-7.webp",
+  "prompts": [
+    "kage/component--modeinspect-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=workflow",
+    "search?q=glassmorphism"
+  ],
+  "pageSha256": "d6811a4a78d891db3b63d8b3d799c3396f256c35d386c179eaef82f09af2456e"
+}

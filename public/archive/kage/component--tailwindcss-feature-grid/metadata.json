@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tailwindcss-feature-grid",
+  "source": "kage",
+  "slug": "component--tailwindcss-feature-grid",
+  "url": "https://kage.design/component/tailwindcss-feature-grid",
+  "name": "Responsive feature showcase grid by tailwindcss.com",
+  "description": "This section works by combining a clear introductory heading with a varied, editorial grid of feature cards. A large lead card establishes the visual rhythm, while smaller cards use demos, code samples, diagrams, and interactive-looking previews to make abstract product capabilities feel tangible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tailwindcss-com/8ea80760-a5bd-4198-8781-a7bb4737c216-1789073867-3.webp",
+  "prompts": [
+    "kage/component--tailwindcss-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tailwindcss-landing-page",
+  "product": "tailwindcss-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=documentation",
+    "search?q=product-features"
+  ],
+  "pageSha256": "fc63eda92411fb8aac100f4d6fd51087c2ad0e7634f7ee9601f6125966ac0bb5"
+}

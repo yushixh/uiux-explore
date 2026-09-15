@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--outbid-lol-footer",
+  "source": "kage",
+  "slug": "component--outbid-lol-footer",
+  "url": "https://kage.design/component/outbid-lol-footer",
+  "name": "Minimal attribution footer by outbid.lol",
+  "description": "The footer is intentionally small and centered: an attribution line, a compact row of legal/product links, and a final verification-style badge. Its low contrast preserves focus on the leaderboard while still providing trust and navigation cues.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/outbid-lol/7d6cde02-1b78-43c8-adde-d87a2555099d-1789142024-4.webp",
+  "prompts": [
+    "kage/component--outbid-lol-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/outbid-lol-landing-page",
+  "product": "outbid-lol",
+  "tags": [
+    "search?q=attribution",
+    "search?q=links",
+    "search?q=badge"
+  ],
+  "pageSha256": "74b2dde24be52242ec5e709290ab4f48d88d833e1f736a482cadc70b02e27e9e"
+}

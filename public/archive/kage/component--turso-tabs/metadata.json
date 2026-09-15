@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--turso-tabs",
+  "source": "kage",
+  "slug": "component--turso-tabs",
+  "url": "https://kage.design/component/turso-tabs",
+  "name": "Dual-path product tabs by turso.tech",
+  "description": "A dark, two-option comparison section that helps visitors choose between a self-hosted path and a managed path. Strong hierarchy, restrained borders, teal accents, and bottom-aligned actions make the alternatives easy to scan without feeling like a pricing table.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/turso-tech/a01fe972-4603-42df-a7fd-1b66e57f2913-1789073740-9.webp",
+  "prompts": [
+    "kage/component--turso-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/turso-landing-page",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=tabs",
+    "search?q=dark-mode",
+    "search?q=comparison",
+    "search?q=conversion"
+  ],
+  "pageSha256": "ffe0892982867af1b706f129d3a2df50d096aadafb286f1cafcef6cf40f44fb2"
+}

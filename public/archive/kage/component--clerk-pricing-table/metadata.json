@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--clerk-pricing-table",
+  "source": "kage",
+  "slug": "component--clerk-pricing-table",
+  "url": "https://kage.design/component/clerk-pricing-table",
+  "name": "Split-layout subscription pricing table by clerk.com",
+  "description": "A restrained SaaS pricing section that pairs an explanatory product-benefit column with compact plan cards. It works through strong information hierarchy, generous whitespace, clear annual-billing controls, and scannable feature comparisons without overwhelming the user.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/clerk-com/b0a171ff-4b4c-415f-ac9b-4885f02b49d0-1789060783-6.webp",
+  "prompts": [
+    "kage/component--clerk-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/clerk-landing-page",
+  "product": "clerk-com",
+  "tags": [
+    "search?q=pricing",
+    "search?q=billing",
+    "search?q=comparison",
+    "search?q=saas"
+  ],
+  "pageSha256": "ec56a0a61e4e2579ad43756e0d6dcd0349e6d341654a4b4f68b054e26df107c3"
+}

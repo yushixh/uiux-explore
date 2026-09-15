@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--notion-og-image",
+  "source": "kage",
+  "slug": "designs--notion-og-image",
+  "url": "https://kage.design/designs/notion-og-image",
+  "name": "Teams and agents social card by notion.com",
+  "description": "A 1200×630 white social card uses a centered vertical composition: a small black wordmark anchors the top, followed by an oversized two-line headline with a pale-blue rounded highlight around one phrase. A row of colorful illustrated circular avatars creates the visual bridge into a cropped grayscale product-interface image along the bottom, balancing stark black typography with playful accents and a light editorial rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/notion-com/02aeb14e-44a9-4aaf-ac1c-81085a2bef49-1789060009409.webp",
+  "prompts": [
+    "kage/designs--notion-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-og-image",
+  "product": "notion-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=centered-headline",
+    "search?q=wordmark",
+    "search?q=avatar-collage",
+    "search?q=product-ui",
+    "search?q=soft-blue-pill"
+  ],
+  "pageSha256": "387782057d629348ba0c3a31359be772f834fe9c7e81a7a168c8688f10cd36b8"
+}

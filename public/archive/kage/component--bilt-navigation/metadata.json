@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bilt-navigation",
+  "source": "kage",
+  "slug": "component--bilt-navigation",
+  "url": "https://kage.design/component/bilt-navigation",
+  "name": "Compact top navigation by bilt.com",
+  "description": "A very compact dark navigation layer sits over the opening map visual, keeping the brand and primary actions unobtrusive while preserving the cinematic hero.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146823-0.webp",
+  "prompts": [
+    "kage/component--bilt-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bilt-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=dark",
+    "search?q=minimal",
+    "search?q=utility"
+  ],
+  "pageSha256": "a812f50db1efefd6307dd7d959248f701db7add11f1bfb1df9558eb494dcd656"
+}

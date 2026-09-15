@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--superhuman-hero-3",
+  "source": "kage",
+  "slug": "component--superhuman-hero-3",
+  "url": "https://kage.design/component/superhuman-hero-3",
+  "name": "Split-screen product hero by superhuman.com",
+  "description": "This hero works by pairing a concise, high-contrast value proposition with a vivid product interface preview, creating an immediate connection between the promise and the product experience. A restrained navigation and utility strip frame the section without competing with the primary message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060754-2.webp",
+  "prompts": [
+    "kage/component--superhuman-hero-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=split-screen",
+    "search?q=saas",
+    "search?q=productivity"
+  ],
+  "pageSha256": "c361009fb95213e6fe3b6fa940b04c4fad3989914c9c1eca78449a75feb05342"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--labs-winszn-feature-grid-2",
+  "source": "kage",
+  "slug": "component--labs-winszn-feature-grid-2",
+  "url": "https://kage.design/component/labs-winszn-feature-grid-2",
+  "name": "Dark editorial feature grid by labs.winszn.xyz",
+  "description": "A restrained two-column feature grid that combines editorial typography with precise service metadata. Strong cell borders, generous internal spacing, compact monospace labels, and small physical product cues make each offering feel considered without turning the section into a conventional card dashboard.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/labs-winszn-xyz/4df5b54d-904b-4cf9-bf65-93181d626a5e-1789097620-4.webp",
+  "prompts": [
+    "kage/component--labs-winszn-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/labs-winszn-landing-page",
+  "product": "labs-winszn-xyz",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=dark-ui",
+    "search?q=service-cards"
+  ],
+  "pageSha256": "a5ad43295c9461ea4340bdca99e0f75fabbf3bea98b14e2caf445f2f27a9c5b8"
+}

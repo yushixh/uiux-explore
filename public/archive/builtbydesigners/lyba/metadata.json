@@ -1,0 +1,22 @@
+{
+  "id": "lyba",
+  "name": "Lyba",
+  "description": "A review layer for Framer sites that lets clients pin comments directly to the live page, keeps feedback tied to exact screen sizes and records final approval.",
+  "shortInfo": "A review layer for Framer sites",
+  "url": "https://lyba.io/",
+  "handle": "shugarDadddy",
+  "creatorName": "Leslie",
+  "creatorUrl": "https://x.com/shugarDadddy",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Development",
+  "categories": [
+    "Development"
+  ],
+  "launchDate": "2026-06-01",
+  "added": "2026-08-18",
+  "sortOrder": 16,
+  "icon": "/backend/icons/lyba.png",
+  "avatar": "/backend/avatars/lyba.jpg",
+  "shot": "/screenshots/lyba.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--cron-landing-page",
+  "source": "kage",
+  "slug": "designs--cron-landing-page",
+  "url": "https://kage.design/designs/cron-landing-page",
+  "name": "Cron calendar landing page (\"It's about time.\") by cron.com",
+  "description": "A near single-viewport dark landing page built around one massive white headline in a heavy grotesque, with a bright orange reserved for the logo, the sign-up pill and small UI accents in the product shots. The rhythm is announcement banner → oversized statement headline → one-line subcopy → a large composite desktop/mobile app screenshot. The product imagery does the persuading: a realistic dark calendar UI with a command palette open, warm orange event blocks, and an overlapping iPhone. The footer is a single quiet row of text links, keeping the page to one confident idea.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cron-com/13c2d880-1e0a-4e61-bc53-4a819d6c2d36-1789060132466.webp",
+  "prompts": [
+    "kage/designs--cron-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "cron-com",
+  "tags": [
+    "search?q=dark-theme",
+    "search?q=orange-accent",
+    "search?q=product-screenshot",
+    "search?q=command-bar",
+    "search?q=calendar-app",
+    "search?q=single-viewport"
+  ],
+  "pageSha256": "1c7dcc9c73d00d1a245b717d094cfac0c8dc5d9f4c58b0f75f8069b41509128d"
+}

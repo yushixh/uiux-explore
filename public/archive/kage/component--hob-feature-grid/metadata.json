@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-feature-grid",
+  "source": "kage",
+  "slug": "component--hob-feature-grid",
+  "url": "https://kage.design/component/hob-feature-grid",
+  "name": "Layered product workspace feature panel by hob",
+  "description": "A spacious, editorial feature panel pairs a concise value proposition with an oversized, layered product-interface preview. The overlapping windows create depth and communicate multi-tasking without relying on decorative imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106502-3.webp",
+  "prompts": [
+    "kage/component--hob-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=product-ui",
+    "search?q=saas",
+    "search?q=dashboard"
+  ],
+  "pageSha256": "7f2e01445ceaed756f75891196c653fe77f32c42e3505982bec1b83d34bae710"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--blinkist-navigation",
+  "source": "kage",
+  "slug": "component--blinkist-navigation",
+  "url": "https://kage.design/component/blinkist-navigation",
+  "name": "Primary navigation by blinkist.com",
+  "description": "A compact white navigation bar establishes the brand, exposes category browsing, and keeps business, login, and the bright signup action visible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/blinkist-com/923d3302-3f7c-4bf2-9567-691903266cb3-1789146451-0.webp",
+  "prompts": [
+    "kage/component--blinkist-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/blinkist-landing-page",
+  "product": "blinkist-com",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=conversion"
+  ],
+  "pageSha256": "5c59cd72cf1ce688c5c5064fca9e59f102bb5ad7a2020311418eda0afa9ede5b"
+}

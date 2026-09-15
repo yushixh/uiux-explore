@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-navigation",
+  "source": "kage",
+  "slug": "component--fresha-navigation",
+  "url": "https://kage.design/component/fresha-navigation",
+  "name": "Global navigation by fresha.com",
+  "description": "A compact white header anchors the brand at left and keeps sign-in, business access, and menu actions at right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146191-0.webp",
+  "prompts": [
+    "kage/component--fresha-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=account"
+  ],
+  "pageSha256": "5b4444836dc5bce66afa2716aa4fad357b65a544149fb45e114adfc88870fd5f"
+}

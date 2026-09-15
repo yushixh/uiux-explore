@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--hinge-feature-grid",
+  "source": "kage",
+  "slug": "component--hinge-feature-grid",
+  "url": "https://kage.design/component/hinge-feature-grid",
+  "name": "Research and science feature by hinge.co",
+  "description": "A split feature band pairs a large rounded-corner image on the left with an eyebrow, serif heading, and concise supporting copy on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hinge-co/fc8d8d16-7276-4f4c-b1c9-567702ba4b3c-1789146938-3.webp",
+  "prompts": [
+    "kage/component--hinge-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hinge-landing-page",
+  "product": "hinge-co",
+  "tags": [
+    "search?q=image-text",
+    "search?q=research",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "1ca191c10c1f052e1048781f7233b7a0b28a309202ee4aab3f8b757f5781465c"
+}

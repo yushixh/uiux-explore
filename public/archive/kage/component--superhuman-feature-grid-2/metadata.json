@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--superhuman-feature-grid-2",
+  "source": "kage",
+  "slug": "component--superhuman-feature-grid-2",
+  "url": "https://kage.design/component/superhuman-feature-grid-2",
+  "name": "Editorial AI feature grid by superhuman.com",
+  "description": "A spacious, editorial bento grid combines clear product capability statements with restrained interface previews and expressive colour blocks. The varied card sizes and contrasting lower section create a strong narrative rhythm while keeping the feature benefits easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060756-9.webp",
+  "prompts": [
+    "kage/component--superhuman-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=ai",
+    "search?q=bento"
+  ],
+  "pageSha256": "714c602cd84b1f76050ffb3e99b85c70fa79fe8e20781cc2e4562283a380f59c"
+}

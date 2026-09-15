@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--datafa-logo-cloud",
+  "source": "kage",
+  "slug": "component--datafa-logo-cloud",
+  "url": "https://kage.design/component/datafa-logo-cloud",
+  "name": "Framed integration logo cloud by datafa.st",
+  "description": "A quiet integration showcase uses repeated framed panels to make a broad ecosystem feel tangible without competing with the primary conversion action. The restrained grid, generous whitespace, and soft neutral styling keep the section aligned with a founder-led, editorial SaaS page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789067842-7.webp",
+  "prompts": [
+    "kage/component--datafa-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/datafa-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=integrations",
+    "search?q=social-proof",
+    "search?q=grid"
+  ],
+  "pageSha256": "6f0bf982bc8116453ea3e5e9ada51d85e471e25b3d2f01e822ad2118b0bc7865"
+}

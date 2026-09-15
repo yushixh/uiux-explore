@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--neon-og-image",
+  "source": "kage",
+  "slug": "designs--neon-og-image",
+  "url": "https://kage.design/designs/neon-og-image",
+  "name": "Neon social preview card by neon.tech",
+  "description": "A 1200630 OG card on a near-black canvas with abstract vertical neon bars in green, teal and amber glowing across the top two-thirds, like data streams or an equalizer. The logo lockup sits top-left, a small red kicker line ('A Databricks company') with a tiny icon sits above a two-line white headline in a clean sans, bottom-left aligned. The composition is asymmetric and calm: bright abstract texture upper-right, quiet dark space lower-left for the type.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/neon-tech/990abec0-e39b-43d0-968f-0c2e2e0cba03-1789060088662.webp",
+  "prompts": [
+    "kage/designs--neon-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-og-image",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=neon+glow",
+    "search?q=database",
+    "search?q=dark+canvas",
+    "search?q=soundbar+motif",
+    "search?q=wordmark",
+    "search?q=kicker+label",
+    "search?q=developer+branding"
+  ],
+  "pageSha256": "a7f55414595c6a62adde2c8c42cae5020e780e7711dccd516ccbcdc420622a51"
+}

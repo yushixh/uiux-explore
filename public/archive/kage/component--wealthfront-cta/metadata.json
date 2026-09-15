@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--wealthfront-cta",
+  "source": "kage",
+  "slug": "component--wealthfront-cta",
+  "url": "https://kage.design/component/wealthfront-cta",
+  "name": "Simple closing account CTA by wealthfront.com",
+  "description": "A short saturated CTA band reduces the message to one memorable headline and a single centered action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfront-com/3e3be85e-7bdd-4e6a-8630-f389b2c5e8da-1789146565-6.webp",
+  "prompts": [
+    "kage/component--wealthfront-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=conversion",
+    "search?q=banner"
+  ],
+  "pageSha256": "473a250716678216f0bac118eb4cc3995f2b58e9d7fde66f28c57a513c6427bc"
+}

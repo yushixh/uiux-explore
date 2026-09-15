@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--hob-og-image",
+  "source": "kage",
+  "slug": "designs--hob-og-image",
+  "url": "https://kage.design/designs/hob-og-image",
+  "name": "hob agent workspace OG social card by hob",
+  "description": "A disciplined two-zone composition at 1200×630: a centered three-line headline in a heavy white grotesque occupies the top half on near-black, while a cropped dark app window rises from the bottom edge and provides the product proof. All colour weight is deliberately withheld — the canvas is black/white/gray until the small circular white badge with a teal-to-orange bar mark, which does double duty as wordmark and focal accent. The window is rendered as atmosphere (low-contrast UI chrome, readable diff colours but illegible body text) so the headline and badge stay the only fully legible elements even at feed thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/hob/9db9b271-0399-4efb-b126-2cc2cc862641-1789106471939.webp",
+  "prompts": [
+    "kage/designs--hob-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "hob",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=product-screenshot",
+    "search?q=bold-headline",
+    "search?q=badge",
+    "search?q=dark-ui",
+    "search?q=gradient-accent"
+  ],
+  "pageSha256": "84f9a00349d289e0e7fb6bd965649c90b8f4b190b6b96cc23e2eeb8915ba8a20"
+}

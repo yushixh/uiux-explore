@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--domestika-banner",
+  "source": "kage",
+  "slug": "component--domestika-banner",
+  "url": "https://kage.design/component/domestika-banner",
+  "name": "Limited-time offer banner by domestika.org",
+  "description": "A high-contrast red strip creates urgency with a compact offer message and live countdown. The small circular brand mark and close affordance keep it visually self-contained above the main chrome.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/domestika-org/a1bec580-5d19-4289-a277-048dcd6cb3c6-1789146410-0.webp",
+  "prompts": [
+    "kage/component--domestika-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/domestika-landing-page",
+  "product": "domestika-org",
+  "tags": [
+    "search?q=promo",
+    "search?q=countdown",
+    "search?q=urgency"
+  ],
+  "pageSha256": "46b8e66932f95c1b8ea19f7673a3b3ebd4a10fe175c53481c3e6b782ba6b0e40"
+}

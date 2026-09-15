@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--madebydaedalus-gallery",
+  "source": "kage",
+  "slug": "component--madebydaedalus-gallery",
+  "url": "https://kage.design/component/madebydaedalus-gallery",
+  "name": "Playful product card gallery by madebydaedalus.com",
+  "description": "A dark, editorial showcase section that pairs an oversized emotional headline with a compact supporting message and three tactile product cards. It works through strong contrast, generous spacing, soft pastel surfaces, and small interactive details that make each card feel like a miniature interface rather than a static tile.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/madebydaedalus-com/ae0cc407-2597-43fd-9c0f-0722227b2dcc-1789060549-3.webp",
+  "prompts": [
+    "kage/component--madebydaedalus-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/madebydaedalus-landing-page",
+  "product": "madebydaedalus-com",
+  "tags": [
+    "search?q=gallery",
+    "search?q=cards",
+    "search?q=editorial",
+    "search?q=interactive",
+    "search?q=dark-mode"
+  ],
+  "pageSha256": "5c36669b6a9531dfa5681079dcff1f093fec3282c3b6db4e1d67c2bb22a29380"
+}

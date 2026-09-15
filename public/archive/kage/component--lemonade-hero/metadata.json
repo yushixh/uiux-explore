@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lemonade-hero",
+  "source": "kage",
+  "slug": "component--lemonade-hero",
+  "url": "https://kage.design/component/lemonade-hero",
+  "name": "Insurance value proposition hero by lemonade.com",
+  "description": "The hero uses a large centered statement, brief supporting line, strong pink CTA, and a quiet illustrated neighbourhood scene that reinforces coverage categories without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lemonade-com/fec12946-54bf-4cf0-ac52-dcd9bbeb95c9-1789146825-1.webp",
+  "prompts": [
+    "kage/component--lemonade-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lemonade-landing-page",
+  "product": "lemonade-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=value+proposition",
+    "search?q=cta"
+  ],
+  "pageSha256": "49229dfa69bd382378eba8a16f299149e8503a5c58013052b7ef8eefc30cab6b"
+}

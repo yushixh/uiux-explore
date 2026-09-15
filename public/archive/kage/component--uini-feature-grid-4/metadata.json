@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--uini-feature-grid-4",
+  "source": "kage",
+  "slug": "component--uini-feature-grid-4",
+  "url": "https://kage.design/component/uini-feature-grid-4",
+  "name": "Split feature roadmap by uini.io",
+  "description": "A calm two-column feature section pairs a concise product promise and CTA with a vertically stacked sequence of implementation steps. Strong typographic hierarchy, generous whitespace, and fine dividers make the flow easy to scan without relying on decorative visuals.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uini-io/ef5b466a-1fe9-4cb6-9300-79049ee31244-1789059862-7.webp",
+  "prompts": [
+    "kage/component--uini-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uini-landing-page",
+  "product": "uini-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=saas",
+    "search?q=responsive"
+  ],
+  "pageSha256": "6136140acfc6ba4c3c2a0d5d61162d23a90ace926e2b77d111aef8a386fdd4be"
+}

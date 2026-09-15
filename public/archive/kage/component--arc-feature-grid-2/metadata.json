@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--arc-feature-grid-2",
+  "source": "kage",
+  "slug": "component--arc-feature-grid-2",
+  "url": "https://kage.design/component/arc-feature-grid-2",
+  "name": "Centered feature intro with decorative divider by arc.net",
+  "description": "A calm, centered feature-introduction block that pairs a bold benefit headline with concise supporting copy and a single text link, then transitions into the next section through a playful wave rule and minimal line icons. It works through generous whitespace, strong typographic hierarchy, and a restrained accent palette rather than dense card UI.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/arc-net/a4b44bb4-fce3-4305-950f-d12af4bc9a59-1789060398-5.webp",
+  "prompts": [
+    "kage/component--arc-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/arc-landing-page",
+  "product": "arc-net",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=centered-layout",
+    "search?q=editorial",
+    "search?q=decorative-divider"
+  ],
+  "pageSha256": "9c3233e368909da50d9faa63cbae9124c3a8cf11245c7997001f15a518e5944f"
+}

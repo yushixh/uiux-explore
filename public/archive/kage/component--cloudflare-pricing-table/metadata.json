@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cloudflare-pricing-table",
+  "source": "kage",
+  "slug": "component--cloudflare-pricing-table",
+  "url": "https://kage.design/component/cloudflare-pricing-table",
+  "name": "Usage-based pricing plans by cloudflare.com",
+  "description": "A pricing section uses category tabs, a compact explanatory product diagram, and four clearly differentiated plan columns with prices and CTAs.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cloudflare-com/1ca6ff30-a094-43e2-8124-fd26c9356e55-1789213791-5.webp",
+  "prompts": [
+    "kage/component--cloudflare-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "cloudflare-com",
+  "tags": [
+    "search?q=pricing",
+    "search?q=plans",
+    "search?q=tabs"
+  ],
+  "pageSha256": "48261d9984cf4cff7fc6b2da931964a34808c1144987fff3bc552ab4771e91ab"
+}

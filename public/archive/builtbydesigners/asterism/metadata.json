@@ -1,0 +1,22 @@
+{
+  "id": "asterism",
+  "name": "Asterism",
+  "description": "A Figma plugin for browsing Are.na without leaving the design canvas, bringing channels and visual references into the place where designers are already working.",
+  "shortInfo": "Browse Are.na without leaving Figma",
+  "url": "https://www.figma.com/community/plugin/1619758642772849469/asterism",
+  "handle": "jakedugard",
+  "creatorName": "Jake",
+  "creatorUrl": "https://x.com/jakedugard",
+  "creatorVerified": true,
+  "platform": "Cross-platform",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-07-01",
+  "added": "2026-08-18",
+  "sortOrder": 14,
+  "icon": "/backend/icons/asterism.png",
+  "avatar": "/backend/avatars/asterism.jpg",
+  "shot": "/screenshots/asterism.jpg"
+}

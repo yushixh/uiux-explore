@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cortex-feature-grid-2",
+  "source": "kage",
+  "slug": "component--cortex-feature-grid-2",
+  "url": "https://kage.design/component/cortex-feature-grid-2",
+  "name": "Agent context split feature by Cortex",
+  "description": "A two-column feature band pairs a large editorial headline and checklist on the left with a dark simulated agent conversation on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cortex/48e48c32-4544-4e71-94d3-849a84be1bb9-1789279410-5.webp",
+  "prompts": [
+    "kage/component--cortex-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cortex-landing-page",
+  "product": "cortex",
+  "tags": [
+    "search?q=feature",
+    "search?q=split-layout",
+    "search?q=agents"
+  ],
+  "pageSha256": "6b664dbc43fcc69db9b8ddbcfde8f4758cbb95ab82e90bf30b3c28b2c09d6d09"
+}

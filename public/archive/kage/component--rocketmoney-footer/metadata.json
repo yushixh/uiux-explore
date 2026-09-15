@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--rocketmoney-footer",
+  "source": "kage",
+  "slug": "component--rocketmoney-footer",
+  "url": "https://kage.design/component/rocketmoney-footer",
+  "name": "Large site footer by rocketmoney.com",
+  "description": "A very dark footer closes the page with a product-family block, several dense link columns, app download controls, social links, and legal disclosures. Strong hierarchy keeps the unusually large information volume navigable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/rocketmoney-com/33d2822e-a753-4b7c-bf3f-3f514d417ce5-1789146591-9.webp",
+  "prompts": [
+    "kage/component--rocketmoney-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/rocketmoney-landing-page",
+  "product": "rocketmoney-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=downloads"
+  ],
+  "pageSha256": "584fa425601722b7d5afdf0727f2bda427cb25cf79bbff7655f47344e8cfbd45"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--mintlify-og-image",
+  "source": "kage",
+  "slug": "designs--mintlify-og-image",
+  "url": "https://kage.design/designs/mintlify-og-image",
+  "name": "Mintlify Open Graph social card by mintlify.com",
+  "description": "A 1200×630 brand card built on a near-black canvas with a single centered lockup: a green gradient leaf mark beside a white lowercase geometric wordmark. Depth comes from faint oversized circle outlines and diagonal strokes sitting a few percent above the background, forming an abstract line grid that never competes with the wordmark. The restraint is the point — no headline, URL or tagline, just one confident focal point with generous empty space on all sides.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/mintlify-com/ec4d52b0-e40d-44b9-80fa-56f32982b39c-1789060079031.webp",
+  "prompts": [
+    "kage/designs--mintlify-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=centered-wordmark",
+    "search?q=dark-canvas",
+    "search?q=geometric-line-art",
+    "search?q=low-contrast-background",
+    "search?q=brand-lockup"
+  ],
+  "pageSha256": "911e88dea2ff80bd76963ac44ef4e3152215a4341027e910a0d1b8b3b243badd"
+}

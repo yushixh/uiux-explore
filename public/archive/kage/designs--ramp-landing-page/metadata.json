@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--ramp-landing-page",
+  "source": "kage",
+  "slug": "designs--ramp-landing-page",
+  "url": "https://kage.design/designs/ramp-landing-page",
+  "name": "Ramp landing page by ramp.com",
+  "description": "A long, calm fintech landing page built almost entirely from a warm off-white canvas, black editorial typography and a single acid-yellow accent. Hierarchy comes from very large serif-adjacent display headlines alternating with small utility labels, and rhythm shifts from a tight hero with an inline email capture into spacious bento feature cards, a soft photographic testimonial band, then a wide testimonial grid that accelerates density before a minimal email-only CTA and an unusually detailed dark legal footer. Product UI screenshots float on the same cream background with no heavy chrome, letting real interface fragments act as the imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060041312.webp",
+  "prompts": [
+    "kage/designs--ramp-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=bento-grid",
+    "search?q=hero-capture-form",
+    "search?q=logo-wall",
+    "search?q=customer-stories",
+    "search?q=product-features",
+    "search?q=ai-agents",
+    "search?q=testimonial-marquee",
+    "search?q=generous-whitespace"
+  ],
+  "pageSha256": "991d9d49abeb1ba5f8797efc366d4ab7ffc648d8feebd3a780a9c08ab5ff906e"
+}

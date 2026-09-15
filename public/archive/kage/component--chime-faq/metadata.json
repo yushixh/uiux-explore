@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chime-faq",
+  "source": "kage",
+  "slug": "component--chime-faq",
+  "url": "https://kage.design/component/chime-faq",
+  "name": "Frequently asked questions by chime.com",
+  "description": "A simple FAQ section presents a left-aligned heading and a full-width list of questions separated by thin rules, with plus controls indicating expandable answers.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146543-7.webp",
+  "prompts": [
+    "kage/component--chime-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chime-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=faq",
+    "search?q=support",
+    "search?q=accordion"
+  ],
+  "pageSha256": "3f6ad5bb37971c638e86429829ceba5f9f1f381be58eb2f39243f8a8c1ce5821"
+}

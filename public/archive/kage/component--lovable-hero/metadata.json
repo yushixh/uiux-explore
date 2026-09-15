@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--lovable-hero",
+  "source": "kage",
+  "slug": "component--lovable-hero",
+  "url": "https://kage.design/component/lovable-hero",
+  "name": "AI builder prompt hero by lovable.dev",
+  "description": "A minimal, high-contrast hero that pairs a concise product promise with a large conversational input. The soft blue-to-pink atmospheric gradient creates energy and depth behind an otherwise restrained, centered composition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lovable-dev/7426a651-2b1e-4dbe-b0d8-bb8a847d2e81-1789060909-1.webp",
+  "prompts": [
+    "kage/component--lovable-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lovable-landing-page",
+  "product": "lovable-dev",
+  "tags": [
+    "search?q=hero",
+    "search?q=ai-builder",
+    "search?q=gradient",
+    "search?q=prompt-input",
+    "search?q=saas"
+  ],
+  "pageSha256": "2cbe19c26ea285ccbaa20b711aeea9f22d3fb43fb929e75603e2d499b9718f65"
+}

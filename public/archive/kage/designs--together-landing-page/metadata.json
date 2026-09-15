@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--together-landing-page",
+  "source": "kage",
+  "slug": "designs--together-landing-page",
+  "url": "https://kage.design/designs/together-landing-page",
+  "name": "Together AI platform landing page by together.ai",
+  "description": "A polished AI infrastructure landing page moves from a pale blue, split hero with oversized black-and-gray typography and a colorful abstract 3D composition into progressively denser product proof. The white middle sections use centered headings, pastel metric cards, tabbed capability panels, and restrained rules; a full-width near-black research section creates the main contrast break with compact editorial cards. Below that, generous whitespace frames customer stories, a structured blog grid, and a pale-blue CTA that resolves into a large rounded white mega-footer over soft abstract color fields.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/together-ai/60591018-8706-471e-a3f2-ad3109f52987-1789073685313.webp",
+  "prompts": [
+    "kage/designs--together-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "together-ai",
+  "tags": [
+    "search?q=announcement-bar",
+    "search?q=split-hero",
+    "search?q=pastel-stat-cards",
+    "search?q=tabbed-product-panel",
+    "search?q=research-carousel",
+    "search?q=case-studies",
+    "search?q=blog-grid",
+    "search?q=mega-footer"
+  ],
+  "pageSha256": "f79843e17b66984a76528c88bdb0dbd6ea2f8dc5ffd1def6ccbdb646e9131b36"
+}

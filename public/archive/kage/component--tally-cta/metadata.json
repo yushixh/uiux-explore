@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tally-cta",
+  "source": "kage",
+  "slug": "component--tally-cta",
+  "url": "https://kage.design/component/tally-cta",
+  "name": "Centered CTA with social proof by tally.so",
+  "description": "A calm, high-trust conversion section pairs a centered headline and low-friction primary action with generous whitespace, a testimonial, and a simple FAQ entry point. The restrained layout lets the CTA lead while supporting it with reassurance and objection handling.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060954-8.webp",
+  "prompts": [
+    "kage/component--tally-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=cta",
+    "search?q=testimonial",
+    "search?q=faq",
+    "search?q=conversion"
+  ],
+  "pageSha256": "1917d52035b5071e8148000effaf65f211fded77e30b43edcecaa17a7c2050c3"
+}

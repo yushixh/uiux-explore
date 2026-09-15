@@ -1,0 +1,162 @@
+[
+  {
+    "url": "https://www.vantaui.com/explore/components/delete-button",
+    "files": [
+      "vantaui/delete-button/components/ui/delete-button.tsx",
+      "vantaui/delete-button/app/page.tsx",
+      "vantaui/delete-button/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/delete-button/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/components/text-repetition",
+    "files": [
+      "vantaui/text-repetition/components/ui/text-repetition.tsx",
+      "vantaui/text-repetition/app/page.tsx",
+      "vantaui/text-repetition/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/text-repetition/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/components/iridescent-button",
+    "files": [
+      "vantaui/iridescent-button/components/ui/iridescent-button.tsx",
+      "vantaui/iridescent-button/app/globals.css",
+      "vantaui/iridescent-button/app/page.tsx",
+      "vantaui/iridescent-button/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/iridescent-button/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/components/sine-wave-background",
+    "files": [
+      "vantaui/sine-wave-background/components/ui/sine-wave-background.tsx",
+      "vantaui/sine-wave-background/app/page.tsx",
+      "vantaui/sine-wave-background/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/sine-wave-background/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/components/underline-link",
+    "files": [
+      "vantaui/underline-link/components/ui/underline-link.tsx",
+      "vantaui/underline-link/app/page.tsx",
+      "vantaui/underline-link/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/underline-link/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/components/morphing-switch",
+    "files": [
+      "vantaui/morphing-switch/components/ui/morphing-switch.tsx",
+      "vantaui/morphing-switch/app/page.tsx",
+      "vantaui/morphing-switch/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/morphing-switch/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/components/tearing-paper-photo",
+    "files": [
+      "vantaui/tearing-paper-photo/components/ui/tearing-paper-photo.tsx",
+      "vantaui/tearing-paper-photo/app/page.tsx",
+      "vantaui/tearing-paper-photo/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/tearing-paper-photo/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/components/cursor-image-trail",
+    "files": [
+      "vantaui/cursor-image-trail/components/ui/cursor-image-trail.tsx",
+      "vantaui/cursor-image-trail/app/page.tsx",
+      "vantaui/cursor-image-trail/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/cursor-image-trail/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/blocks/logo-cloud",
+    "files": [
+      "vantaui/logo-cloud/blocks/logo-cloud.tsx",
+      "vantaui/logo-cloud/components/ui/marquee.tsx",
+      "vantaui/logo-cloud/src/constants/index.ts",
+      "vantaui/logo-cloud/app/page.tsx",
+      "vantaui/logo-cloud/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/logo-cloud/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/components/app-download-button",
+    "files": [
+      "vantaui/app-download-button/components/ui/app-download-button.tsx",
+      "vantaui/app-download-button/app/page.tsx",
+      "vantaui/app-download-button/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/app-download-button/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/components/inverse-scale-button",
+    "files": [
+      "vantaui/inverse-scale-button/components/ui/inverse-scale-button.tsx",
+      "vantaui/inverse-scale-button/app/page.tsx",
+      "vantaui/inverse-scale-button/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/inverse-scale-button/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  },
+  {
+    "url": "https://www.vantaui.com/explore/components/gradient-button",
+    "files": [
+      "vantaui/gradient-button/components/ui/gradient-button.tsx",
+      "vantaui/gradient-button/app/globals.css",
+      "vantaui/gradient-button/app/page.tsx",
+      "vantaui/gradient-button/installation.txt"
+    ],
+    "prompts": [
+      "vantaui/gradient-button/prompt.md"
+    ],
+    "promptOrigin": "upstream-template",
+    "accessNote": "已保存原站公开 Manual 源码与用法。Prompt 为原站询问页面内容的模板。"
+  }
+]

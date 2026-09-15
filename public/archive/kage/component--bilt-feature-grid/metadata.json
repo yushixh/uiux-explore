@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bilt-feature-grid",
+  "source": "kage",
+  "slug": "component--bilt-feature-grid",
+  "url": "https://kage.design/component/bilt-feature-grid",
+  "name": "Rent rewards overview by bilt.com",
+  "description": "A large photographic feature block explains the core rent-rewards proposition with an overlaid account-style information panel, navigation pills, and a clear supporting CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146824-2.webp",
+  "prompts": [
+    "kage/component--bilt-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bilt-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=rent",
+    "search?q=cards",
+    "search?q=benefits"
+  ],
+  "pageSha256": "764a8d8d96a817644adc9524ab1367110de35eb7b6bb433619f585116a322b0f"
+}

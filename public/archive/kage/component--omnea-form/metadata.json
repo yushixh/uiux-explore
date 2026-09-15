@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--omnea-form",
+  "source": "kage",
+  "slug": "component--omnea-form",
+  "url": "https://kage.design/component/omnea-form",
+  "name": "Newsletter subscription by omnea.co",
+  "description": "A minimal centered subscription prompt uses a clear two-line hierarchy and a compact inline email form without competing with the final CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/omnea-co/444fd721-a6f8-467e-8179-cf278abe5ec1-1789142170-11.webp",
+  "prompts": [
+    "kage/component--omnea-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/omnea-landing-page",
+  "product": "omnea-co",
+  "tags": [
+    "search?q=newsletter",
+    "search?q=form",
+    "search?q=conversion"
+  ],
+  "pageSha256": "552c1d52f28a0fa1762a649c82239c0e6326592e742b9fee541de5c9e1c61c4c"
+}

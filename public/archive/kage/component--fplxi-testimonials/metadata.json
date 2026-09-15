@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fplxi-testimonials",
+  "source": "kage",
+  "slug": "component--fplxi-testimonials",
+  "url": "https://kage.design/component/fplxi-testimonials",
+  "name": "Dark testimonial carousel by fplxi.com",
+  "description": "A compact, high-contrast testimonial panel that combines a clear quote, lightweight contributor context, and restrained carousel controls. The dark surface, subtle progress indicator, and generous horizontal layout make user evidence feel editorial and easy to scan without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fplxi-com/54b8421e-1a9f-4884-bebf-8d70ddcd8ef8-1789073156-3.webp",
+  "prompts": [
+    "kage/component--fplxi-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fplxi-landing-page",
+  "product": "fplxi-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=carousel",
+    "search?q=dark-ui",
+    "search?q=social-proof"
+  ],
+  "pageSha256": "593dd67e6b499b385c11235543d5a6c9b78f568305df2b226ecbd0aab72b626f"
+}

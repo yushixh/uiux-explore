@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--adscope-og-image",
+  "source": "kage",
+  "slug": "designs--adscope-og-image",
+  "url": "https://kage.design/designs/adscope-og-image",
+  "name": "AdScope ad-analytics OG social card by AdScope",
+  "description": "A 1200×630 social card that uses a cropped product screenshot as the entire composition — no headline, the UI is the message. A top band of four candy-coloured KPI cards with oversized black numerals acts as the headline, above a toolbar (source chips, search, segmented toggle) and a dense three-column grid of campaign cards that deliberately bleeds off the bottom edge. A phone mockup overlapping the lower-left adds depth and previews the mobile app, while the black canvas peeking at the rounded top-left corner frames the whole thing as a floating screenshot on dark ground.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/adscope/409d7a1d-92c0-40b0-b9fb-2f3876456faf-1789106620991.webp",
+  "prompts": [
+    "kage/designs--adscope-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fplxi-og-image",
+  "product": "adscope",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=dashboard-ui",
+    "search?q=kpi-cards",
+    "search?q=bento-grid",
+    "search?q=phone-mockup",
+    "search?q=candy-colors",
+    "search?q=campaign-cards"
+  ],
+  "pageSha256": "c9ce102b510a837228a3116b8e31b0025742f7bb60010f8febff2182d3ffea64"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-logo-cloud",
+  "source": "kage",
+  "slug": "component--mercury-logo-cloud",
+  "url": "https://kage.design/component/mercury-logo-cloud",
+  "name": "Customer proof and testimonial by mercury.com",
+  "description": "A centered social-proof statement is followed by a compact row of recognizable customer marks, then a testimonial card with a portrait and quote.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141943-3.webp",
+  "prompts": [
+    "kage/component--mercury-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=logos",
+    "search?q=proof",
+    "search?q=testimonial"
+  ],
+  "pageSha256": "0becd9b4cb9424ab2eaa7b633cb3c7c330abae1da0c979f242d840dfb5e2728c"
+}

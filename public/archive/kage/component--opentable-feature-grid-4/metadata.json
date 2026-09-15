@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-feature-grid-4",
+  "source": "kage",
+  "slug": "component--opentable-feature-grid-4",
+  "url": "https://kage.design/component/opentable-feature-grid-4",
+  "name": "Trending experiences by opentable.com",
+  "description": "A compact experience category section highlights a single activity card with image, title, venue, price, and a direct reserve action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146316-6.webp",
+  "prompts": [
+    "kage/component--opentable-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=experiences",
+    "search?q=activity",
+    "search?q=card"
+  ],
+  "pageSha256": "4e25f94cd55d90785348394ce445620ec228daa8d44bfdaadf803146f395da92"
+}

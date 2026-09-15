@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--airpods-5-gallery",
+  "source": "kage",
+  "slug": "component--airpods-5-gallery",
+  "url": "https://kage.design/component/airpods-5-gallery",
+  "name": "Product detail gallery by AirPods 5",
+  "description": "A spacious, image-led product gallery that combines a strong editorial heading with oversized rounded media cards, concise captions, and subtle carousel controls. The partial next card creates a visual cue to explore while preserving a calm, premium layout.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/airpods-5/0db86e09-94cf-4830-8c9a-1751c9bb478c-1789106644-3.webp",
+  "prompts": [
+    "kage/component--airpods-5-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/airpods-5-landing-page",
+  "product": "airpods-5",
+  "tags": [
+    "search?q=gallery",
+    "search?q=carousel",
+    "search?q=product",
+    "search?q=editorial"
+  ],
+  "pageSha256": "c6e020b0c9d53d65c6d7a17e2acb73df2e69eb0e0dcdbec75060360c53f6ecc8"
+}

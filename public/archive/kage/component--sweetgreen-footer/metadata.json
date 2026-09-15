@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--sweetgreen-footer",
+  "source": "kage",
+  "slug": "component--sweetgreen-footer",
+  "url": "https://kage.design/component/sweetgreen-footer",
+  "name": "Multi-column site footer by sweetgreen.com",
+  "description": "The footer closes the page with grouped navigation, social links, support and legal resources, copyright information, and a soft green background distinct from the signup band.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sweetgreen-com/33a74ca8-f609-4778-a60f-a45f3e4cc9aa-1789146473-6.webp",
+  "prompts": [
+    "kage/component--sweetgreen-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sweetgreen-landing-page",
+  "product": "sweetgreen-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "f591a9bd7a837b19d20b1ff6f0a872194cc01976a60a1b754e7bc538f9eb686f"
+}

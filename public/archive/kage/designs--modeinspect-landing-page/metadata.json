@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--modeinspect-landing-page",
+  "source": "kage",
+  "slug": "designs--modeinspect-landing-page",
+  "url": "https://kage.design/designs/modeinspect-landing-page",
+  "name": "Modeinspect AI-native design platform landing page by Modeinspect",
+  "description": "A long-form product landing page alternates a warm off-white canvas with near-black sections, using a luminous lime green as the only strong accent. Oversized sans-serif headlines are paired with occasional distressed or pixel-like display lettering, while the rhythm moves from a spacious hero and product mockup into denser feature grids, proof cards, workflow comparisons, FAQ rows, and a high-contrast closing CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106444887.webp",
+  "prompts": [
+    "kage/designs--modeinspect-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mock-magic-video-presets-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=split-tone+sections",
+    "search?q=lime+accent",
+    "search?q=oversized+typography",
+    "search?q=product+screenshots",
+    "search?q=feature+cards",
+    "search?q=testimonials",
+    "search?q=comparison+cards",
+    "search?q=faq+accordion"
+  ],
+  "pageSha256": "351135a93ec4fd94672d4fb042fcd326fa1d7b9d1d8faaa6deba7e362c2d5331"
+}

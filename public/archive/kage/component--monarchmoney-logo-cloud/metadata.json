@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--monarchmoney-logo-cloud",
+  "source": "kage",
+  "slug": "component--monarchmoney-logo-cloud",
+  "url": "https://kage.design/component/monarchmoney-logo-cloud",
+  "name": "Recognition strip by monarchmoney.com",
+  "description": "A light trust band uses review language and publication badges to reinforce credibility immediately after the hero.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146614-2.webp",
+  "prompts": [
+    "kage/component--monarchmoney-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monarchmoney-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=press",
+    "search?q=trust",
+    "search?q=logos"
+  ],
+  "pageSha256": "46b1131750b26975443b8b0511b0827fc4e505f557328cd91c53fcefd670b352"
+}

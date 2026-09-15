@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--raycast-feature-grid-6",
+  "source": "kage",
+  "slug": "component--raycast-feature-grid-6",
+  "url": "https://kage.design/component/raycast-feature-grid-6",
+  "name": "Dark product feature grid by raycast.com",
+  "description": "A restrained, editorial feature grid that pairs concise product benefits with believable interface previews. The asymmetric composition, soft borders, and near-black palette create a premium developer-tool feel while keeping each capability easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067517-7.webp",
+  "prompts": [
+    "kage/component--raycast-feature-grid-6/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=feature+grid",
+    "search?q=product+cards",
+    "search?q=keyboard+shortcuts"
+  ],
+  "pageSha256": "7b61e8d94349aede9800e2f8717a0bb502e118a2756b30918b679c1ef1e9d051"
+}

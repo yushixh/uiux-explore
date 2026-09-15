@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neon-feature-grid-4",
+  "source": "kage",
+  "slug": "component--neon-feature-grid-4",
+  "url": "https://kage.design/component/neon-feature-grid-4",
+  "name": "Managed authentication feature by neon.tech",
+  "description": "A quiet dark section uses a small decorative mark and a strong statement to position authentication as an integrated platform capability, with substantial negative space for emphasis.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neon-tech/ec270806-81ac-4f67-8b23-bd56e790768f-1789141962-6.webp",
+  "prompts": [
+    "kage/component--neon-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neon-empty-state",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=authentication",
+    "search?q=feature",
+    "search?q=dark"
+  ],
+  "pageSha256": "af5202c37f6c75ace33f126afbcf8aeb6ecfc6580b11523869d5e0ec8b75cbf1"
+}

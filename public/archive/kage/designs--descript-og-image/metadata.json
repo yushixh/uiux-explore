@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--descript-og-image",
+  "source": "kage",
+  "slug": "designs--descript-og-image",
+  "url": "https://kage.design/designs/descript-og-image",
+  "name": "Descript OG social card by descript.com",
+  "description": "A 1200×630 social card staged on a single deep-burgundy field with no gradient or texture. The top third holds a three-line, sentence-case serif headline in cream with tight leading and terminal periods; the centre is a white product screenshot flanked by video-still strips that bleed off both canvas edges like a timeline, one small circular avatar overlapping on the right. The rhythm runs quiet–busy–quiet, with colour rationed to the burgundy stage, cream type, and a single red accent reserved for the logo mark above the lowercase sans wordmark.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/descript-com/140eb617-eeea-4ac6-adcc-40e32e55f71f-1789146856616.webp",
+  "prompts": [
+    "kage/designs--descript-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-og-image",
+  "product": "descript-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=serif-headline",
+    "search?q=product-screenshot",
+    "search?q=filmstrip",
+    "search?q=wordmark",
+    "search?q=burgundy",
+    "search?q=centered-composition"
+  ],
+  "pageSha256": "052943436d955cd4f58c782fc0b663670ba18bb3064dee8d291a8cf6ab245e63"
+}

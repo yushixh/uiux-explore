@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--lu-ma-landing-page",
+  "source": "kage",
+  "slug": "designs--lu-ma-landing-page",
+  "url": "https://kage.design/designs/lu-ma-landing-page",
+  "name": "Luma events landing page by lu.ma",
+  "description": "A single centred column on pure white, led by a display headline whose final line is the page's only loud accent — a pink-to-orange gradient — hovering above a black pill CTA with a soft glow. The page then alternates density: a six-card popular-events row with poster thumbnails and grey metadata, a two-row community grid of icon-chip cards, and a 12-tile category grid where tiny single-pastel line icons carry all the colour. Everything stays flat (1px warm-grey borders, 8–12px radii, no shadows), section headings shrink to small bold left-aligned labels, and the page closes by mirroring the hero — a two-line gradient statement with paired pill buttons — over a hairline footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/lu-ma/a4be0bf4-46ad-4066-8582-e9890f24d9e0-1789146155422.webp",
+  "prompts": [
+    "kage/designs--lu-ma-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "lu-ma",
+  "tags": [
+    "search?q=event-cards",
+    "search?q=gradient-text",
+    "search?q=pill-buttons",
+    "search?q=category-grid",
+    "search?q=pastel-icons",
+    "search?q=centered-hero",
+    "search?q=hairline-borders"
+  ],
+  "pageSha256": "6cba60c954507d3087989a8d1788ef8a815777d95fe89f53b3715f3b142eb63c"
+}

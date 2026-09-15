@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--cognitions-swe-2-blog",
+  "source": "kage",
+  "slug": "designs--cognitions-swe-2-blog",
+  "url": "https://kage.design/designs/cognitions-swe-2-blog",
+  "name": "Cognition SWE-2 research blog post by Cognition's SWE-2",
+  "description": "A long-form research blog post rendered as a narrow single-column paper: small fixed left sidebar with sparse nav, a modest serif/mono-toned title block, then a dense flow of body text interleaved with custom data visualisations — Pareto-frontier line charts, grouped bar charts, a benchmark comparison table, and LaTeX-style math — each followed by small grey italic footnotes. The rhythm alternates text-paragraph blocks with wide, quietly coloured (blue/orange/green) figures; there are no cards, gradients or marketing sections, so authority comes from typographic restraint and figure quality. Sections are separated only by generous whitespace and heading size, and the page ends with numbered references and appendices like an academic preprint.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cognitions-swe-2/e9966f12-655e-494e-9580-e5330b0ddc92-1789365635199.webp",
+  "prompts": [
+    "kage/designs--cognitions-swe-2-blog/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "cognitions-swe-2",
+  "tags": [
+    "search?q=long-form",
+    "search?q=research-post",
+    "search?q=data-visualisation",
+    "search?q=charts",
+    "search?q=tables",
+    "search?q=typography-led",
+    "search?q=single-column",
+    "search?q=academic"
+  ],
+  "pageSha256": "f7d0c0d4310512f81b19a2a8f7f97c20611d5524e2604e6e3bff44c94be507c5"
+}

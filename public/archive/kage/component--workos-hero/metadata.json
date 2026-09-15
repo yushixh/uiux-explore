@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workos-hero",
+  "source": "kage",
+  "slug": "component--workos-hero",
+  "url": "https://kage.design/component/workos-hero",
+  "name": "Gradient enterprise-ready hero by workos.com",
+  "description": "A spacious SaaS landing-page hero that pairs a compact navigation bar with a left-aligned value proposition and a soft, abstract product-status visual on the right. The strong typographic gradient, restrained controls, and dual CTA hierarchy make the section feel polished, credible, and conversion-focused.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workos-com/c1ef5d6b-8620-4482-aad7-47f439cf35f9-1789073890-1.webp",
+  "prompts": [
+    "kage/component--workos-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-landing-page",
+  "product": "workos-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=gradient",
+    "search?q=navigation"
+  ],
+  "pageSha256": "0361579d5474e33816799087947781250726934fe45a8d324222fed0bd2a1ce2"
+}

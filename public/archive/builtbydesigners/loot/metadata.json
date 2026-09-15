@@ -1,0 +1,23 @@
+{
+  "id": "loot",
+  "name": "Loot",
+  "description": "Photograph something you love and Loot identifies it, removes the background, and adds it to a collection. Organize everyday finds, collect with friends, and share collections or export them as posters from your iPhone.",
+  "shortInfo": "Turn everyday finds into photo collections",
+  "url": "https://loot.photos/",
+  "handle": "marckohlbrugge",
+  "creatorName": "Marc Köhlbrugge",
+  "creatorUrl": "https://x.com/marckohlbrugge",
+  "creatorVerified": true,
+  "platform": "Mobile",
+  "categoryLabel": "Collections",
+  "categories": [
+    "Collections"
+  ],
+  "launchDate": "2026-09-05",
+  "added": "2026-09-05",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/loot/icon-mtqu1ibe-bKIdpfZ8cE92CiZ7OdgX8gB5bR0xkR.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/loot/avatar-mtodg28l-zx9ZA7wm9VZMuvoDzoKCLNeXxZmEOY.jpg",
+  "shot": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/loot/shot-mtqtz60u-gy3RtPGjECyEadt8hdql8GY3KzPfKq.png",
+  "shot2x": ""
+}

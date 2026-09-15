@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-hero",
+  "source": "kage",
+  "slug": "component--lorikeetcx-hero",
+  "url": "https://kage.design/component/lorikeetcx-hero",
+  "name": "Editorial AI concierge hero by lorikeetcx.ai",
+  "description": "A large serif headline, concise compliance-oriented supporting copy, and a single centered CTA create a calm, high-confidence opening.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142168-1.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=hero",
+    "search?q=editorial",
+    "search?q=cta"
+  ],
+  "pageSha256": "e02a03c9c10a45e8c3d1d0ccd6c42a76fb7b9bdedd5c9ef4acdb10c65f966626"
+}

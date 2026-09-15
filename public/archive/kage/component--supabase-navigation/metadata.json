@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--supabase-navigation",
+  "source": "kage",
+  "slug": "component--supabase-navigation",
+  "url": "https://kage.design/component/supabase-navigation",
+  "name": "Announcement banner with primary navigation by supabase.com",
+  "description": "A compact two-tier header pairs a lightly patterned announcement strip with a clean, utility-focused navigation bar. Strong horizontal alignment, restrained borders, and a single mint action button make the product entry points easy to scan without competing with the announcement.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/supabase-com/b03f69f9-4b47-487d-8f2b-17d7cd19e877-1789060351-0.webp",
+  "prompts": [
+    "kage/component--supabase-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/supabase-landing-page",
+  "product": "supabase-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=header",
+    "search?q=saas"
+  ],
+  "pageSha256": "c6aab7260e28a6d99f21a3cee23767342cacc57357cba12abedefc080ee0184b"
+}

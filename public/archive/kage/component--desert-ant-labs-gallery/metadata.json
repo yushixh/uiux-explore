@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--desert-ant-labs-gallery",
+  "source": "kage",
+  "slug": "component--desert-ant-labs-gallery",
+  "url": "https://kage.design/component/desert-ant-labs-gallery",
+  "name": "Tilted Feature Card Gallery by Desert Ant Labs",
+  "description": "A wide, edge-to-edge gallery of oversized feature cards creates an energetic editorial rhythm through varied pastel surfaces, subtle rotation, and cropped neighboring items. Strong headline-and-description hierarchy keeps each card scannable while immersive portrait imagery gives the gallery visual momentum.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/desert-ant-labs/9afde706-8b4f-4c5f-a9d8-7a634f78e07d-1789106569-2.webp",
+  "prompts": [
+    "kage/component--desert-ant-labs-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/desert-ant-labs-landing-page",
+  "product": "desert-ant-labs",
+  "tags": [
+    "search?q=gallery",
+    "search?q=cards",
+    "search?q=editorial",
+    "search?q=carousel"
+  ],
+  "pageSha256": "9bf1d1ee5c7316a8affe201b9069c9d49a77bd11d14aa15bbb8d71aad5fe7bb1"
+}

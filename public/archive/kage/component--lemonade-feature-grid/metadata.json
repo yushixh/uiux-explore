@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lemonade-feature-grid",
+  "source": "kage",
+  "slug": "component--lemonade-feature-grid",
+  "url": "https://kage.design/component/lemonade-feature-grid",
+  "name": "Monthly bundle insurance categories by lemonade.com",
+  "description": "A benefit-led section pairs a centered headline and subheading with five consistent category cards, then closes with a repeated CTA. Equal card sizing and restrained line illustrations make comparison immediate.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lemonade-com/fec12946-54bf-4cf0-ac52-dcd9bbeb95c9-1789146825-2.webp",
+  "prompts": [
+    "kage/component--lemonade-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lemonade-landing-page",
+  "product": "lemonade-com",
+  "tags": [
+    "search?q=cards",
+    "search?q=insurance",
+    "search?q=bundles"
+  ],
+  "pageSha256": "343ededd94f7ffeb8ff018123c6b5333d6a05092acb1226f6632db6f653d52bd"
+}

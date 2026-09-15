@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--anthropic-og-image",
+  "source": "kage",
+  "slug": "designs--anthropic-og-image",
+  "url": "https://kage.design/designs/anthropic-og-image",
+  "name": "Anthropic minimal wordmark social card by anthropic.com",
+  "description": "A radically restrained 1200×630 social card: a warm paper off-white field carries nothing but the brand wordmark, set in bold letter-spaced uppercase and centered as a single focal point. The only gesture is the wordmark's own backslash detail, which doubles as visual interest; all hierarchy comes from scale and negative space. Colour is reduced to one near-black on one warm ivory, making the card read instantly at thumbnail size in a feed.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/anthropic-com/052e5d1a-68ae-46b6-98dd-8c7141684a36-1789060048208.webp",
+  "prompts": [
+    "kage/designs--anthropic-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "anthropic-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=wordmark",
+    "search?q=typographic",
+    "search?q=centered",
+    "search?q=negative-space",
+    "search?q=uppercase",
+    "search?q=og-image"
+  ],
+  "pageSha256": "6c4b616d40bcca08810400bac0f888169b7fb03489dd6e99bbc5ba6306969c0d"
+}

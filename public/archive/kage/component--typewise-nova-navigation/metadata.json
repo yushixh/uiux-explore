@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--typewise-nova-navigation",
+  "source": "kage",
+  "slug": "component--typewise-nova-navigation",
+  "url": "https://kage.design/component/typewise-nova-navigation",
+  "name": "Promotional announcement bar with primary navigation by Typewise Nova",
+  "description": "This header works through a clear two-level hierarchy: a high-contrast promotional strip creates urgency, while the dark navigation row keeps product discovery, account access, and the primary trial action easy to scan. Generous horizontal spacing, restrained typography, and a single vivid CTA give the layout a polished SaaS feel without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/typewise-nova/b4948f23-79f3-4392-9236-ca27a7b6b602-1789106475-0.webp",
+  "prompts": [
+    "kage/component--typewise-nova-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/typewise-nova-landing-page",
+  "product": "typewise-nova",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=header",
+    "search?q=saas"
+  ],
+  "pageSha256": "88f4cef575a0f4699fb0c9a6e0d201917a093fa365919ff89133557ce0481912"
+}

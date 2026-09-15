@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--tilt-badge",
+  "source": "vantaui",
+  "slug": "explore--components--tilt-badge",
+  "url": "https://www.vantaui.com/explore/components/tilt-badge",
+  "name": "Tilt Badge - VantaUI",
+  "description": "A section headline button that tilts on hover.",
+  "image": "https://vantaui-registry.vercel.app/components/tilt-badge",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "d64b04e3a636ac9878e43c6db6f07a81ab8e2a1a835b58252cf8587c6834f541"
+}

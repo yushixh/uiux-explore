@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workos-feature-grid-2",
+  "source": "kage",
+  "slug": "component--workos-feature-grid-2",
+  "url": "https://kage.design/component/workos-feature-grid-2",
+  "name": "Developer-first feature grid by workos.com",
+  "description": "This section works by pairing a strong centered promise with a practical two-column content area: compact feature benefits on the left and a richly styled code preview on the right. A dark, high-contrast palette, vivid accent colour, generous spacing, and restrained technical detail make the platform feel modern, capable, and developer-oriented.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workos-com/c1ef5d6b-8620-4482-aad7-47f439cf35f9-1789073891-4.webp",
+  "prompts": [
+    "kage/component--workos-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-landing-page",
+  "product": "workos-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=code-panel",
+    "search?q=developer-tools"
+  ],
+  "pageSha256": "14a88980429081382bfbbdd973dffb6dea05138457976f6a80b5b7faa597fb79"
+}

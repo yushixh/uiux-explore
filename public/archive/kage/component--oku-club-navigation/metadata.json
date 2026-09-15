@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--oku-club-navigation",
+  "source": "kage",
+  "slug": "component--oku-club-navigation",
+  "url": "https://kage.design/component/oku-club-navigation",
+  "name": "Top navigation by oku.club",
+  "description": "A minimal header keeps the brand at left, centered navigation links, and contrasting sign-in and join actions at right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/oku-club/e710a983-c1d6-4177-b014-2738acd07d09-1789146242-0.webp",
+  "prompts": [
+    "kage/component--oku-club-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/oku-club-landing-page",
+  "product": "oku-club",
+  "tags": [
+    "search?q=header",
+    "search?q=links",
+    "search?q=account"
+  ],
+  "pageSha256": "ddd7ec4caf559cc9562b31c172fbded30e94e92d858e835336d1c71ac0fe3206"
+}

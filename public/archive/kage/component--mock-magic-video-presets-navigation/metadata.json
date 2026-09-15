@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mock-magic-video-presets-navigation",
+  "source": "kage",
+  "slug": "component--mock-magic-video-presets-navigation",
+  "url": "https://kage.design/component/mock-magic-video-presets-navigation",
+  "name": "Minimal dark SaaS navigation bar by Mock Magic: Video Presets",
+  "description": "A restrained, full-width dark header that combines a compact brand mark, low-noise utility navigation, and one high-contrast primary action. Generous horizontal spacing and a fine divider keep the structure clear without making the navigation feel heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mock-magic-video-presets/201a35ef-5103-4614-9439-92b73face5de-1789106560-0.webp",
+  "prompts": [
+    "kage/component--mock-magic-video-presets-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mock-magic-video-presets-landing-page",
+  "product": "mock-magic-video-presets",
+  "tags": [
+    "search?q=navigation",
+    "search?q=dark-mode",
+    "search?q=saas",
+    "search?q=header"
+  ],
+  "pageSha256": "9bfa49330a48bc97cc4ef6d084c7fd369d4b4dc81e6d0be970516a6e2548374e"
+}

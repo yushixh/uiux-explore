@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ai-observability-by-openobserve-gallery",
+  "source": "kage",
+  "slug": "component--ai-observability-by-openobserve-gallery",
+  "url": "https://kage.design/component/ai-observability-by-openobserve-gallery",
+  "name": "Dark FAQ accordion by AI Observability by OpenObserve",
+  "description": "A focused FAQ section uses a narrow centered column, high-contrast question rows, and restrained expanded answers to make dense product information easy to scan. Subtle borders, translucent panels, and chevron states add structure without distracting from the content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ai-observability-by-openobserve/e945d001-9c66-4981-a493-d9cb08ea77ee-1789106508-7.webp",
+  "prompts": [
+    "kage/component--ai-observability-by-openobserve-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=dark-ui",
+    "search?q=saas"
+  ],
+  "pageSha256": "b90afbcec64981e7236e11fdfebe21c3e6115045e21c59abe1fcccc05948b5e0"
+}

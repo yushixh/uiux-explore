@@ -1,0 +1,18 @@
+{
+  "dependencies": [],
+  "tokens": [
+    "--bg",
+    "--font-ui",
+    "--g-blur",
+    "--g-sat",
+    "--ink",
+    "--ink-2",
+    "--ink-3",
+    "--ink-4",
+    "--ink-5",
+    "--ink-rgb",
+    "--pane",
+    "--pane-edge"
+  ],
+  "stubs": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bun-testimonials",
+  "source": "kage",
+  "slug": "component--bun-testimonials",
+  "url": "https://kage.design/component/bun-testimonials",
+  "name": "Benchmark results grid by bun.sh",
+  "description": "A proof-oriented benchmark section that turns a complex performance comparison into six scannable scenario cards. Strong typography, compact bars, restrained colour, and small methodological notes make the results feel credible without overwhelming the reader.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073824-6.webp",
+  "prompts": [
+    "kage/component--bun-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=benchmarks",
+    "search?q=comparison",
+    "search?q=performance",
+    "search?q=data-grid"
+  ],
+  "pageSha256": "cabf05150c9aa2efc90c2aae53c61d48e0285a4c16545316fa9b938cebbeaf4c"
+}

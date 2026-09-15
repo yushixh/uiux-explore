@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--copilot-money-logo-cloud",
+  "source": "kage",
+  "slug": "component--copilot-money-logo-cloud",
+  "url": "https://kage.design/component/copilot-money-logo-cloud",
+  "name": "Awards and recognition strip by copilot.money",
+  "description": "A restrained row of small award-style marks provides credibility directly beneath the hero. Its low-contrast treatment supports trust without becoming a second headline.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/copilot-money/645bb157-e222-4315-91ed-1b76fbb9bd6b-1789146601-2.webp",
+  "prompts": [
+    "kage/component--copilot-money-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/copilot-money-landing-page",
+  "product": "copilot-money",
+  "tags": [
+    "search?q=awards",
+    "search?q=trust",
+    "search?q=monochrome"
+  ],
+  "pageSha256": "18a8bde5610b549005f544c6d16855c313dcf23dc093d9fb122f37ace2d04979"
+}

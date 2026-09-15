@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--warp-gallery-2",
+  "source": "kage",
+  "slug": "component--warp-gallery-2",
+  "url": "https://kage.design/component/warp-gallery-2",
+  "name": "Product surface gallery grid by warp.dev",
+  "description": "A structured three-column product gallery that pairs large interface previews with concise descriptions and clear, task-specific calls to action. The technical grid, faint graph-paper background, and monospaced copy create a precise developer-tool character while keeping each offering easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060391-9.webp",
+  "prompts": [
+    "kage/component--warp-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=gallery",
+    "search?q=grid",
+    "search?q=cards",
+    "search?q=product-ui"
+  ],
+  "pageSha256": "206e3bb5c79ad89e272b2fc792aa55dcda021b8c50074e530ec8d1c23edd8b65"
+}

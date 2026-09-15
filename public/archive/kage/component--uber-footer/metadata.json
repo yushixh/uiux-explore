@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--uber-footer",
+  "source": "kage",
+  "slug": "component--uber-footer",
+  "url": "https://kage.design/component/uber-footer",
+  "name": "Global footer by uber.com",
+  "description": "A large black footer organizes support information, four link columns, social controls, locale settings, app-store badges, and legal links in a clear hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uber-com/6fbdb16b-1d65-42c3-b533-0bc1468316af-1789146365-8.webp",
+  "prompts": [
+    "kage/component--uber-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uber-landing-page",
+  "product": "uber-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=social"
+  ],
+  "pageSha256": "11585877aa39605e6d3dc714ef2ff9c2b1ddac70112820453e568a2905f5abf2"
+}

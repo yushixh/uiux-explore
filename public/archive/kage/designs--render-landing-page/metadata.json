@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--render-landing-page",
+  "source": "kage",
+  "slug": "designs--render-landing-page",
+  "url": "https://kage.design/designs/render-landing-page",
+  "name": "Render cloud platform homepage by render.com",
+  "description": "A light, grid-disciplined cloud-infrastructure landing page that persuades with real product UI rather than decoration. The hero pairs an oversized grotesque headline with a mock deployment panel (service cards, sparklines, a '$ git push' mono chip) over faint grid lines. Below the hero the rhythm alternates between airy white sections and tinted full-bleed bands: a quiet monochrome logo wall, a numbered three-step flow illustrated with UI fragments, a saturated purple stack band, then a lavender bento grid where cards alternate text-plus-mockup layouts and switch chart colour from violet to green. It closes with sparse icon-led capability and security grids, a playful floating-tile CTA, and a dense black footer with a pixel motif. One violet accent, black rectangular CTAs, hairline borders, and mono type for terminal labels hold the whole page together.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/render-com/a2f1bfec-cff8-46a3-938e-5c68bed6eccd-1789073676647.webp",
+  "prompts": [
+    "kage/designs--render-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "render-com",
+  "tags": [
+    "search?q=bento-grid",
+    "search?q=logo-wall",
+    "search?q=numbered-steps",
+    "search?q=terminal-mono",
+    "search?q=sparklines",
+    "search?q=pixel-icons",
+    "search?q=dark-footer",
+    "search?q=black-cta"
+  ],
+  "pageSha256": "887a6e0308318b44db205d6783a5b33b353559f80d5c46b4b3a71b051192cae5"
+}

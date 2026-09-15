@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--speechmark-feature-grid",
+  "source": "kage",
+  "slug": "component--speechmark-feature-grid",
+  "url": "https://kage.design/component/speechmark-feature-grid",
+  "name": "Three-step feature grid by Speechmark",
+  "description": "A restrained, editorial three-column grid that explains a product through a simple sequence of numbered capabilities. Large serif typography, pale blue space, thin dividers, and compact uppercase labels make the section feel confident, focused, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/speechmark/77b904ee-7a59-4d24-b7d4-3e274188b21e-1789106591-2.webp",
+  "prompts": [
+    "kage/component--speechmark-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/speechmark-landing-page",
+  "product": "speechmark",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=numbered-steps",
+    "search?q=saas"
+  ],
+  "pageSha256": "92ec8d72bcf9b7d65455d496bbafdcff8279810ec102af43f1f9bc98c6bddcf6"
+}

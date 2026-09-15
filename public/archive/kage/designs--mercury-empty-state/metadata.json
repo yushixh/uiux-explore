@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--mercury-empty-state",
+  "source": "kage",
+  "slug": "designs--mercury-empty-state",
+  "url": "https://kage.design/designs/mercury-empty-state",
+  "name": "Mercury fintech banking landing page by mercury.com",
+  "description": "A long dark-mode landing page that alternates between dense product-proof sections and airy, emotionally toned statements, giving the scroll a deliberate rhythm. Deep navy-black grounds everything; a serif display face carries the big statements while a grotesque sans handles UI, body and the extensive legal footnotes. Product UI screenshots and photography anchor the proof sections, while cream-tinted abstract 3D renders (spheres, cones, fingerprint, toggle) carry the brand-feel sections, all wrapped in hairline-bordered rounded cards with a single blue accent reserved for primary CTAs.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789060045894.webp",
+  "prompts": [
+    "kage/designs--mercury-empty-state/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neon-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=fintech-banking",
+    "search?q=dark-theme",
+    "search?q=serif-display",
+    "search?q=abstract-3d-renders",
+    "search?q=feature-grid",
+    "search?q=social-proof",
+    "search?q=stats",
+    "search?q=mega-footer"
+  ],
+  "pageSha256": "607d4d60ffa027eb51b64acf97bfeb701d119238b6d791ca47a3bce2d035a553"
+}

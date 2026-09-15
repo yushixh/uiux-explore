@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--dockfix-5-0-hero",
+  "source": "kage",
+  "slug": "component--dockfix-5-0-hero",
+  "url": "https://kage.design/component/dockfix-5-0-hero",
+  "name": "Editorial product hero by DockFix 5.0",
+  "description": "The hero uses an oversized centered product title over a cinematic landscape, with a small platform label and a subtle scroll cue. Its strong type/image contrast makes the product immediately legible without a crowded interface.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/dockfix-5-0/2c092be4-cae6-431a-8bc7-3fef5352fd95-1789279441-1.webp",
+  "prompts": [
+    "kage/component--dockfix-5-0-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "dockfix-5-0",
+  "tags": [
+    "search?q=hero",
+    "search?q=product",
+    "search?q=image"
+  ],
+  "pageSha256": "7cec9f75e82cb330abeb2b64f5151daf0ef4e5618e65c1a5f49d44774de978d6"
+}

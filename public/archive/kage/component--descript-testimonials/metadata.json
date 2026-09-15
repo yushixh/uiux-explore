@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--descript-testimonials",
+  "source": "kage",
+  "slug": "component--descript-testimonials",
+  "url": "https://kage.design/component/descript-testimonials",
+  "name": "Ratings and customer testimonials by descript.com",
+  "description": "A pale review section pairs a strong editorial heading with an aggregate rating and three large, decorative quote cards that make the customer voice the visual focus.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/descript-com/c210b18a-1678-4bef-91b5-c444a8589f04-1789146912-6.webp",
+  "prompts": [
+    "kage/component--descript-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/descript-landing-page",
+  "product": "descript-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=reviews",
+    "search?q=social+proof"
+  ],
+  "pageSha256": "7c4443cf9556d4ba6542e8a112f64f17499775642f76691ab33fee459a3cf60d"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--turso-navigation",
+  "source": "kage",
+  "slug": "component--turso-navigation",
+  "url": "https://kage.design/component/turso-navigation",
+  "name": "Dark SaaS navigation bar by turso.tech",
+  "description": "A restrained, high-contrast navigation bar balances a compact brand mark, evenly spaced product links, and a clear split between secondary login access and a bright primary CTA. The thin divider and generous horizontal padding make the header feel anchored without competing with page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/turso-tech/a01fe972-4603-42df-a7fd-1b66e57f2913-1789073738-0.webp",
+  "prompts": [
+    "kage/component--turso-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/turso-landing-page",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=navbar",
+    "search?q=dark-mode",
+    "search?q=saas",
+    "search?q=dropdowns"
+  ],
+  "pageSha256": "57429ec020f40e0b858deea1ee45e1e4b102f020cc79707e97e3ba82b2bd85ec"
+}

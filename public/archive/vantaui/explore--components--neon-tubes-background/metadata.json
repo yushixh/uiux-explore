@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--neon-tubes-background",
+  "source": "vantaui",
+  "slug": "explore--components--neon-tubes-background",
+  "url": "https://www.vantaui.com/explore/components/neon-tubes-background",
+  "name": "Neon Tubes Background - VantaUI",
+  "description": "Background that generates a serpentine trail of glowing 3D geometry that fluidly follows the user’s input",
+  "image": "https://vantaui-registry.vercel.app/components/neon-tubes-background",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "f8617d64e715970b4ef487ad6d0c3865641c5f215b9366c8bca1deee6bbbcefe"
+}

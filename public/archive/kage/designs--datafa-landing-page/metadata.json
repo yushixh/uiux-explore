@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--datafa-landing-page",
+  "source": "kage",
+  "slug": "designs--datafa-landing-page",
+  "url": "https://kage.design/designs/datafa-landing-page",
+  "name": "DataFast revenue analytics landing page by datafa.st",
+  "description": "A long, conversion-focused analytics landing page uses a warm off-white canvas, near-black typography, and a restrained coral-orange accent for every primary action. The hero is sparse and centered, then the page becomes progressively denser through dashboard imagery, testimonial feeds, three-step cards, feature tiles, integrations, pricing, FAQ, and a final CTA/footer; repeated framed screenshots and soft shadows create continuity across the changing rhythms.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789060057668.webp",
+  "prompts": [
+    "kage/designs--datafa-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=revenue-analytics",
+    "search?q=dashboard-previews",
+    "search?q=social-proof",
+    "search?q=feature-grid",
+    "search?q=pricing-cards",
+    "search?q=faq",
+    "search?q=orange-cta"
+  ],
+  "pageSha256": "8a1e4061aa05b669b02429daad2258ba5d8e0ac083ff714f3974b7b898ab0d77"
+}

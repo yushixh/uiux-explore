@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--superhuman-feature-grid-3",
+  "source": "kage",
+  "slug": "component--superhuman-feature-grid-3",
+  "url": "https://kage.design/component/superhuman-feature-grid-3",
+  "name": "Tabbed feature showcase grid by superhuman.com",
+  "description": "A warm, editorial feature section combines a large split showcase with two supporting cards, then uses a category tab rail to filter a compact three-column benefit grid. The restrained palette, generous whitespace, and product-interface previews make complex capabilities feel approachable and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060754-4.webp",
+  "prompts": [
+    "kage/component--superhuman-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=tabs",
+    "search?q=saas"
+  ],
+  "pageSha256": "c58d5d2f1591c6bbf6adb0de850629b4d89d419bcd155a5027052a3ce129bbae"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--perspective-gallery",
+  "source": "vantaui",
+  "slug": "explore--blocks--perspective-gallery",
+  "url": "https://www.vantaui.com/explore/blocks/perspective-gallery",
+  "name": "Perspective Gallery - VantaUI",
+  "description": "Showcase gallery with perspective cards on scroll.",
+  "image": "https://vantaui-registry.vercel.app/blocks/perspective-gallery",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "07fcf72928c40f79df8d5c757f9a980af822757c4284443a3acb9e1078985739"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cadenya-cta-2",
+  "source": "kage",
+  "slug": "component--cadenya-cta-2",
+  "url": "https://kage.design/component/cadenya-cta-2",
+  "name": "Final launch CTA by Cadenya",
+  "description": "The closing CTA reverses the earlier hero composition: a large organic visual sits left while a framed invitation and two actions occupy the right. It creates a confident, memorable final push before the footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192868-8.webp",
+  "prompts": [
+    "kage/component--cadenya-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cadenya-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=cta",
+    "search?q=editorial",
+    "search?q=conversion",
+    "search?q=image"
+  ],
+  "pageSha256": "433531e364f89d5ea4c8838fdea8b30e5fa22fb880f3defbf298ad0cfdcfb83b"
+}

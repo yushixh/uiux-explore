@@ -1,0 +1,22 @@
+{
+  "id": "world-time-bestie",
+  "name": "World Time Bestie",
+  "description": "Plan across timezones by dragging city rows against a shared timeline, with date ranges and quick adds for every city you work with.",
+  "shortInfo": "A drag-to-plan timezone tracker",
+  "url": "https://worldtimebestie.app/",
+  "handle": "pauline_makes",
+  "creatorName": "Pauline Wee",
+  "creatorUrl": "https://x.com/pauline_makes",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Productivity",
+  "categories": [
+    "Productivity"
+  ],
+  "launchDate": "2026-09-02",
+  "added": "2026-09-02",
+  "sortOrder": 32,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/world-time-bestie/icon-mtjyf99r-uFlQBrdlRJWE3bW9JRcgHu6HNZyYLv.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/world-time-bestie/avatar-mtq3ackp-U8EsKM2l5JI5Cnwyk8EPjODto63ZIt.jpg",
+  "shot": "/screenshots/world-time-bestie.png"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--basedash-in-espanol-francais-portugues-landing-page",
+  "source": "kage",
+  "slug": "designs--basedash-in-espanol-francais-portugues-landing-page",
+  "url": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "name": "Basedash AI analyst landing page by Basedash in Español Français & Português",
+  "description": "A warm paper-toned landing page (#f5f1ea) where airy, centered editorial headlines alternate with dense, hairline-bordered product mockups — a live BI dashboard with a chat panel, prompt-built charts, an audit log, and a 750-icon integration grid. Hierarchy is carried by a monospace orange micro-label system (trust badges, panel headers) plus serif italic testimonial quotes, giving the page a 'printed analyst report' feel. Rhythm builds from proof (logos, quotes) through capability demos to a security/compliance block, an FAQ accordion, and a closing CTA over a retro neon CRT visual, ending in a black footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/basedash-in-espanol-francais-portugues/b3381e01-f9b6-42c9-8798-975c026618b1-1789106651271.webp",
+  "prompts": [
+    "kage/designs--basedash-in-espanol-francais-portugues-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=dashboard-mockups",
+    "search?q=monospace-labels",
+    "search?q=serif-quotes",
+    "search?q=warm-cream",
+    "search?q=integrations-grid",
+    "search?q=ai-analyst",
+    "search?q=bento",
+    "search?q=terminal-visual"
+  ],
+  "pageSha256": "84757da1f2b21bbf8ae27a0396393b95e4e674d76d4e5eb89a5373ea54c946b7"
+}

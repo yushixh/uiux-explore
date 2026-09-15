@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--cal-og-image",
+  "source": "kage",
+  "slug": "designs--cal-og-image",
+  "url": "https://kage.design/designs/cal-og-image",
+  "name": "Cal.com social card — booking UI mockup by cal.com",
+  "description": "A 1200×630 share card built as a cropped product shot: a light-grey canvas carries the wordmark alone in the top-right, while a large white rounded panel enters from the left and bleeds off the bottom edge. Inside the panel, a heavy two-line headline sits above a two-pane booking mockup — a lavender-to-deep-purple gradient banner with an avatar stack and event details on the left, a January calendar grid with rounded grey day chips on the right. The design works because the UI mockup does the storytelling: neutral grey framing, one saturated purple moment, and bold dark type at two sizes (wordmark and headline) with everything else small and quiet.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cal-com/7f980329-d357-4696-9372-1c7e3cb3fce5-1789060030751.webp",
+  "prompts": [
+    "kage/designs--cal-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-og-image",
+  "product": "cal-com",
+  "tags": [
+    "search?q=og-card",
+    "search?q=wordmark",
+    "search?q=product-mockup",
+    "search?q=calendar-grid",
+    "search?q=booking-ui",
+    "search?q=rounded-corners",
+    "search?q=cropped-card",
+    "search?q=purple-accent"
+  ],
+  "pageSha256": "8ecf375bdf60002790db201a1163ad45b57f5372f860a18da711bd6940b0d596"
+}

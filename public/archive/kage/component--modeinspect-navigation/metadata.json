@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-navigation",
+  "source": "kage",
+  "slug": "component--modeinspect-navigation",
+  "url": "https://kage.design/component/modeinspect-navigation",
+  "name": "Soft-gradient SaaS navigation bar by Modeinspect",
+  "description": "A spacious, three-part navigation bar uses a pale green gradient, a compact brand pill, centered text links, and right-aligned authentication actions. Soft borders, rounded controls, and restrained contrast make the header feel approachable while preserving a clear primary CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106490-0.webp",
+  "prompts": [
+    "kage/component--modeinspect-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=gradient",
+    "search?q=minimal"
+  ],
+  "pageSha256": "89457f82fc42a357180561ed154d0014bb9dde10226c0df5c32857eec8914de0"
+}

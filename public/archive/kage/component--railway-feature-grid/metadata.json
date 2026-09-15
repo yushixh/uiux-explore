@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--railway-feature-grid",
+  "source": "kage",
+  "slug": "component--railway-feature-grid",
+  "url": "https://kage.design/component/railway-feature-grid",
+  "name": "Dark infrastructure feature grid by railway.com",
+  "description": "A dark, product-led feature section combines a narrative introduction, a large contextual product preview, and three concise benefit columns. The strong vertical guide, restrained borders, muted palette, and small utility row make the section feel like an extension of an infrastructure product rather than a generic marketing card grid.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/railway-com/2043945d-689d-427f-b51d-92aa383b8c92-1789060663-3.webp",
+  "prompts": [
+    "kage/component--railway-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/railway-landing-page",
+  "product": "railway-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=saas",
+    "search?q=infrastructure"
+  ],
+  "pageSha256": "cc25b2166698e6c44d21680b405d8c23afb46e68ac9515fc4fb2fbe79cbf6f17"
+}

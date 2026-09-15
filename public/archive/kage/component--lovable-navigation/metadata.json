@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--lovable-navigation",
+  "source": "kage",
+  "slug": "component--lovable-navigation",
+  "url": "https://kage.design/component/lovable-navigation",
+  "name": "Minimal SaaS top navigation by lovable.dev",
+  "description": "A calm, horizontally balanced SaaS header that pairs a compact brand mark with simple text navigation and a clear two-level authentication/action area. Generous whitespace, restrained borders, and a dark primary CTA make the navigation feel polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lovable-dev/7426a651-2b1e-4dbe-b0d8-bb8a847d2e81-1789060909-0.webp",
+  "prompts": [
+    "kage/component--lovable-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lovable-landing-page",
+  "product": "lovable-dev",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=responsive",
+    "search?q=header"
+  ],
+  "pageSha256": "a634635a155d48cf265cbc28292fe63bf2c5d79de32b762291404091fac01013"
+}

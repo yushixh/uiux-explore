@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--pitch-navigation",
+  "source": "kage",
+  "slug": "component--pitch-navigation",
+  "url": "https://kage.design/component/pitch-navigation",
+  "name": "Announcement bar and floating navigation by pitch.com",
+  "description": "A lightweight two-tier navigation that combines a full-width announcement strip with a translucent, floating header. The contrast between the lavender message bar, airy overlay navigation, and compact account actions keeps the page announcement visible without overpowering the hero.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/pitch-com/6703b162-6073-44e6-a626-e3df0dc35c4b-1789060645-0.webp",
+  "prompts": [
+    "kage/component--pitch-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/pitch-landing-page",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=floating-nav",
+    "search?q=saas"
+  ],
+  "pageSha256": "0efb2e69d9629b609ac57396d6ef8ce3b293db8b527948427b8a883d038c7ed8"
+}

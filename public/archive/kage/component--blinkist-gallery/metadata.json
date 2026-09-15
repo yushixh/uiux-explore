@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--blinkist-gallery",
+  "source": "kage",
+  "slug": "component--blinkist-gallery",
+  "url": "https://kage.design/component/blinkist-gallery",
+  "name": "Browse the knowledge catalogue by blinkist.com",
+  "description": "A large catalogue heading leads into pill-like topic filters and a horizontal book carousel with one emphasized title and an audio control.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/blinkist-com/923d3302-3f7c-4bf2-9567-691903266cb3-1789146453-4.webp",
+  "prompts": [
+    "kage/component--blinkist-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/blinkist-landing-page",
+  "product": "blinkist-com",
+  "tags": [
+    "search?q=catalogue",
+    "search?q=categories",
+    "search?q=carousel"
+  ],
+  "pageSha256": "cfe2dac98766fa2946e449c57f7b9b646917c75f333d97976ec582d14add492c"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chime-navigation",
+  "source": "kage",
+  "slug": "component--chime-navigation",
+  "url": "https://kage.design/component/chime-navigation",
+  "name": "Compact banking navigation by chime.com",
+  "description": "A slim white header creates a clear entry point with a menu, brand mark, account-opening CTA, and login action. Its restrained height keeps attention on the dark green hero below.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146540-0.webp",
+  "prompts": [
+    "kage/component--chime-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chime-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=header",
+    "search?q=banking",
+    "search?q=cta"
+  ],
+  "pageSha256": "2de6b0ce2db64a89af43a45ae75a6fc509aad5c45a338b28a5180e164ac62b18"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workid-form",
+  "source": "kage",
+  "slug": "component--workid-form",
+  "url": "https://kage.design/component/workid-form",
+  "name": "Remote job search form with role cards by WorkID.ai",
+  "description": "A focused job-search section combines a bold, centered value proposition with a compact search control and a row of lightweight job preview cards. The restrained monochrome styling, generous whitespace, and clear hierarchy make the primary action feel immediate while giving users useful examples below it.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workid-ai/2843b616-ed30-482d-adaf-40c736e4842a-1789106673-2.webp",
+  "prompts": [
+    "kage/component--workid-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workid-landing-page",
+  "product": "workid-ai",
+  "tags": [
+    "search?q=search",
+    "search?q=jobs",
+    "search?q=form",
+    "search?q=cards"
+  ],
+  "pageSha256": "937f56be4cf76defc8f1a6f7e524a680ee7370e4759dd7fe70dc34c309209b13"
+}

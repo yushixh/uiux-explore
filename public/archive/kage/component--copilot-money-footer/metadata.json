@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--copilot-money-footer",
+  "source": "kage",
+  "slug": "component--copilot-money-footer",
+  "url": "https://kage.design/component/copilot-money-footer",
+  "name": "Multi-column site footer by copilot.money",
+  "description": "The footer uses four link columns, a lower brand/legal row, and a decorative baseline motif. Muted text and generous spacing keep a large information set quiet and navigable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/copilot-money/645bb157-e222-4315-91ed-1b76fbb9bd6b-1789146603-9.webp",
+  "prompts": [
+    "kage/component--copilot-money-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/copilot-money-landing-page",
+  "product": "copilot-money",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "a19e9304fcc5a3077234db865f95f056d5b8c62635f501c0598fef206bcab5b6"
+}

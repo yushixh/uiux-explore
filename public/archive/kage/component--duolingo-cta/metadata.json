@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--duolingo-cta",
+  "source": "kage",
+  "slug": "component--duolingo-cta",
+  "url": "https://kage.design/component/duolingo-cta",
+  "name": "Premium upgrade banner by duolingo.com",
+  "description": "A dark navy full-width banner sharply changes the visual mood and presents a premium upgrade with one focused action beside a large high-energy mascot visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/duolingo-com/3a8c78c9-bd82-49c8-8251-8e9f7b022530-1789146269-5.webp",
+  "prompts": [
+    "kage/component--duolingo-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/duolingo-landing-page",
+  "product": "duolingo-com",
+  "tags": [
+    "search?q=premium",
+    "search?q=upgrade",
+    "search?q=cta"
+  ],
+  "pageSha256": "af4cf3db969e1c8ac2c40211dd31f570c8fb6cc43b532a9d83bc8b21b22bfe4b"
+}

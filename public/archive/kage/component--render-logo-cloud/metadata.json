@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--render-logo-cloud",
+  "source": "kage",
+  "slug": "component--render-logo-cloud",
+  "url": "https://kage.design/component/render-logo-cloud",
+  "name": "Monochrome customer logo cloud by render.com",
+  "description": "This logo cloud works through restrained monochrome branding, a compact centered grid, and generous whitespace that lets recognition provide the proof without competing with the rest of the page. A small overline establishes credibility while consistent logo sizing and row rhythm keep the section calm and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/render-com/a2f1bfec-cff8-46a3-938e-5c68bed6eccd-1789073948-2.webp",
+  "prompts": [
+    "kage/component--render-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/render-landing-page",
+  "product": "render-com",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=customer+logos",
+    "search?q=minimal",
+    "search?q=b2b"
+  ],
+  "pageSha256": "fd528f1381bee966f5214488ae28364776f2ccfe4a3c3ece5c8c2a1204ccebec"
+}

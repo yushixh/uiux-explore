@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--adscope-cta-2",
+  "source": "kage",
+  "slug": "component--adscope-cta-2",
+  "url": "https://kage.design/component/adscope-cta-2",
+  "name": "FAQ-to-CTA transition by AdScope",
+  "description": "This section pairs a quiet, bordered FAQ row with a high-contrast CTA reveal, creating a clear transition from resolving hesitation to taking action. The oversized typography, vivid lime field, and restrained geometric accents make the CTA feel energetic without relying on imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/adscope/d628eaa8-0259-4816-ad11-db69e3ce98d4-1789106704-8.webp",
+  "prompts": [
+    "kage/component--adscope-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/adscope-landing-page",
+  "product": "adscope",
+  "tags": [
+    "search?q=accordion",
+    "search?q=cta",
+    "search?q=faq",
+    "search?q=conversion"
+  ],
+  "pageSha256": "9c9d61534710b327be36b5ec63ef8e156efd11cc893a0fc51ab9727e985a4b32"
+}

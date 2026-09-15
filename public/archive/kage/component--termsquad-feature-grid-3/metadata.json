@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--termsquad-feature-grid-3",
+  "source": "kage",
+  "slug": "component--termsquad-feature-grid-3",
+  "url": "https://kage.design/component/termsquad-feature-grid-3",
+  "name": "Shared memory feature by termsquad.com",
+  "description": "A split section pairs a benefit-led text block with a contained visual showing context passing between sessions. The generous empty space makes the idea feel calm and dependable rather than feature-dense.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/termsquad-com/d12b8131-9740-4063-aef8-780525dfffce-1789166958-4.webp",
+  "prompts": [
+    "kage/component--termsquad-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=memory",
+    "search?q=workflow",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "b957fc80f278d306a7c04aaea19d0f8b8b3edeaa89b5a637db860595f0a3c94b"
+}

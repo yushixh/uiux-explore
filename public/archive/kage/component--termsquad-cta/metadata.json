@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--termsquad-cta",
+  "source": "kage",
+  "slug": "component--termsquad-cta",
+  "url": "https://kage.design/component/termsquad-cta",
+  "name": "Project-start call to action by termsquad.com",
+  "description": "A softly tinted closing CTA repeats the core promise in a concise centered composition, with two clear actions and a small pricing reassurance beneath.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/termsquad-com/d12b8131-9740-4063-aef8-780525dfffce-1789166960-8.webp",
+  "prompts": [
+    "kage/component--termsquad-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=conversion",
+    "search?q=centered"
+  ],
+  "pageSha256": "8d9f63810d14d0b1f5320a45e97b72ce9744a9e120cccd93806a0b42024d5f2a"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--hinge-hero",
+  "source": "kage",
+  "slug": "component--hinge-hero",
+  "url": "https://kage.design/component/hinge-hero",
+  "name": "Full-bleed dating message hero by hinge.co",
+  "description": "A large editorial photograph carries the opening message, with oversized white serif typography anchored in the lower-left and enough image area to establish the brand mood.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hinge-co/fc8d8d16-7276-4f4c-b1c9-567702ba4b3c-1789146937-1.webp",
+  "prompts": [
+    "kage/component--hinge-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hinge-landing-page",
+  "product": "hinge-co",
+  "tags": [
+    "search?q=photography",
+    "search?q=headline",
+    "search?q=overlay"
+  ],
+  "pageSha256": "1c3b5d8ed456da694f6336e7422370f48827a188b621864504b025db14ff3507"
+}

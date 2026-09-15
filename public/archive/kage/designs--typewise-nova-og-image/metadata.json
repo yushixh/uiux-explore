@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--typewise-nova-og-image",
+  "source": "kage",
+  "slug": "designs--typewise-nova-og-image",
+  "url": "https://kage.design/designs/typewise-nova-og-image",
+  "name": "Typewise OG social card by Typewise Nova",
+  "description": "A 1200×630 dark social card built almost entirely from negative space: a near-black canvas, a compact logo lockup in the top-left, and a two-line white headline filling the lower-left third. Two thin, glowing blue arcs sweep through the top-right and bottom-left corners, creating diagonal energy that frames the type without competing with it. Hierarchy is carried purely by scale — a ~40px wordmark against a ~95px headline — with one electric blue accent repeated in the logo badge and the luminous swooshes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/typewise-nova/54678855-8aae-4788-9709-311864128f8b-1789106443713.webp",
+  "prompts": [
+    "kage/designs--typewise-nova-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-og-image",
+  "product": "typewise-nova",
+  "tags": [
+    "search?q=social-card",
+    "search?q=dark-canvas",
+    "search?q=glow-arcs",
+    "search?q=logo-lockup",
+    "search?q=left-aligned-headline",
+    "search?q=high-contrast",
+    "search?q=enterprise"
+  ],
+  "pageSha256": "c2d989d398a94bd804a5469308f71f9ecdea02f93a658021699d94cc67ff78d0"
+}

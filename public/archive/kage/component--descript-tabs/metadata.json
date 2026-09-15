@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--descript-tabs",
+  "source": "kage",
+  "slug": "component--descript-tabs",
+  "url": "https://kage.design/component/descript-tabs",
+  "name": "Use-case selector by descript.com",
+  "description": "A dark use-case section combines a centered heading and copy with a vertical numbered selector beside a large media panel and contextual CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/descript-com/c210b18a-1678-4bef-91b5-c444a8589f04-1789146911-4.webp",
+  "prompts": [
+    "kage/component--descript-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/descript-landing-page",
+  "product": "descript-com",
+  "tags": [
+    "search?q=tabs",
+    "search?q=use+cases",
+    "search?q=media"
+  ],
+  "pageSha256": "ef4a8bb9f3d306e6ee7d61dacacb44777fc2927de506061521f13a5f2ef01b98"
+}

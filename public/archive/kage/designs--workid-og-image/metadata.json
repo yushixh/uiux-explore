@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--workid-og-image",
+  "source": "kage",
+  "slug": "designs--workid-og-image",
+  "url": "https://kage.design/designs/workid-og-image",
+  "name": "WorkID og-image — verified hiring marketplace card by WorkID.ai",
+  "description": "A 1200×630 social card that compresses an entire landing page into one frame. A centred blue rounded-square app icon with the wordmark anchors the top, two tilted white job-listing cards crop off the left and right edges to imply a live marketplace, and the focal point is the bold two-line headline 'Only verified employers. Only real candidates.' set in near-black geometric sans. Below it, a compact pill search bar, four pale-blue category tiles and cropped listing rows add product density over an ice-blue gradient, with mint 'New' tags and soft shadows providing the only extra colour.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/workid-ai/4084db05-8968-43af-a66a-a32376728829-1789106613407.webp",
+  "prompts": [
+    "kage/designs--workid-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "workid-ai",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=floating-cards",
+    "search?q=search-bar",
+    "search?q=category-tiles",
+    "search?q=gradient",
+    "search?q=job-marketplace",
+    "search?q=trust-badge"
+  ],
+  "pageSha256": "b170d1b09346305ec58675176f0a44dd3e82e89fb5aa09dde6f7e9744c710f39"
+}

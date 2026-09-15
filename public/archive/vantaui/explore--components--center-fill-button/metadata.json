@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--center-fill-button",
+  "source": "vantaui",
+  "slug": "explore--components--center-fill-button",
+  "url": "https://www.vantaui.com/explore/components/center-fill-button",
+  "name": "Center Fill Button - VantaUI",
+  "description": "Expands a central circle to invert colors and shift the icon on hover.",
+  "image": "https://vantaui-registry.vercel.app/components/center-fill-button",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "d70d4bb2efd0cfc35e9565002f300ba60293ebecdfbc7c3d762e78eef36ecf57"
+}

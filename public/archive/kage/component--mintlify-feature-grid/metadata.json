@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mintlify-feature-grid",
+  "source": "kage",
+  "slug": "component--mintlify-feature-grid",
+  "url": "https://kage.design/component/mintlify-feature-grid",
+  "name": "Editorial feature bento grid by mintlify.com",
+  "description": "This section works through a restrained editorial hierarchy paired with an asymmetric bento grid: a large lead card establishes emphasis, three equal cards create rhythm, and a final full-width card provides a strong close. Generous whitespace, warm off-white surfaces, hairline borders, and bottom-anchored labels keep the layout premium and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mintlify-com/71224961-d985-451b-9e35-e02eddcee178-1789060644-4.webp",
+  "prompts": [
+    "kage/component--mintlify-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mintlify-landing-page",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=saas",
+    "search?q=editorial"
+  ],
+  "pageSha256": "5997ccd64985b7b2899ea85e16c0ccf746eec447fe24f76c4a4b67fcf4fc876b"
+}

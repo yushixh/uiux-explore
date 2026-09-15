@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--uini-landing-page",
+  "source": "kage",
+  "slug": "designs--uini-landing-page",
+  "url": "https://kage.design/designs/uini-landing-page",
+  "name": "Uini customer insight and help widget landing page by uini.io",
+  "description": "A spacious, mostly white SaaS landing page uses oversized black and rust-orange headlines, restrained gray body copy, and generous vertical gaps to establish a calm editorial rhythm. The page moves from a centered hero and browser mockup into three concise benefit columns, then alternating text-and-product-demo sections; dense pricing, testimonial cards, FAQ rows, and a bright orange CTA/footer close the experience, while small pixel-art accents provide a distinctive low-fi visual motif.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/uini-io/ef5b466a-1fe9-4cb6-9300-79049ee31244-1789059808490.webp",
+  "prompts": [
+    "kage/designs--uini-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "uini-io",
+  "tags": [
+    "search?q=large-hero",
+    "search?q=product-mockups",
+    "search?q=pixel-art",
+    "search?q=alternating-sections",
+    "search?q=pricing-table",
+    "search?q=testimonials",
+    "search?q=faq",
+    "search?q=dark-footer"
+  ],
+  "pageSha256": "5da6216a1f1d8b2b2f862492080cf66fb7a804f08c03dc7a7f43b1495bc6a148"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--meetup-footer",
+  "source": "kage",
+  "slug": "component--meetup-footer",
+  "url": "https://kage.design/component/meetup-footer",
+  "name": "Dark site footer by meetup.com",
+  "description": "A large dark rounded footer combines a top organizer CTA, multiple link columns, social and app-download actions, and a small legal utility row. The strong contrast clearly closes the page while retaining the brand’s friendly tone.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/meetup-com/38f9f6c4-75f1-46e9-b1c3-f8b44b19e777-1789146458-9.webp",
+  "prompts": [
+    "kage/component--meetup-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=apps"
+  ],
+  "pageSha256": "6d68ee19bf625b4ae213ec5091d64125ba0f41e144549e9f57fb7ac855c8fc5b"
+}

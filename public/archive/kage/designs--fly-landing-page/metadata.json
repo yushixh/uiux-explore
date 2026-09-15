@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--fly-landing-page",
+  "source": "kage",
+  "slug": "designs--fly-landing-page",
+  "url": "https://kage.design/designs/fly-landing-page",
+  "name": "Fly.io homepage — Computers for agents by fly.io",
+  "description": "The page pairs an old-style serif display face with a sans body and sets nearly everything against soft pastel watercolor gradients — mint, pink, periwinkle and lilac washes — inside large rounded cards that alternate with plain white informational sections. Hierarchy is carried almost entirely by type scale and the purple accent: buttons, stat numerals and links are a single saturated violet against desaturated washes. Whimsical hand-drawn illustrations (a bird-headed computer box, a bed, slugs, a spy) act as spot icons instead of photography, and the page closes with a dark near-black-purple footer containing link columns and a newsletter row.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/fly-io/55088b40-21c4-4b5b-a67c-8a1494f33e2d-1789073677022.webp",
+  "prompts": [
+    "kage/designs--fly-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/upstash-landing-page",
+  "product": "fly-io",
+  "tags": [
+    "search?q=serif-headlines",
+    "search?q=pastel-gradients",
+    "search?q=hand-drawn-illustrations",
+    "search?q=rounded-cards",
+    "search?q=stats-grid",
+    "search?q=logo-wall",
+    "search?q=testimonials",
+    "search?q=dark-footer"
+  ],
+  "pageSha256": "fca793f5c4a7726f771457744ddd943ff6ede4e8016fe31fc5d6ada02e3a6c27"
+}

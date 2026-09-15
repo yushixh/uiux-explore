@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--wealthfront-footer",
+  "source": "kage",
+  "slug": "component--wealthfront-footer",
+  "url": "https://kage.design/component/wealthfront-footer",
+  "name": "Multi-column site footer and legal disclosures by wealthfront.com",
+  "description": "The footer begins with a dark multi-column sitemap, then a divider and extensive small-print disclosures filling the remaining page. It ends with a copyright line.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfront-com/3e3be85e-7bdd-4e6a-8630-f389b2c5e8da-1789146566-8.webp",
+  "prompts": [
+    "kage/component--wealthfront-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=legal",
+    "search?q=links"
+  ],
+  "pageSha256": "b936905c639dd8cac1c72325fba6a2fd7aa1252e50d108436a98f1ba386427be"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--framer-feature-grid",
+  "source": "kage",
+  "slug": "component--framer-feature-grid",
+  "url": "https://kage.design/component/framer-feature-grid",
+  "name": "Dark agent capability feature grid by framer.com",
+  "description": "A cinematic, editorial feature grid that pairs oversized product-interface showcases with concise capability descriptions and repeated calls to action. Strong horizontal separators, restrained typography, and near-black surfaces let the UI demonstrations carry the story while a floating assistant panel adds depth and product context.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/framer-com/fbc97830-061d-4fdf-8e20-ea2d86299263-1789060390-3.webp",
+  "prompts": [
+    "kage/component--framer-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/framer-landing-page",
+  "product": "framer-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=ai-agents",
+    "search?q=saas"
+  ],
+  "pageSha256": "14bcc9a7bb3d1d3dcd7d9e9036571b9b0ccc4bb7df7909b30e77ff68990658a6"
+}

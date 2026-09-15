@@ -1,0 +1,22 @@
+{
+  "id": "oddflick-1b56a33ae1",
+  "name": "Oddflick",
+  "description": "Discover classic films through short clips, then tap to watch the full movie. Browse by genre or decade, save a watchlist, and resume where you left off. Available for iPhone.",
+  "shortInfo": "Discover classic films through swipeable clips",
+  "url": "https://oddflick.com/",
+  "handle": "varunux",
+  "creatorName": "Varun Varshney",
+  "creatorUrl": "https://x.com/varunux",
+  "creatorVerified": true,
+  "platform": "Mobile",
+  "categoryLabel": "Discovery",
+  "categories": [
+    "Discovery"
+  ],
+  "launchDate": "2026-09-09",
+  "added": "2026-09-09",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/oddflick-1b56a33ae1/official-icon-1789057667950-nwlXC6Cnl63Gd9YuxIBPQSfc1fFb4r.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/mtufgbyc-oddflick/avatar-mtufvrw9-Gs1WjOJTIVqbL1Ccv31bkkQiH4CZ8Z.png",
+  "shot": "/screenshots/oddflick-1b56a33ae1.webp"
+}

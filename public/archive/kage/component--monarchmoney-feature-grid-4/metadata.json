@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--monarchmoney-feature-grid-4",
+  "source": "kage",
+  "slug": "component--monarchmoney-feature-grid-4",
+  "url": "https://kage.design/component/monarchmoney-feature-grid-4",
+  "name": "Community resources by monarchmoney.com",
+  "description": "A compact resource band pairs a lifestyle image with two actionable resource cards under a centered heading.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146616-9.webp",
+  "prompts": [
+    "kage/component--monarchmoney-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monarchmoney-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=resources",
+    "search?q=community",
+    "search?q=cards"
+  ],
+  "pageSha256": "ff957e8c99f8b687b6c51aeb5df9a52a02a89d7fff8dea4222878ae3a239b885"
+}

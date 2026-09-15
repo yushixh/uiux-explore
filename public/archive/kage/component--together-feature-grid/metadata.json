@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--together-feature-grid",
+  "source": "kage",
+  "slug": "component--together-feature-grid",
+  "url": "https://kage.design/component/together-feature-grid",
+  "name": "Research spotlight carousel by together.ai",
+  "description": "A dark, editorial feature carousel that presents research or resource highlights as oversized, evenly spaced cards. Its restrained palette, strong typographic hierarchy, connector accents, and compact recognition row make the section feel technical, credible, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/together-ai/60591018-8706-471e-a3f2-ad3109f52987-1789073940-5.webp",
+  "prompts": [
+    "kage/component--together-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/together-landing-page",
+  "product": "together-ai",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=feature+grid",
+    "search?q=carousel",
+    "search?q=research"
+  ],
+  "pageSha256": "73a307c53f49bf3cacad49f0bed4b34848bba67f4496234057c490fe4772f4be"
+}

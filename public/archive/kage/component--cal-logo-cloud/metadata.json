@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cal-logo-cloud",
+  "source": "kage",
+  "slug": "component--cal-logo-cloud",
+  "url": "https://kage.design/component/cal-logo-cloud",
+  "name": "Subtle Trust Logo Cloud by cal.com",
+  "description": "A restrained social-proof band that builds credibility through generous whitespace, centered messaging, and a quiet structural grid. The intentionally understated treatment keeps attention on the surrounding product story while signaling adoption by established companies.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cal-com/cdeba7c5-dd46-4ce9-ba9c-2d344d57a58b-1789060422-2.webp",
+  "prompts": [
+    "kage/component--cal-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cal-landing-page",
+  "product": "cal-com",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=minimal",
+    "search?q=b2b"
+  ],
+  "pageSha256": "8345d5998fb29ef8399fa1e1d63dc5723ae6617f16b51ab3ce98ab872e94dfcb"
+}

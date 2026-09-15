@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ai-observability-by-openobserve-faq",
+  "source": "kage",
+  "slug": "component--ai-observability-by-openobserve-faq",
+  "url": "https://kage.design/component/ai-observability-by-openobserve-faq",
+  "name": "Dark pricing CTA with plan cards by AI Observability by OpenObserve",
+  "description": "A high-contrast conversion section that pairs a concise AI monitoring message with three horizontally aligned plan cards. The centered highlighted plan, floating offer badges, subtle patterned background, and clear action hierarchy make the middle option feel like the natural starting point without overwhelming the alternatives.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ai-observability-by-openobserve/e945d001-9c66-4981-a493-d9cb08ea77ee-1789106508-8.webp",
+  "prompts": [
+    "kage/component--ai-observability-by-openobserve-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=pricing",
+    "search?q=cta",
+    "search?q=dark-mode",
+    "search?q=cards"
+  ],
+  "pageSha256": "91dd94003440dc68bdd3f7cce97d7cb05ad9f2a9c2a222ad479928601849d9e6"
+}

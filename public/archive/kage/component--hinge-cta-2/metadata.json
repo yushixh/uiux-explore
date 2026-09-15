@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--hinge-cta-2",
+  "source": "kage",
+  "slug": "component--hinge-cta-2",
+  "url": "https://kage.design/component/hinge-cta-2",
+  "name": "Press and newsroom CTA by hinge.co",
+  "description": "A dark editorial CTA introduces press resources with a concise heading, supporting line, prominent light button, and a divider leading into the footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hinge-co/fc8d8d16-7276-4f4c-b1c9-567702ba4b3c-1789146939-6.webp",
+  "prompts": [
+    "kage/component--hinge-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hinge-landing-page",
+  "product": "hinge-co",
+  "tags": [
+    "search?q=press",
+    "search?q=dark",
+    "search?q=button"
+  ],
+  "pageSha256": "68675f2326ca29b7f295b335b958ba9350f4639bd641186ae513154b71c4475a"
+}

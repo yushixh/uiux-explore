@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--together-gallery",
+  "source": "kage",
+  "slug": "component--together-gallery",
+  "url": "https://kage.design/component/together-gallery",
+  "name": "Featured editorial updates gallery by together.ai",
+  "description": "A restrained news section that gives one story clear visual priority while stacking supporting articles into compact, scannable rows. Strong alignment, generous whitespace, and subtle metadata labels make the gallery feel editorial without becoming visually heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/together-ai/60591018-8706-471e-a3f2-ad3109f52987-1789073940-7.webp",
+  "prompts": [
+    "kage/component--together-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/together-landing-page",
+  "product": "together-ai",
+  "tags": [
+    "search?q=editorial",
+    "search?q=gallery",
+    "search?q=blog",
+    "search?q=responsive"
+  ],
+  "pageSha256": "9c685c09fd9a63676451013ae29cb948c06d6a0946dd28a13e1488c39e4977df"
+}

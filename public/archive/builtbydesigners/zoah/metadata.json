@@ -1,0 +1,22 @@
+{
+  "id": "zoah",
+  "name": "Zoah",
+  "description": "A collaborative platform for designing, versioning, and publishing code components from a visual canvas, with branching, diffs, merging, and AI. Formerly Opacity. Currently accepting waitlist signups.",
+  "shortInfo": "Collaborative design and code on one canvas",
+  "url": "https://zoah.com/",
+  "handle": "drewwilson",
+  "creatorName": "Drew Wilson",
+  "creatorUrl": "https://x.com/drewwilson",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Development",
+  "categories": [
+    "Development"
+  ],
+  "launchDate": "2026-09-06",
+  "added": "2026-09-06",
+  "sortOrder": 44,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/zoah/reviewed-1788762532276-zoah-5A4PdqsqiZkJSucOnqnG4JIymJwryd.svg",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/zoah/avatar-mtq154fr-WfOFgDDzpHJJPsetQ8HIuwwS7kqiXS.jpg",
+  "shot": "/screenshots/zoah.png"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--blinkist-stats-2",
+  "source": "kage",
+  "slug": "component--blinkist-stats-2",
+  "url": "https://kage.design/component/blinkist-stats-2",
+  "name": "Member outcomes by blinkist.com",
+  "description": "Three large percentage outcomes are presented in a clean, highly legible row with a small methodology note below.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/blinkist-com/923d3302-3f7c-4bf2-9567-691903266cb3-1789146454-7.webp",
+  "prompts": [
+    "kage/component--blinkist-stats-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/blinkist-landing-page",
+  "product": "blinkist-com",
+  "tags": [
+    "search?q=outcomes",
+    "search?q=metrics",
+    "search?q=research"
+  ],
+  "pageSha256": "239e942ef6e3f87718c3bac97b4ec8bdff796605c70bd318e7ae5bcb71d407c6"
+}

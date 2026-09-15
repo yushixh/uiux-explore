@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cal-feature-grid",
+  "source": "kage",
+  "slug": "component--cal-feature-grid",
+  "url": "https://kage.design/component/cal-feature-grid",
+  "name": "Three-step feature card grid by cal.com",
+  "description": "A centered introduction leads into three equal feature cards that explain a simple product workflow. Soft borders, restrained contrast, numbered steps, and cropped interface previews make the section feel polished while keeping the benefit narrative easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cal-com/cdeba7c5-dd46-4ce9-ba9c-2d344d57a58b-1789060423-3.webp",
+  "prompts": [
+    "kage/component--cal-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cal-landing-page",
+  "product": "cal-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=cards",
+    "search?q=workflow"
+  ],
+  "pageSha256": "15a6d2b5f2d982b76a33e969a7410b803339421e959bcf75f7d4f892846e13d1"
+}

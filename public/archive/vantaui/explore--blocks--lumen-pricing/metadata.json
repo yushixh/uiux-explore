@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--lumen-pricing",
+  "source": "vantaui",
+  "slug": "explore--blocks--lumen-pricing",
+  "url": "https://www.vantaui.com/explore/blocks/lumen-pricing",
+  "name": "Lumen Pricing - VantaUI",
+  "description": "A two-plan pricing section with a rating badge, billing-cycle toggle, and animated multi-currency prices.",
+  "image": "https://vantaui-registry.vercel.app/blocks/lumen-pricing",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "a0216098d2502f1f469619f7a172bda165428013707a1db1999fded6c53889b2"
+}

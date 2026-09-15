@@ -1,0 +1,1 @@
+npx shadcn@latest add https://vantaui-registry.vercel.app/r/underline-link.json

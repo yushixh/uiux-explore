@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--wealthfolio-feature-grid",
+  "source": "kage",
+  "slug": "component--wealthfolio-feature-grid",
+  "url": "https://kage.design/component/wealthfolio-feature-grid",
+  "name": "Privacy principles with architecture diagram by Wealthfolio",
+  "description": "This section pairs an editorial list of product principles with a lightweight systems diagram, making abstract trust and privacy claims feel concrete. The restrained palette, serif-led hierarchy, monospace supporting text, and dashed containers create a calm, technical, privacy-first impression.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfolio/bf50ab71-633d-4b86-816e-5951eb096cd4-1789106472-3.webp",
+  "prompts": [
+    "kage/component--wealthfolio-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfolio-landing-page",
+  "product": "wealthfolio",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=privacy",
+    "search?q=editorial",
+    "search?q=architecture"
+  ],
+  "pageSha256": "7a4225c7017458b4f0ce7e0a015a8ec05a3c7a2ea5a3cce49ef5d7883975d646"
+}

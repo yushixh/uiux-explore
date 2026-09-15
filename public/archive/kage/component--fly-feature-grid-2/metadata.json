@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fly-feature-grid-2",
+  "source": "kage",
+  "slug": "component--fly-feature-grid-2",
+  "url": "https://kage.design/component/fly-feature-grid-2",
+  "name": "Editorial feature checklist by fly.io",
+  "description": "A spacious two-column feature section pairs an oversized editorial heading and supporting copy with a concise checklist of product benefits. Strong typographic contrast, generous whitespace, and hand-drawn-feeling check marks make the block feel confident, human, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fly-io/55088b40-21c4-4b5b-a67c-8a1494f33e2d-1789073897-3.webp",
+  "prompts": [
+    "kage/component--fly-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fly-landing-page",
+  "product": "fly-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=checklist",
+    "search?q=responsive"
+  ],
+  "pageSha256": "3dbb273c610c10281cd7cc1b0eef2e62497f0a87e6d10a6240c39a629ec82a9c"
+}

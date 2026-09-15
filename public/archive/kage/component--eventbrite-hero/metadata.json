@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--eventbrite-hero",
+  "source": "kage",
+  "slug": "component--eventbrite-hero",
+  "url": "https://kage.design/component/eventbrite-hero",
+  "name": "Editorial live-music hero by eventbrite.com",
+  "description": "A wide rounded promotional image leads with oversized editorial type over a dark concert scene and a single high-contrast action button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/eventbrite-com/7528d4f6-3311-4de9-a3b5-4d616b4b671a-1789146266-1.webp",
+  "prompts": [
+    "kage/component--eventbrite-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-landing-page",
+  "product": "eventbrite-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=image",
+    "search?q=cta"
+  ],
+  "pageSha256": "91dea5176a9eacd287323ecf35cc7466a3c044ef0f7ea5215eff5179f5405335"
+}

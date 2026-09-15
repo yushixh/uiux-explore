@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-feature-grid-4",
+  "source": "kage",
+  "slug": "component--fresha-feature-grid-4",
+  "url": "https://kage.design/component/fresha-feature-grid-4",
+  "name": "For business product showcase by fresha.com",
+  "description": "A split promotional section introduces the business offering with a large heading and CTA on the left, while a colorful scheduling-product visual dominates the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146194-9.webp",
+  "prompts": [
+    "kage/component--fresha-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=business",
+    "search?q=product",
+    "search?q=showcase"
+  ],
+  "pageSha256": "f83a2d0fb20cc09327ca9bd2e072ebe1f3166c3ea1d4d224edf396657ddd1afa"
+}

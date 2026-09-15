@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mastra-factory-tabs",
+  "source": "kage",
+  "slug": "component--mastra-factory-tabs",
+  "url": "https://kage.design/component/mastra-factory-tabs",
+  "name": "Workflow stage tabs by Mastra Factory",
+  "description": "A compact, horizontal process navigator pairs clearly separated workflow stages with a single active state and a contextual explanation beneath it. The restrained dark treatment, dotted connectors, and icon-led labels make a complex multi-step flow feel legible without competing with the surrounding product experience.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mastra-factory/e98dc23c-cafd-4086-ae60-932f10b41f0f-1789106664-3.webp",
+  "prompts": [
+    "kage/component--mastra-factory-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mastra-factory-landing-page",
+  "product": "mastra-factory",
+  "tags": [
+    "search?q=tabs",
+    "search?q=workflow",
+    "search?q=dark-ui",
+    "search?q=progress"
+  ],
+  "pageSha256": "9f81bf992598daec869a5a8620e2d057e14e23311ea7480b449256431e9f13cc"
+}

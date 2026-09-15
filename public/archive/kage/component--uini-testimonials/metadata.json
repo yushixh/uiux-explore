@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--uini-testimonials",
+  "source": "kage",
+  "slug": "component--uini-testimonials",
+  "url": "https://kage.design/component/uini-testimonials",
+  "name": "Six-card testimonial grid by uini.io",
+  "description": "A calm, editorial testimonial section that builds trust through six short customer stories arranged in a precise three-column grid. Restrained cards, generous whitespace, and compact identity rows keep the focus on specific outcomes rather than decorative branding.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uini-io/ef5b466a-1fe9-4cb6-9300-79049ee31244-1789059862-8.webp",
+  "prompts": [
+    "kage/component--uini-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uini-landing-page",
+  "product": "uini-io",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=card+grid",
+    "search?q=saas"
+  ],
+  "pageSha256": "1aabd622e972db2834f0641e644c8624f1dbc4534ec0801dcdacfee1a4ec0b62"
+}

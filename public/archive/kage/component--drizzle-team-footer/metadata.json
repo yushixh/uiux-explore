@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--drizzle-team-footer",
+  "source": "kage",
+  "slug": "component--drizzle-team-footer",
+  "url": "https://kage.design/component/drizzle-team-footer",
+  "name": "Minimal multi-column link footer by drizzle.team",
+  "description": "A restrained footer that uses a thin top rule, generous whitespace, and a simple three-column grid to separate product links, community links, and a single high-visibility support action. Its quiet typography keeps navigation legible without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/drizzle-team/742c665e-9ce1-4c98-831f-72085091350d-1789073810-4.webp",
+  "prompts": [
+    "kage/component--drizzle-team-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/drizzle-team-landing-page",
+  "product": "drizzle-team",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=minimal",
+    "search?q=links"
+  ],
+  "pageSha256": "50db814bf5240103296752777909e5a3b3aa34fa78f228b47cc4ef8c50d8bfd2"
+}

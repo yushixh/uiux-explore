@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--spinning-text",
+  "source": "vantaui",
+  "slug": "explore--components--spinning-text",
+  "url": "https://www.vantaui.com/explore/components/spinning-text",
+  "name": "Spinning Text - VantaUI",
+  "description": "Text spinning on a 3D cylinder",
+  "image": "https://vantaui-registry.vercel.app/components/spinning-text",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "e0d7b03c0d82086aa4e65a91dd49a207ab5d7e6ee6c66e0c386526a120ebed34"
+}

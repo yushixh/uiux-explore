@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--turso-hero",
+  "source": "kage",
+  "slug": "component--turso-hero",
+  "url": "https://kage.design/component/turso-hero",
+  "name": "Dark code-first product hero by turso.tech",
+  "description": "A high-contrast developer-platform hero pairs a bold, two-tone headline and concise value proposition with a framed code preview. A restrained navigation bar, vivid mint CTAs, and a trust strip below create a credible conversion path without overwhelming the technical message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/turso-tech/a01fe972-4603-42df-a7fd-1b66e57f2913-1789073738-1.webp",
+  "prompts": [
+    "kage/component--turso-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/turso-landing-page",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark-mode",
+    "search?q=developer",
+    "search?q=code"
+  ],
+  "pageSha256": "6a8489266de30382fd26b7a17d481d624749c7a856e1e249f846aabca73ca3e0"
+}

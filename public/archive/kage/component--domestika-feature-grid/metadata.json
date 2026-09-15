@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--domestika-feature-grid",
+  "source": "kage",
+  "slug": "component--domestika-feature-grid",
+  "url": "https://kage.design/component/domestika-feature-grid",
+  "name": "Course discovery grid by domestika.org",
+  "description": "An introductory statement flows directly into a dense four-column catalog of course cards, with consistent imagery, metadata, pricing, and teal purchase actions. A centered browse-more CTA closes the collection.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/domestika-org/a1bec580-5d19-4289-a277-048dcd6cb3c6-1789146411-3.webp",
+  "prompts": [
+    "kage/component--domestika-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/domestika-landing-page",
+  "product": "domestika-org",
+  "tags": [
+    "search?q=courses",
+    "search?q=cards",
+    "search?q=catalog"
+  ],
+  "pageSha256": "a1110f8bd89872a181a63dc87d8ecc4a2cde7391626d0a3755650d3c778c4c30"
+}

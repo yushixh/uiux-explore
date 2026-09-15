@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--granola-navigation",
+  "source": "kage",
+  "slug": "component--granola-navigation",
+  "url": "https://kage.design/component/granola-navigation",
+  "name": "Minimal top navigation by granola.ai",
+  "description": "A restrained white header keeps the brand at left, primary links centered, and the download action at right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789141836-0.webp",
+  "prompts": [
+    "kage/component--granola-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=header",
+    "search?q=minimal",
+    "search?q=links"
+  ],
+  "pageSha256": "ec1c4e06ada1343d3403aa3ebc07f77ff13363a383bcfa6b76a93db09f3a8096"
+}

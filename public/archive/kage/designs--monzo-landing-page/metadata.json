@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--monzo-landing-page",
+  "source": "kage",
+  "slug": "designs--monzo-landing-page",
+  "url": "https://kage.design/designs/monzo-landing-page",
+  "name": "Monzo consumer banking homepage by monzo.com",
+  "description": "A long consumer bank homepage built almost entirely from rounded slabs and cards that alternate between white, warm grey, hot coral and deep navy, creating a strong colour rhythm as you scroll. The hero pairs warm lifestyle photography with a short bold headline, then the page moves through carousel-based feature rows, a bento grid of support tiles, a sign-up stepper, and finally unusually transparent survey-ranking tables drawn with coral bars. Pill buttons, 16–24px radii, phone mockups and tiny regulatory small print give it a friendly but credible financial tone.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/monzo-com/b864c421-0184-411c-901f-a4ffc676dbcc-1789060125607.webp",
+  "prompts": [
+    "kage/designs--monzo-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ynab-landing-page",
+  "product": "monzo-com",
+  "tags": [
+    "search?q=coral-brand",
+    "search?q=rounded-panels",
+    "search?q=bento-grid",
+    "search?q=phone-mockups",
+    "search?q=carousel",
+    "search?q=trust-badges",
+    "search?q=ranking-tables",
+    "search?q=consumer-banking"
+  ],
+  "pageSha256": "948f4de1a7619e156125cffe9bbb8c4660f6a86f9b0039cc19a23d1ed3ae8039"
+}

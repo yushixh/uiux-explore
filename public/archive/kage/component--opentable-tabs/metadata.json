@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-tabs",
+  "source": "kage",
+  "slug": "component--opentable-tabs",
+  "url": "https://kage.design/component/opentable-tabs",
+  "name": "Discovery FAQ tabs and accordions by opentable.com",
+  "description": "A tabbed FAQ navigation separates topic areas, followed by two wide accordion questions that keep the dense information scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146316-8.webp",
+  "prompts": [
+    "kage/component--opentable-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=tabs",
+    "search?q=accordion",
+    "search?q=navigation"
+  ],
+  "pageSha256": "7b35017956109cb01edbeaa9323137c580b8663a8b325ec66554da4717367445"
+}

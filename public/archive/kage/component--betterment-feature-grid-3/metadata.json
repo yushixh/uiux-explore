@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--betterment-feature-grid-3",
+  "source": "kage",
+  "slug": "component--betterment-feature-grid-3",
+  "url": "https://kage.design/component/betterment-feature-grid-3",
+  "name": "Cash benefit feature by betterment.com",
+  "description": "A cream split section balances a bold numerical product visual on the left with benefit-led copy, checkmarks, and dual actions on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/betterment-com/48b23e19-a777-4bc7-89e7-1aceabf18629-1789146557-5.webp",
+  "prompts": [
+    "kage/component--betterment-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/betterment-landing-page",
+  "product": "betterment-com",
+  "tags": [
+    "search?q=cash",
+    "search?q=benefits",
+    "search?q=split-layout",
+    "search?q=apy"
+  ],
+  "pageSha256": "9fb69c1cf2d75daeb7308f923b9f414ab07cd9809000f7c6bdd03fa1369f8cfb"
+}

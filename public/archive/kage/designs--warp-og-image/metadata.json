@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--warp-og-image",
+  "source": "kage",
+  "slug": "designs--warp-og-image",
+  "url": "https://kage.design/designs/warp-og-image",
+  "name": "Warp OG social card — orbiting illustration collage on a dark blueprint grid by warp.dev",
+  "description": "A 1200×630 social card that treats itself like a dark design board: a near-black field with faint hairline gridlines, plus-mark intersections and dashed centre guides, over which twelve rounded tiles are scattered in a loose elliptical orbit around a single white logo glyph. Each tile holds a different vintage night-sky illustration — aurora curtains, comets, rain, sepia clouds — in muted teal, indigo, charcoal and beige, so the collage reads as a deck of slides pinned to a canvas. There is no headline at all; hierarchy comes entirely from the bright central mark against the dim grid, with tile size and hue variation supplying the rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/warp-dev/0b8c09c0-1686-4080-b12d-0e7b28b0f0f4-1789059999605.webp",
+  "prompts": [
+    "kage/designs--warp-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=social-card",
+    "search?q=collage",
+    "search?q=blueprint-grid",
+    "search?q=centered-logo",
+    "search?q=illustrated-tiles",
+    "search?q=night-sky",
+    "search?q=dark-canvas"
+  ],
+  "pageSha256": "df35abe7114ce6ef1eaad1e9de5f5fca876c99366813a3f89aa2d8a2d668121e"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "visitors",
+  "name": "Visitors",
+  "description": "A revenue-first analytics service combining realtime traffic, visitor journeys, performance insights and funnels with privacy-friendly tracking and integrated payment attribution.",
+  "shortInfo": "Connect traffic, journeys and revenue",
+  "url": "https://visitors.now/",
+  "handle": "darylginn",
+  "creatorName": "Daryl",
+  "creatorUrl": "https://x.com/darylginn",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Productivity",
+  "categories": [
+    "Productivity"
+  ],
+  "launchDate": "2026-08-30",
+  "added": "2026-08-30",
+  "sortOrder": 2,
+  "icon": "/backend/icons/visitors.png",
+  "avatar": "/backend/avatars/visitors.jpg",
+  "shot": "/screenshots/visitors.png"
+}

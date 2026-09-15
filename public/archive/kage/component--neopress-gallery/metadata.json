@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neopress-gallery",
+  "source": "kage",
+  "slug": "component--neopress-gallery",
+  "url": "https://kage.design/component/neopress-gallery",
+  "name": "Template gallery by Neopress",
+  "description": "An editorial gallery combines a centered heading, category filters, a six-item visual grid, and a small continuation link to encourage exploration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neopress/126c1916-850c-4473-b9b4-49923d5d31e2-1789365754-4.webp",
+  "prompts": [
+    "kage/component--neopress-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neopress-landing-page",
+  "product": "neopress",
+  "tags": [
+    "search?q=templates",
+    "search?q=gallery",
+    "search?q=filters"
+  ],
+  "pageSha256": "4747ea34e5afa8ad91d0f6f6643a873eaeb73a2d9fa29d9dd8015698d987cd00"
+}

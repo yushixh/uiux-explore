@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--tally-feature-grid-4",
+  "source": "kage",
+  "slug": "component--tally-feature-grid-4",
+  "url": "https://kage.design/component/tally-feature-grid-4",
+  "name": "Customizable feature grid by tally.so",
+  "description": "A spacious product feature section combines a strong visual demo card with a compact six-item capability grid. The restrained monochrome palette, bright accent icons, and generous whitespace make a dense set of benefits feel approachable and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060953-5.webp",
+  "prompts": [
+    "kage/component--tally-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=editorial",
+    "search?q=responsive",
+    "search?q=product-ui"
+  ],
+  "pageSha256": "659cbe223b174e18d407145f402bbd05d987b24f828f9be7428a99a6f3026f26"
+}

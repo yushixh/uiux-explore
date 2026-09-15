@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--public-landing-page",
+  "source": "kage",
+  "slug": "designs--public-landing-page",
+  "url": "https://kage.design/designs/public-landing-page",
+  "name": "Public investing platform homepage by public.com",
+  "description": "Public's homepage runs on a cream canvas with an oversized high-contrast serif display face against a quiet neutral sans, and it builds rhythm by alternating full-bleed light and near-black bands. The hero is restrained — two lines of left-aligned serif, three icon callouts, one black pill CTA — then a dark annotated-device media band, followed by a purely typographic product index where dot separators and tiny yield chips carry the information. Below, AI feature blocks mix centered editorial captions with dense, realistic product mockups that let green market-data accents do the colour work; a black 'active trading' band mixes a rebate table, a 3D stat cube and syntax-highlighted code; later bands handle concierge, security trust facts in a 2×3 grid, and a conversion close with device mockups, ending in a multi-column footer with a long small-print legal block.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/public-com/cb41c975-325f-4844-b439-84e9d28bd7b7-1789146484316.webp",
+  "prompts": [
+    "kage/designs--public-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "public-com",
+  "tags": [
+    "search?q=serif-headlines",
+    "search?q=product-ui-mockups",
+    "search?q=alternating-bands",
+    "search?q=market-data",
+    "search?q=pill-buttons",
+    "search?q=trust-grid",
+    "search?q=typographic-index"
+  ],
+  "pageSha256": "a8d7c0d82085f82c501c350331273f871ba2afbe76aae2209a46224f85083dcc"
+}

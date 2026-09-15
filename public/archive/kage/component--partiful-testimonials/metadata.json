@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--partiful-testimonials",
+  "source": "kage",
+  "slug": "component--partiful-testimonials",
+  "url": "https://kage.design/component/partiful-testimonials",
+  "name": "Real-user review wall by partiful.com",
+  "description": "A review section combines a large rating-led headline and CTA on the left with a dense wall of small review cards on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/partiful-com/97ae038c-0277-4e29-93fa-45b4a481f7ba-1789146245-10.webp",
+  "prompts": [
+    "kage/component--partiful-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/partiful-landing-page",
+  "product": "partiful-com",
+  "tags": [
+    "search?q=reviews",
+    "search?q=testimonials",
+    "search?q=trust"
+  ],
+  "pageSha256": "7b29d72ebf5c9fe9cd5f6e0bfd363fef5972b572c3d22413b128d85ff8af313e"
+}

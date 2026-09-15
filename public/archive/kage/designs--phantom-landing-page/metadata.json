@@ -1,0 +1,24 @@
+{
+  "id": "kage--designs--phantom-landing-page",
+  "source": "kage",
+  "slug": "designs--phantom-landing-page",
+  "url": "https://kage.design/designs/phantom-landing-page",
+  "name": "Phantom — crypto wallet & trading homepage by phantom.com",
+  "description": "Phantom's homepage pairs a soft lavender shell with a full-bleed gray hero video and then organises everything below into three labelled bento sections — Trading, Move Money, Your security — each a horizontal carousel of tall feature cards. Each card is a self-contained colour world (purple, dark, mint, blue, pink, yellow) with a short benefit headline and a rich product illustration or UI mock, so colour, not typography, carries the hierarchy. The page closes with a giant serif \"Get started. Download Phantom.\" statement, legal small print, and a rounded footer with newsletter signup and status indicator.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/phantom-com/df84c488-d9fa-4f45-8b51-bd3e334c55b2-1789146830218.webp",
+  "prompts": [
+    "kage/designs--phantom-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "phantom-com",
+  "tags": [
+    "search?q=crypto-wallet",
+    "search?q=bento-cards",
+    "search?q=soft-gradients",
+    "search?q=carousel-sections",
+    "search?q=product-illustration"
+  ],
+  "pageSha256": "5ee5cacf12bd7589e292e3a3b329a1de02d2fe47c1e3f2643125614f3aa755be"
+}

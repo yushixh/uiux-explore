@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--loom-cta",
+  "source": "kage",
+  "slug": "component--loom-cta",
+  "url": "https://kage.design/component/loom-cta",
+  "name": "Split feature CTA panel by loom.com",
+  "description": "A high-impact promotional CTA that pairs a product-focused visual with a concise feature message inside a bold, rounded colour panel. The strong contrast, generous spacing, and single dark action make the section easy to scan while still giving the feature enough context to feel valuable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060437-3.webp",
+  "prompts": [
+    "kage/component--loom-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=split-layout",
+    "search?q=feature",
+    "search?q=saas"
+  ],
+  "pageSha256": "1756fd3cd624ff543d57ed069b961150b9646862e5ffce0831d9674dfb91e82c"
+}

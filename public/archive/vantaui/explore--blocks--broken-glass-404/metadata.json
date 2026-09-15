@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--broken-glass-404",
+  "source": "vantaui",
+  "slug": "explore--blocks--broken-glass-404",
+  "url": "https://www.vantaui.com/explore/blocks/broken-glass-404",
+  "name": "Broken Glass 404 - VantaUI",
+  "description": "A 404 scene with floating refractive glass shards.",
+  "image": "https://vantaui-registry.vercel.app/blocks/broken-glass-404",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "55beb0710e030a87b9efe485fe7645d063aeb6fde6a4547ca698920a92824c28"
+}

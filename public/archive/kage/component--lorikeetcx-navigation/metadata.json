@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-navigation",
+  "source": "kage",
+  "slug": "component--lorikeetcx-navigation",
+  "url": "https://kage.design/component/lorikeetcx-navigation",
+  "name": "Minimal floating navigation by lorikeetcx.ai",
+  "description": "A compact centered navigation bar keeps the brand and primary links visible without competing with the oversized editorial hero.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142168-0.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=header",
+    "search?q=floating",
+    "search?q=minimal"
+  ],
+  "pageSha256": "2ddef6cbe627bd209aa10fabe2e99963c29268a4709c9c64e61cafe3bdcef22d"
+}

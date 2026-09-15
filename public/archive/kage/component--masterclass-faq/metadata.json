@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--masterclass-faq",
+  "source": "kage",
+  "slug": "component--masterclass-faq",
+  "url": "https://kage.design/component/masterclass-faq",
+  "name": "Frequently asked questions by masterclass.com",
+  "description": "A narrow centered FAQ column groups questions into labeled categories and uses uniform dark accordion rows with clear chevrons for scanability.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146212-10.webp",
+  "prompts": [
+    "kage/component--masterclass-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/masterclass-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=support"
+  ],
+  "pageSha256": "12ef701ab44cd6a55ce19bcdca832f1399f61e0cd372bda6ae0ebec4060c3518"
+}

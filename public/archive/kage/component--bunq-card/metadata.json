@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bunq-card",
+  "source": "kage",
+  "slug": "component--bunq-card",
+  "url": "https://kage.design/component/bunq-card",
+  "name": "Personal banking image card by bunq.com",
+  "description": "A large rounded image card follows the benefit list, pairing lifestyle imagery with a dark caption area and a single discovery action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bunq-com/4420c8b4-fa9d-40bf-a5d3-de95f2febdf1-1789146829-3.webp",
+  "prompts": [
+    "kage/component--bunq-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bunq-landing-page",
+  "product": "bunq-com",
+  "tags": [
+    "search?q=image",
+    "search?q=rounded",
+    "search?q=product"
+  ],
+  "pageSha256": "6902ff42c718e8d9feeb4935fe712aff1a38a2f7d372fd5a27c1e05043f8d09d"
+}

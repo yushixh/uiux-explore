@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--meetup-navigation",
+  "source": "kage",
+  "slug": "component--meetup-navigation",
+  "url": "https://kage.design/component/meetup-navigation",
+  "name": "Global navigation by meetup.com",
+  "description": "A compact header combines brand, location-aware event search, language, authentication links, and a dark signup button. The wide central search control keeps discovery prominent without competing with the hero.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/meetup-com/38f9f6c4-75f1-46e9-b1c3-f8b44b19e777-1789146455-0.webp",
+  "prompts": [
+    "kage/component--meetup-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=header",
+    "search?q=search",
+    "search?q=account"
+  ],
+  "pageSha256": "349d5a4354829405e3fe60cd32c9e953d9743dcd1f70acaf666c47ae37695bf5"
+}

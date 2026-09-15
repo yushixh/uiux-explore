@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ledger-faq",
+  "source": "kage",
+  "slug": "component--ledger-faq",
+  "url": "https://kage.design/component/ledger-faq",
+  "name": "Frequently asked questions by ledger.com",
+  "description": "The FAQ uses a two-column layout: expandable questions on the left and explanatory answer content on the right. High contrast rows and concise answers make the section easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ledger-com/abaab959-f9d6-43c3-8f0c-09f584ac8799-1789146873-9.webp",
+  "prompts": [
+    "kage/component--ledger-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=education"
+  ],
+  "pageSha256": "a7fd33f95961b272f7a5f13bd3a5e787e55a9185e7947fff20a9df820d5778ef"
+}

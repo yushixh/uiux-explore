@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chime-feature-grid",
+  "source": "kage",
+  "slug": "component--chime-feature-grid",
+  "url": "https://kage.design/component/chime-feature-grid",
+  "name": "Fee-free banking feature showcase by chime.com",
+  "description": "A rounded dark-green showcase card introduces one selected benefit with bullets and a Learn More button, alongside a large lifestyle/product image. A dimmed vertical list hints at additional benefits without competing with the active panel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146541-2.webp",
+  "prompts": [
+    "kage/component--chime-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chime-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=features",
+    "search?q=banking",
+    "search?q=showcase"
+  ],
+  "pageSha256": "8cf17ae04b7083d45398e3ebdbe38c2dd3e20b68fedb0e7ad862617aab1d68ab"
+}

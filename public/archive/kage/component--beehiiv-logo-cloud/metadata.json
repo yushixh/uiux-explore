@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--beehiiv-logo-cloud",
+  "source": "kage",
+  "slug": "component--beehiiv-logo-cloud",
+  "url": "https://kage.design/component/beehiiv-logo-cloud",
+  "name": "Editorial logo trust strip by beehiiv.com",
+  "description": "A restrained dark trust band builds credibility through a compact eyebrow and a single horizontal row of varied publisher and brand wordmarks. Generous spacing, monochrome treatment, and disciplined alignment keep the logos legible without making the section feel like an advertisement.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067453-2.webp",
+  "prompts": [
+    "kage/component--beehiiv-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=dark-mode",
+    "search?q=responsive"
+  ],
+  "pageSha256": "1c0257f985ff4050f7053019925cf55af34c9266b0bfd821c601b34191924a2e"
+}

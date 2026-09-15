@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--sentry-navigation",
+  "source": "kage",
+  "slug": "component--sentry-navigation",
+  "url": "https://kage.design/component/sentry-navigation",
+  "name": "Dark SaaS header navigation by sentry.io",
+  "description": "This header works through a restrained dark canvas, strong horizontal rhythm, compact uppercase navigation, and a clear two-level CTA hierarchy. The outlined secondary action and bright filled primary action make conversion paths easy to scan without overwhelming the utility links.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sentry-io/7f1d8e63-d1c6-4f27-8b0e-be764e2f10af-1789073902-0.webp",
+  "prompts": [
+    "kage/component--sentry-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sentry-landing-page",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=dark-ui",
+    "search?q=cta"
+  ],
+  "pageSha256": "fb31d13141e9f21245e1a40a398db58994432c8f8e631105a3e2e97471702878"
+}

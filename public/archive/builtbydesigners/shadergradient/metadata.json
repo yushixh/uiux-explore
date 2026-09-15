@@ -1,0 +1,23 @@
+{
+  "id": "shadergradient",
+  "name": "ShaderGradient",
+  "description": "Create living, animated gradients and drop them straight into Figma, Framer, or your React app. Tune shape, colors and motion on the web, then ship them anywhere.",
+  "shortInfo": "Beautiful moving gradients for your designs",
+  "url": "https://shadergradient.co/",
+  "handle": "ruucm",
+  "creatorName": "Ruucm",
+  "creatorUrl": "https://x.com/ruucm",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-09-02",
+  "added": "2026-09-02",
+  "sortOrder": 39,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/shadergradient/icon-mtjyqpsm-kBXFjGs4VgoD8MB51iI5Bhzb2EgzGU.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/authors/ruucm-avatar-S4BeRdYF3bM2ALUjs8GE3TVNKL6S77.jpg",
+  "shot": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/shadergradient/shot-mtjyqpsn-1uY1DiMzMQxH3fSgA4DoAhIMsIxWZE.jpg",
+  "shot2x": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/shadergradient/shot2x-mtjyqpso-lHAg4BGIN2jIk6fUDwBKPSp5O2ZiLa.jpg"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--noodle-seed-logo-cloud-2",
+  "source": "kage",
+  "slug": "component--noodle-seed-logo-cloud-2",
+  "url": "https://kage.design/component/noodle-seed-logo-cloud-2",
+  "name": "Monochrome logo cloud by Noodle Seed",
+  "description": "A restrained trust strip uses a quiet eyebrow, a single horizontal row of monochrome partner marks, and a thin divider to establish credibility without competing with the next section. Generous black space and low-contrast logos make the transition into the large headline feel intentional and premium.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/noodle-seed/892ab390-1bf9-4a7d-a1b3-8cebe5820ba8-1789106718-6.webp",
+  "prompts": [
+    "kage/component--noodle-seed-logo-cloud-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/noodle-seed-landing-page",
+  "product": "noodle-seed",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=dark+mode",
+    "search?q=brand+grid"
+  ],
+  "pageSha256": "f2c07e5030242a496e36c44b3e241dec05bc98dc22cd81f86ab35bcf40d94e58"
+}

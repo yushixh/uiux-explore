@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--omnea-hero-2",
+  "source": "kage",
+  "slug": "component--omnea-hero-2",
+  "url": "https://kage.design/component/omnea-hero-2",
+  "name": "Dark agent operating system section by omnea.co",
+  "description": "A dramatic dark interlude resets the page rhythm, pairing a centered promise with a large interactive-looking architecture panel and an understated human-support message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/omnea-co/444fd721-a6f8-467e-8179-cf278abe5ec1-1789142168-6.webp",
+  "prompts": [
+    "kage/component--omnea-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/omnea-landing-page",
+  "product": "omnea-co",
+  "tags": [
+    "search?q=dark",
+    "search?q=interactive",
+    "search?q=platform"
+  ],
+  "pageSha256": "cf442d8c557a87764a8e5f141e93df508f7eeb8a9f96f8120c7c80985641a7f0"
+}

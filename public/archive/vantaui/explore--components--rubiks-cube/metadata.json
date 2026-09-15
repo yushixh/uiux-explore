@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--rubiks-cube",
+  "source": "vantaui",
+  "slug": "explore--components--rubiks-cube",
+  "url": "https://www.vantaui.com/explore/components/rubiks-cube",
+  "name": "Rubik's Cube - VantaUI",
+  "description": "Dark animated rubik's cube",
+  "image": "https://vantaui-registry.vercel.app/components/rubiks-cube",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "318556123b4a574dcaa8f347ab6370653ecdae35ec229dbd05283979dff3f652"
+}

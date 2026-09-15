@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cloudflare-feature-grid",
+  "source": "kage",
+  "slug": "component--cloudflare-feature-grid",
+  "url": "https://kage.design/component/cloudflare-feature-grid",
+  "name": "Global network overview by cloudflare.com",
+  "description": "A centered section introduces a global-network concept with a large globe visual and three concise capability cards underneath.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cloudflare-com/1ca6ff30-a094-43e2-8124-fd26c9356e55-1789213790-2.webp",
+  "prompts": [
+    "kage/component--cloudflare-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "cloudflare-com",
+  "tags": [
+    "search?q=network",
+    "search?q=features",
+    "search?q=globe"
+  ],
+  "pageSha256": "53a93ca57cc4f8303d4ed00efe44001a226218ba968eb033bce2569b943f16f0"
+}

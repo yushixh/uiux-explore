@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--masterclass-testimonials",
+  "source": "kage",
+  "slug": "component--masterclass-testimonials",
+  "url": "https://kage.design/component/masterclass-testimonials",
+  "name": "Member testimonial carousel by masterclass.com",
+  "description": "A centered testimonial heading introduces a dark quote panel paired with a member image, with arrows and pagination making the social proof feel like a browsable story.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146211-7.webp",
+  "prompts": [
+    "kage/component--masterclass-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/masterclass-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=testimonial",
+    "search?q=carousel",
+    "search?q=social-proof"
+  ],
+  "pageSha256": "7c32bb3fc46952876330944a2c64660ebb41c87dce51ab179dd20050e329944e"
+}

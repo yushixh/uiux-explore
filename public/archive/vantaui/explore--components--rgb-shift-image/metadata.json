@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--rgb-shift-image",
+  "source": "vantaui",
+  "slug": "explore--components--rgb-shift-image",
+  "url": "https://www.vantaui.com/explore/components/rgb-shift-image",
+  "name": "RGB Shift Image - VantaUI",
+  "description": "A Three.js image plane with hover RGB shift, pixel displacement, and smooth pointer-driven 3D tilt.",
+  "image": "https://vantaui-registry.vercel.app/components/rgb-shift-image",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "c439b309ff184f238fabd65ef97ce9cc475dd6b3e7412de476c1250b9ee32908"
+}

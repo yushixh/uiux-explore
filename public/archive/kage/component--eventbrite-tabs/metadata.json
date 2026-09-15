@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--eventbrite-tabs",
+  "source": "kage",
+  "slug": "component--eventbrite-tabs",
+  "url": "https://kage.design/component/eventbrite-tabs",
+  "name": "Location browsing controls by eventbrite.com",
+  "description": "A location heading and compact tab row establish the browsing context and offer quick time-based filters.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/eventbrite-com/7528d4f6-3311-4de9-a3b5-4d616b4b671a-1789146266-3.webp",
+  "prompts": [
+    "kage/component--eventbrite-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-landing-page",
+  "product": "eventbrite-com",
+  "tags": [
+    "search?q=location",
+    "search?q=tabs",
+    "search?q=filters"
+  ],
+  "pageSha256": "e2d7f3a7dc14c68373436d7eec68a1dc0692ec46552ca7d675c0ed6dcd8aecb1"
+}

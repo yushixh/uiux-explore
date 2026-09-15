@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cadenya-feature-grid",
+  "source": "kage",
+  "slug": "component--cadenya-feature-grid",
+  "url": "https://kage.design/component/cadenya-feature-grid",
+  "name": "Two-path capability introduction by Cadenya",
+  "description": "A full-width photographic/textural band contains a centered translucent two-column panel. Each feature gets an icon, short heading, and concise technical explanation, creating a clear first layer of product education.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192867-2.webp",
+  "prompts": [
+    "kage/component--cadenya-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cadenya-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=features",
+    "search?q=split-grid",
+    "search?q=texture",
+    "search?q=mcp"
+  ],
+  "pageSha256": "e78fa21d06239f0cdcf31b4c615d8db04d57ae7a0ed071b47a0b05fecc401c53"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tally-feature-grid-3",
+  "source": "kage",
+  "slug": "component--tally-feature-grid-3",
+  "url": "https://kage.design/component/tally-feature-grid-3",
+  "name": "Progressive feature showcase grid by tally.so",
+  "description": "This section works by pairing a concise, editorial introduction with one dominant feature card, two supporting cards, and a compact capability list. Generous whitespace, thin neutral borders, playful accent details, and product UI previews make a complex feature set feel approachable without overwhelming the reader.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060952-4.webp",
+  "prompts": [
+    "kage/component--tally-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=product-tour",
+    "search?q=editorial"
+  ],
+  "pageSha256": "55b16cf8aa9a5b64dc660acca56c16d246e83a5eb40f6d8c6bcc589885a298ea"
+}

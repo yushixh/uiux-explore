@@ -1,0 +1,24 @@
+{
+  "id": "kage--designs--phantom-og-image",
+  "source": "kage",
+  "slug": "designs--phantom-og-image",
+  "url": "https://kage.design/designs/phantom-og-image",
+  "name": "Phantom social card by phantom.com",
+  "description": "A 1200×630 social card uses a nearly full-bleed lavender-purple canvas with a single centered horizontal lockup. The white abstract mark sits to the left of a large lowercase wordmark, creating a strong focal band with generous negative space above and below; the treatment is flat, unbordered, and free of secondary copy or imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/phantom-com/d3f77618-3b33-49ec-8620-2002729b2b18-1789146833252.webp",
+  "prompts": [
+    "kage/designs--phantom-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-og-image",
+  "product": "phantom-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=wordmark",
+    "search?q=centered-composition",
+    "search?q=lavender-background",
+    "search?q=high-contrast-type"
+  ],
+  "pageSha256": "b672d35fe7be992ba2826e3f8c174e63048b8df8c3739c48791857f5d4d7e8c1"
+}

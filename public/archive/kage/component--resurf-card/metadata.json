@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resurf-card",
+  "source": "kage",
+  "slug": "component--resurf-card",
+  "url": "https://kage.design/component/resurf-card",
+  "name": "Cross-device platform panel by Resurf",
+  "description": "A large rounded panel communicates native availability with a heading, supporting text, compact capability chips, and a layered multi-device product visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resurf/ff64fde5-ed9d-4c90-b5a1-3641329afaa7-1789365707-5.webp",
+  "prompts": [
+    "kage/component--resurf-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "resurf",
+  "tags": [
+    "search?q=devices",
+    "search?q=platforms",
+    "search?q=showcase"
+  ],
+  "pageSha256": "4f3af56824d7582a0ba886b164aa055c1c7d59fee85d3d949f062b55abb89525"
+}

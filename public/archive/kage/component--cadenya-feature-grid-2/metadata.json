@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cadenya-feature-grid-2",
+  "source": "kage",
+  "slug": "component--cadenya-feature-grid-2",
+  "url": "https://kage.design/component/cadenya-feature-grid-2",
+  "name": "Agent workflow stages by Cadenya",
+  "description": "The dark green section introduces a unifying statement, then organizes three numbered workflow cards with small node diagrams. The consistent card grid makes a complex agent model easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192867-3.webp",
+  "prompts": [
+    "kage/component--cadenya-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cadenya-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=workflow",
+    "search?q=cards",
+    "search?q=diagrams",
+    "search?q=green"
+  ],
+  "pageSha256": "646e59d2d462f05d896355af0e5663e694eeb07180231a991fef5c5a256a8a11"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--jackalope-tabs",
+  "source": "kage",
+  "slug": "component--jackalope-tabs",
+  "url": "https://kage.design/component/jackalope-tabs",
+  "name": "Multi-path workflow explorer by Jackalope",
+  "description": "A short editorial introduction leads into numbered tabs and a large illustrated workflow panel, making multiple ways to use the product browsable without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/jackalope/0b3edf93-8385-4e4a-8f92-3c01052ad81d-1789193037-4.webp",
+  "prompts": [
+    "kage/component--jackalope-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/jackalope-landing-page",
+  "product": "jackalope",
+  "tags": [
+    "search?q=tabs",
+    "search?q=workflow",
+    "search?q=interactive"
+  ],
+  "pageSha256": "45919ef327970e328c3a4526ead6b1f35b25c92776d16c22aef0f7dac3bb8845"
+}

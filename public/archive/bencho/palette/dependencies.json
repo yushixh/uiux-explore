@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "tokens": [
+    "--card",
+    "--fill-on",
+    "--fill-on-rgb",
+    "--fill-slab",
+    "--font-ui",
+    "--ink-2",
+    "--ink-rgb",
+    "--pane-edge"
+  ],
+  "stubs": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--raycast-feature-grid-3",
+  "source": "kage",
+  "slug": "component--raycast-feature-grid-3",
+  "url": "https://kage.design/component/raycast-feature-grid-3",
+  "name": "Tabbed extension feature grid by raycast.com",
+  "description": "This section works by pairing a restrained editorial intro with a category switcher and three vivid, self-contained feature cards. Strong card hierarchy, saturated product-specific surfaces, and generous spacing make a dense set of integrations feel approachable and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067516-3.webp",
+  "prompts": [
+    "kage/component--raycast-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=tabs",
+    "search?q=cards",
+    "search?q=productivity"
+  ],
+  "pageSha256": "7b2b70cfa1219454c7b68d5e8cf402dc0ad988269f629aed7ce4d1c63df7455d"
+}

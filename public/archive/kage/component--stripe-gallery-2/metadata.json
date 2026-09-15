@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stripe-gallery-2",
+  "source": "kage",
+  "slug": "component--stripe-gallery-2",
+  "url": "https://kage.design/component/stripe-gallery-2",
+  "name": "Conversion CTA and mega-footer directory by stripe.com",
+  "description": "A calm, high-utility closing section pairs a prominent getting-started CTA with two supporting pathways, then expands into a dense, highly scannable multi-column footer directory. Strong grid lines, restrained colour, and grouped link lists make a large information architecture feel orderly rather than overwhelming.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stripe-com/f883ce83-9776-477f-9170-0bb4400c0ec7-1789067515-10.webp",
+  "prompts": [
+    "kage/component--stripe-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stripe-landing-page",
+  "product": "stripe-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=directory"
+  ],
+  "pageSha256": "23ee2bf63c34f2d2e54d292d16a1c79a21e0cacd8d326fe8b6d09c3f63c40a52"
+}

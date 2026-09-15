@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--patreon-landing-page",
+  "source": "kage",
+  "slug": "designs--patreon-landing-page",
+  "url": "https://kage.design/designs/patreon-landing-page",
+  "name": "Patreon creator platform landing page by patreon.com",
+  "description": "The page uses a cinematic, editorial landing-page structure: a full-bleed photographic hero with oversized white typography gives way to pale blue and saturated blue product-story sections. Large type, asymmetrical image collages, testimonial photography, and floating interface mockups create a changing rhythm from emotional storytelling to concrete product capabilities, while black pill buttons and a dense black footer provide consistent anchors.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/patreon-com/f09b5697-c1c9-4600-81d4-e7bb56a9df3f-1789146357589.webp",
+  "prompts": [
+    "kage/designs--patreon-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=full-bleed+photography",
+    "search?q=oversized+typography",
+    "search?q=creator+stories",
+    "search?q=product+mockups",
+    "search?q=blue+sections",
+    "search?q=sticky-style+navigation",
+    "search?q=dark+footer"
+  ],
+  "pageSha256": "c925077b01af179c3eacf7d689e61c0716c87fccac8a223ca369258330a5b5f1"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--attio-form",
+  "source": "kage",
+  "slug": "component--attio-form",
+  "url": "https://kage.design/component/attio-form",
+  "name": "Dark grid-lined form panel by attio.com",
+  "description": "A restrained dark form section built around a nearly black surface, subtle vertical grid lines, and precise edge framing. Its quiet visual treatment keeps attention on the form controls while giving the section a premium, technical feel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060461-10.webp",
+  "prompts": [
+    "kage/component--attio-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=form",
+    "search?q=minimal",
+    "search?q=grid+background"
+  ],
+  "pageSha256": "c04517057c6c12ce7b8050b845d5b5b704d522cb1c5387e55542ee31f332f574"
+}

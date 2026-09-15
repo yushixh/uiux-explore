@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--desert-ant-labs-footer",
+  "source": "kage",
+  "slug": "component--desert-ant-labs-footer",
+  "url": "https://kage.design/component/desert-ant-labs-footer",
+  "name": "Editorial multi-column footer by Desert Ant Labs",
+  "description": "This footer works through a quiet editorial grid: a compact brand lockup leads into clearly grouped navigation, while a thin divider separates practical legal, usage, and locale controls. Monospaced uppercase labels contrast with readable link text to create hierarchy without visual clutter.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/desert-ant-labs/9afde706-8b4f-4c5f-a9d8-7a634f78e07d-1789106570-5.webp",
+  "prompts": [
+    "kage/component--desert-ant-labs-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/desert-ant-labs-landing-page",
+  "product": "desert-ant-labs",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=multicolumn",
+    "search?q=minimal",
+    "search?q=saas"
+  ],
+  "pageSha256": "cc5fbf79da92d822f70272b41cc291dfe2c1534c56fcff2794876ef3f64466bc"
+}

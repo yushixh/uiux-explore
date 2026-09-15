@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--ramp-footer",
+  "source": "kage",
+  "slug": "component--ramp-footer",
+  "url": "https://kage.design/component/ramp-footer",
+  "name": "Dense legal and navigation footer by ramp.com",
+  "description": "A high-density dark footer that balances broad navigation with a carefully separated legal and trust-information area. Its restrained typography, long-form disclosure copy, compact signup CTA, and utility links make a complex corporate footer feel organized rather than overwhelming.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060917-11.webp",
+  "prompts": [
+    "kage/component--ramp-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=legal",
+    "search?q=dark-mode",
+    "search?q=responsive"
+  ],
+  "pageSha256": "9729c8ce3fa66fb982c1e8b32e97a894363cadca0f09500926c5cc5bc947d174"
+}

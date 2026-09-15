@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-feature-grid-2",
+  "source": "kage",
+  "slug": "component--opentable-feature-grid-2",
+  "url": "https://kage.design/component/opentable-feature-grid-2",
+  "name": "Editorial restaurant recommendations by opentable.com",
+  "description": "A recommendation section uses a large featured card beside two compact supporting cards, with category tabs and explanatory editorial copy creating a magazine-like browse experience.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146315-3.webp",
+  "prompts": [
+    "kage/component--opentable-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=editorial",
+    "search?q=recommendations",
+    "search?q=cards"
+  ],
+  "pageSha256": "905d7f991d45d1b66c4bd9eb3b724c3ffc47b469aa16af85c92b3fa586f5eefb"
+}

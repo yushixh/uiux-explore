@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--screensaver-404",
+  "source": "vantaui",
+  "slug": "explore--blocks--screensaver-404",
+  "url": "https://www.vantaui.com/explore/blocks/screensaver-404",
+  "name": "Screensaver 404 - VantaUI",
+  "description": "A playful 404 page with bouncing image tiles, adaptive contrast text, and a customizable return button.",
+  "image": "https://vantaui-registry.vercel.app/blocks/screensaver-404",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "898a63a6121092f60a5f41c0e455d54323def6aa0c56de11628cb2f76e9d0f5f"
+}

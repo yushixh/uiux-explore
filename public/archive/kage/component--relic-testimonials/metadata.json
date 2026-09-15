@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--relic-testimonials",
+  "source": "kage",
+  "slug": "component--relic-testimonials",
+  "url": "https://kage.design/component/relic-testimonials",
+  "name": "Proof and open-source credibility by Relic",
+  "description": "This trust section combines a claim-oriented introduction, a dark repository-style CTA, and four white proof cards that make the promise concrete.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/relic/11197dbe-e39c-44cc-b0a1-5cdca0c05213-1789279382-7.webp",
+  "prompts": [
+    "kage/component--relic-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/relic-landing-page",
+  "product": "relic",
+  "tags": [
+    "search?q=proof",
+    "search?q=credibility",
+    "search?q=cards"
+  ],
+  "pageSha256": "96129a35468a5f05a34b2e0eb7f94c3f2454dc95faf76c53c730abbeed1e2294"
+}

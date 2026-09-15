@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mmbl-feature-grid",
+  "source": "kage",
+  "slug": "component--mmbl-feature-grid",
+  "url": "https://kage.design/component/mmbl-feature-grid",
+  "name": "Dark split feature grid by mmbl.io",
+  "description": "This section works by pairing a large, tactile product preview with a vertically paced stack of concise feature stories. Strong contrast, oversized type, colourful micro-accents and generous negative space make the product narrative feel calm, premium and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mmbl-io/849f4ec6-ce65-4185-a867-71fbc561b804-1789060567-4.webp",
+  "prompts": [
+    "kage/component--mmbl-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mmbl-landing-page",
+  "product": "mmbl-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=split-layout",
+    "search?q=product-story"
+  ],
+  "pageSha256": "3233efeea1ee11fccecf1c04b465ea0c70f2388259c1a4d0594773ac572947e6"
+}

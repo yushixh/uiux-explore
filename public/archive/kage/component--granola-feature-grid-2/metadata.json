@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--granola-feature-grid-2",
+  "source": "kage",
+  "slug": "component--granola-feature-grid-2",
+  "url": "https://kage.design/component/granola-feature-grid-2",
+  "name": "Before, during and after workflow by granola.ai",
+  "description": "A long workflow section explains three meeting moments with repeated text-and-visual modules, while a large introductory statement establishes the narrative.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789141838-4.webp",
+  "prompts": [
+    "kage/component--granola-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=workflow",
+    "search?q=product-ui",
+    "search?q=steps"
+  ],
+  "pageSha256": "591a7ec8fec2d9f05d4253ca0e057a2309e7144b7ba610a6cc3a149924b4b1bf"
+}

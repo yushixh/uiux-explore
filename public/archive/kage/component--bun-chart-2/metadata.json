@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bun-chart-2",
+  "source": "kage",
+  "slug": "component--bun-chart-2",
+  "url": "https://kage.design/component/bun-chart-2",
+  "name": "Code Example with Capability Index by bun.sh",
+  "description": "This component works by pairing a focused, bordered code example with a lightweight capability list, then extending the section into a scannable API index. The strong two-column hierarchy helps developers understand one practical entry point while discovering the broader library at a glance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073824-8.webp",
+  "prompts": [
+    "kage/component--bun-chart-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=code",
+    "search?q=documentation",
+    "search?q=developer"
+  ],
+  "pageSha256": "7d0aac4e3ffd98c61ed9536624b97622ce042d4b98bef31d69ddd1b6daeb9c66"
+}

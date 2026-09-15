@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neon-feature-grid-2",
+  "source": "kage",
+  "slug": "component--neon-feature-grid-2",
+  "url": "https://kage.design/component/neon-feature-grid-2",
+  "name": "Advanced autoscaling feature by neon.tech",
+  "description": "A pale contrasting feature band introduces autoscaling with a centered headline, a small two-state control, and a comparative performance chart with legend and explanatory copy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neon-tech/ec270806-81ac-4f67-8b23-bd56e790768f-1789141961-4.webp",
+  "prompts": [
+    "kage/component--neon-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neon-empty-state",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=autoscaling",
+    "search?q=chart",
+    "search?q=light"
+  ],
+  "pageSha256": "9197aca3122a964ec360d34720223fe0a50a36d0b4c3bdc84e8ed26219cb13da"
+}

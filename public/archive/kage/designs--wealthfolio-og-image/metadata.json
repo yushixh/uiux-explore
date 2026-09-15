@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--wealthfolio-og-image",
+  "source": "kage",
+  "slug": "designs--wealthfolio-og-image",
+  "url": "https://kage.design/designs/wealthfolio-og-image",
+  "name": "Wealthfolio OG social card by Wealthfolio",
+  "description": "A 1200×630 social card split roughly 55/45 between a text column and a product-mockup cluster on a warm cream gradient. The left column stacks the wordmark, a two-line serif headline that flips to italic on the second line for cadence, a gray sans subhead where two key words sit inside yellow marker-style highlights, and a dot-separated trust line. The right half shows a simplified desktop dashboard (big net-worth figure, olive-green area chart, green/red account rows) overlapped by an iPhone frame running the same UI, cropped by the canvas edge. The palette stays disciplined — cream, charcoal-olive ink, one yellow accent — so the single highlight gesture and the chart green do all the accent work.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/wealthfolio/5c997297-9e15-48af-bc7d-aa224871f56b-1789106443708.webp",
+  "prompts": [
+    "kage/designs--wealthfolio-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "wealthfolio",
+  "tags": [
+    "search?q=og-card",
+    "search?q=serif-headline",
+    "search?q=highlighter-accents",
+    "search?q=device-mockups",
+    "search?q=dashboard-preview",
+    "search?q=cream-palette",
+    "search?q=split-composition",
+    "search?q=fintech"
+  ],
+  "pageSha256": "99dc1f5399c12cba71a2ad0e55268f85dc7a2deb10727daf7143945795023702"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--framer-card",
+  "source": "kage",
+  "slug": "component--framer-card",
+  "url": "https://kage.design/component/framer-card",
+  "name": "Community proof card carousel by framer.com",
+  "description": "This section combines a horizontally overflowing row of customer-story cards with a strong community-focused heading and a compact browse action. The generous black space, restrained borders, and browser-style product preview create a premium editorial rhythm while the clipped cards imply a larger, browsable ecosystem.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/framer-com/fbc97830-061d-4fdf-8e20-ea2d86299263-1789060392-7.webp",
+  "prompts": [
+    "kage/component--framer-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/framer-landing-page",
+  "product": "framer-com",
+  "tags": [
+    "search?q=dark+mode",
+    "search?q=testimonial",
+    "search?q=carousel",
+    "search?q=community"
+  ],
+  "pageSha256": "f405d3f502aaea78d2efdbee3ba0f8f3d66be4d053d77eeb55a7b39d2eff4a19"
+}

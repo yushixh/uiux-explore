@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "tokens": [
+    "--asp-ms",
+    "--card",
+    "--font-ui",
+    "--ink",
+    "--ink-3",
+    "--ink-rgb",
+    "--surface-2"
+  ],
+  "stubs": [
+    "SHEEP"
+  ]
+}

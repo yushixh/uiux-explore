@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--hinge-footer",
+  "source": "kage",
+  "slug": "component--hinge-footer",
+  "url": "https://kage.design/component/hinge-footer",
+  "name": "Multi-column resource footer by hinge.co",
+  "description": "A dark footer closes the page with the brand area on the left, multiple categorized link columns on the right, social links, and a small legal/language row.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hinge-co/fc8d8d16-7276-4f4c-b1c9-567702ba4b3c-1789146939-7.webp",
+  "prompts": [
+    "kage/component--hinge-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hinge-landing-page",
+  "product": "hinge-co",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "d6df9b3af0d8847c83ec791842155c7d94095e10aca9e5084b9c9cd1c07ef35d"
+}

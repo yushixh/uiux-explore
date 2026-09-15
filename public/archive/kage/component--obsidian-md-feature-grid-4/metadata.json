@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--obsidian-md-feature-grid-4",
+  "source": "kage",
+  "slug": "component--obsidian-md-feature-grid-4",
+  "url": "https://kage.design/component/obsidian-md-feature-grid-4",
+  "name": "Three-column feature grid by obsidian.md",
+  "description": "A dark, editorial feature section pairs a strong introductory message with three concise benefits, then anchors the content with a wide product interface preview. Clear columns, restrained colour, and generous spacing make the capabilities easy to scan while preserving a premium, technical feel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/obsidian-md/18ba00bf-73a3-4c61-9eb0-f66f69cff1b6-1789060833-5.webp",
+  "prompts": [
+    "kage/component--obsidian-md-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/obsidian-md-landing-page",
+  "product": "obsidian-md",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=saas"
+  ],
+  "pageSha256": "8d3048f2e883470b189302b6e5b8c234ebde150ccccbd7c873971bdff83383c6"
+}

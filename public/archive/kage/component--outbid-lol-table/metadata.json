@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--outbid-lol-table",
+  "source": "kage",
+  "slug": "component--outbid-lol-table",
+  "url": "https://kage.design/component/outbid-lol-table",
+  "name": "Ranked product leaderboard by outbid.lol",
+  "description": "The dominant section is a long, scannable ranked list with numbered rows, product avatars, titles, descriptions, category metadata, timestamps, click counts, and right-aligned monetary values. A narrow secondary ranking column appears beside the first rows, while activity and pagination break up the otherwise continuous table.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/outbid-lol/7d6cde02-1b78-43c8-adde-d87a2555099d-1789142023-2.webp",
+  "prompts": [
+    "kage/component--outbid-lol-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/outbid-lol-landing-page",
+  "product": "outbid-lol",
+  "tags": [
+    "search?q=leaderboard",
+    "search?q=ranking",
+    "search?q=rows"
+  ],
+  "pageSha256": "f83b66df90deae423b2010a492750136269844dc535a4aafb0cd9bfc5b8f7d9a"
+}

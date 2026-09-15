@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--warp-faq",
+  "source": "kage",
+  "slug": "component--warp-faq",
+  "url": "https://kage.design/component/warp-faq",
+  "name": "Terminal-style FAQ accordion by warp.dev",
+  "description": "A full-width, terminal-inspired FAQ list that uses a faint technical grid, monospaced questions, and compact expand affordances to make support content feel native to a developer-focused product. Strong horizontal rules and generous whitespace keep the dense list easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060391-10.webp",
+  "prompts": [
+    "kage/component--warp-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=grid",
+    "search?q=monospace",
+    "search?q=minimal"
+  ],
+  "pageSha256": "f7b075663047824c5254a1f2db3704f51adc64d6aa848ded288655212877bbe4"
+}

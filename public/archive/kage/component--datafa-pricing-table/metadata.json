@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--datafa-pricing-table",
+  "source": "kage",
+  "slug": "component--datafa-pricing-table",
+  "url": "https://kage.design/component/datafa-pricing-table",
+  "name": "Warm minimal pricing cards by datafa.st",
+  "description": "A focused pricing-table treatment that uses generous whitespace, softly elevated cards, restrained borders, and a warm coral CTA to make plan comparison feel approachable. A compact social-proof row beneath the cards adds reassurance without competing with the primary conversion action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789067843-9.webp",
+  "prompts": [
+    "kage/component--datafa-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/datafa-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=pricing",
+    "search?q=cards",
+    "search?q=conversion",
+    "search?q=social-proof"
+  ],
+  "pageSha256": "165da20d797491633688d7f4f2c78b83d951da778c87b62c561ad52bc94e346a"
+}

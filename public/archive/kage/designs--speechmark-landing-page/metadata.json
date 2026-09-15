@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--speechmark-landing-page",
+  "source": "kage",
+  "slug": "designs--speechmark-landing-page",
+  "url": "https://kage.design/designs/speechmark-landing-page",
+  "name": "Speechmark — private on-device meeting notes landing page by Speechmark",
+  "description": "A privacy-first Mac app landing page built almost entirely on typographic craft rather than illustration. A serif headline system (large roman + italic blue emphasis lines) pairs with small tracked sans eyebrows ('— HOW IT WORKS') to label each band, while the page alternates white and pale blue-grey sections with two deliberate colour breaks: a saturated blue full-bleed testimonial and a dark navy closing CTA and footer. Content devices stay restrained and consistent — numbered 01–03 columns with hairline dividers, a minimal comparison table whose Speechmark column is highlighted with blue pill checks, a Mac-vs-cloud privacy diagram using a filled card against a dashed one, and a single-open FAQ accordion. A faint audio waveform strip anchors the hero, the only decorative motif, echoed later as small waveform graphics inside the privacy diagram.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/speechmark/77b904ee-7a59-4d24-b7d4-3e274188b21e-1789106538366.webp",
+  "prompts": [
+    "kage/designs--speechmark-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "speechmark",
+  "tags": [
+    "search?q=serif-typography",
+    "search?q=privacy-led",
+    "search?q=comparison-table",
+    "search?q=waveform-motif",
+    "search?q=alternating-sections",
+    "search?q=faq-accordion",
+    "search?q=persona-tabs",
+    "search?q=mac-app"
+  ],
+  "pageSha256": "1bfcf9883efe24c783123fcbca124b8a6caa8947dd63ab25cde916abc429e95d"
+}

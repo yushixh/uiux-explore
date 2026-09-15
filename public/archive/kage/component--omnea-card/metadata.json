@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--omnea-card",
+  "source": "kage",
+  "slug": "component--omnea-card",
+  "url": "https://kage.design/component/omnea-card",
+  "name": "Customer transformation story by omnea.co",
+  "description": "A case-study band uses a compact outcome heading, two headline metrics, a story CTA, a large video thumbnail, and supporting quote copy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/omnea-co/444fd721-a6f8-467e-8179-cf278abe5ec1-1789142168-7.webp",
+  "prompts": [
+    "kage/component--omnea-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/omnea-landing-page",
+  "product": "omnea-co",
+  "tags": [
+    "search?q=case-study",
+    "search?q=video",
+    "search?q=proof"
+  ],
+  "pageSha256": "d722c00327213553dc72f5fb8691c61abc6a3709362a73d27886ed042b31ecff"
+}

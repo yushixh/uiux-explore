@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-testimonials",
+  "source": "kage",
+  "slug": "component--modeinspect-testimonials",
+  "url": "https://kage.design/component/modeinspect-testimonials",
+  "name": "Proof-point testimonial grid by Modeinspect",
+  "description": "This section works by pairing a bold outcome-led statement with a compact metrics row, one featured customer story, and a supporting grid of shorter quotes. Warm neutrals, generous spacing, restrained borders, and varied card sizes make the proof feel editorial rather than like a generic review carousel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106492-6.webp",
+  "prompts": [
+    "kage/component--modeinspect-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social-proof",
+    "search?q=metrics",
+    "search?q=case-study"
+  ],
+  "pageSha256": "43850590f5640d7eac41ca6ba4756b3361d7bf00eb10c2d3dbb87bee08e1dd1b"
+}

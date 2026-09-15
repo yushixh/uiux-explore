@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--together-tabs",
+  "source": "kage",
+  "slug": "component--together-tabs",
+  "url": "https://kage.design/component/together-tabs",
+  "name": "Tabbed product capability panel by together.ai",
+  "description": "This section works by pairing a clear category switcher with a focused two-column detail panel: a short list of capabilities on the left and a strong product visual on the right. The pale blue canvas, generous spacing, soft borders, and single bright active state make a complex platform feel easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/together-ai/60591018-8706-471e-a3f2-ad3109f52987-1789073939-4.webp",
+  "prompts": [
+    "kage/component--together-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/together-landing-page",
+  "product": "together-ai",
+  "tags": [
+    "search?q=tabs",
+    "search?q=product",
+    "search?q=responsive",
+    "search?q=saas"
+  ],
+  "pageSha256": "db382cb76fe548f817cd8b0e13fe10b3c4a92a5919de328607d62ad31cd5cd94"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--astro-build-navigation",
+  "source": "kage",
+  "slug": "component--astro-build-navigation",
+  "url": "https://kage.design/component/astro-build-navigation",
+  "name": "Gradient developer navigation bar by astro.build",
+  "description": "A compact, dark developer-focused header that balances a left-aligned brand mark, centered navigation, and a minimal utility action. Its restrained layout, subtle purple gradient, and generous horizontal spacing make the navigation feel polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/astro-build/2448cc02-1e48-497c-9333-8941f9d81557-1789073849-0.webp",
+  "prompts": [
+    "kage/component--astro-build-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/astro-build-landing-page",
+  "product": "astro-build",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=gradient",
+    "search?q=developer"
+  ],
+  "pageSha256": "c0ba8bf032f3dc6752ce56dfe08314020f08e6cc9f5178d55bb71e7fb9fd4951"
+}

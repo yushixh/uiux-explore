@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mintlify-stats-2",
+  "source": "kage",
+  "slug": "component--mintlify-stats-2",
+  "url": "https://kage.design/component/mintlify-stats-2",
+  "name": "Live activity stats strip by mintlify.com",
+  "description": "A restrained, full-width metrics band that pairs a clear activity label with compact inline counters. Soft tinted value chips create scan-friendly emphasis while thin rules, generous whitespace, and a monochrome palette keep the section feeling editorial and trustworthy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mintlify-com/71224961-d985-451b-9e35-e02eddcee178-1789060644-3.webp",
+  "prompts": [
+    "kage/component--mintlify-stats-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mintlify-landing-page",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=metrics",
+    "search?q=dashboard",
+    "search?q=activity"
+  ],
+  "pageSha256": "8cce1de698f7e0e1c6cb8046274562462deaac71a47bbca506f7279ce65fc5c7"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--upstash-landing-page",
+  "source": "kage",
+  "slug": "designs--upstash-landing-page",
+  "url": "https://kage.design/designs/upstash-landing-page",
+  "name": "Upstash landing page by upstash.com",
+  "description": "A serverless-data-platform landing page built on a mint-to-green gradient canvas with oversized display typography that shifts from gradient-filled hero text to a full-bleed 'Fast Anywhere' band over a dotted globe. The page alternates airy white rounded cards and dark terminal blocks, using a bento grid for the platform section, numbered feature columns inside the product panel, big green stat numerals, a script-type testimonial with a lozenge logo wall, and a minimal centered footer. Density rises in the middle (code, pricing boxes, diagrams) and relaxes again toward community and footer, giving the long page a clear light–dense–social rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/upstash-com/210669b2-56ab-47a0-9be6-e94255ecbd31-1789073644436.webp",
+  "prompts": [
+    "kage/designs--upstash-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "upstash-com",
+  "tags": [
+    "search?q=bento-grid",
+    "search?q=gradient-hero",
+    "search?q=code-examples",
+    "search?q=stats-band",
+    "search?q=globe-illustration",
+    "search?q=logo-wall",
+    "search?q=rounded-cards",
+    "search?q=developer-focused"
+  ],
+  "pageSha256": "9b0d94241357406b7e38f36e94732fd866df082f7a30e9101fc01cdcd88268a9"
+}

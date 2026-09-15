@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--anthropic-hero",
+  "source": "kage",
+  "slug": "component--anthropic-hero",
+  "url": "https://kage.design/component/anthropic-hero",
+  "name": "Split editorial hero by anthropic.com",
+  "description": "A restrained, high-contrast hero pairs an oversized, tightly set statement with a narrower editorial description, creating a confident institutional introduction. A compact navigation bar and a strong dark section break give the page a clear rhythm and transition into featured content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/anthropic-com/9400eeef-f6ac-4bf6-a324-e094b3c8d068-1789060505-1.webp",
+  "prompts": [
+    "kage/component--anthropic-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/anthropic-landing-page",
+  "product": "anthropic-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=editorial",
+    "search?q=split-layout",
+    "search?q=navigation"
+  ],
+  "pageSha256": "6978ffa399896910e946f9e52fd8682dcdee14a9f0d330f7d1fba4c323383871"
+}

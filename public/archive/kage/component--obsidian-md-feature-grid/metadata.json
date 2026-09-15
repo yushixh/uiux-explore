@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--obsidian-md-feature-grid",
+  "source": "kage",
+  "slug": "component--obsidian-md-feature-grid",
+  "url": "https://kage.design/component/obsidian-md-feature-grid",
+  "name": "Split value proposition grid by obsidian.md",
+  "description": "This section works through a calm editorial split: stacked value statements create a scannable narrative on the left, while a compact product identity and call to action anchor the right. Subtle dividers, restrained type contrast, and a single accent colour make the layout feel premium without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/obsidian-md/18ba00bf-73a3-4c61-9eb0-f66f69cff1b6-1789060833-2.webp",
+  "prompts": [
+    "kage/component--obsidian-md-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/obsidian-md-landing-page",
+  "product": "obsidian-md",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=split-layout",
+    "search?q=product-values"
+  ],
+  "pageSha256": "1bb25905b57830ee2d3ebbfd45dda4ceecb93162f3a1999efb10f53148339cd9"
+}

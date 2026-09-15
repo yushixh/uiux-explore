@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--loom-feature-grid-2",
+  "source": "kage",
+  "slug": "component--loom-feature-grid-2",
+  "url": "https://kage.design/component/loom-feature-grid-2",
+  "name": "Alternating feature showcase grid by loom.com",
+  "description": "This section combines a bold centered headline with spacious, alternating feature rows that pair concise product benefits with vivid visual proof. A high-contrast, rounded security CTA closes the sequence and gives the page a clear conversion moment.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060438-5.webp",
+  "prompts": [
+    "kage/component--loom-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=alternating-layout",
+    "search?q=product-marketing",
+    "search?q=dark-cta"
+  ],
+  "pageSha256": "b94911f5bf1784e278f171bc8d730443a804dfb2a4a9e72d8ffdfe1258ff20c2"
+}

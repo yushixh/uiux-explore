@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--trigger-og-image",
+  "source": "kage",
+  "slug": "designs--trigger-og-image",
+  "url": "https://kage.design/designs/trigger-og-image",
+  "name": "Trigger.dev dark OG social card by trigger.dev",
+  "description": "A 1200×630 dark social card that leans on a single rotated, blurred screenshot of the product's run-timeline UI for texture and credibility without competing with the message. The lockup sits top-left — a green triangle mark beside 'Trigger' in green and '.dev' in violet — while a two-line, ~72px white headline in a bold geometric sans is pinned to the bottom-left safe zone. A diagonal depth-of-field blur plus a dark gradient scrim keep the striped duration bars, blue highlight bar and status dots strictly atmospheric, so high contrast exists only where text sits.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/trigger-dev/bdfaa436-4afa-4d6d-8590-cae7d321e125-1789073647892.webp",
+  "prompts": [
+    "kage/designs--trigger-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=og-image",
+    "search?q=dark",
+    "search?q=wordmark",
+    "search?q=headline",
+    "search?q=diagonal",
+    "search?q=product-screenshot",
+    "search?q=blur",
+    "search?q=depth-of-field"
+  ],
+  "pageSha256": "1210833ec9b6dc13870cbb4cdb1ace6c30002653c4aeaac48fb27c287fa5c6d7"
+}

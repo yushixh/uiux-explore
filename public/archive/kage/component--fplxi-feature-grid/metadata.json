@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--fplxi-feature-grid",
+  "source": "kage",
+  "slug": "component--fplxi-feature-grid",
+  "url": "https://kage.design/component/fplxi-feature-grid",
+  "name": "Analytical dashboard feature grid by fplxi.com",
+  "description": "A compact, responsive dashboard grid that pairs a dominant visual feature with supporting data cards. Clear card headers, restrained borders, role-based colour accents, and dense but readable tables make multiple analytical views feel like one coherent product surface.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fplxi-com/54b8421e-1a9f-4884-bebf-8d70ddcd8ef8-1789073156-4.webp",
+  "prompts": [
+    "kage/component--fplxi-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fplxi-landing-page",
+  "product": "fplxi-com",
+  "tags": [
+    "search?q=dashboard",
+    "search?q=feature-grid",
+    "search?q=data-dense",
+    "search?q=cards",
+    "search?q=sports"
+  ],
+  "pageSha256": "f77512bf652388c8d6d9f806f328232ce57016fadbfd84b7f8dfbfd89b4101b3"
+}

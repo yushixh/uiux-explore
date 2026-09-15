@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--prisma-pricing-table",
+  "source": "kage",
+  "slug": "component--prisma-pricing-table",
+  "url": "https://kage.design/component/prisma-pricing-table",
+  "name": "Outcome-led pricing comparison by prisma.io",
+  "description": "This section makes pricing feel concrete by pairing a concise value proposition with proof points, then comparing the user's existing stack against a simpler product-led option. Scenario tabs and side-by-side cards turn an abstract pricing decision into a scannable, outcome-focused comparison.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073820-7.webp",
+  "prompts": [
+    "kage/component--prisma-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=pricing",
+    "search?q=comparison",
+    "search?q=saas",
+    "search?q=cards"
+  ],
+  "pageSha256": "1bf38394eb0f55a6d07a1d8765433b74bb122e226aee769fdfb2f46fc6909a89"
+}

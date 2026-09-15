@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--replicate-gallery",
+  "source": "kage",
+  "slug": "component--replicate-gallery",
+  "url": "https://kage.design/component/replicate-gallery",
+  "name": "Community model gallery by replicate.com",
+  "description": "A horizontally expansive model-discovery section combines filter chips, clipped card rails, a community-forward editorial statement, and a dense continuation grid. It works by balancing high information density with generous whitespace and a clear visual rhythm between browsing content and the supporting narrative.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/replicate-com/18021eac-ea1d-469d-8210-9b10eacb77c7-1789073922-2.webp",
+  "prompts": [
+    "kage/component--replicate-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/replicate-landing-page",
+  "product": "replicate-com",
+  "tags": [
+    "search?q=gallery",
+    "search?q=models",
+    "search?q=community",
+    "search?q=discovery"
+  ],
+  "pageSha256": "ede66efaf5b25e7b91dda47c2ea4fb3a94efc61c96e07a7d7424368ddcf6c915"
+}

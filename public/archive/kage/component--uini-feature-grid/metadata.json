@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--uini-feature-grid",
+  "source": "kage",
+  "slug": "component--uini-feature-grid",
+  "url": "https://kage.design/component/uini-feature-grid",
+  "name": "Knowledge-centre feature split by uini.io",
+  "description": "A calm two-column feature section pairs an editorial product benefit with a contained in-app knowledge-centre preview. It works through strong left alignment, generous whitespace, restrained typography, and a believable UI example that explains the feature without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uini-io/ef5b466a-1fe9-4cb6-9300-79049ee31244-1789059861-4.webp",
+  "prompts": [
+    "kage/component--uini-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uini-landing-page",
+  "product": "uini-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=support",
+    "search?q=product-ui",
+    "search?q=editorial",
+    "search?q=saas"
+  ],
+  "pageSha256": "3f83ca417e5ee568ac0a5508db2f6a4826e8e2710ec0aeff78ba146d29e8f7dc"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--loqua-hero",
+  "source": "kage",
+  "slug": "component--loqua-hero",
+  "url": "https://kage.design/component/loqua-hero",
+  "name": "Voice-to-insight hero by Loqua",
+  "description": "The hero uses a centered two-line promise, restrained supporting copy, a dark download CTA, and small trust badges without competing with the headline.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loqua/e5cf041a-edc7-487a-b4b8-8f4d563da4de-1789192872-1.webp",
+  "prompts": [
+    "kage/component--loqua-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "loqua",
+  "tags": [
+    "search?q=headline",
+    "search?q=cta",
+    "search?q=product-demo"
+  ],
+  "pageSha256": "ee65afea704c92e20fd6cdb3de098d6704d1ab50b25493f194d91a2dc1f6de4c"
+}

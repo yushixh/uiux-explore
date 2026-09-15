@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--public-hero",
+  "source": "kage",
+  "slug": "component--public-hero",
+  "url": "https://kage.design/component/public-hero",
+  "name": "Investment thesis hero by public.com",
+  "description": "A large editorial headline is paired with a compact benefit strip, a strong action, and a wide rounded product image that makes the offering tangible immediately.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/public-com/cb41c975-325f-4844-b439-84e9d28bd7b7-1789146534-1.webp",
+  "prompts": [
+    "kage/component--public-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/public-landing-page",
+  "product": "public-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=investing",
+    "search?q=product+visual"
+  ],
+  "pageSha256": "ef68160bf85b96f6ca31e82b5c86b60c476ad3012a190a71c21f376a408ce0af"
+}

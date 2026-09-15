@@ -1,0 +1,68 @@
+{
+  "capturedAt": "2026-09-15T02:28:14.427489+00:00",
+  "sources": [
+    {
+      "id": "halaska",
+      "site": "https://ui.halaska.com/",
+      "repository": "https://github.com/Halaska-Studio/ui",
+      "sourceUrls": [
+        "https://ui.halaska.com/halaska-kit.jsx",
+        "https://ui.halaska.com/halaska-kit.d.ts",
+        "https://ui.halaska.com/llms.txt",
+        "https://codeload.github.com/Halaska-Studio/ui/tar.gz/refs/heads/main"
+      ]
+    },
+    {
+      "id": "bencho",
+      "site": "https://bencho.dev/",
+      "sourceUrls": [
+        "https://bencho.dev/assets/index-DkISJD_p.js",
+        "https://bencho.dev/assets/blocks-CntrDPKE.js",
+        "https://bencho.dev/assets/index-BlAcY1kX.css"
+      ],
+      "licenseUrl": "https://bencho.dev/licence"
+    },
+    {
+      "id": "builtbydesigners",
+      "site": "https://builtbydesigners.com/",
+      "sourceUrls": [
+        "https://builtbydesigners.com/assets/index-Dp7dv46x.js"
+      ]
+    },
+    {
+      "id": "torph",
+      "site": "https://torph.lochie.me/",
+      "repository": "https://github.com/lochie/torph",
+      "sourceUrls": [
+        "https://codeload.github.com/lochie/torph/tar.gz/refs/heads/main"
+      ]
+    },
+    {
+      "id": "typehug",
+      "site": "https://typehug.aliszu.com/",
+      "repository": "https://github.com/alexszczurek/typehug",
+      "sourceUrls": [
+        "https://codeload.github.com/alexszczurek/typehug/tar.gz/refs/heads/main"
+      ]
+    },
+    {
+      "id": "kage",
+      "site": "https://kage.design/",
+      "discovery": "https://kage.design/sitemap.xml",
+      "sourceUrls": [
+        "https://kage.design/sitemap.xml"
+      ],
+      "note": "All 1358 component and 257 design prompts from visible pre elements; screenshots remain remote references."
+    },
+    {
+      "id": "vantaui",
+      "site": "https://www.vantaui.com/",
+      "discovery": "https://www.vantaui.com/explore",
+      "sourceUrls": [
+        "https://www.vantaui.com/explore",
+        "https://www.vantaui.com/sitemap.xml"
+      ],
+      "note": "87 catalog items. 12 explicitly free entries: visible Manual DOM extracted, with original line content. 75 Plus entries not downloaded. Public registry host timed out; authenticated registry returned 401."
+    }
+  ]
+}

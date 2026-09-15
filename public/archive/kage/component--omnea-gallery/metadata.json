@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--omnea-gallery",
+  "source": "kage",
+  "slug": "component--omnea-gallery",
+  "url": "https://kage.design/component/omnea-gallery",
+  "name": "Featured news and insights by omnea.co",
+  "description": "A compact editorial row presents three visual article cards with a section title and an all-posts action, providing a clear path into content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/omnea-co/444fd721-a6f8-467e-8179-cf278abe5ec1-1789142170-10.webp",
+  "prompts": [
+    "kage/component--omnea-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/omnea-landing-page",
+  "product": "omnea-co",
+  "tags": [
+    "search?q=news",
+    "search?q=cards",
+    "search?q=editorial"
+  ],
+  "pageSha256": "c9109c6cc852cd9c9ac6a68a6283b2e77fcaf45288f990ecb80a3b2773c56c03"
+}

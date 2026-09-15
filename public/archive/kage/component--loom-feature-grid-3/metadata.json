@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--loom-feature-grid-3",
+  "source": "kage",
+  "slug": "component--loom-feature-grid-3",
+  "url": "https://kage.design/component/loom-feature-grid-3",
+  "name": "Pastel use-case cards with feature checklist by loom.com",
+  "description": "This section works by pairing a lightweight row of pastel use-case cards with a strong feature heading and a highly scannable two-column checklist. Generous whitespace, centered alignment, restrained colour, and small text links keep the composition approachable while making the product capabilities easy to parse.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060439-7.webp",
+  "prompts": [
+    "kage/component--loom-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=pastel-cards",
+    "search?q=checklist",
+    "search?q=saas"
+  ],
+  "pageSha256": "0a40cb86b1da5526b76b87433c37a433997b0947c30a46fd2d96ae4803fb77fa"
+}

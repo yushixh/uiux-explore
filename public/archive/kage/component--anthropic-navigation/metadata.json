@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--anthropic-navigation",
+  "source": "kage",
+  "slug": "component--anthropic-navigation",
+  "url": "https://kage.design/component/anthropic-navigation",
+  "name": "Minimal split navigation bar by anthropic.com",
+  "description": "A calm, high-contrast header that balances a compact wordmark area with spacious primary navigation and a visually prominent action cluster. Subtle dropdown indicators and restrained borders make the navigation feel polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/anthropic-com/9400eeef-f6ac-4bf6-a324-e094b3c8d068-1789060505-0.webp",
+  "prompts": [
+    "kage/component--anthropic-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/anthropic-landing-page",
+  "product": "anthropic-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=minimal",
+    "search?q=responsive"
+  ],
+  "pageSha256": "405edc4e92fffe1779cabd5e8a5d7f4319dc332109f7f0338e81746ae348dc3a"
+}

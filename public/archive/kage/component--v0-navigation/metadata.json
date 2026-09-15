@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--v0-navigation",
+  "source": "kage",
+  "slug": "component--v0-navigation",
+  "url": "https://kage.design/component/v0-navigation",
+  "name": "Minimal SaaS top navigation by v0.dev",
+  "description": "A restrained, single-row navigation bar that balances a compact brand mark, centered utility links, and clearly differentiated authentication actions. Fine borders, generous whitespace, and subtle hover states keep the header quiet while preserving strong hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/v0-dev/99e42d3b-29f6-491c-8f06-cd6295e0d986-1789073271-0.webp",
+  "prompts": [
+    "kage/component--v0-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/v0-empty-state",
+  "product": "v0-dev",
+  "tags": [
+    "search?q=navbar",
+    "search?q=saas",
+    "search?q=minimal",
+    "search?q=responsive"
+  ],
+  "pageSha256": "95119096ba2f3143a1f9f6e8c2779063c1b0ae45bce21f33f41f70b3459ecc3b"
+}

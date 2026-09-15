@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--tailwindcss-og-image",
+  "source": "kage",
+  "slug": "designs--tailwindcss-og-image",
+  "url": "https://kage.design/designs/tailwindcss-og-image",
+  "name": "Tailwind CSS 4.3 release social card by tailwindcss.com",
+  "description": "Tailwind's 1200×630 share card reads like an engineering blueprint: the 4.3 release number is extruded as a thin white isometric wireframe with 45°-hatched top faces, floating over a near-black canvas with a faint perspective grid and crosshair ticks. A dense monospace spec panel top-right (title, build channel, language percentages, oversized 4.3 numeral) balances the airy centre, while the cyan wave-mark plus lowercase wordmark anchor bottom-left and a tiny x/y/z axis sketch closes bottom-right. Flat line art, a single sky-blue accent and a huge density contrast between the data table and the empty field carry the whole composition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/tailwindcss-com/3d85cbd6-c866-4b9d-9104-acc4bfe514bb-1789073669311.webp",
+  "prompts": [
+    "kage/designs--tailwindcss-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "tailwindcss-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=isometric",
+    "search?q=wireframe",
+    "search?q=blueprint",
+    "search?q=monospace",
+    "search?q=release-announcement",
+    "search?q=technical-drawing"
+  ],
+  "pageSha256": "3778126e6e354b6f504523f77f3f04974ffa868a73045efe22cc3420b74843dd"
+}

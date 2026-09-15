@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--noodle-seed-feature-grid-3",
+  "source": "kage",
+  "slug": "component--noodle-seed-feature-grid-3",
+  "url": "https://kage.design/component/noodle-seed-feature-grid-3",
+  "name": "Connected feature-grid explainer by Noodle Seed",
+  "description": "A dark, editorial feature section that pairs a strong value proposition with a systems-style visual: one central product node connects outward to AI clients and foundational capabilities. Below, a structured three-column progression makes the workflow easy to scan without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/noodle-seed/892ab390-1bf9-4a7d-a1b3-8cebe5820ba8-1789106718-7.webp",
+  "prompts": [
+    "kage/component--noodle-seed-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/noodle-seed-landing-page",
+  "product": "noodle-seed",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=workflow",
+    "search?q=integration"
+  ],
+  "pageSha256": "2f5b54c69b56319c41a92b3e19ee11988cf817f61b987e237eafb9ffd6e8c15b"
+}

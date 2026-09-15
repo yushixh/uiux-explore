@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--drizzle-team-navigation",
+  "source": "kage",
+  "slug": "component--drizzle-team-navigation",
+  "url": "https://kage.design/component/drizzle-team-navigation",
+  "name": "Community social navigation bar by drizzle.team",
+  "description": "A compact, airy navigation strip that balances a clustered community identity on the left with lightweight social links and a strong follow call-to-action on the right. Overlapping avatars and a subtle divider create visual grouping without making the bar feel heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/drizzle-team/742c665e-9ce1-4c98-831f-72085091350d-1789073809-0.webp",
+  "prompts": [
+    "kage/component--drizzle-team-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/drizzle-team-landing-page",
+  "product": "drizzle-team",
+  "tags": [
+    "search?q=navigation",
+    "search?q=social",
+    "search?q=community",
+    "search?q=header"
+  ],
+  "pageSha256": "b4ee026f9e27d433a6a68e848da5e91c1f1bf8d4d85ee24013fcd5dbdb6ccd8f"
+}

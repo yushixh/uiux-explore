@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-feature-grid",
+  "source": "kage",
+  "slug": "component--modeinspect-feature-grid",
+  "url": "https://kage.design/component/modeinspect-feature-grid",
+  "name": "Tabbed product workflow feature showcase by Modeinspect",
+  "description": "A polished feature section pairs a concise editorial introduction with a four-step tabbed workflow and a large product-preview stage. The strong active state, restrained monochrome palette, and oversized framed demo make each capability feel tangible without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106491-3.webp",
+  "prompts": [
+    "kage/component--modeinspect-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=tabs",
+    "search?q=product-demo",
+    "search?q=interactive"
+  ],
+  "pageSha256": "64066e50ccf232ff5bf1932440bd951ca45b72f8f2eb37f5f5caf2e46d2f3e7d"
+}

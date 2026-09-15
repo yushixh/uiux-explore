@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--uini-og-image",
+  "source": "kage",
+  "slug": "designs--uini-og-image",
+  "url": "https://kage.design/designs/uini-og-image",
+  "name": "uini.io Open Graph social card by uini.io",
+  "description": "A 1200×630 social card split into a white brand panel and a cream product vignette. The left half stacks a squircle logo, a three-line headline with one word flipped to coral orange, a numbered three-step chip row and a black pill CTA; the right half runs a top-to-bottom pipeline of floating UI cards — behaviour trigger, chat interview, dual insights — tied together by dotted connectors with uppercase orange micro-labels. Soft diffuse shadows, generous radii and cropped beige circles keep it friendly, while the two-tone headline and tiny pipeline type carry the hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/uini-io/25faf734-f337-434b-a6d2-d1f9fa9f4bd9-1789059812646.webp",
+  "prompts": [
+    "kage/designs--uini-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-og-image",
+  "product": "uini-io",
+  "tags": [
+    "search?q=og-image",
+    "search?q=split-canvas",
+    "search?q=product-ui-vignette",
+    "search?q=step-flow",
+    "search?q=chat-bubbles",
+    "search?q=soft-shadows",
+    "search?q=warm-neutrals"
+  ],
+  "pageSha256": "172f966b4dee23ef1d450d07b565bed32a258e35b7f190ecd1109a050465f2e0"
+}

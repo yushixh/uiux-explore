@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--trigger-landing-page",
+  "source": "kage",
+  "slug": "designs--trigger-landing-page",
+  "url": "https://kage.design/designs/trigger-landing-page",
+  "name": "Trigger.dev developer platform landing page by trigger.dev",
+  "description": "A long-form dark landing page built on a near-black canvas with a single disciplined lime-green accent for primary actions, plus rotating per-feature hues (green, pink, blue, purple) on eyebrows, icons and status pills. Credibility comes from real artefacts everywhere: syntax-highlighted code editors, live-looking product UI mockups (task queues, filters, charts), node-flow diagrams and a video walkthrough instead of stock illustration. Rhythm shifts deliberately down the page — airy centred hero, dense two-column code demo, alternating feature rows, a three-column mega-list at peak density, then a masonry testimonial wall, stat row and a compact CTA before the link-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073643894.webp",
+  "prompts": [
+    "kage/designs--trigger-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=ai-agents",
+    "search?q=code-snippets",
+    "search?q=tabbed-demo",
+    "search?q=ui-mockups",
+    "search?q=testimonials-masonry",
+    "search?q=lime-accent",
+    "search?q=feature-grid",
+    "search?q=open-source"
+  ],
+  "pageSha256": "61859af04765676fd6211a5c432cdbab73a0810a1ec304ef116880c28a553dea"
+}

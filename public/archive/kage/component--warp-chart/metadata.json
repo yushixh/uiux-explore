@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--warp-chart",
+  "source": "kage",
+  "slug": "component--warp-chart",
+  "url": "https://kage.design/component/warp-chart",
+  "name": "Three-panel measurement dashboard chart by warp.dev",
+  "description": "This component works by combining a restrained technical visual language with three compact metric panels, each pairing a headline result, line chart, and diagnostic rows. Shared alignment, muted grid lines, and a single violet data accent make the comparison feel systematic while preserving a strong editorial hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060389-4.webp",
+  "prompts": [
+    "kage/component--warp-chart/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=analytics",
+    "search?q=dashboard",
+    "search?q=charts",
+    "search?q=terminal"
+  ],
+  "pageSha256": "628fee77aac7d42a3307b74e74edd75389a6aef809fd74010e8817d5c4011c23"
+}

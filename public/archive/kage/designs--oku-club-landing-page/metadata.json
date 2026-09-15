@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--oku-club-landing-page",
+  "source": "kage",
+  "slug": "designs--oku-club-landing-page",
+  "url": "https://kage.design/designs/oku-club-landing-page",
+  "name": "Oku book-tracking app landing page by oku.club",
+  "description": "A near-monochrome landing page on warm paper white: a high-contrast serif carries every headline while a neutral sans handles body copy and UI, with solid black pill CTAs as the only strong accent. Feature sections alternate full-width light-gray panels with pairs of half-width cards, and phone/browser mockups deliberately bleed off and get clipped by the panel edges. Personality comes entirely from black-ink hand-drawn illustration — a hero reader, circular team portraits, scattered books on a curved pre-CTA divider — while the only colour on the page arrives through content imagery like book covers; rhythm winds down through a white social-proof block, a full-bleed community activity strip, definition-style Q&A rows and a curved finale.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/oku-club/e710a983-c1d6-4177-b014-2738acd07d09-1789146204438.webp",
+  "prompts": [
+    "kage/designs--oku-club-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "oku-club",
+  "tags": [
+    "search?q=serif-headlines",
+    "search?q=hand-drawn-illustration",
+    "search?q=device-mockups",
+    "search?q=monochrome",
+    "search?q=feature-cards",
+    "search?q=testimonials",
+    "search?q=community-feed",
+    "search?q=pill-buttons"
+  ],
+  "pageSha256": "fca69b8ddefc951f2fa2a7bf364fe51ba55bc12a4a05cc3fe8353e176c33d5f2"
+}

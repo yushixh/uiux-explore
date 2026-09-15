@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--astro-build-landing-page",
+  "source": "kage",
+  "slug": "designs--astro-build-landing-page",
+  "url": "https://kage.design/designs/astro-build-landing-page",
+  "name": "Astro content-driven web framework landing page by astro.build",
+  "description": "A dark, full-width developer-tools landing page uses a near-black navy canvas with large blue-purple gradients concentrated behind the hero and CTA panels. The page moves from a centered, high-contrast hero and dense customer logo wall into spacious explanatory sections, then increases information density through a performance comparison, framework selector, code/product preview, and a large asymmetric feature-card grid. Lower sections shift toward ecosystem proof—theme thumbnails, partner cards, sponsor tiles—and finish with a compact newsletter/footer grid, maintaining thin borders, restrained radii, and small magenta section labels throughout.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/astro-build/2448cc02-1e48-497c-9333-8941f9d81557-1789073664165.webp",
+  "prompts": [
+    "kage/designs--astro-build-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "astro-build",
+  "tags": [
+    "search?q=dark-gradient",
+    "search?q=developer-framework",
+    "search?q=feature-grid",
+    "search?q=performance-chart",
+    "search?q=logo-wall",
+    "search?q=code-preview",
+    "search?q=theme-gallery",
+    "search?q=sponsor-grid"
+  ],
+  "pageSha256": "3bf780f47c890cd060d27a7676c6edced6a16559802c9be17c595917687641d3"
+}

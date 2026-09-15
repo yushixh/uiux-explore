@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--gojo-cta",
+  "source": "kage",
+  "slug": "component--gojo-cta",
+  "url": "https://kage.design/component/gojo-cta",
+  "name": "Customizable feature CTA by Gojo",
+  "description": "This section works by pairing a confident customization headline with a compact explanatory paragraph and a structured two-column feature list. Generous whitespace, subtle dividers, and a clear transition into pricing make the CTA feel editorial, flexible, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106544-9.webp",
+  "prompts": [
+    "kage/component--gojo-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=cta",
+    "search?q=split-layout",
+    "search?q=feature-list",
+    "search?q=pricing"
+  ],
+  "pageSha256": "0b36976457af5c609c7f8241895e65e249e481b939e54d07f1ee7a4d180a16e0"
+}

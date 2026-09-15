@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--orbit-footer",
+  "source": "vantaui",
+  "slug": "explore--blocks--orbit-footer",
+  "url": "https://www.vantaui.com/explore/blocks/orbit-footer",
+  "name": "Orbit Footer - VantaUI",
+  "description": "Sticky full-viewport footer with an idle eyeball logo, CTA copy, and a letter-revealing full-width brand wordmark.",
+  "image": "https://vantaui-registry.vercel.app/blocks/orbit-footer",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "41072f166af23ee6655f8ed12f29002ed8b12d2d046e893fcc0ffdc9ff483730"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--convex-logo-cloud",
+  "source": "kage",
+  "slug": "component--convex-logo-cloud",
+  "url": "https://kage.design/component/convex-logo-cloud",
+  "name": "Trusted-by Logo Cloud by convex.dev",
+  "description": "A restrained social-proof section that pairs a compact trust label with a single, evenly distributed row of monochrome customer marks. Generous negative space, a warm neutral background, and consistent visual weight make the logos feel credible without competing with the rest of the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789074851-2.webp",
+  "prompts": [
+    "kage/component--convex-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/convex-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=brand+strip",
+    "search?q=minimal"
+  ],
+  "pageSha256": "0cf8e3a55a6512302721f184a83596155ee7a7ce0069264084902e569b274d6c"
+}

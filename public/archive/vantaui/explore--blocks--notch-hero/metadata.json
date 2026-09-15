@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--notch-hero",
+  "source": "vantaui",
+  "slug": "explore--blocks--notch-hero",
+  "url": "https://www.vantaui.com/explore/blocks/notch-hero",
+  "name": "Notch Hero - VantaUI",
+  "description": "Hero with a fanning icon badge and a notched tab bar over a preview stage.",
+  "image": "https://vantaui-registry.vercel.app/blocks/notch-hero",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "690dcaa4752a4e2b55356dc005d273c8fb980419310615d3c09bf2b1278e9071"
+}

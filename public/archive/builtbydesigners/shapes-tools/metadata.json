@@ -1,0 +1,22 @@
+{
+  "id": "shapes-tools",
+  "name": "Shake it to Shape it",
+  "description": "A playful browser tool for generating geometric SVGs from randomized shapes, colors and styles, then copying or downloading the result for interfaces, identities and visual work.",
+  "shortInfo": "Generate polished SVG shapes",
+  "url": "https://shapes.tools/",
+  "handle": "shedsgns",
+  "creatorName": "Juliette",
+  "creatorUrl": "https://x.com/shedsgns",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-03-01",
+  "added": "2026-03-01",
+  "icon": "/icons/shapes-tools.svg",
+  "avatar": "/backend/avatars/curator-shedsgns.jpg",
+  "shot": "/screenshots/shapes-tools.png",
+  "imageBackground": "#ffffff"
+}

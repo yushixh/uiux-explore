@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--frigade-assist-api-feature-grid-2",
+  "source": "kage",
+  "slug": "component--frigade-assist-api-feature-grid-2",
+  "url": "https://kage.design/component/frigade-assist-api-feature-grid-2",
+  "name": "Grounded feature proof grid by Frigade Assist API",
+  "description": "A split feature section pairs a concise, benefit-led text column with three proof-oriented feature rows and a quiet product-interface visual. A lower centered statement continues the narrative with generous whitespace and a restrained call to action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/frigade-assist-api/d96f9c4b-8236-4442-b795-92795f229d4a-1789106743-4.webp",
+  "prompts": [
+    "kage/component--frigade-assist-api-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/frigade-assist-api-landing-page",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=trust",
+    "search?q=product-ui"
+  ],
+  "pageSha256": "fc8aa5186e0b9e34987fcac4d9978bf1cd9e35e52e4225767e4acd9dfab75672"
+}

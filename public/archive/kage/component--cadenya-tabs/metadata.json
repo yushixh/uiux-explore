@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cadenya-tabs",
+  "source": "kage",
+  "slug": "component--cadenya-tabs",
+  "url": "https://kage.design/component/cadenya-tabs",
+  "name": "Interactive capability explorer by Cadenya",
+  "description": "A dark product-demo section combines an accordion-like list of capabilities on the left with a large visual preview on the right. One item is expanded, making the interaction understandable at a glance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192867-5.webp",
+  "prompts": [
+    "kage/component--cadenya-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cadenya-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=tabs",
+    "search?q=accordion",
+    "search?q=product-ui",
+    "search?q=demo"
+  ],
+  "pageSha256": "27a2149fb8af59c8e825934c2c4a5793a66f101f3ffffcfc3cbcc19a6f387103"
+}

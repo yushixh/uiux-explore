@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--peerspace-cta",
+  "source": "kage",
+  "slug": "component--peerspace-cta",
+  "url": "https://kage.design/component/peerspace-cta",
+  "name": "Full-bleed closing CTA by peerspace.com",
+  "description": "A full-width lifestyle image carries a centered, stacked white message and compact button, creating a strong emotional conversion moment.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146242-7.webp",
+  "prompts": [
+    "kage/component--peerspace-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/peerspace-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=hero-image",
+    "search?q=conversion"
+  ],
+  "pageSha256": "e2ff78278c838b9e37b1c15ea3235f53b2245309e13fb1858ae88e07c85d19a8"
+}

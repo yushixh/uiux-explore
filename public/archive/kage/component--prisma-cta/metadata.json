@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--prisma-cta",
+  "source": "kage",
+  "slug": "component--prisma-cta",
+  "url": "https://kage.design/component/prisma-cta",
+  "name": "Atmospheric full-loop CTA by prisma.io",
+  "description": "A centered, high-contrast call-to-action panel that combines a softly blurred pastel atmosphere with a concise value proposition, proof points, and paired actions. The restrained glass-like framing and oversized whitespace make the CTA feel premium without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073821-10.webp",
+  "prompts": [
+    "kage/component--prisma-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=cta",
+    "search?q=gradient",
+    "search?q=saas",
+    "search?q=conversion"
+  ],
+  "pageSha256": "bac5b9256dcd535809dd26921ed071e0633a6b123e2b9508d54668fee6a7809d"
+}

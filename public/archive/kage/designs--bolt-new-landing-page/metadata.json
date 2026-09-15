@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--bolt-new-landing-page",
+  "source": "kage",
+  "slug": "designs--bolt-new-landing-page",
+  "url": "https://kage.design/designs/bolt-new-landing-page",
+  "name": "bolt.new AI app-builder landing page by bolt.new",
+  "description": "A dark landing page where the product itself — a chat prompt box — is the hero CTA, floating on a large electric-blue glow orb with output-type tiles and start-from pills beneath it. The page then alternates quiet full-bleed statement sections with dense card clusters: greyed logo strip, a stat pair (98% less errors / 1000x), a deliberate mid-page colour shift into pink-purple for the design-system feature, a bento grid of 3D-rendered cloud-feature cards, and a persona grid using real product-UI screenshots. Type is a single grotesque sans at a wide scale range, with hierarchy built almost entirely from size, glow gradients and card depth on near-black surfaces; the closing CTA reuses the exact hero prompt module, then the footer dissolves into a giant striped wordmark.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/bolt-new/4e91875d-336e-4c47-bec8-8771acd62040-1789073695339.webp",
+  "prompts": [
+    "kage/designs--bolt-new-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "bolt-new",
+  "tags": [
+    "search?q=prompt-first-hero",
+    "search?q=glow-gradient",
+    "search?q=bento-grid",
+    "search?q=logo-strip",
+    "search?q=persona-cards",
+    "search?q=3d-rendered-cards",
+    "search?q=dark-ui",
+    "search?q=recurring-cta"
+  ],
+  "pageSha256": "0fe0e769ac7d5d00ebce269729a1578440885ef4b3ace32cc59afeebbb8fd786"
+}

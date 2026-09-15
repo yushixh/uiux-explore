@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--warp-feature-grid-2",
+  "source": "kage",
+  "slug": "component--warp-feature-grid-2",
+  "url": "https://kage.design/component/warp-feature-grid-2",
+  "name": "Layered openness feature stack by warp.dev",
+  "description": "A technical, editorial feature section that communicates flexibility through four progressively stronger horizontal layers. The stepped widths, terminal-like framing, restrained lavender palette, and compact monospace metadata make the grid feel systematic while the saturated final row creates a clear visual conclusion.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060390-7.webp",
+  "prompts": [
+    "kage/component--warp-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=layered",
+    "search?q=developer-tools",
+    "search?q=technical"
+  ],
+  "pageSha256": "dcc8431625bfca8e9c692283ef6fdadcd1f599f1d17e6627b9a35a00657c624d"
+}

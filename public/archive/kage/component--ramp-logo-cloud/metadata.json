@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ramp-logo-cloud",
+  "source": "kage",
+  "slug": "component--ramp-logo-cloud",
+  "url": "https://kage.design/component/ramp-logo-cloud",
+  "name": "Editorial customer logo cloud by ramp.com",
+  "description": "This section combines an editorial proof point with a compact, tactile logo grid and one larger customer-story tile. The restrained monochrome treatment, generous whitespace, and subtle directional affordances make a dense set of recognizable customers feel premium without competing with the headline.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060913-2.webp",
+  "prompts": [
+    "kage/component--ramp-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=b2b",
+    "search?q=grid"
+  ],
+  "pageSha256": "2860f65993e5ce817b30bdaaa4c8e2328fede72f7b7b8a7ca02ff8f3c1756b2c"
+}

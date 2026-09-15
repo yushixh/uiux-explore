@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--rocketmoney-feature-grid-4",
+  "source": "kage",
+  "slug": "component--rocketmoney-feature-grid-4",
+  "url": "https://kage.design/component/rocketmoney-feature-grid-4",
+  "name": "Additional features grid by rocketmoney.com",
+  "description": "A centered section headline introduces a simple two-by-two grid of additional capabilities. Each item has a small line icon, concise heading, short description, and text link, so users can scan breadth without visual overload.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/rocketmoney-com/33d2822e-a753-4b7c-bf3f-3f514d417ce5-1789146591-7.webp",
+  "prompts": [
+    "kage/component--rocketmoney-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/rocketmoney-landing-page",
+  "product": "rocketmoney-com",
+  "tags": [
+    "search?q=feature+grid",
+    "search?q=benefits",
+    "search?q=links"
+  ],
+  "pageSha256": "359a9551c9da053aad2ed6a3275d5e5d04143fd6af71af0b3aa4273a3d946b62"
+}

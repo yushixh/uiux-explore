@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--monzo-navigation",
+  "source": "kage",
+  "slug": "component--monzo-navigation",
+  "url": "https://kage.design/component/monzo-navigation",
+  "name": "Contextual announcement bar with primary navigation by monzo.com",
+  "description": "This header works by separating a lightweight locale announcement from the main navigation, then using clear grouping, generous whitespace, and a dark high-contrast action to guide attention. The compact personal/business switcher adds utility without competing with the brand or sign-up CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monzo-com/b864c421-0184-411c-901f-a4ffc676dbcc-1789060817-0.webp",
+  "prompts": [
+    "kage/component--monzo-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monzo-landing-page",
+  "product": "monzo-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=header",
+    "search?q=responsive"
+  ],
+  "pageSha256": "c4a0638a27df6fd33e5d684130b3b5891f1b9c5fc2bcdbf5863cc72788aa789f"
+}

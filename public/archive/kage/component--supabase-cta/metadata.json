@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--supabase-cta",
+  "source": "kage",
+  "slug": "component--supabase-cta",
+  "url": "https://kage.design/component/supabase-cta",
+  "name": "Centered trust-building CTA by supabase.com",
+  "description": "A compact, high-contrast conversion block pairs a confident headline with primary and secondary actions, then uses generous whitespace to separate it from a slim security reassurance row. The certification strip reduces hesitation without competing with the main CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/supabase-com/b03f69f9-4b47-487d-8f2b-17d7cd19e877-1789060354-8.webp",
+  "prompts": [
+    "kage/component--supabase-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/supabase-landing-page",
+  "product": "supabase-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=centered",
+    "search?q=trust",
+    "search?q=security"
+  ],
+  "pageSha256": "85168b0bad41fb35e06d3306e09943fd14a5d7f08d951dd758cf57ce53104244"
+}

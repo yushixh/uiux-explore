@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--termsquad-pricing-table",
+  "source": "kage",
+  "slug": "component--termsquad-pricing-table",
+  "url": "https://kage.design/component/termsquad-pricing-table",
+  "name": "Four-tier monthly pricing by termsquad.com",
+  "description": "A clear centered pricing introduction leads into four equal plan cards. One recommended plan is highlighted with a green tint, while plan-specific hardware details and a comparison link support decision-making.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/termsquad-com/d12b8131-9740-4063-aef8-780525dfffce-1789166959-6.webp",
+  "prompts": [
+    "kage/component--termsquad-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=pricing",
+    "search?q=plans",
+    "search?q=comparison"
+  ],
+  "pageSha256": "1b21ca919e277c8ffb7855235121f2d1ea3bed0b672879c91c68d3305805b3ee"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-feature-grid-3",
+  "source": "kage",
+  "slug": "component--mercury-feature-grid-3",
+  "url": "https://kage.design/component/mercury-feature-grid-3",
+  "name": "Fast setup and growth tools by mercury.com",
+  "description": "A two-column feature band pairs a setup-oriented text block with a tall abstract product visual, emphasizing speed and clarity.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141944-5.webp",
+  "prompts": [
+    "kage/component--mercury-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=feature",
+    "search?q=product",
+    "search?q=visual"
+  ],
+  "pageSha256": "94725294eec42fc2f65bd0cb696e60258a9b091fd9e1c544f822d450690352cc"
+}

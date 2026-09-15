@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--threads-button",
+  "source": "vantaui",
+  "slug": "explore--components--threads-button",
+  "url": "https://www.vantaui.com/explore/components/threads-button",
+  "name": "Threads Button - VantaUI",
+  "description": "A sleek button with purple glow effects and hover animations.",
+  "image": "https://vantaui-registry.vercel.app/components/threads-button",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "477238903028b54e37713c632128066caae95054a3aecaca82e49b02c2e9c239"
+}

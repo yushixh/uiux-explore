@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-feature-grid-2",
+  "source": "kage",
+  "slug": "component--trigger-feature-grid-2",
+  "url": "https://kage.design/component/trigger-feature-grid-2",
+  "name": "Dark workflow feature grid by trigger.dev",
+  "description": "A wide, high-contrast feature section pairs a strong introductory header with a horizontally overflowing row of workflow cards. Each card uses a compact technical diagram as its visual anchor, then a clear title, concise explanation, and understated example link to make complex capabilities scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073776-4.webp",
+  "prompts": [
+    "kage/component--trigger-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=workflow",
+    "search?q=horizontal-scroll"
+  ],
+  "pageSha256": "94eae60a32dab78280b05630f7ca2783e6581765913f92e2c80db19429b87250"
+}

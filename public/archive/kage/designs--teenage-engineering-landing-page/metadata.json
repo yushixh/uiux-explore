@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--teenage-engineering-landing-page",
+  "source": "kage",
+  "slug": "designs--teenage-engineering-landing-page",
+  "url": "https://kage.design/designs/teenage-engineering-landing-page",
+  "name": "Teenage Engineering homepage — alternating dark cinematic and white catalog product showcase by teenage.engineering",
+  "description": "A stark Swiss-catalogue homepage built on a strict alternation: hairline-divided white product-card rows (three columns, 1px black borders, tiny lowercase 'buy now' links) punctuate full-bleed near-black cinematic product photography with captions pinned bottom-left. Type lives at two extremes — a 9–10px utilitarian sans for every nav item, label and link, and a viewport-wide ultra-condensed all-caps headline for the hero. One orange-red accent is rationed across the promo flag, 'buy now' affordances and a single object detail per section, while a hand-made RIDDIM collage breaks the grid midway with cut-paper textures and mixed lettering to reset the rhythm before the pattern resumes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/teenage-engineering/02d63820-361c-4c31-b791-8f2d75691669-1789060161282.webp",
+  "prompts": [
+    "kage/designs--teenage-engineering-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/airpods-5-landing-page",
+  "product": "teenage-engineering",
+  "tags": [
+    "search?q=product-showcase",
+    "search?q=swiss-typography",
+    "search?q=hairline-grid",
+    "search?q=dark-photography",
+    "search?q=comic-illustration",
+    "search?q=retro-collage",
+    "search?q=bilingual-labels",
+    "search?q=e-commerce"
+  ],
+  "pageSha256": "b5c14d2d423e9b452b9fd03ba0981706a4e51238085f7b4a262ed94d84de1a5a"
+}

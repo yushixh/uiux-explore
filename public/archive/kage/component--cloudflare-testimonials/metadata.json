@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cloudflare-testimonials",
+  "source": "kage",
+  "slug": "component--cloudflare-testimonials",
+  "url": "https://kage.design/component/cloudflare-testimonials",
+  "name": "Customer proof and logos by cloudflare.com",
+  "description": "A proof section combines a large trust statement, a horizontal customer logo row, a featured testimonial card, and a secondary logo strip.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cloudflare-com/1ca6ff30-a094-43e2-8124-fd26c9356e55-1789213791-3.webp",
+  "prompts": [
+    "kage/component--cloudflare-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "cloudflare-com",
+  "tags": [
+    "search?q=logos",
+    "search?q=testimonial",
+    "search?q=social-proof"
+  ],
+  "pageSha256": "b7349ef1c9a2ccabb5c16471bd9d9be894fa687bdb91deb7b49fe1457ed715aa"
+}

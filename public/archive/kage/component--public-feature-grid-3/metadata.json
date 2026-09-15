@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--public-feature-grid-3",
+  "source": "kage",
+  "slug": "component--public-feature-grid-3",
+  "url": "https://kage.design/component/public-feature-grid-3",
+  "name": "Active trading platform benefits by public.com",
+  "description": "A dramatic black band resets the page rhythm and presents three equal benefits with concise copy above distinct trading, pricing, and API visuals.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/public-com/cb41c975-325f-4844-b439-84e9d28bd7b7-1789146535-4.webp",
+  "prompts": [
+    "kage/component--public-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/public-landing-page",
+  "product": "public-com",
+  "tags": [
+    "search?q=active+trading",
+    "search?q=benefits",
+    "search?q=dark+mode"
+  ],
+  "pageSha256": "5ac6e893a6b4f05e019357cfccf1cd0814f7c3d6b0cc60470f3971f3d912b934"
+}

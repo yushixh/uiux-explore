@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--labs-winszn-hero",
+  "source": "kage",
+  "slug": "component--labs-winszn-hero",
+  "url": "https://kage.design/component/labs-winszn-hero",
+  "name": "Editorial studio hero with proof cards by labs.winszn.xyz",
+  "description": "This hero works through a strong editorial headline, a compact conversion row, and an asymmetrical proof panel that balances a bold orange metric card with a dark work-preview card. The soft background, oversized type, restrained navigation, and tactile visual accent create a confident studio feel without overwhelming the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/labs-winszn-xyz/4df5b54d-904b-4cf9-bf65-93181d626a5e-1789097619-1.webp",
+  "prompts": [
+    "kage/component--labs-winszn-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/labs-winszn-landing-page",
+  "product": "labs-winszn-xyz",
+  "tags": [
+    "search?q=editorial",
+    "search?q=bento",
+    "search?q=studio",
+    "search?q=typography",
+    "search?q=conversion"
+  ],
+  "pageSha256": "18e6baf1a1331dbd654fdabea4cbe4e0836646f5db943abd740457089b583262"
+}

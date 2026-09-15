@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--oku-club-stats",
+  "source": "kage",
+  "slug": "component--oku-club-stats",
+  "url": "https://kage.design/component/oku-club-stats",
+  "name": "Personalized reading stats by oku.club",
+  "description": "A standalone pale-gray panel introduces personal statistics and presents a wide dashboard screenshot as proof of the capability.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/oku-club/e710a983-c1d6-4177-b014-2738acd07d09-1789146243-3.webp",
+  "prompts": [
+    "kage/component--oku-club-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/oku-club-landing-page",
+  "product": "oku-club",
+  "tags": [
+    "search?q=analytics",
+    "search?q=dashboard",
+    "search?q=screenshot"
+  ],
+  "pageSha256": "f88de40d81559010811330e38ed2e922c26499ff1164ef628673aaac6553f76d"
+}

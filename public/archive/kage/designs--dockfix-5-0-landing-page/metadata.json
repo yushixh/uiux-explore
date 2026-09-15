@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--dockfix-5-0-landing-page",
+  "source": "kage",
+  "slug": "designs--dockfix-5-0-landing-page",
+  "url": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "name": "DockFix 5.0 landing page by DockFix 5.0",
+  "description": "The page opens on a full-bleed, desaturated moorland photograph with the product name set as an oversized black grotesque wordmark, then alternates cream editorial sections, black inverted bands and further photo bands as chapter breaks down the page. Hierarchy is built almost entirely from extreme type-scale jumps, huge whitespace tracts and 1px hairline rules — the feature list is a two-column label/description table with no cards — while a single coral-red accent is reserved for buttons, the price and one eyebrow label. A black four-column stats strip, a photo band carrying a three-line manifesto statement, and a giant low-contrast footer watermark give the page its rhythm; the long cream tracts are scroll-animation stages for product demos.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/dockfix-5-0/2c092be4-cae6-431a-8bc7-3fef5352fd95-1789279359014.webp",
+  "prompts": [
+    "kage/designs--dockfix-5-0-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-landing-page",
+  "product": "dockfix-5-0",
+  "tags": [
+    "search?q=editorial-typography",
+    "search?q=oversized-wordmark",
+    "search?q=full-bleed-photography",
+    "search?q=cream-background",
+    "search?q=hairline-ruled-list",
+    "search?q=stats-band",
+    "search?q=scroll-animation",
+    "search?q=red-accent"
+  ],
+  "pageSha256": "10bbd86b119dfc7ca32ddee99b3f609aa304290122f0330e59b1aec10dfc2ddc"
+}

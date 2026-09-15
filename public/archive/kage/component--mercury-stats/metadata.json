@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-stats",
+  "source": "kage",
+  "slug": "component--mercury-stats",
+  "url": "https://kage.design/component/mercury-stats",
+  "name": "Scale and customer outcomes by mercury.com",
+  "description": "A centered statement about durability leads into four large metrics with small labels, creating a concise credibility checkpoint.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141945-7.webp",
+  "prompts": [
+    "kage/component--mercury-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=metrics",
+    "search?q=proof"
+  ],
+  "pageSha256": "befaf8eb5780b4652f73cf6031e13dfd1e0f5b2f116987f112227413ec006152"
+}

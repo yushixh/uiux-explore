@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--notion-footer",
+  "source": "kage",
+  "slug": "component--notion-footer",
+  "url": "https://kage.design/component/notion-footer",
+  "name": "Editorial multi-column footer by notion.com",
+  "description": "This footer works through a restrained editorial layout: a compact brand anchor and quote balance four clearly grouped navigation columns, while a quiet legal and locale utility row completes the page. Generous whitespace, black typography, and subtle controls keep a large amount of information calm and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/notion-com/9e072824-4b09-4216-9cff-06c643793f91-1789060360-6.webp",
+  "prompts": [
+    "kage/component--notion-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/notion-landing-page",
+  "product": "notion-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=editorial",
+    "search?q=minimal"
+  ],
+  "pageSha256": "4a0b8b457892c1986a57d402cb0a12934761f9cd0ab64c1a61d7d9c074ce6c00"
+}

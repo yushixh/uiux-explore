@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--monzo-table",
+  "source": "kage",
+  "slug": "component--monzo-table",
+  "url": "https://kage.design/component/monzo-table",
+  "name": "Dark multi-column footer navigation by monzo.com",
+  "description": "This footer works through strong grouping, generous spacing, and a high-contrast dark surface that makes a large set of utility links feel organised rather than overwhelming. A secondary locale control and oversized brand treatment create a clear closing area without competing with the navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monzo-com/b864c421-0184-411c-901f-a4ffc676dbcc-1789060822-11.webp",
+  "prompts": [
+    "kage/component--monzo-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monzo-landing-page",
+  "product": "monzo-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=responsive",
+    "search?q=links"
+  ],
+  "pageSha256": "908cf03657fafd8ca18cc4bdb8b2562ad5da75c689a38bba03cb7aeccf7ed425"
+}

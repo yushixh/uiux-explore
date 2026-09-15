@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--runwayml-feature-grid-2",
+  "source": "kage",
+  "slug": "component--runwayml-feature-grid-2",
+  "url": "https://kage.design/component/runwayml-feature-grid-2",
+  "name": "Immersive feature grid by runwayml.com",
+  "description": "A large rounded media panel combines an editorial introduction with a vertically stacked list of related features. The restrained typography, fine dividers, directional affordances, and atmospheric background create a premium, research-led presentation without overwhelming the content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/runwayml-com/e724fd81-b6a6-43a2-b9ac-10cfe806f6fa-1789074882-5.webp",
+  "prompts": [
+    "kage/component--runwayml-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/runwayml-landing-page",
+  "product": "runwayml-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=split-layout",
+    "search?q=editorial",
+    "search?q=dark-overlay"
+  ],
+  "pageSha256": "4c4770e5b9b842fe6e1459f11ff27c700ecbf6477ffe631e35e1080acadf432a"
+}

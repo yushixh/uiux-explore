@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mistral-navigation",
+  "source": "kage",
+  "slug": "component--mistral-navigation",
+  "url": "https://kage.design/component/mistral-navigation",
+  "name": "Editorial SaaS navigation bar by mistral.ai",
+  "description": "A restrained, high-density desktop header that combines a compact brand mark, evenly divided primary navigation, and clearly separated conversion actions. Fine borders, generous horizontal spacing, and a near-black action zone make the hierarchy immediately scannable without relying on heavy visual decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mistral-ai/b4bd1aa3-e31c-42a6-8066-6d42fc3e7f45-1789073962-0.webp",
+  "prompts": [
+    "kage/component--mistral-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mistral-landing-page",
+  "product": "mistral-ai",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=saas",
+    "search?q=responsive"
+  ],
+  "pageSha256": "df5f5cdcc3a1bafcf0c8d314cdfc33318888373fd00ae8c2d5b4d089044813e1"
+}

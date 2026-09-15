@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--patreon-feature-grid-3",
+  "source": "kage",
+  "slug": "component--patreon-feature-grid-3",
+  "url": "https://kage.design/component/patreon-feature-grid-3",
+  "name": "Direct community connection by patreon.com",
+  "description": "A bold statement-led layout explains direct creator–fan relationships beside a tall mobile community interface, making an abstract benefit tangible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/patreon-com/f09b5697-c1c9-4600-81d4-e7bb56a9df3f-1789146382-5.webp",
+  "prompts": [
+    "kage/component--patreon-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/patreon-landing-page",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=community",
+    "search?q=messaging",
+    "search?q=mobile",
+    "search?q=cta"
+  ],
+  "pageSha256": "d6239ea3ecbccce27f3281660964ebb176310d9688066fecefaa275a1813716f"
+}

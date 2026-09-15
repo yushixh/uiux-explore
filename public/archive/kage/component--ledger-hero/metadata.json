@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ledger-hero",
+  "source": "kage",
+  "slug": "component--ledger-hero",
+  "url": "https://kage.design/component/ledger-hero",
+  "name": "Crypto wallet hero by ledger.com",
+  "description": "A split hero pairs a large, direct headline and two actions with a tall product image. Trust metrics beneath the copy reinforce the purchase decision without competing with the main CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ledger-com/abaab959-f9d6-43c3-8f0c-09f584ac8799-1789146871-1.webp",
+  "prompts": [
+    "kage/component--ledger-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=wallet",
+    "search?q=product"
+  ],
+  "pageSha256": "e3171b1d8471885136f8d9e57d807155fa8683fbc104feea493baba98d733fb1"
+}

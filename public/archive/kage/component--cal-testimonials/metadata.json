@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cal-testimonials",
+  "source": "kage",
+  "slug": "component--cal-testimonials",
+  "url": "https://kage.design/component/cal-testimonials",
+  "name": "Testimonial wall with editorial masonry by cal.com",
+  "description": "A centered social-proof section pairs a compact label and strong headline with a short supporting line, clear CTAs, and a staggered masonry wall of customer quotes. The varied card heights, avatars, handles, and restrained borders make the section feel authentic and content-rich while keeping the hierarchy easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cal-com/cdeba7c5-dd46-4ce9-ba9c-2d344d57a58b-1789060424-6.webp",
+  "prompts": [
+    "kage/component--cal-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cal-landing-page",
+  "product": "cal-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social-proof",
+    "search?q=masonry",
+    "search?q=conversion"
+  ],
+  "pageSha256": "6c3c1f8d848eb198a5ca128c8511eaeaed985ba6d7e1a0052fca21f4d61356b2"
+}

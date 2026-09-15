@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mistral-feature-grid-3",
+  "source": "kage",
+  "slug": "component--mistral-feature-grid-3",
+  "url": "https://kage.design/component/mistral-feature-grid-3",
+  "name": "Four-column capability feature grid by mistral.ai",
+  "description": "A spacious four-column feature grid uses oversized empty space, small pixel-style category marks, and bottom-anchored headlines to make a compact set of capabilities feel premium and highly scannable. Fine dividers and a single accent rule provide structure without competing with the content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mistral-ai/b4bd1aa3-e31c-42a6-8066-6d42fc3e7f45-1789073964-6.webp",
+  "prompts": [
+    "kage/component--mistral-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mistral-landing-page",
+  "product": "mistral-ai",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=responsive",
+    "search?q=minimal"
+  ],
+  "pageSha256": "985ad328696997c6fa10241dbc03e14e2c2868a916ffd9030fbe06c0ebb6169c"
+}

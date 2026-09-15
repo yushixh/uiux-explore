@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cadenya-footer",
+  "source": "kage",
+  "slug": "component--cadenya-footer",
+  "url": "https://kage.design/component/cadenya-footer",
+  "name": "Resource and social footer by Cadenya",
+  "description": "The footer combines a framed editorial invitation with grouped resource links and a prominent brand mark/social area. It feels like a final navigation surface rather than a generic legal strip.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192869-9.webp",
+  "prompts": [
+    "kage/component--cadenya-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cadenya-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=footer",
+    "search?q=resources",
+    "search?q=social",
+    "search?q=navigation"
+  ],
+  "pageSha256": "8b07c2b458110cf05b7774d7f1b57640b14ef22feb0f7e6106fe23c62d64b73d"
+}

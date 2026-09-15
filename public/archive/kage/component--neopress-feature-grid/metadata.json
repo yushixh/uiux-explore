@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neopress-feature-grid",
+  "source": "kage",
+  "slug": "component--neopress-feature-grid",
+  "url": "https://kage.design/component/neopress-feature-grid",
+  "name": "Interactive product preview by Neopress",
+  "description": "A three-option tab strip frames a large product preview, letting visitors understand the workflow through a tangible interface rather than abstract claims.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neopress/126c1916-850c-4473-b9b4-49923d5d31e2-1789365753-2.webp",
+  "prompts": [
+    "kage/component--neopress-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neopress-landing-page",
+  "product": "neopress",
+  "tags": [
+    "search?q=preview",
+    "search?q=tabs",
+    "search?q=product"
+  ],
+  "pageSha256": "4a10c1ddada88908993e1af6bfc557d6fa16d4b0b6a8299ff2f98f9496e300dc"
+}

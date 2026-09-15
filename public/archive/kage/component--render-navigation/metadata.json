@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--render-navigation",
+  "source": "kage",
+  "slug": "component--render-navigation",
+  "url": "https://kage.design/component/render-navigation",
+  "name": "Promotional banner with split navigation bar by render.com",
+  "description": "This header works by separating a high-priority promotional strip from a calm, utility-focused navigation row. Strong left/right grouping, restrained typography, and a single dark primary action make the hierarchy immediately scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/render-com/a2f1bfec-cff8-46a3-938e-5c68bed6eccd-1789073948-0.webp",
+  "prompts": [
+    "kage/component--render-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/render-landing-page",
+  "product": "render-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=header",
+    "search?q=responsive"
+  ],
+  "pageSha256": "0329699fdf2ea50a0f0a2686442799c8f052fe3224d9539f3a599071e68f4b22"
+}

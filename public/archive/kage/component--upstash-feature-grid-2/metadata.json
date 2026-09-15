@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--upstash-feature-grid-2",
+  "source": "kage",
+  "slug": "component--upstash-feature-grid-2",
+  "url": "https://kage.design/component/upstash-feature-grid-2",
+  "name": "Serverless feature grid by upstash.com",
+  "description": "A calm, editorial bento grid uses varied card sizes to turn platform benefits into tangible product moments. Spacious white cards, subtle mint surfaces, compact data visualizations, and a code example make the section feel both approachable and technically credible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/upstash-com/210669b2-56ab-47a0-9be6-e94255ecbd31-1789073747-4.webp",
+  "prompts": [
+    "kage/component--upstash-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/upstash-landing-page",
+  "product": "upstash-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=saas",
+    "search?q=developer-tools"
+  ],
+  "pageSha256": "4e67db4ca5dade2a8fe123898224bda29dce14e89ef44747c48cf42392f0ef12"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ravio-form",
+  "source": "kage",
+  "slug": "component--ravio-form",
+  "url": "https://kage.design/component/ravio-form",
+  "name": "Insights subscription by Ravio",
+  "description": "A dark newsletter band presents a clear promise on the left and a compact email field plus subscribe button on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ravio/21fc8fab-2ae9-4a70-87c8-10ebee6c9a8e-1789142160-8.webp",
+  "prompts": [
+    "kage/component--ravio-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ravio-landing-page",
+  "product": "ravio",
+  "tags": [
+    "search?q=form",
+    "search?q=newsletter",
+    "search?q=subscribe"
+  ],
+  "pageSha256": "7f3f603214b5a4d19606133dcc45acde58a791d81eea89595871408bd14025b4"
+}

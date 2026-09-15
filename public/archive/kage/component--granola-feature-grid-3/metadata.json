@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--granola-feature-grid-3",
+  "source": "kage",
+  "slug": "component--granola-feature-grid-3",
+  "url": "https://kage.design/component/granola-feature-grid-3",
+  "name": "Works everywhere feature modules by granola.ai",
+  "description": "A features chapter begins with a strong editorial heading and CTA, then uses repeated split-layout modules to explain cross-platform capture, app compatibility, sharing, mobile use, and calendar context.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789141839-7.webp",
+  "prompts": [
+    "kage/component--granola-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=integrations",
+    "search?q=devices",
+    "search?q=media"
+  ],
+  "pageSha256": "40035755a3cf3a6c697dbe7723ba9ab78e4ba28ed45fe2dc10282d37e40b7d82"
+}

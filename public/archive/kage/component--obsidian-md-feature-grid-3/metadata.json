@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--obsidian-md-feature-grid-3",
+  "source": "kage",
+  "slug": "component--obsidian-md-feature-grid-3",
+  "url": "https://kage.design/component/obsidian-md-feature-grid-3",
+  "name": "Secure collaboration feature split by obsidian.md",
+  "description": "A focused two-column feature section pairs a concise benefit narrative with a polished product interface preview. The active feature is surfaced through a subtle dark panel, while the surrounding items remain lightweight so the visual hierarchy guides attention without overwhelming the product demo.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/obsidian-md/18ba00bf-73a3-4c61-9eb0-f66f69cff1b6-1789060833-4.webp",
+  "prompts": [
+    "kage/component--obsidian-md-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/obsidian-md-landing-page",
+  "product": "obsidian-md",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=product-ui",
+    "search?q=collaboration"
+  ],
+  "pageSha256": "78bf94aca8116c1732b607168778669032e082a3c5c9da9ce19a1250588ec546"
+}

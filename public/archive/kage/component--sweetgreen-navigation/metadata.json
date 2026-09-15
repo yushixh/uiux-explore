@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--sweetgreen-navigation",
+  "source": "kage",
+  "slug": "component--sweetgreen-navigation",
+  "url": "https://kage.design/component/sweetgreen-navigation",
+  "name": "Primary site navigation by sweetgreen.com",
+  "description": "A slim cream header uses a centered wordmark, utility links on both sides, and a high-contrast order button to make the primary action immediately findable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sweetgreen-com/33a74ca8-f609-4778-a60f-a45f3e4cc9aa-1789146471-0.webp",
+  "prompts": [
+    "kage/component--sweetgreen-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sweetgreen-landing-page",
+  "product": "sweetgreen-com",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=desktop"
+  ],
+  "pageSha256": "352ef441753df7c00a4381c4a19b381832e67991dbc9eeb6344ab29ba0e94a0c"
+}

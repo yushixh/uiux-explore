@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--fplxi-og-image",
+  "source": "kage",
+  "slug": "designs--fplxi-og-image",
+  "url": "https://kage.design/designs/fplxi-og-image",
+  "name": "FPLXI Open Graph social card by fplxi.com",
+  "description": "A 1200×630 social card that splits the canvas into a text column on the left and a floating product mockup collage on the right. The left column stacks the mascot wordmark, a very large two-line headline in near-black, a gray subhead, and three small icon+label feature chips. The right side layers two tilted app screenshots — a hero panel with a mini leaderboard and a player projection card plus a pitch-style \"best XI\" panel — over soft lavender-to-blue gradient blobs with a faded mascot peeking from the bottom. The palette is almost entirely white, near-black and pastel purple/violet, letting the blue accent bars inside the screenshots be the only saturated hit.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/fplxi-com/17890ee4-e346-4612-bc06-4941f3161360-1789073005928.webp",
+  "prompts": [
+    "kage/designs--fplxi-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-og-image",
+  "product": "fplxi-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=product-screenshot",
+    "search?q=gradient",
+    "search?q=fantasy-football",
+    "search?q=app-preview"
+  ],
+  "pageSha256": "2da4f581819f3c4efc5bfe8b8c3f0732c93d3691e74dcf389e68687b00f8d983"
+}

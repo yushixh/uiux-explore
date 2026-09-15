@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--datafa-feature-grid-2",
+  "source": "kage",
+  "slug": "component--datafa-feature-grid-2",
+  "url": "https://kage.design/component/datafa-feature-grid-2",
+  "name": "Video-led feature grid by datafa.st",
+  "description": "A spacious, two-column feature grid makes four product capabilities easy to scan while using embedded product previews as the visual proof. Strong card framing, restrained typography, and consistent media proportions create a polished SaaS marketing section without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789067841-5.webp",
+  "prompts": [
+    "kage/component--datafa-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/datafa-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=analytics",
+    "search?q=video-cards",
+    "search?q=saas"
+  ],
+  "pageSha256": "f3d842c7b9bc2ba75f6beb4ca23a27d9aad912673309a1100b7ab6d135f21bce"
+}

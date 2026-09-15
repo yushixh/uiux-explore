@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mock-magic-video-presets-feature-grid",
+  "source": "kage",
+  "slug": "component--mock-magic-video-presets-feature-grid",
+  "url": "https://kage.design/component/mock-magic-video-presets-feature-grid",
+  "name": "Minimal three-column feature grid by Mock Magic: Video Presets",
+  "description": "A restrained feature grid that uses generous horizontal spacing, compact line icons, and concise copy to make three capabilities easy to scan. The subtle bottom divider gives the section a quiet sense of structure without adding visual weight.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mock-magic-video-presets/201a35ef-5103-4614-9439-92b73face5de-1789106561-3.webp",
+  "prompts": [
+    "kage/component--mock-magic-video-presets-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mock-magic-video-presets-landing-page",
+  "product": "mock-magic-video-presets",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=saas",
+    "search?q=responsive"
+  ],
+  "pageSha256": "983464f60d81aa49544252993e98795fad35b8064583e016f6696636d1ba2b09"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--ramp-form",
+  "source": "kage",
+  "slug": "component--ramp-form",
+  "url": "https://kage.design/component/ramp-form",
+  "name": "Context-aware recommendation form by ramp.com",
+  "description": "A focused, conversion-oriented form that pairs a concise value proposition with a generous multiline input. The soft atmospheric background, restrained typography, and small corner action button make the interaction feel premium without distracting from the task.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060914-4.webp",
+  "prompts": [
+    "kage/component--ramp-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=form",
+    "search?q=lead-capture",
+    "search?q=ai",
+    "search?q=gradient",
+    "search?q=textarea"
+  ],
+  "pageSha256": "34f3d905460181b79a96afa39408d75f2b0b16dd71027c9059a8bfbcbb0b12d2"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--patreon-feature-grid-2",
+  "source": "kage",
+  "slug": "component--patreon-feature-grid-2",
+  "url": "https://kage.design/component/patreon-feature-grid-2",
+  "name": "Complete creative control by patreon.com",
+  "description": "A second pastel section frames a central promise with floating examples of creator content and a grounded paragraph plus button, communicating flexibility through composition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/patreon-com/f09b5697-c1c9-4600-81d4-e7bb56a9df3f-1789146382-4.webp",
+  "prompts": [
+    "kage/component--patreon-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/patreon-landing-page",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=control",
+    "search?q=media",
+    "search?q=layout",
+    "search?q=cta"
+  ],
+  "pageSha256": "c224d55ff1fb585aa5fafea453750f8c8bf5713f9e5610f28bbe0b336cc50d8f"
+}

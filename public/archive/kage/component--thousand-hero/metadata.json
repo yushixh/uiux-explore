@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--thousand-hero",
+  "source": "kage",
+  "slug": "component--thousand-hero",
+  "url": "https://kage.design/component/thousand-hero",
+  "name": "Permission-aware product hero by Thousand",
+  "description": "This hero works by pairing a warm, editorial marketing message with a detailed product interface that makes the promise tangible. Strong typographic hierarchy, a highlighted phrase, compact metadata, and a dense but calm workspace preview create a distinctive blend of brand character and product proof.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/thousand/cb10af68-535d-4246-97d9-03dbd24306a9-1789106637-1.webp",
+  "prompts": [
+    "kage/component--thousand-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/thousand-landing-page",
+  "product": "thousand",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=editorial",
+    "search?q=dashboard",
+    "search?q=access"
+  ],
+  "pageSha256": "5c9fa85c6b2782068a4f5763ef001f8b4c27098feec86b2e847dd86204b6216f"
+}

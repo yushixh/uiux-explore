@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bolt-new-feature-grid",
+  "source": "kage",
+  "slug": "component--bolt-new-feature-grid",
+  "url": "https://kage.design/component/bolt-new-feature-grid",
+  "name": "Dark gradient feature grid by bolt.new",
+  "description": "This section works by combining a strong dark visual system with a varied bento grid: one wide feature establishes the story, compact metric and explanatory cards add proof, and a colourful full-width card creates an expressive finish. Restrained borders, soft glows, layered product-like UI fragments, and generous spacing make the grid feel premium without relying on literal imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bolt-new/4e91875d-336e-4c47-bec8-8771acd62040-1789073974-2.webp",
+  "prompts": [
+    "kage/component--bolt-new-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bolt-new-landing-page",
+  "product": "bolt-new",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=bento-layout",
+    "search?q=saas"
+  ],
+  "pageSha256": "a18e74d2d832979fcbc54670b37c35c1df9fee5070cc78e60a02093277a7ad1a"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--pitch-stats",
+  "source": "kage",
+  "slug": "component--pitch-stats",
+  "url": "https://kage.design/component/pitch-stats",
+  "name": "Soft gradient stats band by pitch.com",
+  "description": "A spacious, three-column proof-point section that uses restrained copy, generous whitespace, and a barely-there lavender gradient to transition into the next product-story block. Its value comes from hierarchy and rhythm rather than oversized numerals or decorative imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/pitch-com/6703b162-6073-44e6-a626-e3df0dc35c4b-1789060647-3.webp",
+  "prompts": [
+    "kage/component--pitch-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/pitch-landing-page",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=gradient",
+    "search?q=editorial",
+    "search?q=trust"
+  ],
+  "pageSha256": "c81d126daa709231c0c409ac11f6277dbde544e7231e6e409ddfcfa249cf7c6e"
+}

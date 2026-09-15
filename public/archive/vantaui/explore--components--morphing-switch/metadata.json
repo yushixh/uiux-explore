@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--morphing-switch",
+  "source": "vantaui",
+  "slug": "explore--components--morphing-switch",
+  "url": "https://www.vantaui.com/explore/components/morphing-switch",
+  "name": "Morphing Switch - VantaUI",
+  "description": "Physically warp the vector path of switch during interaction.",
+  "image": "https://vantaui-registry.vercel.app/components/morphing-switch",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "e3bf2f761921ed7e8e7bc092b4ea72fa83904e394db9f3c9e349b7780ff69f7e"
+}

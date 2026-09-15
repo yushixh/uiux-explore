@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neopress-cta-2",
+  "source": "kage",
+  "slug": "component--neopress-cta-2",
+  "url": "https://kage.design/component/neopress-cta-2",
+  "name": "Website migration CTA by Neopress",
+  "description": "A spacious standalone CTA addresses visitors who already have a website, states the low-risk promise, and offers one focused migration action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neopress/126c1916-850c-4473-b9b4-49923d5d31e2-1789365756-8.webp",
+  "prompts": [
+    "kage/component--neopress-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neopress-landing-page",
+  "product": "neopress",
+  "tags": [
+    "search?q=migration",
+    "search?q=conversion",
+    "search?q=cta"
+  ],
+  "pageSha256": "1d1d68003aa4922b7f8018c91af71ceca72ad3b6ec310618d3079436c1c3c44f"
+}

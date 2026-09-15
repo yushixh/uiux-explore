@@ -1,0 +1,22 @@
+{
+  "id": "jelly-dice",
+  "name": "Jelly Dice",
+  "description": "Roll one to five squishy 3D dice in your browser. Choose from six jelly styles, tap a die to poke it, or drag to stretch it before rolling.",
+  "shortInfo": "Poke, pull, and roll squishy virtual dice",
+  "url": "https://www.bubbbly.com/app/jelly-dice.html",
+  "handle": "ann_nnng",
+  "creatorName": "Ann Nguyen",
+  "creatorUrl": "https://x.com/ann_nnng",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Play",
+  "categories": [
+    "Play"
+  ],
+  "launchDate": "2026-09-07",
+  "added": "2026-09-07",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/jelly-dice/reviewed-icon-1789030256854-BENPhvzjyOfEc0IeYQ6m7Lk4bwUUxH.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/jelly-dice/avatar-1788764691032-MU2FXC1UACbU6mgjX6GMCRT9165FBv.jpg",
+  "shot": "/screenshots/jelly-dice.webp"
+}

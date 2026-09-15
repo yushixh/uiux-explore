@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-footer",
+  "source": "kage",
+  "slug": "component--hob-footer",
+  "url": "https://kage.design/component/hob-footer",
+  "name": "Minimal brand footer with theme control by hob",
+  "description": "A quiet, highly restrained footer that uses generous whitespace, oversized low-contrast branding, and a compact utility cluster to create a polished closing moment. The theme switcher adds practical control without competing with the brand or location metadata.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106505-11.webp",
+  "prompts": [
+    "kage/component--hob-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=footer",
+    "search?q=minimal",
+    "search?q=theme",
+    "search?q=branding"
+  ],
+  "pageSha256": "204a7d0ea00d0760ccba492f0ec1f1aab72db27d029e824d2c64084eb712d973"
+}

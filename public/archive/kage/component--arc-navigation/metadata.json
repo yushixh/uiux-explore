@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--arc-navigation",
+  "source": "kage",
+  "slug": "component--arc-navigation",
+  "url": "https://kage.design/component/arc-navigation",
+  "name": "Wavy-edge gradient navigation bar by arc.net",
+  "description": "A compact top navigation that combines a vivid blue-to-purple gradient with a playful scalloped lower edge. The restrained horizontal layout keeps the brand mark at the left and presents evenly spaced, high-contrast links without competing with the background.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/arc-net/a4b44bb4-fce3-4305-950f-d12af4bc9a59-1789060396-0.webp",
+  "prompts": [
+    "kage/component--arc-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/arc-landing-page",
+  "product": "arc-net",
+  "tags": [
+    "search?q=navigation",
+    "search?q=gradient",
+    "search?q=wave",
+    "search?q=header"
+  ],
+  "pageSha256": "b4a59fe64fa1d88df29906f4474e2b5ad668fd57303cfd9025776d3b52a4f1b2"
+}

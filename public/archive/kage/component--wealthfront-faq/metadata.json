@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--wealthfront-faq",
+  "source": "kage",
+  "slug": "component--wealthfront-faq",
+  "url": "https://kage.design/component/wealthfront-faq",
+  "name": "Five-question FAQ accordion by wealthfront.com",
+  "description": "The FAQ is split into a bold introductory column and a larger accordion column. Thin rules and chevrons make each question scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfront-com/3e3be85e-7bdd-4e6a-8630-f389b2c5e8da-1789146565-7.webp",
+  "prompts": [
+    "kage/component--wealthfront-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=questions"
+  ],
+  "pageSha256": "706c5a37b5efd42a3db27d0ba35373d9d39f13d43305d639f7c95c06a6e273ff"
+}

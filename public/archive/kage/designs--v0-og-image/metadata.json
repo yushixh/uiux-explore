@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--v0-og-image",
+  "source": "kage",
+  "slug": "designs--v0-og-image",
+  "url": "https://kage.design/designs/v0-og-image",
+  "name": "v0 Open Graph social card by v0.dev",
+  "description": "A 1200×630 Open Graph card built almost entirely from negative space: a near-black canvas, a small white wordmark anchored top-left, and one large headline — 'Think it. Build it. Ship it.' — floating slightly left of the optical center. The only other mark is a thin vertical text caret after the last word, which quietly signals the product's chat-driven, generative nature. Type does all the work: a geometric neo-grotesque at roughly 80px medium weight against a tiny wordmark creates an extreme scale contrast, and pure monochrome (black #000, white #fff) guarantees legibility even at thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/v0-dev/49505cbf-a650-47cc-87fa-eaa2f3e23d15-1789067363998.webp",
+  "prompts": [
+    "kage/designs--v0-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "v0-dev",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=wordmark",
+    "search?q=caret-cursor",
+    "search?q=typography-driven",
+    "search?q=black-canvas",
+    "search?q=generative-ai",
+    "search?q=high-contrast"
+  ],
+  "pageSha256": "699bffc568af202ad257a619997a946ad12480ec433d69127cf421e4cd588013"
+}

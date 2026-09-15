@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--madebydaedalus-landing-page",
+  "source": "kage",
+  "slug": "designs--madebydaedalus-landing-page",
+  "url": "https://kage.design/designs/madebydaedalus-landing-page",
+  "name": "Daedalus studio landing page by madebydaedalus.com",
+  "description": "A two-person software studio site built on a warm cream canvas with hairline rules and an alternating band rhythm: cream hero, cream studio intro, near-black craft section, cream project list, lilac contact band. Hierarchy is carried almost entirely by an enormous tight-tracking grotesque display face against small grey body text, with colour used only as punctuation — a gradient underline, a lilac word, a purple question mark. The playful layer (eyed mascot, pixel sprites, tilted letter stickers, hand-drawn arrow) sits against a rigorously ordered grid, and the dark band proves the studio's 'software that feels good' claim with three genuinely interactive widgets: a London clock, a weather card with hourly forecast, and a playable audio tile.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/madebydaedalus-com/ae0cc407-2597-43fd-9c0f-0722227b2dcc-1789060052747.webp",
+  "prompts": [
+    "kage/designs--madebydaedalus-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "madebydaedalus-com",
+  "tags": [
+    "search?q=studio-site",
+    "search?q=mascot",
+    "search?q=interactive-widgets",
+    "search?q=pill-ctas",
+    "search?q=hairline-dividers",
+    "search?q=display-type",
+    "search?q=soft-gradient",
+    "search?q=micro-interactions"
+  ],
+  "pageSha256": "c27b77e5449a5fbd7996702df3ab0924255e8c1b38b48c85f2a7a95fc757aaed"
+}

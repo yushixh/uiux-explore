@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--workid-landing-page",
+  "source": "kage",
+  "slug": "designs--workid-landing-page",
+  "url": "https://kage.design/designs/workid-landing-page",
+  "name": "WorkID verified job board landing page by WorkID.ai",
+  "description": "A centered, single-column landing page that alternates white sections with soft light-gray rounded panels to control pacing. Trust is the visual system: green 'Verified' chips, a 95-of-100 trust-score progress bar, and check-badged avatars, all demonstrated inside an annotated profile-card mockup rather than photography. Type is a single geometric sans with scale doing the work — a ~60px two-line hero, 36px section heads, 16px body — while a casual script face with hand-drawn arrows supplies the only decorative voice. Colour is disciplined: near-black text, one blue pill CTA repeated four times down the page, green reserved strictly for verification, black pills for secondary actions. Below the hero the rhythm tightens into utility — a search row with black button, three bordered job cards, a dotted Europe map scattered with avatar chips, a logo-pill grid ending in a skeleton 'your company could be here' chip — before a dense, functional footer with tagline, contact chip, three link columns and a small-print disclaimer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/workid-ai/2843b616-ed30-482d-adaf-40c736e4842a-1789106609593.webp",
+  "prompts": [
+    "kage/designs--workid-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ravio-landing-page",
+  "product": "workid-ai",
+  "tags": [
+    "search?q=verified-badges",
+    "search?q=trust-score",
+    "search?q=annotated-mockup",
+    "search?q=job-cards",
+    "search?q=dotted-map",
+    "search?q=handwritten-annotations",
+    "search?q=pill-buttons",
+    "search?q=centered-hero"
+  ],
+  "pageSha256": "ffee826c9a69f5b69f1bbe823fd0601ebba6df3f76da8cf69e75f9fd9ebcf63f"
+}

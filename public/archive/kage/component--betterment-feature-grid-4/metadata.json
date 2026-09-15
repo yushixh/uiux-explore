@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--betterment-feature-grid-4",
+  "source": "kage",
+  "slug": "component--betterment-feature-grid-4",
+  "url": "https://kage.design/component/betterment-feature-grid-4",
+  "name": "Trust and protection proof by betterment.com",
+  "description": "A trust statement combines an oversized confidence statistic, recognition proof, and a family lifestyle image, followed by three concise credibility pillars.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/betterment-com/48b23e19-a777-4bc7-89e7-1aceabf18629-1789146558-6.webp",
+  "prompts": [
+    "kage/component--betterment-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/betterment-landing-page",
+  "product": "betterment-com",
+  "tags": [
+    "search?q=trust",
+    "search?q=proof",
+    "search?q=image",
+    "search?q=benefits"
+  ],
+  "pageSha256": "03b6553f95c329ead429cd752db953b9b67467c0d6a8fbdecc222c6bef0cbf5c"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--datafa-hero",
+  "source": "kage",
+  "slug": "component--datafa-hero",
+  "url": "https://kage.design/component/datafa-hero",
+  "name": "Revenue-first analytics hero by datafa.st",
+  "description": "A centered SaaS hero pairs a concise value proposition with a compact website-entry CTA, social proof, and a large interactive product preview. Generous whitespace, soft neutral surfaces, warm coral emphasis, and annotated demo affordances make the dashboard feel both credible and inviting.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789067840-1.webp",
+  "prompts": [
+    "kage/component--datafa-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/datafa-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=analytics",
+    "search?q=conversion"
+  ],
+  "pageSha256": "b8edcaa16ecd3cdbd6a3193e61ff9c2fc501da2c64a38db2a00e6624c10bed03"
+}

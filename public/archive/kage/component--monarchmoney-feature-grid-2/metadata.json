@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--monarchmoney-feature-grid-2",
+  "source": "kage",
+  "slug": "component--monarchmoney-feature-grid-2",
+  "url": "https://kage.design/component/monarchmoney-feature-grid-2",
+  "name": "Feature showcase sequence by monarchmoney.com",
+  "description": "Several alternating text-and-product rows explain individual capabilities, using consistent editorial typography and small UI demonstrations.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146615-5.webp",
+  "prompts": [
+    "kage/component--monarchmoney-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monarchmoney-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=features",
+    "search?q=alternating",
+    "search?q=screenshots"
+  ],
+  "pageSha256": "961966aaf716a2e84a3c5553784cbd28a6bd98ea3a53723c55dd945d4139405c"
+}

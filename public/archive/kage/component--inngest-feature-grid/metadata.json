@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--inngest-feature-grid",
+  "source": "kage",
+  "slug": "component--inngest-feature-grid",
+  "url": "https://kage.design/component/inngest-feature-grid",
+  "name": "Dark durability feature grid by inngest.com",
+  "description": "A dark, editorial feature section combines a large statement, supporting copy, product demonstration media, and a six-item capability grid. It works through strong hierarchy, generous spacing, restrained borders, and compact line-art icons that make technical features feel clear and credible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/inngest-com/085d18d8-47d3-43b1-92ae-d8bd045a677d-1789074882-5.webp",
+  "prompts": [
+    "kage/component--inngest-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/inngest-landing-page",
+  "product": "inngest-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=saas",
+    "search?q=observability"
+  ],
+  "pageSha256": "e9c945dddff2156d78ec7b84cf1dd56e516426faa2b287721df9e56fe78d95e8"
+}

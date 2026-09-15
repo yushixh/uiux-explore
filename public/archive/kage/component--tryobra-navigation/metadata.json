@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--tryobra-navigation",
+  "source": "kage",
+  "slug": "component--tryobra-navigation",
+  "url": "https://kage.design/component/tryobra-navigation",
+  "name": "Utility navigation bar by tryobra.com",
+  "description": "A compact black utility bar fixes the product identity, section links, language/login controls, and a bright primary action in one dense row.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tryobra-com/5ed8a808-d125-4341-bc8a-0a69442cb995-1789152083-0.webp",
+  "prompts": [
+    "kage/component--tryobra-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "tryobra-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=dark",
+    "search?q=utility"
+  ],
+  "pageSha256": "938f584aad1cca987fc524ccd2a20151f57c2b4d063d2f92a48b1133642c75b3"
+}

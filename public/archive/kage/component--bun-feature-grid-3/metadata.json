@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bun-feature-grid-3",
+  "source": "kage",
+  "slug": "component--bun-feature-grid-3",
+  "url": "https://kage.design/component/bun-feature-grid-3",
+  "name": "Categorized feature matrix by bun.sh",
+  "description": "A quiet, high-density feature grid organizes a broad toolkit into three equal columns and two bordered rows. Monospaced magenta feature names, restrained descriptions, uppercase category labels, and generous whitespace make the matrix feel technical, scannable, and editorial without relying on cards or decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073825-9.webp",
+  "prompts": [
+    "kage/component--bun-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=developer-tools",
+    "search?q=monospace",
+    "search?q=responsive"
+  ],
+  "pageSha256": "bd1fbc3c47b1a16e4839cc491dbbeab36554975296d44ed575a00e1a9d73af89"
+}

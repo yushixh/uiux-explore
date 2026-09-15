@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--raycast-feature-grid",
+  "source": "kage",
+  "slug": "component--raycast-feature-grid",
+  "url": "https://kage.design/component/raycast-feature-grid",
+  "name": "Editorial feature-grid showcase by raycast.com",
+  "description": "A cinematic, grid-based feature section that combines oversized editorial typography with technical product visuals and asymmetric content blocks. Fine rules, muted metadata, and restrained electric-blue accents make the layout feel like a premium tool catalogue rather than a conventional marketing grid.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067518-9.webp",
+  "prompts": [
+    "kage/component--raycast-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=editorial",
+    "search?q=developer-tools"
+  ],
+  "pageSha256": "c12d4ef6223e373dffa79f5012d7aa32b9d8cbdaa28aa70109d0aee2da17d4d1"
+}

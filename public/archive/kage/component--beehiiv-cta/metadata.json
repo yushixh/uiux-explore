@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--beehiiv-cta",
+  "source": "kage",
+  "slug": "component--beehiiv-cta",
+  "url": "https://kage.design/component/beehiiv-cta",
+  "name": "Dark FAQ accordion by beehiiv.com",
+  "description": "A restrained FAQ section uses a narrow content column, strong horizontal dividers, and generous row height to make common questions easy to scan. Minimal chevron affordances preserve a premium, editorial feel while inviting interaction without competing with the primary conversion path.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067456-10.webp",
+  "prompts": [
+    "kage/component--beehiiv-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=dark",
+    "search?q=conversion"
+  ],
+  "pageSha256": "e600942b3696bd7f900f231893efcaaa8583efb98307de75cd63d96a4e5e350d"
+}

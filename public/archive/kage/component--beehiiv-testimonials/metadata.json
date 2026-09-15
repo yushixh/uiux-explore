@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--beehiiv-testimonials",
+  "source": "kage",
+  "slug": "component--beehiiv-testimonials",
+  "url": "https://kage.design/component/beehiiv-testimonials",
+  "name": "Dark editorial testimonial mosaic by beehiiv.com",
+  "description": "A high-contrast customer proof section that combines portrait tiles, publication-style tiles, and oversized performance metrics into a dense editorial mosaic. The centered introduction establishes credibility first, while alternating image and stat cards create visual rhythm and make outcomes easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067454-4.webp",
+  "prompts": [
+    "kage/component--beehiiv-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=mosaic",
+    "search?q=dark+mode"
+  ],
+  "pageSha256": "b27da4373483e8c66a44dd9f04356f69f41295487c5046abb9c0a58949af01a9"
+}

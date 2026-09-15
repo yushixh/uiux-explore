@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--astro-build-gallery",
+  "source": "kage",
+  "slug": "component--astro-build-gallery",
+  "url": "https://kage.design/component/astro-build-gallery",
+  "name": "Tabbed theme gallery by astro.build",
+  "description": "A dark, editorial showcase section that pairs a clear category heading with pill-shaped filters and a dense preview grid. The strongest detail is the partially obscured final row with a soft overlay and browse CTA, which creates depth and a clear path to explore more.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/astro-build/2448cc02-1e48-497c-9333-8941f9d81557-1789073852-7.webp",
+  "prompts": [
+    "kage/component--astro-build-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/astro-build-landing-page",
+  "product": "astro-build",
+  "tags": [
+    "search?q=gallery",
+    "search?q=tabs",
+    "search?q=dark-ui",
+    "search?q=showcase"
+  ],
+  "pageSha256": "27ce70c50fb400f72f15b337a27847a0c28ab00459cfd53dae2126ee49e46f9b"
+}

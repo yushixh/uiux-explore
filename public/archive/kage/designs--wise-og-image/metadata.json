@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--wise-og-image",
+  "source": "kage",
+  "slug": "designs--wise-og-image",
+  "url": "https://kage.design/designs/wise-og-image",
+  "name": "Wise brand-only social share card by wise.com",
+  "description": "A 1200×630 brand-only share card: a flat field of Wise's bright lime green fills the whole canvas with no imagery, gradient or copy, and the dark forest-green wordmark — flag glyph plus lowercase 'wise' — sits alone at the optical centre. The card relies entirely on the two-colour brand pairing and heavy geometric letterforms, letting roughly 80% negative space make the mark the unmistakable focal point. It reads as a deliberate pause in a feed: bold, flat, instantly attributable, with no competing hierarchy beyond one centred lockup.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/wise-com/276f93e8-36da-4521-b39b-a692535846aa-1789060795662.webp",
+  "prompts": [
+    "kage/designs--wise-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "wise-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=wordmark",
+    "search?q=flat-colour",
+    "search?q=centered",
+    "search?q=brand-only",
+    "search?q=negative-space"
+  ],
+  "pageSha256": "28da88515bcc10e40dce793080e6f1a82bb108746d4e149bd72f7d5eb85657d8"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--labs-winszn-feature-grid-4",
+  "source": "kage",
+  "slug": "component--labs-winszn-feature-grid-4",
+  "url": "https://kage.design/component/labs-winszn-feature-grid-4",
+  "name": "High-contrast contact feature grid by labs.winszn.xyz",
+  "description": "This section works by pairing a vivid full-width field with a compact two-column enquiry layout, using strong typography, thin rules, and a concise benefits strip to make the contact moment feel direct and structured.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/labs-winszn-xyz/4df5b54d-904b-4cf9-bf65-93181d626a5e-1789097621-6.webp",
+  "prompts": [
+    "kage/component--labs-winszn-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/labs-winszn-landing-page",
+  "product": "labs-winszn-xyz",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=contact",
+    "search?q=editorial",
+    "search?q=dark-mode"
+  ],
+  "pageSha256": "58128b5faf634efe8a0adad34668e6d57579b0e69fbfcaf7cd22de10bbf63330"
+}

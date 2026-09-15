@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--planetscale-feature-grid",
+  "source": "kage",
+  "slug": "component--planetscale-feature-grid",
+  "url": "https://kage.design/component/planetscale-feature-grid",
+  "name": "Editorial feature grid by planetscale.com",
+  "description": "A structured, documentation-like feature section that combines dense technical proof points with a restrained testimonial and a navigational grid. Its strength comes from typographic hierarchy, generous whitespace, and precise rules rather than decorative imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/planetscale-com/b4abfdd8-cd39-4289-8914-c1bd40d118b4-1789060674-7.webp",
+  "prompts": [
+    "kage/component--planetscale-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/planetscale-landing-page",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=monospace",
+    "search?q=technical"
+  ],
+  "pageSha256": "ee1f4a123e7b38fd74c08a00e3d81b74de26b01a45d3c07d48ab551421ffa5d1"
+}

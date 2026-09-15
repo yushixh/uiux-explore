@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--getincredible-navigation",
+  "source": "kage",
+  "slug": "component--getincredible-navigation",
+  "url": "https://kage.design/component/getincredible-navigation",
+  "name": "Minimal Waitlist Header by getincredible.com",
+  "description": "A compact, high-contrast header that pairs a simple brand mark with a single conversion-focused CTA. Generous whitespace, a low visual footprint, and strong pill-button contrast make the navigation feel polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/getincredible-com/e2886fef-b68a-4ec0-9c25-0cadbf1e05de-1789067377-0.webp",
+  "prompts": [
+    "kage/component--getincredible-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/getincredible-landing-page",
+  "product": "getincredible-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=waitlist",
+    "search?q=minimal"
+  ],
+  "pageSha256": "2ae9cba7ee12e8d59bd2ce8ea95ddaf74f16ccd58068b8eb15fd5bc8be919c03"
+}

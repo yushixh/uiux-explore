@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--underline-link",
+  "source": "vantaui",
+  "slug": "explore--components--underline-link",
+  "url": "https://www.vantaui.com/explore/components/underline-link",
+  "name": "Underline Link - VantaUI",
+  "description": "Link that generate unique underline path on hover.",
+  "image": "https://vantaui-registry.vercel.app/components/underline-link",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "73be3a9ffe8f6e82bea292c7b4f4db088ee1800128d8a9d4eade67741eacb6cd"
+}

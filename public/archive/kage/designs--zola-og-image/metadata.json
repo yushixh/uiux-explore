@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--zola-og-image",
+  "source": "kage",
+  "slug": "designs--zola-og-image",
+  "url": "https://kage.design/designs/zola-og-image",
+  "name": "Zola proposal-film Open Graph card by zola.com",
+  "description": "A photography-only 1200×630 social card: a full-bleed, warm, film-like image of a garden proposal fills the entire canvas with no wordmark, headline or overlay. The composition does the branding work — the kneeling proposer and standing partner form a vertical focal axis slightly right of centre, framed by dark foliage on the left and soft white blossoms at the right edge for depth. Colour comes entirely from the scene: lush greens punctuated by a coral zigzag dress, with natural bokeh keeping edges soft. It reads as an editorial still rather than a marketing asset, letting the emotional moment carry recognition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/zola-com/566b45d6-d4e0-47ad-8bcb-f7c2dd5bcfca-1789146279133.webp",
+  "prompts": [
+    "kage/designs--zola-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "zola-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=photography-led",
+    "search?q=full-bleed",
+    "search?q=emotional",
+    "search?q=garden",
+    "search?q=warm",
+    "search?q=no-text-overlay"
+  ],
+  "pageSha256": "2b459d5f1aa4de3790d52efac90ad29bd63c9a7dfd16ac85c70a74dfebe580d2"
+}

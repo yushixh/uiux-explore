@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--teenage-engineering-gallery",
+  "source": "kage",
+  "slug": "component--teenage-engineering-gallery",
+  "url": "https://kage.design/component/teenage-engineering-gallery",
+  "name": "Dark editorial product gallery by teenage.engineering",
+  "description": "A cinematic, vertically stacked gallery that gives each product or artefact an oversized, near-full-bleed stage. Deep black space, restrained captions, and carefully controlled lighting make the imagery feel like an exhibition rather than a conventional product grid.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/teenage-engineering/02d63820-361c-4c31-b791-8f2d75691669-1789060821-2.webp",
+  "prompts": [
+    "kage/component--teenage-engineering-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/teenage-engineering-landing-page",
+  "product": "teenage-engineering",
+  "tags": [
+    "search?q=gallery",
+    "search?q=editorial",
+    "search?q=immersive",
+    "search?q=product"
+  ],
+  "pageSha256": "53ce96379898e30c397033a9e26024a5f7a1bd4f665da46182705cc0e9648687"
+}

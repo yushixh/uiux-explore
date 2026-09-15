@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--beehiiv-logo-cloud-2",
+  "source": "kage",
+  "slug": "component--beehiiv-logo-cloud-2",
+  "url": "https://kage.design/component/beehiiv-logo-cloud-2",
+  "name": "Integration logo cloud by beehiiv.com",
+  "description": "A high-contrast integrations section that pairs a compact editorial heading with a supporting sentence, a prominent CTA, and a flexible logo cloud for communicating ecosystem breadth. The generous dark-space composition makes the integration story feel premium while keeping the partner marks easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067455-8.webp",
+  "prompts": [
+    "kage/component--beehiiv-logo-cloud-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=integrations",
+    "search?q=dark+ui",
+    "search?q=b2b+saas"
+  ],
+  "pageSha256": "3e8a1036052bdfd473c1e28aa84fe2e33be71baec1d8c0bf4a7f3fbb2a67e175"
+}

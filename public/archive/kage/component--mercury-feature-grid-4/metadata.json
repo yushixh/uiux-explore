@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-feature-grid-4",
+  "source": "kage",
+  "slug": "component--mercury-feature-grid-4",
+  "url": "https://kage.design/component/mercury-feature-grid-4",
+  "name": "Business control features by mercury.com",
+  "description": "Another feature band alternates image and text placement, then presents four compact cards for visibility, automation, team management, and guidance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141944-6.webp",
+  "prompts": [
+    "kage/component--mercury-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=feature",
+    "search?q=automation",
+    "search?q=controls"
+  ],
+  "pageSha256": "1a74b1ec2ee5f597d173b75f4b8a77f8f91a1b2f6b6f3d27febb4e97d9beadb0"
+}

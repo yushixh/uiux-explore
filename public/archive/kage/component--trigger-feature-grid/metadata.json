@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-feature-grid",
+  "source": "kage",
+  "slug": "component--trigger-feature-grid",
+  "url": "https://kage.design/component/trigger-feature-grid",
+  "name": "Dark capability showcase grid by trigger.dev",
+  "description": "This section works by pairing a large, high-contrast code demonstration with a concise product promise, then grounding the story with a compact capability rail and social proof row. Strong grid lines, restrained colour accents, and monospace syntax make the interface feel technical, durable, and built for developers.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073775-2.webp",
+  "prompts": [
+    "kage/component--trigger-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=feature+grid",
+    "search?q=developer+tools",
+    "search?q=code+panel"
+  ],
+  "pageSha256": "e6c03650dd681d2590bb328f8f2872c231c8ba6c65f5897933337cc2ddde04d9"
+}

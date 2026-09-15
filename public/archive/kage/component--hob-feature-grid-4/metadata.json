@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-feature-grid-4",
+  "source": "kage",
+  "slug": "component--hob-feature-grid-4",
+  "url": "https://kage.design/component/hob-feature-grid-4",
+  "name": "Trust and privacy feature grid by hob",
+  "description": "A quiet, editorial bento grid that communicates product principles through two contrasting feature cards: a large text-led promise paired with a compact, technical proof point. The restrained palette, generous whitespace, and embedded interface details make abstract trust claims feel concrete without becoming visually loud.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106503-6.webp",
+  "prompts": [
+    "kage/component--hob-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=privacy",
+    "search?q=bento-layout",
+    "search?q=product-marketing"
+  ],
+  "pageSha256": "8f7ef56d7549357bfc57a0b190272e2ae1e31c579f99b2e0564e88d7f6df3027"
+}

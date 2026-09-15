@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--warp-logo-cloud",
+  "source": "kage",
+  "slug": "component--warp-logo-cloud",
+  "url": "https://kage.design/component/warp-logo-cloud",
+  "name": "Trust-building logo cloud by warp.dev",
+  "description": "A restrained horizontal logo strip builds credibility without interrupting the page narrative. The subtle grid backdrop, muted monochrome marks, and generous spacing make a dense set of brands feel calm, premium, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060388-2.webp",
+  "prompts": [
+    "kage/component--warp-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=social+proof",
+    "search?q=logo+cloud",
+    "search?q=minimal",
+    "search?q=b2b"
+  ],
+  "pageSha256": "8a791bcb8a84a564e4c92e6c9f0550503af9ac3cdc0f98af21716286ab675b24"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--upstash-stats",
+  "source": "kage",
+  "slug": "component--upstash-stats",
+  "url": "https://kage.design/component/upstash-stats",
+  "name": "Floating metrics spotlight by upstash.com",
+  "description": "A high-impact stats strip uses oversized background typography, a soft atmospheric field, and a floating translucent card to turn product activity into a memorable proof point. The compact four-column layout keeps each metric scannable while the footnote adds credibility without competing with the headline.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/upstash-com/210669b2-56ab-47a0-9be6-e94255ecbd31-1789073747-3.webp",
+  "prompts": [
+    "kage/component--upstash-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/upstash-landing-page",
+  "product": "upstash-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=hero",
+    "search?q=gradient",
+    "search?q=dashboard"
+  ],
+  "pageSha256": "340749440486ca720d2429ceb0d1019c6f426f30c71a3e3eb0eb7d7a6c3f7b72"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neopress-feature-grid-3",
+  "source": "kage",
+  "slug": "component--neopress-feature-grid-3",
+  "url": "https://kage.design/component/neopress-feature-grid-3",
+  "name": "SEO and GEO foundations by Neopress",
+  "description": "A technical feature section begins with an explanatory heading and then uses alternating visual/text rows to make server rendering, Core Web Vitals, and domain setup tangible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neopress/126c1916-850c-4473-b9b4-49923d5d31e2-1789365756-9.webp",
+  "prompts": [
+    "kage/component--neopress-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neopress-landing-page",
+  "product": "neopress",
+  "tags": [
+    "search?q=seo",
+    "search?q=performance",
+    "search?q=features"
+  ],
+  "pageSha256": "b0b139f3e2e79445213df2059da3cbbf36ed5eec9384fd03d34e2c49b8c0eac1"
+}

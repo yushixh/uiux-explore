@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--anthropic-footer",
+  "source": "kage",
+  "slug": "component--anthropic-footer",
+  "url": "https://kage.design/component/anthropic-footer",
+  "name": "Four-column mega footer by anthropic.com",
+  "description": "A dense, editorial footer that turns a large sitemap into four clearly separated navigation columns, with secondary groups, legal links, and a compact social/copyright row. The restrained monochrome palette and generous vertical rhythm keep a high link count scannable without feeling like an admin sitemap.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/anthropic-com/9400eeef-f6ac-4bf6-a324-e094b3c8d068-1789060506-5.webp",
+  "prompts": [
+    "kage/component--anthropic-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/anthropic-landing-page",
+  "product": "anthropic-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=dark+mode",
+    "search?q=mega+menu"
+  ],
+  "pageSha256": "31c6107927621b59f6e023341bd4ffff232f695430367c4cae5535a946bedd90"
+}

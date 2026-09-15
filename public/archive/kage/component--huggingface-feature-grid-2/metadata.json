@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--huggingface-feature-grid-2",
+  "source": "kage",
+  "slug": "component--huggingface-feature-grid-2",
+  "url": "https://kage.design/component/huggingface-feature-grid-2",
+  "name": "Editorial feature mosaic by huggingface.co",
+  "description": "A spacious bento-style feature grid pairs concise product value propositions with understated interface previews. The asymmetrical card sizes, restrained monochrome palette, fine borders, and generous whitespace make a complex platform feel approachable while giving each capability a distinct visual stage.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/huggingface-co/7a35650e-acfa-4ee6-9c74-f477a83c58e6-1789073962-3.webp",
+  "prompts": [
+    "kage/component--huggingface-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/huggingface-landing-page",
+  "product": "huggingface-co",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=product-tour",
+    "search?q=responsive"
+  ],
+  "pageSha256": "c7b39c9c6f64180d7f0c8efb8e1e61655b85b0a1f090402323109d427823aa4c"
+}

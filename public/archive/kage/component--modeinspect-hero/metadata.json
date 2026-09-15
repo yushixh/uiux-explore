@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-hero",
+  "source": "kage",
+  "slug": "component--modeinspect-hero",
+  "url": "https://kage.design/component/modeinspect-hero",
+  "name": "AI-native product design hero by Modeinspect",
+  "description": "A spacious SaaS hero that pairs a soft lime-to-neutral atmospheric background with a compact floating navigation, oversized left-aligned headline, restrained supporting copy, and two contrasting calls to action. A large rounded product-editor preview anchors the lower half, giving the section a tangible, production-focused focal point.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106490-1.webp",
+  "prompts": [
+    "kage/component--modeinspect-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=gradient",
+    "search?q=editor"
+  ],
+  "pageSha256": "6a42b4da9afe151e863c57ddc9948a9fe5b4b16333220a9264cfed2c0ff3f9f9"
+}

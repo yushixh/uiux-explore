@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--together-footer",
+  "source": "kage",
+  "slug": "component--together-footer",
+  "url": "https://kage.design/component/together-footer",
+  "name": "Soft-gradient navigation footer by together.ai",
+  "description": "A spacious, bottom-anchored footer that combines multi-column navigation with a restrained legal and social utility row. Its oversized low-contrast wordmark treatment and cool pastel edge glow create a distinctive closing moment without competing with the links.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/together-ai/60591018-8706-471e-a3f2-ad3109f52987-1789073941-9.webp",
+  "prompts": [
+    "kage/component--together-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/together-landing-page",
+  "product": "together-ai",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=gradient",
+    "search?q=saas"
+  ],
+  "pageSha256": "69de8bb4ccae40942620667a8eb1a2e3d10a1e191c4fa22dc76659b383bc00d6"
+}

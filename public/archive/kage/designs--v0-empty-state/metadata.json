@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--v0-empty-state",
+  "source": "kage",
+  "slug": "designs--v0-empty-state",
+  "url": "https://kage.design/designs/v0-empty-state",
+  "name": "v0.dev AI app builder landing page by v0.dev",
+  "description": "A near-monochrome landing page where the UI chrome is deliberately quiet — off-white canvas, black type, hairline gray borders — so the only saturated color arrives inside community template thumbnails and feature vignettes. The hero is a single centered prompt bar with suggestion chips, making the product itself the headline. Down the page, density rises through a three-column template gallery with fork/like metadata and a deliberately clipped final row, peaks in a nine-cell bento where each feature card carries its own illustrative miniature (icon clusters, a node diagram, a phone mockup), then relaxes through a grayscale logo marquee and a horizontal rail of tall mobile screenshots into a very airy centered CTA and four-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/v0-dev/99e42d3b-29f6-491c-8f06-cd6295e0d986-1789067360095.webp",
+  "prompts": [
+    "kage/designs--v0-empty-state/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "v0-dev",
+  "tags": [
+    "search?q=ai-prompt-input",
+    "search?q=bento-grid",
+    "search?q=template-gallery",
+    "search?q=community-stats",
+    "search?q=logo-marquee",
+    "search?q=mobile-carousel",
+    "search?q=monochrome-chrome"
+  ],
+  "pageSha256": "e8c006c8d04f06d2b6d37d0790642ac8a8e42c245f5df46dd52428dcb6cead9f"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--tryobra-gallery",
+  "source": "kage",
+  "slug": "component--tryobra-gallery",
+  "url": "https://kage.design/component/tryobra-gallery",
+  "name": "Public project showcase by tryobra.com",
+  "description": "A large light showcase demonstrates the finished customer-facing artifact through a browser-like project view, image comparison, thumbnails, timeline, and mobile preview.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tryobra-com/5ed8a808-d125-4341-bc8a-0a69442cb995-1789152086-8.webp",
+  "prompts": [
+    "kage/component--tryobra-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "tryobra-com",
+  "tags": [
+    "search?q=gallery",
+    "search?q=showcase",
+    "search?q=responsive"
+  ],
+  "pageSha256": "8c7959eac08805a01ead9023ebf10a307359df02df12cb435cbf7f336c028a8a"
+}

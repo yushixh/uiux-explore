@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--convex-testimonials",
+  "source": "kage",
+  "slug": "component--convex-testimonials",
+  "url": "https://kage.design/component/convex-testimonials",
+  "name": "Editorial testimonial spotlight by convex.dev",
+  "description": "A high-impact testimonial section that pairs one oversized editorial quote with supporting customer cards. The restrained palette, centered hierarchy, and generous spacing make the proof feel premium while keeping the supporting voices easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789074851-5.webp",
+  "prompts": [
+    "kage/component--convex-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/convex-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=editorial",
+    "search?q=quotes",
+    "search?q=social-proof"
+  ],
+  "pageSha256": "89ce72ca2edb6edcf4696b9565d6f95c69e0d84b24cf02e78679e6403fbeb8c9"
+}

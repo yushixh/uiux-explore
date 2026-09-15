@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lu-ma-cta",
+  "source": "kage",
+  "slug": "component--lu-ma-cta",
+  "url": "https://kage.design/component/lu-ma-cta",
+  "name": "Final discovery call to action by lu.ma",
+  "description": "A large quiet whitespace band ends the content with a short optimistic two-line message and two contrasting actions, one outlined and one subdued.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lu-ma/a4be0bf4-46ad-4066-8582-e9890f24d9e0-1789146185-5.webp",
+  "prompts": [
+    "kage/component--lu-ma-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lu-ma-landing-page",
+  "product": "lu-ma",
+  "tags": [
+    "search?q=cta",
+    "search?q=conversion",
+    "search?q=centered"
+  ],
+  "pageSha256": "b89a16b13c392fc135f0013e32a4dfd941b456713305179ed23d246f781c6b94"
+}

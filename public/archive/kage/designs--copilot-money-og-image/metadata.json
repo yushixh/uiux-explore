@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--copilot-money-og-image",
+  "source": "kage",
+  "slug": "designs--copilot-money-og-image",
+  "url": "https://kage.design/designs/copilot-money-og-image",
+  "name": "Copilot Money OG social card by copilot.money",
+  "description": "A 1200×630 social card built almost entirely on scale contrast: a three-line display headline in pale ice-blue dominates the left 55% of the canvas, set at roughly 120px with very tight leading, while a small logo lockup sits top-left and a one-line platform note anchors the bottom-left on the same margin. The right 45% is a diagonal cluster of iPhone, iPad and MacBook mockups, each rotated a few degrees and bleeding off the right and bottom edges, their dark-mode app screens (line charts, budget rings) providing the only saturated accents. Depth comes from a navy radial gradient plus soft shadows under the devices — no borders, cards or dividers anywhere.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/copilot-money/a7ba1fa3-51a6-49ec-8178-ada382335631-1789146538881.webp",
+  "prompts": [
+    "kage/designs--copilot-money-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "copilot-money",
+  "tags": [
+    "search?q=og-card",
+    "search?q=device-mockups",
+    "search?q=navy-gradient",
+    "search?q=oversized-headline",
+    "search?q=left-aligned-type",
+    "search?q=edge-bleed",
+    "search?q=dark-ui",
+    "search?q=wordmark-lockup"
+  ],
+  "pageSha256": "354f81eccf75bb364145e400a6cc7837af8e67700221dd52b0d43b63d7127374"
+}

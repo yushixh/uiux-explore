@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--lovable-stats",
+  "source": "kage",
+  "slug": "component--lovable-stats",
+  "url": "https://kage.design/component/lovable-stats",
+  "name": "Narrative growth stats section by lovable.dev",
+  "description": "A spacious proof section that pairs a concise trust-building headline with stacked metrics and a soft, ascending gradient chart. The generous whitespace, restrained typography, and understated navigation controls make the numbers feel confident while keeping the visual focus on long-term momentum.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lovable-dev/7426a651-2b1e-4dbe-b0d8-bb8a847d2e81-1789060911-6.webp",
+  "prompts": [
+    "kage/component--lovable-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lovable-landing-page",
+  "product": "lovable-dev",
+  "tags": [
+    "search?q=stats",
+    "search?q=metrics",
+    "search?q=dashboard",
+    "search?q=chart"
+  ],
+  "pageSha256": "d0e26344c4e2bea64cb96f73133d6c49d63b25656ae548bb7306aa1237a8e879"
+}

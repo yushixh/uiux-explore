@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mintlify-gallery-2",
+  "source": "kage",
+  "slug": "component--mintlify-gallery-2",
+  "url": "https://kage.design/component/mintlify-gallery-2",
+  "name": "Testimonial card grid with updates transition by mintlify.com",
+  "description": "A quiet, editorial testimonial grid uses equal-height cards, generous whitespace, and compact attribution rows to make customer proof easy to scan. A large vertical gap then introduces the next content area with a restrained section heading and a high-contrast navigation button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mintlify-com/71224961-d985-451b-9e35-e02eddcee178-1789060646-9.webp",
+  "prompts": [
+    "kage/component--mintlify-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mintlify-landing-page",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=card-grid",
+    "search?q=social-proof",
+    "search?q=section-header"
+  ],
+  "pageSha256": "10b6cfaa2ae524d325373629029d89005421a868be73efbe0659eebd30535b55"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fly-hero",
+  "source": "kage",
+  "slug": "component--fly-hero",
+  "url": "https://kage.design/component/fly-hero",
+  "name": "Illustrated split hero by fly.io",
+  "description": "A memorable product hero pairs a restrained, high-contrast headline with a playful oversized illustration and soft atmospheric background. The compact navigation and clear primary CTA keep the expressive visual focused on one conversion goal.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fly-io/55088b40-21c4-4b5b-a67c-8a1494f33e2d-1789073897-1.webp",
+  "prompts": [
+    "kage/component--fly-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fly-landing-page",
+  "product": "fly-io",
+  "tags": [
+    "search?q=hero",
+    "search?q=illustration",
+    "search?q=navigation",
+    "search?q=cta"
+  ],
+  "pageSha256": "b976b8c14459f5385c9b3e31d084b5e296ed079bf05f497534c4576dab4e2d14"
+}

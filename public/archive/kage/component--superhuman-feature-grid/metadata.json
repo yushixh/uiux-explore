@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--superhuman-feature-grid",
+  "source": "kage",
+  "slug": "component--superhuman-feature-grid",
+  "url": "https://kage.design/component/superhuman-feature-grid",
+  "name": "Asymmetric feature showcase grid by superhuman.com",
+  "description": "A high-contrast, asymmetric bento grid pairs oversized product previews with concise feature messaging. Distinctive color fields, soft rounded corners, and a restrained editorial rhythm make each capability feel visually memorable without requiring dense explanation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060755-7.webp",
+  "prompts": [
+    "kage/component--superhuman-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=bento-layout",
+    "search?q=product-ui"
+  ],
+  "pageSha256": "f205ba105bdc9933246b895cbc3838c59430cd043c56c42449aa7d7958c2d927"
+}

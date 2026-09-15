@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--obsidian-md-footer",
+  "source": "kage",
+  "slug": "component--obsidian-md-footer",
+  "url": "https://kage.design/component/obsidian-md-footer",
+  "name": "Dark multi-column resource footer by obsidian.md",
+  "description": "A spacious, low-contrast footer balances a compact brand and social block against grouped navigation columns. Clear typographic hierarchy, generous empty space, and subtle controls make a large link set feel calm and scannable rather than dense.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/obsidian-md/18ba00bf-73a3-4c61-9eb0-f66f69cff1b6-1789060834-8.webp",
+  "prompts": [
+    "kage/component--obsidian-md-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/obsidian-md-landing-page",
+  "product": "obsidian-md",
+  "tags": [
+    "search?q=footer",
+    "search?q=dark-mode",
+    "search?q=navigation",
+    "search?q=responsive"
+  ],
+  "pageSha256": "497ac44dea90487f046af9ce42bfaa009075f8a1f4264a6c35adcfa9e0a60b3d"
+}

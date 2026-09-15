@@ -1,0 +1,22 @@
+{
+  "id": "shrump",
+  "name": "Shrump",
+  "description": "A webcam-powered posture nagger that catches you mid-slouch.",
+  "shortInfo": "Your webcam knows when you slouch",
+  "url": "https://shrump.cam/",
+  "handle": "pauline_makes",
+  "creatorName": "Pauline Wee",
+  "creatorUrl": "https://x.com/pauline_makes",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Lifestyle",
+  "categories": [
+    "Lifestyle"
+  ],
+  "launchDate": "2026-09-02",
+  "added": "2026-09-02",
+  "sortOrder": 35,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/shrump/reviewed-1788762508786-shrump-2a6wyugin4VCJwzioDFkHrCHB4uYTX.svg",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/world-time-bestie/avatar-mtq3ackp-U8EsKM2l5JI5Cnwyk8EPjODto63ZIt.jpg",
+  "shot": "/screenshots/shrump.png"
+}

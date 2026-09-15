@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--clerk-hero",
+  "source": "kage",
+  "slug": "component--clerk-hero",
+  "url": "https://kage.design/component/clerk-hero",
+  "name": "Centered product hero with utility bar by clerk.com",
+  "description": "A high-contrast SaaS hero that combines a slim announcement bar, floating navigation, oversized centered headline, concise supporting copy, and a compact developer-oriented action card. Subtle circuit-like linework adds technical depth without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/clerk-com/b0a171ff-4b4c-415f-ac9b-4885f02b49d0-1789060781-1.webp",
+  "prompts": [
+    "kage/component--clerk-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/clerk-landing-page",
+  "product": "clerk-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=navigation",
+    "search?q=cta"
+  ],
+  "pageSha256": "f10b2971ff4ff33ecd893159d6a7632eed48a600ecf2756d855ffc96ff1ae857"
+}

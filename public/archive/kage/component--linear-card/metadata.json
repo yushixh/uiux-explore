@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--linear-card",
+  "source": "kage",
+  "slug": "component--linear-card",
+  "url": "https://kage.design/component/linear-card",
+  "name": "Layered code diff preview by linear.app",
+  "description": "A cinematic product-preview card that combines a muted issue list with a dominant code editor and a ghosted comparison pane. Strong depth, restrained contrast, and selective syntax highlights make the interface feel technical without becoming visually noisy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789060209-8.webp",
+  "prompts": [
+    "kage/component--linear-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/linear-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=code+editor",
+    "search?q=comparison",
+    "search?q=product+hero"
+  ],
+  "pageSha256": "73671bdac284f2cb00b6191627c43e54653bab039470537bc0df0592c1871640"
+}

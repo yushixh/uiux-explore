@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--linear-footer",
+  "source": "kage",
+  "slug": "component--linear-footer",
+  "url": "https://kage.design/component/linear-footer",
+  "name": "Split testimonial footer by linear.app",
+  "description": "A bold, editorial testimonial section that closes a page with two contrasting quote cards. The asymmetric grid, oversized type, generous empty space, and compact attribution rows create a premium, memorable finish without needing complex interaction.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789060209-11.webp",
+  "prompts": [
+    "kage/component--linear-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/linear-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=testimonial",
+    "search?q=footer",
+    "search?q=split-panel",
+    "search?q=editorial"
+  ],
+  "pageSha256": "a420ebb47983469dcbb6372337da2d61acc0314b22b9e7a24e9518d03f3efecb"
+}

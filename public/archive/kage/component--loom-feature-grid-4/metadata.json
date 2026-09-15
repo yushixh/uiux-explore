@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--loom-feature-grid-4",
+  "source": "kage",
+  "slug": "component--loom-feature-grid-4",
+  "url": "https://kage.design/component/loom-feature-grid-4",
+  "name": "Bold blue editorial feature grid by loom.com",
+  "description": "A high-impact editorial block uses a saturated blue container, oversized centered headline, and two dark-blue article cards to turn supporting content into a clear, scannable destination. Strong contrast, generous spacing, and repeated card structure make the section feel confident while keeping each article easy to compare.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060439-8.webp",
+  "prompts": [
+    "kage/component--loom-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=cards",
+    "search?q=blue",
+    "search?q=responsive"
+  ],
+  "pageSha256": "7ab5269136b17ab87b96b32059f9809f17a5708038010b9bd5f3704e78dfe804"
+}

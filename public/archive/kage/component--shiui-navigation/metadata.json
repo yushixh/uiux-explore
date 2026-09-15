@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--shiui-navigation",
+  "source": "kage",
+  "slug": "component--shiui-navigation",
+  "url": "https://kage.design/component/shiui-navigation",
+  "name": "Global navigation bar by SHIUI",
+  "description": "A restrained, thin editorial header establishes the monochrome system, brand mark, catalogue links, and a few compact utility actions without competing with the content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/shiui/3111a107-5e9b-4487-9176-525a4b4c448a-1789365763-0.webp",
+  "prompts": [
+    "kage/component--shiui-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/shiui-navigation",
+  "product": "shiui",
+  "tags": [
+    "search?q=header",
+    "search?q=utility",
+    "search?q=branding"
+  ],
+  "pageSha256": "707f03e29dc5870ed99017f788da737be5acd81820ae5b6c5d889b30952fdb55"
+}

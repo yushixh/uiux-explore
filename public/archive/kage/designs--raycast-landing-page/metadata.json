@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--raycast-landing-page",
+  "source": "kage",
+  "slug": "designs--raycast-landing-page",
+  "url": "https://kage.design/designs/raycast-landing-page",
+  "name": "Raycast landing page by raycast.com",
+  "description": "A near-black single-column page that opens with a huge centred hero, then alternates short manifesto statements with oversized product screenshots floating on red-orange radial glows. Mid-page the rhythm shifts to dense, colour-coded content: app-branded extension cards (indigo, blue, green), an AI window with chat suggestion chips, avatar-driven testimonials, and a developer bento grid filled with wireframe-blue isometric illustrations, closing on a giant 3D keyboard render and a six-column mega footer. Everything is disciplined single-sans typography on #0b0b0d, with the red gradient reserved for glows, eyebrows and emphasis, so colour is earned, not sprayed.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789059981440.webp",
+  "prompts": [
+    "kage/designs--raycast-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=command-palette",
+    "search?q=glow",
+    "search?q=product-screenshots",
+    "search?q=bento-grid",
+    "search?q=keyboard",
+    "search?q=testimonials",
+    "search?q=extension-cards",
+    "search?q=mega-footer"
+  ],
+  "pageSha256": "0facab04be4bc5b077bb6f73a7f3583acdda4e41fddeab9cce0e2f6eac10eb94"
+}

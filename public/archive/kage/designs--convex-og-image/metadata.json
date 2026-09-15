@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--convex-og-image",
+  "source": "kage",
+  "slug": "designs--convex-og-image",
+  "url": "https://kage.design/designs/convex-og-image",
+  "name": "Convex 'All Gas, No Breakages' OG social card by convex.dev",
+  "description": "A 1200×630 social card that reads like a screen-printed poster: a warm cream field with a faint graph-paper grid, a two-line all-caps headline in a very heavy grotesque (~120px, line-height ≈0.95) pinned to the upper left, and a signature ribbon of flat stripes — amber, red-orange and purple nested inside a near-black L-shaped frame — running along the bottom before making one shared rounded 90° turn up the right edge. Focal order is headline → colour ribbon → cream-on-dark wordmark lockup in the bottom-left band. Everything is flat fill with no gradients, shadows or photography, so the black type and the three saturated stripe colours carry all the contrast.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/convex-dev/5704689a-4e54-47c5-9b94-ca2cfc834ea7-1789073646778.webp",
+  "prompts": [
+    "kage/designs--convex-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=social-card",
+    "search?q=racing-stripes",
+    "search?q=graph-paper-grid",
+    "search?q=all-caps-headline",
+    "search?q=wordmark",
+    "search?q=flat-poster",
+    "search?q=high-contrast"
+  ],
+  "pageSha256": "9f2248d6e1ea7abe5e235ba17ee5aefd6dfc73303f3dd178f49b36926472ad46"
+}

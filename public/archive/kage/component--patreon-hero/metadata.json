@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--patreon-hero",
+  "source": "kage",
+  "slug": "component--patreon-hero",
+  "url": "https://kage.design/component/patreon-hero",
+  "name": "Image-led creator hero by patreon.com",
+  "description": "The hero uses a cinematic portrait, oversized two-line statement, directional controls, and a small creator proof point to make the value proposition feel human and immediate.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/patreon-com/f09b5697-c1c9-4600-81d4-e7bb56a9df3f-1789146381-1.webp",
+  "prompts": [
+    "kage/component--patreon-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/patreon-landing-page",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=editorial",
+    "search?q=carousel",
+    "search?q=headline",
+    "search?q=image"
+  ],
+  "pageSha256": "f475b87f73cf782488b9b940e560b21edb4049102ca07cbc5dbe9bc9cde56b94"
+}

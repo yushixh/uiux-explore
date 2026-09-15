@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cloudflare-footer",
+  "source": "kage",
+  "slug": "component--cloudflare-footer",
+  "url": "https://kage.design/component/cloudflare-footer",
+  "name": "Multi-column site footer by cloudflare.com",
+  "description": "The footer organizes a broad set of site links into labeled columns, with a wordmark area above a compact legal and privacy bar.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cloudflare-com/1ca6ff30-a094-43e2-8124-fd26c9356e55-1789213792-8.webp",
+  "prompts": [
+    "kage/component--cloudflare-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "cloudflare-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "900b2e5c8fb6ecea88e6cd9290e221ed24aad71942ef1f8c1934857051c63a67"
+}

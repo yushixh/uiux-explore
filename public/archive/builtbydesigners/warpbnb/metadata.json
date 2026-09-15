@@ -1,0 +1,22 @@
+{
+  "id": "warpbnb",
+  "name": "Warpbnb",
+  "description": "A playful time-travel marketplace for browsing vacation rentals from ancient Egypt to a future Mars colony, with stays organized by theme, era and guest count.",
+  "shortInfo": "Book a stay anywhere in time",
+  "url": "https://www.warpbnb.com/",
+  "handle": "kingermayank",
+  "creatorName": "Mayank",
+  "creatorUrl": "https://x.com/kingermayank",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Play",
+  "categories": [
+    "Play"
+  ],
+  "launchDate": "2026-03-23",
+  "added": "2026-08-18",
+  "sortOrder": 13,
+  "icon": "/backend/icons/warpbnb.png",
+  "avatar": "/backend/avatars/warpbnb.jpg",
+  "shot": "/screenshots/warpbnb.jpg"
+}

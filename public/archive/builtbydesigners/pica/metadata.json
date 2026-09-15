@@ -1,0 +1,23 @@
+{
+  "id": "pica",
+  "name": "Pica",
+  "description": "A free, native macOS font manager with custom collections, logo and color previews, and one-click font activation. Explore OpenType features, watch folders for new fonts, and work with Chinese, Japanese, and Korean type.",
+  "shortInfo": "Organize and preview your fonts on Mac",
+  "url": "https://pica.joshpuckett.me/",
+  "handle": "joshpuckett",
+  "creatorName": "Josh Puckett",
+  "creatorUrl": "https://joshpuckett.me/",
+  "creatorVerified": true,
+  "platform": "Desktop",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-09-05",
+  "added": "2026-09-05",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/pica/icon-mtodkecs-pvxfGOiDmcf7wIGO7rF56eUvgGS039.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/pica/avatar-mtodkebf-OoZqqsyUNamggp5ND9hcbSSVQHqAge.jpg",
+  "shot": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/pica/shot-mtqwcgj8-NpIZvV1A3q4ZOfi6azxd9fqHDPHu7V.png",
+  "shot2x": ""
+}

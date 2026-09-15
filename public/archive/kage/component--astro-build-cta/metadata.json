@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--astro-build-cta",
+  "source": "kage",
+  "slug": "component--astro-build-cta",
+  "url": "https://kage.design/component/astro-build-cta",
+  "name": "Atmospheric command CTA by astro.build",
+  "description": "This CTA works through a focused, centered conversion moment: a bold headline, a high-contrast primary action, and a compact command snippet that gives technical users an immediate next step. The expansive blue-green atmospheric background adds energy while keeping the interaction cluster calm and legible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/astro-build/2448cc02-1e48-497c-9333-8941f9d81557-1789073853-9.webp",
+  "prompts": [
+    "kage/component--astro-build-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/astro-build-landing-page",
+  "product": "astro-build",
+  "tags": [
+    "search?q=cta",
+    "search?q=gradient",
+    "search?q=command"
+  ],
+  "pageSha256": "03c5b0fc3c119222a3a09e61d5b41e2803e8e6b7e64438f48cd06b92a7d9f444"
+}

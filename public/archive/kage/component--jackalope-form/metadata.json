@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--jackalope-form",
+  "source": "kage",
+  "slug": "component--jackalope-form",
+  "url": "https://kage.design/component/jackalope-form",
+  "name": "Visual personalization controls by Jackalope",
+  "description": "A split section lets users preview a workspace while choosing palette and light/dark preferences, turning abstract personalization into a tangible interaction.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/jackalope/0b3edf93-8385-4e4a-8f92-3c01052ad81d-1789193038-6.webp",
+  "prompts": [
+    "kage/component--jackalope-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/jackalope-landing-page",
+  "product": "jackalope",
+  "tags": [
+    "search?q=form",
+    "search?q=customization",
+    "search?q=preferences"
+  ],
+  "pageSha256": "7303630a3f3f180e2cb5c727eb510b1b68e3848719bb2343c28adba7ce9ec987"
+}

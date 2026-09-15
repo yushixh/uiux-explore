@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--deno-feature-grid",
+  "source": "kage",
+  "slug": "component--deno-feature-grid",
+  "url": "https://kage.design/component/deno-feature-grid",
+  "name": "Code-led feature split by deno.com",
+  "description": "A spacious editorial feature section pairs an overlapping code-window visual with a concise benefit narrative and a single mint call to action. The strong asymmetry, restrained palette, and embedded UI details make a technical capability feel concrete without becoming a dense dashboard.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073865-3.webp",
+  "prompts": [
+    "kage/component--deno-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/deno-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=code-preview",
+    "search?q=developer-tools",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "ab82ebad092f66ca186fcb52d7703dee0bad61fb442ab243347e42a7efd7e984"
+}

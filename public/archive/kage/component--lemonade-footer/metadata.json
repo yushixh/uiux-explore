@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lemonade-footer",
+  "source": "kage",
+  "slug": "component--lemonade-footer",
+  "url": "https://kage.design/component/lemonade-footer",
+  "name": "Deep-link site footer and legal disclosures by lemonade.com",
+  "description": "The dark footer is information-dense but organized into repeated link columns, a utility row with contact and app links, and several separated legal disclosure blocks. Strong contrast and hierarchy make a large sitemap scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lemonade-com/fec12946-54bf-4cf0-ac52-dcd9bbeb95c9-1789146827-8.webp",
+  "prompts": [
+    "kage/component--lemonade-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lemonade-landing-page",
+  "product": "lemonade-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=site+links",
+    "search?q=legal"
+  ],
+  "pageSha256": "baac2ad40f9b49c391f506ae8df1bd79722f66f78d63fbdd075c90e765f9d0f7"
+}

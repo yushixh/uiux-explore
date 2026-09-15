@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--chime-landing-page",
+  "source": "kage",
+  "slug": "designs--chime-landing-page",
+  "url": "https://kage.design/designs/chime-landing-page",
+  "name": "Chime fintech banking landing page by chime.com",
+  "description": "A fintech landing page where a single deep forest-green surface carries almost the whole narrative: hero, feature explorer, bento pair, download panel and mission band are all variations of the same green, punctuated only by a black press marquee and one off-white interlude around the investing section. Hierarchy comes from extreme type scale (90px+ display headlines against 11px legal fine print) and a repeated green-check benefit list, while device mockups with live app UI and floating translucent info cards supply the proof. Below the hero the rhythm alternates full-bleed dark bands with white testimonial cards and a light editorial section, closing with an oversized mission statement behind a giant translucent wordmark and a five-column footer sunk in dense regulatory fine print.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146443003.webp",
+  "prompts": [
+    "kage/designs--chime-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=deep-green",
+    "search?q=checkmark-benefits",
+    "search?q=trust-marquee",
+    "search?q=device-mockups",
+    "search?q=bento-cards",
+    "search?q=testimonial-carousel",
+    "search?q=faq-accordion",
+    "search?q=mission-band"
+  ],
+  "pageSha256": "b16668eddf8c10fd499b302b88cb2ad7ec009ba8ae2da61224b4e2c05a7acbd6"
+}

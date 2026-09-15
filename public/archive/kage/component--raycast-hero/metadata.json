@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--raycast-hero",
+  "source": "kage",
+  "slug": "component--raycast-hero",
+  "url": "https://kage.design/component/raycast-hero",
+  "name": "Minimal dark product hero by raycast.com",
+  "description": "A spacious, centered product hero that creates focus through extreme restraint: a compact navigation bar above a large headline, supporting copy, primary download action, and a subtle secondary link. High contrast, generous vertical rhythm, and restrained borders make the product feel fast, premium, and trustworthy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067515-1.webp",
+  "prompts": [
+    "kage/component--raycast-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark-mode",
+    "search?q=saas",
+    "search?q=navigation",
+    "search?q=cta"
+  ],
+  "pageSha256": "4db836f9826254ba3778ad5d4613dc98fe94b8c8a3378e7f21856c86ea823943"
+}

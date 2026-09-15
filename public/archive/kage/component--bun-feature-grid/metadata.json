@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bun-feature-grid",
+  "source": "kage",
+  "slug": "component--bun-feature-grid",
+  "url": "https://kage.design/component/bun-feature-grid",
+  "name": "Interactive workflow feature grid by bun.sh",
+  "description": "This section works by pairing a bold editorial introduction with a numbered workflow list and a live output panel, turning abstract product benefits into a sequence users can inspect and replay. The restrained monochrome palette, compact technical typography, and active-row treatment make the interface feel fast, precise, and tool-oriented.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073822-3.webp",
+  "prompts": [
+    "kage/component--bun-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=interactive",
+    "search?q=developer-tools",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "53d48705137ebfbb23925c46233895f9d83611af52e40e44e94e125311f76dbe"
+}

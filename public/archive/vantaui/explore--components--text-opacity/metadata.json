@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--text-opacity",
+  "source": "vantaui",
+  "slug": "explore--components--text-opacity",
+  "url": "https://www.vantaui.com/explore/components/text-opacity",
+  "name": "Text Opacity - VantaUI",
+  "description": "A text effect that animates the gradient opacity",
+  "image": "https://vantaui-registry.vercel.app/components/text-opacity",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "79b17957ee55e141d8ae60aba6a831c38bcb4b24f1a847139e0dfdfb67b0759e"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--arc-logo-cloud",
+  "source": "kage",
+  "slug": "component--arc-logo-cloud",
+  "url": "https://kage.design/component/arc-logo-cloud",
+  "name": "Scrolling testimonial logo cloud by arc.net",
+  "description": "A high-contrast horizontal testimonial strip combines oversized quoted endorsements with bold publication names in a continuously clipped row. Wavy separators and a textured, saturated top band give the otherwise simple social-proof component a distinctive editorial rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/arc-net/a4b44bb4-fce3-4305-950f-d12af4bc9a59-1789060398-3.webp",
+  "prompts": [
+    "kage/component--arc-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/arc-landing-page",
+  "product": "arc-net",
+  "tags": [
+    "search?q=testimonial",
+    "search?q=marquee",
+    "search?q=editorial",
+    "search?q=brand"
+  ],
+  "pageSha256": "f12f96e6dc98715d354337176c46f06a6f897eabca7f275449af23e0d9c8e360"
+}

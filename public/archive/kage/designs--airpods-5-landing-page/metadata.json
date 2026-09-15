@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--airpods-5-landing-page",
+  "source": "kage",
+  "slug": "designs--airpods-5-landing-page",
+  "url": "https://kage.design/designs/airpods-5-landing-page",
+  "name": "AirPods 5 product landing page by AirPods 5",
+  "description": "A full-length Apple product page that alternates between immersive full-bleed gradient \"scenes\" (orange/blue ANC, magenta audio, teal/green charging) and clean white editorial sections. The rhythm works by shifting colour temperature every act: a cinematic hero, a tight highlight card carousel, a product close-up strip, then colour-blocked feature acts with centred eyebrow-label headlines, followed by horizontal card carousels, a stats trio, a services band, and a two-column comparison finish. Type is strictly two-tier (huge semibold display + small supporting copy), with horizontal carousels and eyebrow labels doing the navigational work.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/airpods-5/0db86e09-94cf-4830-8c9a-1751c9bb478c-1789106581845.webp",
+  "prompts": [
+    "kage/designs--airpods-5-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/teenage-engineering-landing-page",
+  "product": "airpods-5",
+  "tags": [
+    "search?q=hero",
+    "search?q=product-showcase",
+    "search?q=feature-cards",
+    "search?q=carousel",
+    "search?q=gradient-scene",
+    "search?q=comparison",
+    "search?q=pre-order",
+    "search?q=apple-style"
+  ],
+  "pageSha256": "b879c99764b0e081db26201d2747b6582b83e60cae73b363bd96b6e1dbcd4889"
+}

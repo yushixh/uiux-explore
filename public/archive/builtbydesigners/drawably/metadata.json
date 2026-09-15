@@ -1,0 +1,22 @@
+{
+  "id": "drawably",
+  "name": "Drawably",
+  "description": "A lightweight library of hand-drawn UI controls for React and plain JavaScript. Buttons, inputs, cards, and text decorations generate fresh pen sketches, with subtle CSS animation and real form controls underneath.",
+  "shortInfo": "Hand-drawn UI controls with a fresh pen sketch",
+  "url": "https://www.drawably.dev/",
+  "handle": "dwhitedesign",
+  "creatorName": "Daniel White",
+  "creatorUrl": "https://x.com/dwhitedesign",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Development",
+  "categories": [
+    "Development"
+  ],
+  "launchDate": "2026-08-15",
+  "added": "2026-09-09",
+  "sortOrder": 47,
+  "icon": "/icons/drawably.svg",
+  "avatar": "/backend/avatars/dwhitedesign.jpg",
+  "shot": "/screenshots/drawably.png"
+}

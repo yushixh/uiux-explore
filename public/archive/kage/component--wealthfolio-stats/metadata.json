@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--wealthfolio-stats",
+  "source": "kage",
+  "slug": "component--wealthfolio-stats",
+  "url": "https://kage.design/component/wealthfolio-stats",
+  "name": "Proof-point stats strip by Wealthfolio",
+  "description": "A compact, editorial stats section pairs four high-contrast proof points with understated community and discovery badges. The restrained palette, generous spacing, and small supporting labels make credibility feel calm and factual rather than promotional.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfolio/bf50ab71-633d-4b86-816e-5951eb096cd4-1789106473-6.webp",
+  "prompts": [
+    "kage/component--wealthfolio-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfolio-landing-page",
+  "product": "wealthfolio",
+  "tags": [
+    "search?q=stats",
+    "search?q=social+proof",
+    "search?q=metrics",
+    "search?q=badges"
+  ],
+  "pageSha256": "59bd2b2a498286911609ce5ceedf7fc9938cc6585a38a432154cb4ecc9a6d723"
+}

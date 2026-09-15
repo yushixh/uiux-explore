@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--neon-empty-state",
+  "source": "kage",
+  "slug": "designs--neon-empty-state",
+  "url": "https://kage.design/designs/neon-empty-state",
+  "name": "Neon cloud database platform landing page by neon.tech",
+  "description": "A high-contrast infrastructure landing page uses near-black surfaces, oversized white typography, muted gray supporting copy, and electric green accents to create a technical but editorial tone. The page moves from a dense hero with navigation, abstract database imagery, capability tiles, and customer logos into spacious feature demonstrations; pale mint interludes reset the rhythm before returning to black sections for branching, authentication, enterprise features, proof points, a final CTA, and a compact multi-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/neon-tech/ec270806-81ac-4f67-8b23-bd56e790768f-1789060084925.webp",
+  "prompts": [
+    "kage/designs--neon-empty-state/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=large-type",
+    "search?q=product-sections",
+    "search?q=data-visualizations",
+    "search?q=feature-grid",
+    "search?q=light-dark-contrast",
+    "search?q=developer-platform",
+    "search?q=dense-footer"
+  ],
+  "pageSha256": "30763547d1751eac0d521b819c784aed62ba4290a74dd9b57a32119f003473e2"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--wealthfront-gallery",
+  "source": "kage",
+  "slug": "component--wealthfront-gallery",
+  "url": "https://kage.design/component/wealthfront-gallery",
+  "name": "Customer stories gallery by wealthfront.com",
+  "description": "Three tall, image-led story cards form a horizontally aligned gallery with dark overlays, compact metadata, bottom-aligned headlines, summaries, and circular arrow controls.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfront-com/3e3be85e-7bdd-4e6a-8630-f389b2c5e8da-1789146564-4.webp",
+  "prompts": [
+    "kage/component--wealthfront-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=stories",
+    "search?q=gallery",
+    "search?q=cards"
+  ],
+  "pageSha256": "a65a0c560d06a0da8688d00a2552dabd253e1bcb2cc2d83692dabdee0d9c74c3"
+}

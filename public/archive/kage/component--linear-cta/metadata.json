@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--linear-cta",
+  "source": "kage",
+  "slug": "component--linear-cta",
+  "url": "https://kage.design/component/linear-cta",
+  "name": "Dark editorial changelog CTA by linear.app",
+  "description": "A restrained changelog section uses a three-column timeline to make updates scannable, then transitions into a spacious, high-contrast testimonial or conversion area. Subtle rules, tiny metadata, and one bright accent create a premium product-marketing rhythm without visual clutter.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789060209-10.webp",
+  "prompts": [
+    "kage/component--linear-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/linear-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=dark+mode",
+    "search?q=editorial",
+    "search?q=timeline",
+    "search?q=cta"
+  ],
+  "pageSha256": "b9b44068b872aa6d324c7f2a64571d55352e5347ba86ffb823df5eec3c1ffec4"
+}

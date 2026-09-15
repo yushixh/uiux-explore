@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--shiui-feature-grid-7",
+  "source": "kage",
+  "slug": "component--shiui-feature-grid-7",
+  "url": "https://kage.design/component/shiui-feature-grid-7",
+  "name": "Data and content blocks inventory by SHIUI",
+  "description": "Data-focused specimens show tables, counters, quotes, profiles, accordions, stock-like rows, code tokens, and compact content modules in a reusable card system.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/shiui/3111a107-5e9b-4487-9176-525a4b4c448a-1789365767-8.webp",
+  "prompts": [
+    "kage/component--shiui-feature-grid-7/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/shiui-navigation",
+  "product": "shiui",
+  "tags": [
+    "search?q=data",
+    "search?q=content",
+    "search?q=tables"
+  ],
+  "pageSha256": "0a03afbb46276af6f068ccc4933131959d96cfe8a04035487e0a63f621370446"
+}

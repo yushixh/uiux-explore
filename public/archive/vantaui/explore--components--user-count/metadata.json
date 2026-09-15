@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--user-count",
+  "source": "vantaui",
+  "slug": "explore--components--user-count",
+  "url": "https://www.vantaui.com/explore/components/user-count",
+  "name": "User Count - VantaUI",
+  "description": "Animated live user count",
+  "image": "https://vantaui-registry.vercel.app/components/user-count",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "36c40d7ca869a1a20712546a26f5c06c31285bda33f0724c33401d6cb5bf37f2"
+}

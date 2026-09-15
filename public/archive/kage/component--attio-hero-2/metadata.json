@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--attio-hero-2",
+  "source": "kage",
+  "slug": "component--attio-hero-2",
+  "url": "https://kage.design/component/attio-hero-2",
+  "name": "Radiant context hero by attio.com",
+  "description": "A cinematic dark hero that pairs a focused product promise with a large glowing arc and a row of concise capability statements. It works through strong contrast, restrained typography, subtle grid texture, and a structured lower information band.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060459-5.webp",
+  "prompts": [
+    "kage/component--attio-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=dark",
+    "search?q=hero",
+    "search?q=gradient",
+    "search?q=feature-grid"
+  ],
+  "pageSha256": "6e3fd01723169f331917abab819fe37c3d1b4a552bd35dbab37c9a20bde853cf"
+}

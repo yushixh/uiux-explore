@@ -1,0 +1,22 @@
+{
+  "id": "weatherbunny",
+  "name": "Weatherbunny",
+  "description": "An outfit helper that tells you what to wear for today's weather, so you never over- or under-dress again.",
+  "shortInfo": "Dress for the weather, cutely",
+  "url": "https://apps.apple.com/us/app/weatherbunny-outfit-helper/id6761869760",
+  "handle": "pauline_makes",
+  "creatorName": "Pauline Wee",
+  "creatorUrl": "https://x.com/pauline_makes",
+  "creatorVerified": true,
+  "platform": "Mobile",
+  "categoryLabel": "Lifestyle",
+  "categories": [
+    "Lifestyle"
+  ],
+  "launchDate": "2026-09-02",
+  "added": "2026-09-02",
+  "sortOrder": 36,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/weatherbunny/reviewed-1788762525543-weatherbunny-vibIwedZkethvZLBHtkmbtro0LTece.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/world-time-bestie/avatar-mtq3ackp-U8EsKM2l5JI5Cnwyk8EPjODto63ZIt.jpg",
+  "shot": "/screenshots/weatherbunny.png"
+}

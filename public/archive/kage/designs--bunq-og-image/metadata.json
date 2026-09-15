@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--bunq-og-image",
+  "source": "kage",
+  "slug": "designs--bunq-og-image",
+  "url": "https://kage.design/designs/bunq-og-image",
+  "name": "bunq 'Mobile banking made easy' social card by bunq.com",
+  "description": "A 1200×630 share card built on an asymmetric split: the left ~55% is a quiet text zone over a deep navy vertical gradient, carrying a two-line headline in a heavy rounded geometric sans at roughly 96px, with a three-line trial-offer paragraph at about a third of that size directly beneath. The right side holds a photographic hand holding a slightly tilted phone that bleeds off the bottom-right corner; its screen of vertical rainbow stripes is the only saturated colour on the canvas, so the product becomes the focal point even though the type is far larger. Hierarchy comes purely from scale and contrast — no cards, borders, buttons or decorative elements, just generous padding and a soft shadow grounding the phone.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/bunq-com/593eb1f4-83b0-4b17-84e9-adfcb6724ed8-1789146742474.webp",
+  "prompts": [
+    "kage/designs--bunq-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "bunq-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=asymmetric-split",
+    "search?q=product-photo",
+    "search?q=navy-gradient",
+    "search?q=rainbow-accent",
+    "search?q=bold-headline",
+    "search?q=rounded-sans"
+  ],
+  "pageSha256": "7ecff76a262bef7a20cd06cfdbfdc76c9ddce9313b315b08d895d513ed1bcec9"
+}

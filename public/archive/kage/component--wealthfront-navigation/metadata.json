@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--wealthfront-navigation",
+  "source": "kage",
+  "slug": "component--wealthfront-navigation",
+  "url": "https://kage.design/component/wealthfront-navigation",
+  "name": "Browser notice, announcement, and primary navigation by wealthfront.com",
+  "description": "A compact browser warning and celebratory announcement sit above the dark purple Wealthfront navigation. The navigation balances a left-aligned wordmark, centered product links, and right-aligned authentication actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfront-com/3e3be85e-7bdd-4e6a-8630-f389b2c5e8da-1789146563-0.webp",
+  "prompts": [
+    "kage/component--wealthfront-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=announcement"
+  ],
+  "pageSha256": "e10d996f6bb7e310742caf57c45c370b460ec0e18d59c834100d3595695aa038"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--loom-landing-page",
+  "source": "kage",
+  "slug": "designs--loom-landing-page",
+  "url": "https://kage.design/designs/loom-landing-page",
+  "name": "Loom video messaging homepage by loom.com",
+  "description": "A spacious, white landing page uses oversized black headings, compact supporting copy, and bright blue pill CTAs to establish a clear, friendly hierarchy. The page develops from a cinematic rounded video hero into social proof, alternating product-feature rows, pastel use-case cards, compact feature lists, blue editorial panels, dark security and enterprise sections, a testimonial carousel, and a broad pale-blue link-heavy footer. Rounded containers, soft shadows, blue accents, and pastel product imagery keep the long page cohesive while the rhythm shifts between open editorial whitespace and denser utility sections.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060013127.webp",
+  "prompts": [
+    "kage/designs--loom-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/descript-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=video-hero",
+    "search?q=rounded-cards",
+    "search?q=logo-grid",
+    "search?q=feature-sections",
+    "search?q=pastel-illustrations",
+    "search?q=blue-cta-panels",
+    "search?q=enterprise-section",
+    "search?q=mega-footer"
+  ],
+  "pageSha256": "4de2293154cddf63c72d6a4ccf5f8c628ab25230ac4a52938d67f5a05c061446"
+}

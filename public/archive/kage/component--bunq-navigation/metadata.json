@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bunq-navigation",
+  "source": "kage",
+  "slug": "component--bunq-navigation",
+  "url": "https://kage.design/component/bunq-navigation",
+  "name": "Minimal mobile navigation by bunq.com",
+  "description": "A sparse black navigation bar uses a small wordmark at left and a hamburger control at right, preserving maximum space for the product message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bunq-com/4420c8b4-fa9d-40bf-a5d3-de95f2febdf1-1789146828-0.webp",
+  "prompts": [
+    "kage/component--bunq-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bunq-landing-page",
+  "product": "bunq-com",
+  "tags": [
+    "search?q=black",
+    "search?q=compact",
+    "search?q=menu"
+  ],
+  "pageSha256": "ec7de478cd497765f917337761d704a93e9df18c112c9d6660cfd9f2165e3ce7"
+}

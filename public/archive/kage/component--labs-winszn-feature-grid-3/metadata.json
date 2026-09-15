@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--labs-winszn-feature-grid-3",
+  "source": "kage",
+  "slug": "component--labs-winszn-feature-grid-3",
+  "url": "https://kage.design/component/labs-winszn-feature-grid-3",
+  "name": "Numbered process rows by labs.winszn.xyz",
+  "description": "This section works by turning a process into a calm, highly scannable sequence: a small accent index anchors each row, a strong label names the stage, and a wider column carries the practical explanation. Thin rules and generous vertical spacing create structure without cards or visual clutter.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/labs-winszn-xyz/4df5b54d-904b-4cf9-bf65-93181d626a5e-1789097620-5.webp",
+  "prompts": [
+    "kage/component--labs-winszn-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/labs-winszn-landing-page",
+  "product": "labs-winszn-xyz",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=process",
+    "search?q=dark-ui"
+  ],
+  "pageSha256": "66608d2f9637e3533f8c1ba391612a349f941375e4e108885966afbb3cc5fda5"
+}

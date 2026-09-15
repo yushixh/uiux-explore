@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--wealthfront-hero",
+  "source": "kage",
+  "slug": "component--wealthfront-hero",
+  "url": "https://kage.design/component/wealthfront-hero",
+  "name": "High-yield cash account hero by wealthfront.com",
+  "description": "The hero uses a high-contrast purple gradient, oversized APY headline, italic supporting statement, benefit list, CTA pair, and a large angled phone/card visual. A ratings strip and expandable APY notice complete the band at its bottom.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfront-com/3e3be85e-7bdd-4e6a-8630-f389b2c5e8da-1789146564-1.webp",
+  "prompts": [
+    "kage/component--wealthfront-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=finance",
+    "search?q=cta"
+  ],
+  "pageSha256": "39d9762c418178eb7dabab0f1f9eb87e7ad42efe2415f3e112611ea2ac30fd08"
+}

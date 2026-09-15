@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workid-hero-2",
+  "source": "kage",
+  "slug": "component--workid-hero-2",
+  "url": "https://kage.design/component/workid-hero-2",
+  "name": "Verified global network hero by WorkID.ai",
+  "description": "A centered, confidence-building hero pairs a concise value proposition with a single primary CTA and a wide visual proof point beneath it. The dotted world map and verified profile markers turn an abstract professional network into an immediate, human, globally distributed concept.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workid-ai/2843b616-ed30-482d-adaf-40c736e4842a-1789106673-3.webp",
+  "prompts": [
+    "kage/component--workid-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workid-landing-page",
+  "product": "workid-ai",
+  "tags": [
+    "search?q=hero",
+    "search?q=network",
+    "search?q=trust",
+    "search?q=cta"
+  ],
+  "pageSha256": "781f6e031f431e14c7b6baf76d6adc1acd767bc1d099e3ae075778c14a9053f5"
+}

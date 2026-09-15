@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--ai-observability-by-openobserve-pricing-table",
+  "source": "kage",
+  "slug": "component--ai-observability-by-openobserve-pricing-table",
+  "url": "https://kage.design/component/ai-observability-by-openobserve-pricing-table",
+  "name": "Dark multi-column footer with newsletter signup by AI Observability by OpenObserve",
+  "description": "This footer works through a strong column rhythm, restrained dark contrast, and a bright newsletter card that creates a clear conversion focus without competing with navigation. Trust badges and a persistent announcement bar add credibility and timely action at the bottom of the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ai-observability-by-openobserve/e945d001-9c66-4981-a493-d9cb08ea77ee-1789106508-9.webp",
+  "prompts": [
+    "kage/component--ai-observability-by-openobserve-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=footer",
+    "search?q=newsletter",
+    "search?q=navigation",
+    "search?q=dark+ui",
+    "search?q=announcement+bar"
+  ],
+  "pageSha256": "8f7cc37821ba7988a68af00a46d132af57616dd1a70fdc77f99f14eef0cf51e8"
+}

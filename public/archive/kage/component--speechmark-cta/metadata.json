@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--speechmark-cta",
+  "source": "kage",
+  "slug": "component--speechmark-cta",
+  "url": "https://kage.design/component/speechmark-cta",
+  "name": "Download and release signup CTA by Speechmark",
+  "description": "A focused, reassuring conversion block that pairs a primary download action with lightweight product metadata, an optional release-notes signup, and a feedback link. The dark, spacious composition keeps the main action prominent while the secondary paths feel useful rather than distracting.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/speechmark/77b904ee-7a59-4d24-b7d4-3e274188b21e-1789106594-9.webp",
+  "prompts": [
+    "kage/component--speechmark-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/speechmark-landing-page",
+  "product": "speechmark",
+  "tags": [
+    "search?q=cta",
+    "search?q=download",
+    "search?q=newsletter",
+    "search?q=footer"
+  ],
+  "pageSha256": "639ad4583628b5a7495a8c4f864a47f1cd6d4d37e066528ecb0ce8c658d6cada"
+}

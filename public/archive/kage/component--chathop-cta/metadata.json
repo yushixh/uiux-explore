@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chathop-cta",
+  "source": "kage",
+  "slug": "component--chathop-cta",
+  "url": "https://kage.design/component/chathop-cta",
+  "name": "Copy-anywhere utility CTA by ChatHop",
+  "description": "A focused dark section explains a secondary utility in a headline, short paragraph, and small contextual badge rather than competing with the primary hero CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chathop/788ba903-59f3-47ff-b1c8-618bf4f4ae3c-1789193010-4.webp",
+  "prompts": [
+    "kage/component--chathop-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chathop-landing-page",
+  "product": "chathop",
+  "tags": [
+    "search?q=cta",
+    "search?q=utility",
+    "search?q=dark"
+  ],
+  "pageSha256": "5a07615b91640b9427144cf0222e618b031ea31cc6f621ff41af041423c8176b"
+}

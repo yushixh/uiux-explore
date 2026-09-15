@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--delete-dialog",
+  "source": "vantaui",
+  "slug": "explore--components--delete-dialog",
+  "url": "https://www.vantaui.com/explore/components/delete-dialog",
+  "name": "Delete Dialog - VantaUI",
+  "description": "A polished confirmation dialog with a copyable verification phrase and an accessible slide-to-delete control.",
+  "image": "https://vantaui-registry.vercel.app/components/delete-dialog",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "e9f40f405ee2471804e04eee9219782c71d89918c2f464fa9b5b0c5d1eb6ed64"
+}

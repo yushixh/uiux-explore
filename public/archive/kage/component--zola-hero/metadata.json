@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--zola-hero",
+  "source": "kage",
+  "slug": "component--zola-hero",
+  "url": "https://kage.design/component/zola-hero",
+  "name": "Wedding planning hero by zola.com",
+  "description": "A full-bleed lifestyle visual supports a centered headline, explanatory copy, dual CTAs, and a scroll cue, creating an immediate emotional entry point.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/zola-com/ad1936e8-70c2-47e9-b9d5-59869832f93f-1789146310-2.webp",
+  "prompts": [
+    "kage/component--zola-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/zola-landing-page",
+  "product": "zola-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=video",
+    "search?q=actions"
+  ],
+  "pageSha256": "62a7b6180e9056f168a6d54c16e7071825377947e00dd564758e48c29bed08a4"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--prisma-feature-grid-4",
+  "source": "kage",
+  "slug": "component--prisma-feature-grid-4",
+  "url": "https://kage.design/component/prisma-feature-grid-4",
+  "name": "Integrated feature grid by prisma.io",
+  "description": "A calm two-column feature section pairs a strong outcome-led headline and concise benefit list with a large, rounded product visual. Small icon tiles, generous whitespace, restrained borders, and a subtle multicolour accent make a complex platform feel unified without overwhelming the reader.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073820-6.webp",
+  "prompts": [
+    "kage/component--prisma-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=split-layout",
+    "search?q=saas",
+    "search?q=product-story"
+  ],
+  "pageSha256": "6b384f2d029c23ec42b5e400b524aa925f28331f051a931edc0f07c7e028549c"
+}

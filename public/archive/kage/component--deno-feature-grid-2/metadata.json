@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--deno-feature-grid-2",
+  "source": "kage",
+  "slug": "component--deno-feature-grid-2",
+  "url": "https://kage.design/component/deno-feature-grid-2",
+  "name": "Editorial feature showcase by deno.com",
+  "description": "A spacious, editorial feature section that pairs bold product messaging with proof-oriented UI panels. Alternating text-and-demo rows, oversized headings, and restrained mint accents make technical capabilities feel tangible without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073865-4.webp",
+  "prompts": [
+    "kage/component--deno-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/deno-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=developer-tools",
+    "search?q=editorial",
+    "search?q=bento-layout"
+  ],
+  "pageSha256": "b5e899f682a0bc8bb645cbbe68af2af2398c379f6a0a7dd75c0381e6108d84b9"
+}

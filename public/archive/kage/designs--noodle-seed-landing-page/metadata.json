@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--noodle-seed-landing-page",
+  "source": "kage",
+  "slug": "designs--noodle-seed-landing-page",
+  "url": "https://kage.design/designs/noodle-seed-landing-page",
+  "name": "Noodle Seed AI agent platform landing page by Noodle Seed",
+  "description": "A long-form, near-black AI platform landing page uses oversized lightweight white typography, restrained gray copy, and thin dividers to create a calm technical rhythm. The hero is sparse and centered, then the page alternates between proof points, product demos, warm ambient-gradient feature panels, architecture diagrams, dense numbered security content, FAQ rows, and a compact CTA/footer; orange-gold glow is reserved for buttons, runtime imagery, and subtle background atmosphere.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/noodle-seed/892ab390-1bf9-4a7d-a1b3-8cebe5820ba8-1789106634481.webp",
+  "prompts": [
+    "kage/designs--noodle-seed-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "noodle-seed",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=agent-platform",
+    "search?q=interactive-demo",
+    "search?q=thin-borders",
+    "search?q=glowing-accents",
+    "search?q=accordion-faq",
+    "search?q=long-form"
+  ],
+  "pageSha256": "b74ac3fcc0d8628fcaf2c3b26b5ef286ebc48ccae9494098c87f6dacc2d178bc"
+}

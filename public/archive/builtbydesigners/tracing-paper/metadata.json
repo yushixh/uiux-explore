@@ -1,0 +1,22 @@
+{
+  "id": "tracing-paper",
+  "name": "Tracing Paper",
+  "description": "A browser-based tracing workspace for layering reference images beneath translucent sheets, with grids, reveal regions and opacity controls for drawing studies and warmups.",
+  "shortInfo": "Digital tracing paper for studies and warmups",
+  "url": "https://sites.laura.computer/003/",
+  "handle": "Lauracsc_",
+  "creatorName": "Laura",
+  "creatorUrl": "https://x.com/Lauracsc_",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-08-18",
+  "added": "2026-08-18",
+  "sortOrder": 6,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/tracing-paper/icon-mtjumgxz-qWbvZ0M4o0Pc5YuKvhNOXFEFEySInc.png",
+  "avatar": "/backend/avatars/tracing-paper.jpg",
+  "shot": "/screenshots/tracing-paper.png"
+}

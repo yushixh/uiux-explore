@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--shiny-button",
+  "source": "vantaui",
+  "slug": "explore--components--shiny-button",
+  "url": "https://www.vantaui.com/explore/components/shiny-button",
+  "name": "Shiny Button - VantaUI",
+  "description": "Tracks the user’s cursor position to drag a realistic light reflection across the button’s surface.",
+  "image": "https://vantaui-registry.vercel.app/components/shiny-button",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "0aa5dcfd40b2763c9d5d615ae561fe01e9c52b54617921fb36a5282f22b11a59"
+}

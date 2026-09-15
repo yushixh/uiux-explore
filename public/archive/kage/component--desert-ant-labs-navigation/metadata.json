@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--desert-ant-labs-navigation",
+  "source": "kage",
+  "slug": "component--desert-ant-labs-navigation",
+  "url": "https://kage.design/component/desert-ant-labs-navigation",
+  "name": "Minimal split navigation bar by Desert Ant Labs",
+  "description": "A quiet, spacious header that balances compact brand identification on the left with a restrained navigation cluster on the right. Its effectiveness comes from strong horizontal alignment, generous whitespace, subtle controls, and a single understated dropdown affordance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/desert-ant-labs/9afde706-8b4f-4c5f-a9d8-7a634f78e07d-1789106569-0.webp",
+  "prompts": [
+    "kage/component--desert-ant-labs-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/desert-ant-labs-landing-page",
+  "product": "desert-ant-labs",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=minimal",
+    "search?q=dropdown"
+  ],
+  "pageSha256": "9c42812b21ba531c7e3db9d37abe8b3761fc0dba7d2f6a0d89e5375fcf4f6baa"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--warp-hero",
+  "source": "kage",
+  "slug": "component--warp-hero",
+  "url": "https://kage.design/component/warp-hero",
+  "name": "Grid-backed product hero by warp.dev",
+  "description": "A stark, editorial hero that combines a large two-style headline with compact product positioning, paired CTAs, and a framed terminal or product preview. A faint technical grid and dot pattern create depth without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060388-1.webp",
+  "prompts": [
+    "kage/component--warp-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=hero",
+    "search?q=grid",
+    "search?q=monospace",
+    "search?q=saas"
+  ],
+  "pageSha256": "2411f791b01c0f8453b131025558cfcfa3f8511a74f275a18ef2b002e6b54605"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ynab-hero",
+  "source": "kage",
+  "slug": "component--ynab-hero",
+  "url": "https://kage.design/component/ynab-hero",
+  "name": "Hero with product visual and trial CTA by ynab.com",
+  "description": "The hero uses a vivid blue gradient field, oversized question-led headline, short reassurance copy, trial CTA, and a large angled mobile product visual with decorative floating money shapes. A wave transition carries the section into the light background below.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ynab-com/e7a182c7-b158-445f-80c9-594412562788-1789146615-1.webp",
+  "prompts": [
+    "kage/component--ynab-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ynab-landing-page",
+  "product": "ynab-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=cta",
+    "search?q=product"
+  ],
+  "pageSha256": "9b4a52f0c8a19dbe4de48a9f67c681977d37aca7bf6040f8c9e8cbffcf896d9b"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mistral-logo-cloud",
+  "source": "kage",
+  "slug": "component--mistral-logo-cloud",
+  "url": "https://kage.design/component/mistral-logo-cloud",
+  "name": "Monochrome partner logo grid by mistral.ai",
+  "description": "A quiet, high-trust logo cloud that uses generous whitespace, equal-width cells, and restrained monochrome marks to communicate enterprise adoption without competing with the page’s primary message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mistral-ai/b4bd1aa3-e31c-42a6-8066-6d42fc3e7f45-1789073962-2.webp",
+  "prompts": [
+    "kage/component--mistral-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mistral-landing-page",
+  "product": "mistral-ai",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=brand+grid",
+    "search?q=social+proof",
+    "search?q=enterprise"
+  ],
+  "pageSha256": "6f0215f309f760fad2a92073763b40513867c39b29417db31c5ac85ad2cda32d"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ramp-hero",
+  "source": "kage",
+  "slug": "component--ramp-hero",
+  "url": "https://kage.design/component/ramp-hero",
+  "name": "AI operations hero with live workflow canvas by ramp.com",
+  "description": "A high-contrast SaaS hero pairs a concise value proposition and inline email capture with a large, softly framed product visualization. A restrained grid texture, persistent metrics strip, and floating support control make the page feel active and operational without competing with the primary conversion action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060913-1.webp",
+  "prompts": [
+    "kage/component--ramp-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=workflow",
+    "search?q=signup"
+  ],
+  "pageSha256": "9c6d060eeb0e24f64b5832c582c6acf81376167c411c630f1bcc70ab0dbc121a"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chathop-footer",
+  "source": "kage",
+  "slug": "component--chathop-footer",
+  "url": "https://kage.design/component/chathop-footer",
+  "name": "Minimal legal footer by ChatHop",
+  "description": "A sparse footer closes the page with utility links, a compact brand line, and a quiet legal disclaimer that preserves the light palette.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chathop/788ba903-59f3-47ff-b1c8-618bf4f4ae3c-1789193011-8.webp",
+  "prompts": [
+    "kage/component--chathop-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chathop-landing-page",
+  "product": "chathop",
+  "tags": [
+    "search?q=footer",
+    "search?q=legal",
+    "search?q=links"
+  ],
+  "pageSha256": "dc3412281419b19d5da22a17ac499264a5b2b8a1225b1ef01608424d28e42317"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--monzo-feature-grid-5",
+  "source": "kage",
+  "slug": "component--monzo-feature-grid-5",
+  "url": "https://kage.design/component/monzo-feature-grid-5",
+  "name": "Trust-led feature grid by monzo.com",
+  "description": "A spacious, editorial feature section that pairs colourful product cards with a high-contrast trust panel and a calm conversion panel. The design works through strong tonal contrast, oversized rounded containers, concise copy, and a single clear action rather than dense UI.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monzo-com/b864c421-0184-411c-901f-a4ffc676dbcc-1789060821-7.webp",
+  "prompts": [
+    "kage/component--monzo-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monzo-landing-page",
+  "product": "monzo-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=trust",
+    "search?q=responsive",
+    "search?q=cta"
+  ],
+  "pageSha256": "f07fa8b5845206243d4424ea6b6327e5aa51920e8d308b5f8c1886dfed22ca72"
+}

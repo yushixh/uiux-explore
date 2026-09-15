@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--elevenlabs-chart",
+  "source": "kage",
+  "slug": "component--elevenlabs-chart",
+  "url": "https://kage.design/component/elevenlabs-chart",
+  "name": "Research updates card row by elevenlabs.io",
+  "description": "A restrained editorial update section pairs a short introductory block with two compact, image-led announcement cards. The strong grid, generous whitespace, pill-shaped date labels, and quiet neutral styling make the content feel premium while keeping the calls to action easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060953-8.webp",
+  "prompts": [
+    "kage/component--elevenlabs-chart/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=cards",
+    "search?q=research",
+    "search?q=responsive",
+    "search?q=timeline"
+  ],
+  "pageSha256": "f25ca1561dbe8c252b73b8685ea4ef7e9383ec250ea3125b9f536a7469e679b2"
+}

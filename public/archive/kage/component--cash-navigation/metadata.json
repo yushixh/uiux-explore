@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cash-navigation",
+  "source": "kage",
+  "slug": "component--cash-navigation",
+  "url": "https://kage.design/component/cash-navigation",
+  "name": "Minimal account navigation by cash.app",
+  "description": "A compact header keeps the brand mark at the far left while grouping sign-up, login, and menu actions at the far right. The strong contrast and generous horizontal padding make the controls legible over the vivid hero background.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cash-app/7c13f178-963d-4437-bcf4-5300340c2bdd-1789146485-0.webp",
+  "prompts": [
+    "kage/component--cash-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cash-landing-page",
+  "product": "cash-app",
+  "tags": [
+    "search?q=minimal",
+    "search?q=account",
+    "search?q=menu"
+  ],
+  "pageSha256": "fd6e826393fe445140eb45236e09ded41971e0b1e15f9f27bca31951e78d37b9"
+}

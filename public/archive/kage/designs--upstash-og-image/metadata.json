@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--upstash-og-image",
+  "source": "kage",
+  "slug": "designs--upstash-og-image",
+  "url": "https://kage.design/designs/upstash-og-image",
+  "name": "Upstash Serverless Data Platform OG image by upstash.com",
+  "description": "A 1200×630 social card on a near-black canvas with a subtle dark-green vignette glow. A single massive white two-line headline (\"Serverless / Data Platform\") dominates the top two-thirds, with a row of rounded dark pill badges beneath showing five product logos and names in per-product accent colours (red, orange, blue, purple, green). A green underlined domain link with a playful cursor graphic anchors the bottom. Hierarchy is strictly vertical and centered: headline → product pills → URL, with generous negative space keeping it legible at thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/upstash-com/cd071ce0-9fac-4bcc-965e-df8f7976ea6e-1789073647260.webp",
+  "prompts": [
+    "kage/designs--upstash-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-og-image",
+  "product": "upstash-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=pill-badges",
+    "search?q=dark-canvas",
+    "search?q=product-logos",
+    "search?q=centered-composition"
+  ],
+  "pageSha256": "20840f3a5d38392b85b34ec10db180de5e7785655524c432e2d074d3bad93a3e"
+}

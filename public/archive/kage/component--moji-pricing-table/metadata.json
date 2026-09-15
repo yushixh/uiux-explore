@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--moji-pricing-table",
+  "source": "kage",
+  "slug": "component--moji-pricing-table",
+  "url": "https://kage.design/component/moji-pricing-table",
+  "name": "Platform download cards by Moji",
+  "description": "A centered download area turns platform choice into three clear cards, with the recommended option called out using a small badge and multiple package buttons. The surrounding copy explains what the downloads are and links to releases.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/moji/682da163-2f11-4698-8415-78d5458fc05f-1789193061-6.webp",
+  "prompts": [
+    "kage/component--moji-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/moji-landing-page",
+  "product": "moji",
+  "tags": [
+    "search?q=downloads",
+    "search?q=platforms",
+    "search?q=cards"
+  ],
+  "pageSha256": "b1ceadce2700feb86aa0fce207aaedff7794cea43d2252d858af696999746de0"
+}

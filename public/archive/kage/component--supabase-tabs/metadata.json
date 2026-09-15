@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--supabase-tabs",
+  "source": "kage",
+  "slug": "component--supabase-tabs",
+  "url": "https://kage.design/component/supabase-tabs",
+  "name": "Product feature tabs by supabase.com",
+  "description": "A restrained feature showcase that pairs a clear two-line heading with pill-shaped tabs and a large framed product preview. The monochrome treatment, generous whitespace, and subtle active-state contrast keep attention on the selected workflow while making the component easy to adapt to another product.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/supabase-com/b03f69f9-4b47-487d-8f2b-17d7cd19e877-1789060352-3.webp",
+  "prompts": [
+    "kage/component--supabase-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/supabase-landing-page",
+  "product": "supabase-com",
+  "tags": [
+    "search?q=tabs",
+    "search?q=dashboard",
+    "search?q=productivity",
+    "search?q=responsive"
+  ],
+  "pageSha256": "f0edac45006ea07acfda72200639524bed866ad0bc05c48240880dbfdfa67cab"
+}

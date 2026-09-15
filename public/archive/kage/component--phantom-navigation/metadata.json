@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--phantom-navigation",
+  "source": "kage",
+  "slug": "component--phantom-navigation",
+  "url": "https://kage.design/component/phantom-navigation",
+  "name": "Primary navigation by phantom.com",
+  "description": "A compact floating navigation bar establishes the brand, groups product and resource links, and gives the download action strong visual priority.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/phantom-com/df84c488-d9fa-4f45-8b51-bd3e334c55b2-1789146859-0.webp",
+  "prompts": [
+    "kage/component--phantom-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/phantom-landing-page",
+  "product": "phantom-com",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=download"
+  ],
+  "pageSha256": "0b13969c21916a31cd3bf366f9e5c4231d716a0caea8c47b9a6bfea417a342a9"
+}

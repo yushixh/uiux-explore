@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--render-og-image",
+  "source": "kage",
+  "slug": "designs--render-og-image",
+  "url": "https://kage.design/designs/render-og-image",
+  "name": "Render 'Your fastest path to production' OG card by render.com",
+  "description": "A dark share card that splits the canvas into a quiet typographic left half and a decorative data-mosaic right half. A small wordmark anchors the top-left corner while a three-line white headline in a light geometric sans carries all the focal weight. The right side is a bleeding grid of hairline-outlined dark tiles, a few filled with purple-to-mint gradients striped with horizontal bars that read as abstracted terminal output.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/render-com/205ac90d-5b58-49c9-b2e8-82e226c3af1c-1789073685078.webp",
+  "prompts": [
+    "kage/designs--render-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-og-image",
+  "product": "render-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=wordmark",
+    "search?q=headline",
+    "search?q=mosaic-grid",
+    "search?q=gradient-tiles",
+    "search?q=code-bars",
+    "search?q=dark-theme"
+  ],
+  "pageSha256": "ed5aab43b7975a9fb9f49cd215b7ca8798dccc72da5b967eea8013e3f481b9a0"
+}

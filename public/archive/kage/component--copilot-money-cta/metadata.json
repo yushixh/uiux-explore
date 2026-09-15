@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--copilot-money-cta",
+  "source": "kage",
+  "slug": "component--copilot-money-cta",
+  "url": "https://kage.design/component/copilot-money-cta",
+  "name": "Peace-of-mind conversion CTA by copilot.money",
+  "description": "The closing CTA returns to a simple promise, a single button, and a dramatic multi-device product composition. Large empty space and a quiet footer transition keep the final conversion moment focused.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/copilot-money/645bb157-e222-4315-91ed-1b76fbb9bd6b-1789146603-8.webp",
+  "prompts": [
+    "kage/component--copilot-money-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/copilot-money-landing-page",
+  "product": "copilot-money",
+  "tags": [
+    "search?q=cta",
+    "search?q=devices",
+    "search?q=dark"
+  ],
+  "pageSha256": "fa359b560c11c9d9dffbb89fd0bbadc7e706e7535d5f78709bdc1fc9e5d6e18b"
+}

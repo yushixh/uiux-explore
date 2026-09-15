@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--deno-feature-grid-6",
+  "source": "kage",
+  "slug": "component--deno-feature-grid-6",
+  "url": "https://kage.design/component/deno-feature-grid-6",
+  "name": "Developer-loved proof-point grid by deno.com",
+  "description": "A generous two-column product feature section pairs an editorial feature story with a dark technical preview, then transitions into a centered social-proof block with compact metric cards. It works through strong whitespace, oversized typography, mint accents, and a clear narrative from capability to credibility.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073869-10.webp",
+  "prompts": [
+    "kage/component--deno-feature-grid-6/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/deno-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=social-proof",
+    "search?q=metrics",
+    "search?q=developer"
+  ],
+  "pageSha256": "f86ccb53e63eef5a32535f0adb55fd39a0a92f6d37997d1a83b7514370d98887"
+}

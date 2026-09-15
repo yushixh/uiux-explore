@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--turso-feature-grid-3",
+  "source": "kage",
+  "slug": "component--turso-feature-grid-3",
+  "url": "https://kage.design/component/turso-feature-grid-3",
+  "name": "Enterprise capability feature grid by turso.tech",
+  "description": "A dark, bordered enterprise feature panel pairs a strong left-aligned value proposition with a concise stack of capability rows. High-contrast typography, mint accent actions, and icon-led cards make a dense set of trust signals easy to scan without feeling busy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/turso-tech/a01fe972-4603-42df-a7fd-1b66e57f2913-1789073740-8.webp",
+  "prompts": [
+    "kage/component--turso-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/turso-landing-page",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=enterprise",
+    "search?q=dark-ui",
+    "search?q=saas"
+  ],
+  "pageSha256": "c752085419f6bde71f3fcd64a9c7d2caf26dc8e1b2691877e743b52817747091"
+}

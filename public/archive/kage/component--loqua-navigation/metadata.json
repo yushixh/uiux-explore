@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--loqua-navigation",
+  "source": "kage",
+  "slug": "component--loqua-navigation",
+  "url": "https://kage.design/component/loqua-navigation",
+  "name": "Minimal top navigation by Loqua",
+  "description": "A slim cream navigation bar anchors the brand at left, keeps links compact in the center, and ends with a high-contrast download pill.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loqua/e5cf041a-edc7-487a-b4b8-8f4d563da4de-1789192871-0.webp",
+  "prompts": [
+    "kage/component--loqua-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "loqua",
+  "tags": [
+    "search?q=minimal",
+    "search?q=pill-button",
+    "search?q=desktop"
+  ],
+  "pageSha256": "4c1b221a423b522e4e5d1b0fb5647f3d9030cb4ccdfa391a796464c7567c0435"
+}

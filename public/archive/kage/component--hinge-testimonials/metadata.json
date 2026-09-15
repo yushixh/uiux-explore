@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--hinge-testimonials",
+  "source": "kage",
+  "slug": "component--hinge-testimonials",
+  "url": "https://kage.design/component/hinge-testimonials",
+  "name": "Dark testimonial carousel by hinge.co",
+  "description": "A near-black testimonial panel uses a large quote, attribution, and understated carousel progress indicators to create a high-contrast social-proof moment.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hinge-co/fc8d8d16-7276-4f4c-b1c9-567702ba4b3c-1789146938-4.webp",
+  "prompts": [
+    "kage/component--hinge-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hinge-landing-page",
+  "product": "hinge-co",
+  "tags": [
+    "search?q=testimonial",
+    "search?q=dark",
+    "search?q=carousel"
+  ],
+  "pageSha256": "766084be374b6bb91e3c4eb07b762a4f88d4a5a71f620d94ae00af67c3755f43"
+}

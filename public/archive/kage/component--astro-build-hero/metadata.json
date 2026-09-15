@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--astro-build-hero",
+  "source": "kage",
+  "slug": "component--astro-build-hero",
+  "url": "https://kage.design/component/astro-build-hero",
+  "name": "Gradient product hero with command CTA by astro.build",
+  "description": "This hero works through a focused, centered message, a high-contrast purple atmospheric background, and a paired action pattern that combines a friendly primary CTA with a copyable terminal command. A small release-status pill adds timely context without competing with the headline.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/astro-build/2448cc02-1e48-497c-9333-8941f9d81557-1789073850-1.webp",
+  "prompts": [
+    "kage/component--astro-build-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/astro-build-landing-page",
+  "product": "astro-build",
+  "tags": [
+    "search?q=hero",
+    "search?q=gradient",
+    "search?q=cta",
+    "search?q=developer"
+  ],
+  "pageSha256": "a262ab9efdc1f10519d84d8c71fbad9aecdac2b0fe4d19c617f013041937dfc6"
+}

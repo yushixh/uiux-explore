@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--clerk-landing-page",
+  "source": "kage",
+  "slug": "designs--clerk-landing-page",
+  "url": "https://kage.design/designs/clerk-landing-page",
+  "name": "Clerk authentication and user management landing page by clerk.com",
+  "description": "A highly structured developer-facing landing page alternates bright white product sections with deep charcoal feature sections, using clipped angled transitions to make the long page feel segmented. Oversized black headlines, small purple or cyan eyebrow labels, restrained borders, soft shadows, and interface mockups establish hierarchy; the page moves from a sparse hero and logo strip into detailed component demonstrations, dense authentication and multi-tenancy feature grids, framework/integration panels, social proof, and a compact footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/clerk-com/b0a171ff-4b4c-415f-ac9b-4885f02b49d0-1789060086880.webp",
+  "prompts": [
+    "kage/designs--clerk-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-landing-page",
+  "product": "clerk-com",
+  "tags": [
+    "search?q=split-navigation",
+    "search?q=product-ui-mockups",
+    "search?q=feature-grid",
+    "search?q=dark-light-sections",
+    "search?q=bento-cards",
+    "search?q=testimonial-grid",
+    "search?q=developer-saas"
+  ],
+  "pageSha256": "f7f013d21036af6da75ca425827755762004c43472aa0064edfe28f13a4392e6"
+}

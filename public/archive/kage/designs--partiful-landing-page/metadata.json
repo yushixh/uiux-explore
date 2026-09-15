@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--partiful-landing-page",
+  "source": "kage",
+  "slug": "designs--partiful-landing-page",
+  "url": "https://kage.design/designs/partiful-landing-page",
+  "name": "Partiful party-invite landing page by partiful.com",
+  "description": "A consumer event-invite landing page that sells joy through motion and photography rather than feature lists. The hero sets the tone: an oversized two-line white headline over a purple-to-blue gradient, candid flash photography, and a floating RSVP card doing product-demo duty. Down the page a continuous pastel gradient canvas shifts hue every few sections while the rhythm alternates between airy centered statements and dense split feature rows; rotated UI mockups, emoji-punctuated headings, black pill CTAs, press-quote and photo-collage palate cleansers, app-store ratings, a three-card blog teaser, and a five-column footer close the loop.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/partiful-com/97ae038c-0277-4e29-93fa-45b4a481f7ba-1789146199112.webp",
+  "prompts": [
+    "kage/designs--partiful-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-landing-page",
+  "product": "partiful-com",
+  "tags": [
+    "search?q=gradient-hero",
+    "search?q=pastel-sections",
+    "search?q=pill-ctas",
+    "search?q=floating-mockups",
+    "search?q=emoji-headlines",
+    "search?q=photo-collage",
+    "search?q=press-marquee",
+    "search?q=app-store-badges"
+  ],
+  "pageSha256": "7b4630b165c6fe391faf895f1e8a383e2a1cfd97ecaabdd33e1b7d12a02044d9"
+}

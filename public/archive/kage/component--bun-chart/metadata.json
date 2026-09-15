@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bun-chart",
+  "source": "kage",
+  "slug": "component--bun-chart",
+  "url": "https://kage.design/component/bun-chart",
+  "name": "Benchmark comparison chart by bun.sh",
+  "description": "A restrained, editorial benchmark section that pairs a bold value proposition with compact comparison cards. The repeated horizontal bars, consistent scales, and concise footnotes make performance differences immediately legible without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073824-7.webp",
+  "prompts": [
+    "kage/component--bun-chart/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=charts",
+    "search?q=benchmarks",
+    "search?q=comparison",
+    "search?q=performance"
+  ],
+  "pageSha256": "de67ac0b5df04bfaac512514797115a5183a7dff7cbd70f8f1ba027d861c4caa"
+}

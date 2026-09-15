@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--termsquad-hero",
+  "source": "kage",
+  "slug": "component--termsquad-hero",
+  "url": "https://kage.design/component/termsquad-hero",
+  "name": "Always-on cloud computer hero by termsquad.com",
+  "description": "The hero pairs a very large two-line promise with concise explanatory copy, two contrasting CTAs, a compact compatibility row, and a large product interface visual. The dark atmospheric backdrop and soft green light give the technical product a premium feel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/termsquad-com/d12b8131-9740-4063-aef8-780525dfffce-1789166957-1.webp",
+  "prompts": [
+    "kage/component--termsquad-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark",
+    "search?q=product"
+  ],
+  "pageSha256": "7e3476f4f4b27bd7344d4a6385af532975a8c7cd9686f1c3cc8177f8a71ec033"
+}

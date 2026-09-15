@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--termsquad-og-image",
+  "source": "kage",
+  "slug": "designs--termsquad-og-image",
+  "url": "https://kage.design/designs/termsquad-og-image",
+  "name": "TermSquad Open Graph social card by termsquad.com",
+  "description": "A 1200×630 dark social card split roughly 55/45: the left column carries the wordmark, a three-line headline in a large humanist sans (\"for AI agents.\" highlighted in pale green), a muted supporting sentence and a \"Works with\" icon row; the right half shows a mocked terminal/browser window with traffic-light dots and an agent conversation log in monospace, using green checks and role labels (Orchestrator / Implementer / Reviewer). The near-black background has faint diagonal light streaks, and the single green accent ties logo, headline emphasis and terminal statuses together, making the product's multi-agent concept legible at a glance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/termsquad-com/ec7257fc-f9b5-468a-92b5-4775182d2a04-1789166918373.webp",
+  "prompts": [
+    "kage/designs--termsquad-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-og-image",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=terminal",
+    "search?q=social-card",
+    "search?q=dark-ui",
+    "search?q=monospace",
+    "search?q=agent-orchestration"
+  ],
+  "pageSha256": "2b5e51028337ba167b5b3e6e70df1f2554dfc0e13729dc273cd9853889ae6d73"
+}

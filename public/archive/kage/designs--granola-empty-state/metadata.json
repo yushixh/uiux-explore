@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--granola-empty-state",
+  "source": "kage",
+  "slug": "designs--granola-empty-state",
+  "url": "https://kage.design/designs/granola-empty-state",
+  "name": "Granola landing page by granola.ai",
+  "description": "An editorial landing page built on a cream ground (#FAF8F1) with a large serif display face doing almost all the persuasive work — headlines run to full-viewport width ('For the doers', 'Works everywhere you do'). The page alternates rhythm deliberately: light hero and hairline-divided feature rows, then a giant type statement, a near-black logo band, a chartreuse chat band, dark testimonial cards, and back to light. Every product claim is evidenced by a macOS-style window mockup with cream notepad UI, often composited over landscape photography. It closes with a multi-column footer that dissolves into an enormous full-bleed wordmark.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789060736322.webp",
+  "prompts": [
+    "kage/designs--granola-empty-state/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/v0-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=serif-headlines",
+    "search?q=macos-window-mockups",
+    "search?q=cream-background",
+    "search?q=lime-accent",
+    "search?q=logo-band",
+    "search?q=dark-testimonials",
+    "search?q=hairline-dividers",
+    "search?q=giant-footer-wordmark"
+  ],
+  "pageSha256": "d271325f275fcb240a14b5b6519f96cb2b3311852af8bc6b7d4ef12f90dfa27c"
+}

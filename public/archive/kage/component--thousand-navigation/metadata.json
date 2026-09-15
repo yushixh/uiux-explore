@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--thousand-navigation",
+  "source": "kage",
+  "slug": "component--thousand-navigation",
+  "url": "https://kage.design/component/thousand-navigation",
+  "name": "Minimal SaaS top navigation by Thousand",
+  "description": "A calm, spacious header pairs a compact brand lockup with a low-contrast horizontal nav and one high-contrast primary CTA. Generous empty space, restrained typography, and a soft neutral background make the navigation feel premium without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/thousand/cb10af68-535d-4246-97d9-03dbd24306a9-1789106637-0.webp",
+  "prompts": [
+    "kage/component--thousand-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/thousand-landing-page",
+  "product": "thousand",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=minimal",
+    "search?q=header"
+  ],
+  "pageSha256": "d3ca39b5f98bbe9358d0cf2143ebd6e11982ec7e7576059e9b5905e9e5cfba25"
+}

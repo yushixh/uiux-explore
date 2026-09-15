@@ -1,0 +1,21 @@
+{
+  "id": "annual-report-archive",
+  "name": "Annual Report Archive",
+  "description": "An archive of 3,000+ annual reports from 1945–1991, revealing how companies once brought serious design, illustration, and artistry to their most ordinary publication.",
+  "shortInfo": "3,000+ annual reports from 1945–1991",
+  "url": "https://annualreport.gallery/",
+  "handle": "PhilHedayatnia",
+  "creatorName": "Phil",
+  "creatorUrl": "https://x.com/PhilHedayatnia",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Discovery",
+  "categories": [
+    "Discovery"
+  ],
+  "launchDate": "2026-08-21",
+  "added": "2026-08-21",
+  "icon": "/icons/annual-report.png",
+  "avatar": "/images/phil-hedayatnia.jpg",
+  "shot": "/screenshots/annual-report-archive.webp"
+}

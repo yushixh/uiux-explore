@@ -1,0 +1,22 @@
+{
+  "id": "katalog",
+  "name": "Katalog",
+  "description": "A social journal for logging, rating and discussing films, TV, books, albums and games in one place, with cross-format search, lists and Letterboxd or StoryGraph imports.",
+  "shortInfo": "One journal for films, books, albums and games",
+  "url": "https://katalog.club/",
+  "handle": "dmnc_eu",
+  "creatorName": "Dominic",
+  "creatorUrl": "https://x.com/dmnc_eu",
+  "creatorVerified": true,
+  "platform": "Cross-platform",
+  "categoryLabel": "Collections",
+  "categories": [
+    "Collections"
+  ],
+  "launchDate": "2026-08-18",
+  "added": "2026-08-18",
+  "sortOrder": 9,
+  "icon": "/backend/icons/katalog.png",
+  "avatar": "/backend/avatars/katalog.jpg",
+  "shot": "/screenshots/katalog.png"
+}

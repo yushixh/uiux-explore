@@ -1,0 +1,23 @@
+{
+  "id": "color-shift",
+  "name": "Color Shift",
+  "description": "Pull color inspiration from randomly loaded Unsplash photos and check every background and foreground pairing live against WCAG and APCA contrast standards. A free iOS companion from Shift Nudge, the interface design training by Matt D. Smith.",
+  "shortInfo": "Color inspiration with live contrast checks",
+  "url": "https://apps.apple.com/us/app/shift-nudge-color-shift/id6787478942",
+  "handle": "mds",
+  "creatorName": "Matt D. Smith",
+  "creatorUrl": "https://x.com/mds",
+  "creatorVerified": true,
+  "platform": "Mobile",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-09-01",
+  "added": "2026-09-02",
+  "sortOrder": 43,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/color-shift/icon-mtk5u94i-mZH7g7Eex9rUiKsLhc5wUgQ1LVr6lr.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/color-shift/avatar-mtq3bnrm-2gYtGZ88GdZJTjxUmDoIGkYWPePdw3.jpg",
+  "shot": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/color-shift/shot-mtk5u94j-XOIheeH5IdUX5lLizjso70LzlKgfJn.jpg",
+  "shot2x": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/color-shift/shot2x-mtk5u94k-nBqdVaXoOa1YqdXhyxA8oIjCMyPH8L.jpg"
+}

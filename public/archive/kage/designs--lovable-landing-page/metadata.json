@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--lovable-landing-page",
+  "source": "kage",
+  "slug": "designs--lovable-landing-page",
+  "url": "https://kage.design/designs/lovable-landing-page",
+  "name": "Lovable landing page by lovable.dev",
+  "description": "The page runs on a warm cream base with near-black type and one signature asset: a blue-to-magenta aurora gradient that opens the hero, reappears as glows inside the dark showcase, and closes the page as a footer band. The hero is prompt-first — a ~64px headline over a large white rounded chat input that recurs verbatim as the final CTA, framing the product as a conversation. Below, rhythm alternates light and dark: three hairline-bordered cards, then an inset near-black container holding five feature panels (each a small bold sub-head plus a large glowing gradient visual), a logo wall, a side-peek testimonial carousel with a metrics column, and finally a stack of oversized stat numbers over a rising gradient area chart before a dense five-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/lovable-dev/7426a651-2b1e-4dbe-b0d8-bb8a847d2e81-1789060739807.webp",
+  "prompts": [
+    "kage/designs--lovable-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "lovable-dev",
+  "tags": [
+    "search?q=gradient-hero",
+    "search?q=prompt-input",
+    "search?q=dark-feature-showcase",
+    "search?q=logo-wall",
+    "search?q=testimonial-carousel",
+    "search?q=big-numbers",
+    "search?q=cream-base",
+    "search?q=pill-buttons"
+  ],
+  "pageSha256": "fcd8bf03b6990de96341b95ee0a981049773b1b07c8b1ccb4c2bb97e075d8a08"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--astro-build-logo-cloud-2",
+  "source": "kage",
+  "slug": "component--astro-build-logo-cloud-2",
+  "url": "https://kage.design/component/astro-build-logo-cloud-2",
+  "name": "Partner agency logo cards by astro.build",
+  "description": "A dark, editorial partner section pairs a compact eyebrow, strong heading, supporting copy, and a restrained CTA with a horizontal row of distinctive logo cards. The varied card treatments create visual energy while the consistent dimensions, gaps, and rounded corners keep the showcase structured and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/astro-build/2448cc02-1e48-497c-9333-8941f9d81557-1789073853-8.webp",
+  "prompts": [
+    "kage/component--astro-build-logo-cloud-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/astro-build-landing-page",
+  "product": "astro-build",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=partner+grid",
+    "search?q=dark+theme",
+    "search?q=agency+showcase"
+  ],
+  "pageSha256": "c2cd8a37244791ec57fef3d2748b8f56a9e141b92db31beeb9b053c5853f9b97"
+}

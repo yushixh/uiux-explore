@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-hero",
+  "source": "kage",
+  "slug": "component--fresha-hero",
+  "url": "https://kage.design/component/fresha-hero",
+  "name": "Self-care booking search hero by fresha.com",
+  "description": "A large pastel gradient hero combines a bold centered headline, supporting line, wide search control, live booking metric, and app prompt.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146192-1.webp",
+  "prompts": [
+    "kage/component--fresha-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=search",
+    "search?q=gradient",
+    "search?q=booking"
+  ],
+  "pageSha256": "803a601ab3cd495c590bdede158e4820c35812ade2d43bb1a13397df28cc2ef4"
+}

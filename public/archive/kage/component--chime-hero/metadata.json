@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chime-hero",
+  "source": "kage",
+  "slug": "component--chime-hero",
+  "url": "https://kage.design/component/chime-hero",
+  "name": "Banking value proposition hero by chime.com",
+  "description": "The hero pairs an oversized white headline and benefit bullets with an email capture CTA on a deep green field, while a large tilted banking-phone visual occupies the right side. A credibility strip begins at the bottom of the section.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146540-1.webp",
+  "prompts": [
+    "kage/component--chime-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chime-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=banking",
+    "search?q=signup"
+  ],
+  "pageSha256": "928aa4293e54a3b59dae434b26268902645f7b9be755c46e1c061b2b50564c43"
+}

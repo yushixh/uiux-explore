@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bolt-new-navigation",
+  "source": "kage",
+  "slug": "component--bolt-new-navigation",
+  "url": "https://kage.design/component/bolt-new-navigation",
+  "name": "Dark SaaS header navigation by bolt.new",
+  "description": "A restrained dark header combines a compact brand mark, centered utility navigation, and right-aligned authentication and primary-action controls. Its generous horizontal spacing, subtle contrast, and bright CTA create clear hierarchy without competing with the page content below.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bolt-new/4e91875d-336e-4c47-bec8-8771acd62040-1789073973-0.webp",
+  "prompts": [
+    "kage/component--bolt-new-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bolt-new-landing-page",
+  "product": "bolt-new",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=dark-mode",
+    "search?q=saas"
+  ],
+  "pageSha256": "dbef78eaf1437362faa2eb0600ec5f76a33e3b368525aa1e1b5e9b51aaadd534"
+}

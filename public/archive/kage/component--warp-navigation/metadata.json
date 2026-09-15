@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--warp-navigation",
+  "source": "kage",
+  "slug": "component--warp-navigation",
+  "url": "https://kage.design/component/warp-navigation",
+  "name": "Minimal command-line product navigation by warp.dev",
+  "description": "A restrained, high-contrast header balances compact product navigation with low-friction utility links and one unmistakable primary CTA. The tiny dotted grid beneath the header adds a subtle technical texture without competing with the navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060388-0.webp",
+  "prompts": [
+    "kage/component--warp-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=navigation",
+    "search?q=navbar",
+    "search?q=saas",
+    "search?q=utility"
+  ],
+  "pageSha256": "51415ecac32d18c4f6ff3137aadf5b62e352bab7b975dc112ee92012c0166305"
+}

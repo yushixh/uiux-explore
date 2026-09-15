@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resend-feature-grid-3",
+  "source": "kage",
+  "slug": "component--resend-feature-grid-3",
+  "url": "https://kage.design/component/resend-feature-grid-3",
+  "name": "Visual email editor by resend.com",
+  "description": "A centered feature introduction is followed by a large editor preview, showing the product in use rather than describing it abstractly.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resend-com/a5fe426a-0829-45e6-9969-dd938a799528-1789141642-5.webp",
+  "prompts": [
+    "kage/component--resend-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resend-empty-state",
+  "product": "resend-com",
+  "tags": [
+    "search?q=editor",
+    "search?q=product-ui",
+    "search?q=visual"
+  ],
+  "pageSha256": "b903efdc2465491cb06bd592a1dd17c9e10a9e69458593df01b398ae544ac2e7"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--strawberrybrowser-navigation",
+  "source": "kage",
+  "slug": "component--strawberrybrowser-navigation",
+  "url": "https://kage.design/component/strawberrybrowser-navigation",
+  "name": "Minimal product navigation bar by strawberrybrowser.com",
+  "description": "A restrained, centered navigation header that balances brand recognition, primary page links, account access, and a high-contrast download CTA. Its generous whitespace, subtle textured backdrop, and compact typography make the product feel polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/strawberrybrowser-com/0a6dd4bb-409f-4c45-aa48-6abac7e2076e-1789060561-0.webp",
+  "prompts": [
+    "kage/component--strawberrybrowser-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/strawberrybrowser-landing-page",
+  "product": "strawberrybrowser-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=header",
+    "search?q=responsive"
+  ],
+  "pageSha256": "23be6822733c71f9eb433a299fac4fe142951833ba16a3c53ca97a84b58981f4"
+}

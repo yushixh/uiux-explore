@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--termsquad-faq",
+  "source": "kage",
+  "slug": "component--termsquad-faq",
+  "url": "https://kage.design/component/termsquad-faq",
+  "name": "Questions and answers by termsquad.com",
+  "description": "The FAQ uses a strong left-side heading and a simple right-side accordion list. Thin separators and plus controls keep the section compact and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/termsquad-com/d12b8131-9740-4063-aef8-780525dfffce-1789166959-7.webp",
+  "prompts": [
+    "kage/component--termsquad-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=support"
+  ],
+  "pageSha256": "35d3830cb65d5453114f30988936584dd19ba5217636e086203e41ad30f48f55"
+}

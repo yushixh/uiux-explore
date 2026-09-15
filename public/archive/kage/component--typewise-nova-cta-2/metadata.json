@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--typewise-nova-cta-2",
+  "source": "kage",
+  "slug": "component--typewise-nova-cta-2",
+  "url": "https://kage.design/component/typewise-nova-cta-2",
+  "name": "Dark accordion FAQ by Typewise Nova",
+  "description": "A compact dark FAQ accordion that uses stacked bordered panels, strong question rows, and a single expanded answer to reduce uncertainty without overwhelming the page. The restrained blue controls provide a small but clear interaction cue against the near-black surface.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/typewise-nova/b4948f23-79f3-4392-9236-ca27a7b6b602-1789106479-11.webp",
+  "prompts": [
+    "kage/component--typewise-nova-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/typewise-nova-landing-page",
+  "product": "typewise-nova",
+  "tags": [
+    "search?q=accordion",
+    "search?q=faq",
+    "search?q=dark-ui",
+    "search?q=saas"
+  ],
+  "pageSha256": "41bc76e24729affe4677d10dfa8d611c0f53addbefd5381184607aba6c929ae9"
+}

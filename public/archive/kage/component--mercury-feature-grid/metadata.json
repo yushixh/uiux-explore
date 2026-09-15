@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-feature-grid",
+  "source": "kage",
+  "slug": "component--mercury-feature-grid",
+  "url": "https://kage.design/component/mercury-feature-grid",
+  "name": "Unified money dashboard feature by mercury.com",
+  "description": "A dark product showcase introduces an all-in-one money experience with explanatory bullets on the left and a floating dashboard preview on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141942-2.webp",
+  "prompts": [
+    "kage/component--mercury-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=feature",
+    "search?q=dashboard",
+    "search?q=dark"
+  ],
+  "pageSha256": "09989da87a73cafaf0173d7442dd4d24d9583dc88bceae762cf2923fe6190dce"
+}

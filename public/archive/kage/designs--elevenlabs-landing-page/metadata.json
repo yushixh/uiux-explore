@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--elevenlabs-landing-page",
+  "source": "kage",
+  "slug": "designs--elevenlabs-landing-page",
+  "url": "https://kage.design/designs/elevenlabs-landing-page",
+  "name": "ElevenLabs AI audio platform landing page by elevenlabs.io",
+  "description": "A long, highly structured AI platform homepage uses a near-white canvas, thin gray dividers, restrained black typography, and rounded product panels to keep a large amount of content calm and legible. The hero moves quickly from a compact navigation and two-column headline into a tactile audio-product carousel, then the rhythm alternates between logo proof, platform overviews, dense bento feature grids, API/code panels, media cards, research storytelling, safety principles, updates, and a large multi-column footer. Colour is mostly monochrome UI chrome, with soft blurred orange, blue, green, purple, and red gradients reserved for audio imagery, editorial cards, and feature emphasis.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060751538.webp",
+  "prompts": [
+    "kage/designs--elevenlabs-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=airy-layout",
+    "search?q=bento-cards",
+    "search?q=soft-gradients",
+    "search?q=product-showcase",
+    "search?q=enterprise-social-proof",
+    "search?q=research-timeline",
+    "search?q=safety-cards",
+    "search?q=resource-footer"
+  ],
+  "pageSha256": "aabbb842514a657a992b2ccc08a3ed8ca8e133b47649c48715d26e16d2c5978a"
+}

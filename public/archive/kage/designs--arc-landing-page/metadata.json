@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--arc-landing-page",
+  "source": "kage",
+  "slug": "designs--arc-landing-page",
+  "url": "https://kage.design/designs/arc-landing-page",
+  "name": "Arc browser landing page by arc.net",
+  "description": "The page alternates saturated colour bands — a textured cobalt for nav, press quote and closing CTA, warm peach-to-pink gradients for the hero, and cream panels for the press ticker and community quotes — all joined by signature zigzag edges. Feature sections on white follow one strict rhythm: a short cobalt rounded-sans heading with a grey subline, then a single oversized rounded product screenshot instead of feature grids. Social proof is split into a scrolling cream marquee of press quotes and a four-column wall of bold blue user quotes with handle pills, before the cobalt CTA and footer close the page on the same zigzag motif.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/arc-net/a4b44bb4-fce3-4305-950f-d12af4bc9a59-1789060016266.webp",
+  "prompts": [
+    "kage/designs--arc-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/strawberrybrowser-landing-page",
+  "product": "arc-net",
+  "tags": [
+    "search?q=zigzag-dividers",
+    "search?q=color-blocks",
+    "search?q=product-screenshots",
+    "search?q=press-marquee",
+    "search?q=testimonial-wall",
+    "search?q=pastel-gradient",
+    "search?q=pill-buttons"
+  ],
+  "pageSha256": "8287211269bb41537fab79b2d830ca7279e6f4c320f8cec0e07874e7ac7daac6"
+}

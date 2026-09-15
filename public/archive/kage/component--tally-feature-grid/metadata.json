@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--tally-feature-grid",
+  "source": "kage",
+  "slug": "component--tally-feature-grid",
+  "url": "https://kage.design/component/tally-feature-grid",
+  "name": "Playful product feature grid by tally.so",
+  "description": "This section works by pairing a strong editorial introduction with one oversized featured benefit and two supporting cards, creating a clear visual hierarchy without making every feature compete equally. Rounded borders, generous whitespace, and small playful accents make the product feel approachable while keeping the content easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060951-2.webp",
+  "prompts": [
+    "kage/component--tally-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=editorial",
+    "search?q=responsive",
+    "search?q=cards"
+  ],
+  "pageSha256": "98c0e55d30ba7a7e64b89b84d70c186145d43f8b2a83d1d57157c7cfb47e694b"
+}

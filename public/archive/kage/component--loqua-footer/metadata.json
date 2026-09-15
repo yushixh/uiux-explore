@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--loqua-footer",
+  "source": "kage",
+  "slug": "component--loqua-footer",
+  "url": "https://kage.design/component/loqua-footer",
+  "name": "Multi-column site footer by Loqua",
+  "description": "The footer closes with a compact brand description, social/language controls, and three simple link columns on the same warm background.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loqua/e5cf041a-edc7-487a-b4b8-8f4d563da4de-1789192876-9.webp",
+  "prompts": [
+    "kage/component--loqua-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "loqua",
+  "tags": [
+    "search?q=footer",
+    "search?q=site-links",
+    "search?q=language"
+  ],
+  "pageSha256": "84b6f1418651191fc0d3af340b1e0d28077cb381acf382f68d96bef71a05a559"
+}

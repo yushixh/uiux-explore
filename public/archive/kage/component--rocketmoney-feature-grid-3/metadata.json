@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--rocketmoney-feature-grid-3",
+  "source": "kage",
+  "slug": "component--rocketmoney-feature-grid-3",
+  "url": "https://kage.design/component/rocketmoney-feature-grid-3",
+  "name": "Automated goals feature by rocketmoney.com",
+  "description": "A third alternating feature reinforces the product's breadth with a goal-oriented visual, an overlaid progress card, and a direct explanation. Repeated structure creates consistency while the imagery changes the emotional context.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/rocketmoney-com/33d2822e-a753-4b7c-bf3f-3f514d417ce5-1789146590-5.webp",
+  "prompts": [
+    "kage/component--rocketmoney-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/rocketmoney-landing-page",
+  "product": "rocketmoney-com",
+  "tags": [
+    "search?q=feature",
+    "search?q=goals",
+    "search?q=split+layout"
+  ],
+  "pageSha256": "85e8f8712a17b7ff5642da4f537c7b114106f442e804f09132802e98a03b2945"
+}

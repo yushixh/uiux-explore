@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--arc-testimonials",
+  "source": "kage",
+  "slug": "component--arc-testimonials",
+  "url": "https://kage.design/component/arc-testimonials",
+  "name": "Electric testimonial marquee by arc.net",
+  "description": "A high-impact testimonial band uses an electric blue, textured background to make one oversized editorial quote feel like a campaign moment. A compact press label, supporting action area, product visual, and pinned lower quote strip create a clear narrative from proof to conversion.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/arc-net/a4b44bb4-fce3-4305-950f-d12af4bc9a59-1789060397-2.webp",
+  "prompts": [
+    "kage/component--arc-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/arc-landing-page",
+  "product": "arc-net",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=marquee",
+    "search?q=editorial",
+    "search?q=gradient"
+  ],
+  "pageSha256": "0faf594ebc74011c15019322bddb9465d05bf700703f45d27aead4972d558e00"
+}

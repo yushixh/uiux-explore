@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--jackalope-navigation",
+  "source": "kage",
+  "slug": "component--jackalope-navigation",
+  "url": "https://kage.design/component/jackalope-navigation",
+  "name": "Minimal product navigation by Jackalope",
+  "description": "A compact translucent navigation bar keeps the brand, primary destinations, theme control, and high-priority waitlist action visible without competing with the hero.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/jackalope/0b3edf93-8385-4e4a-8f92-3c01052ad81d-1789193036-0.webp",
+  "prompts": [
+    "kage/component--jackalope-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/jackalope-landing-page",
+  "product": "jackalope",
+  "tags": [
+    "search?q=minimal",
+    "search?q=product-nav",
+    "search?q=dark-mode"
+  ],
+  "pageSha256": "c2c7626db786c412df02d6abacdffa5bdd386e1971445221779698493a64cda2"
+}

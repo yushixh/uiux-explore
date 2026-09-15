@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--venmo-og-image",
+  "source": "kage",
+  "slug": "designs--venmo-og-image",
+  "url": "https://kage.design/designs/venmo-og-image",
+  "name": "Venmo Open Graph social card by venmo.com",
+  "description": "A 1200×630 social card built on a white canvas with a hard asymmetric split: the left column stacks a small bold 'Homepage' eyebrow over an oversized two-line headline in a heavy, tightly-tracked grotesque, while the right half is a large rounded-corner photo of two people at a tailgate. Two white pill-shaped payment chips with circular avatars float over the photo ('Wes paid', 'Leona for Game Day'), and a slice of brand-blue logo geometry bleeds in behind the subjects. Scale contrast between eyebrow, display headline and chip labels, plus the flat-white-to-warm-photo division, keeps the card legible even at feed-thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/venmo-com/bda80c2c-2425-405d-a5ed-85583272725a-1789146467376.webp",
+  "prompts": [
+    "kage/designs--venmo-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "venmo-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=split-layout",
+    "search?q=photo-panel",
+    "search?q=payment-chips",
+    "search?q=bold-display-type",
+    "search?q=brand-accent",
+    "search?q=rounded-corners"
+  ],
+  "pageSha256": "6ac04c215ca0d620b060d2d343f7091584818c05ecfc8d902bb72ab85b3692d0"
+}

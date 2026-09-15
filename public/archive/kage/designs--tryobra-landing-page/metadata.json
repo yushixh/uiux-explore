@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--tryobra-landing-page",
+  "source": "kage",
+  "slug": "designs--tryobra-landing-page",
+  "url": "https://kage.design/designs/tryobra-landing-page",
+  "name": "Obra construction cost tracking landing page by tryobra.com",
+  "description": "A long-form product landing page for construction cost tracking uses a near-black canvas, cream data panels, and a vivid orange accent to create a high-contrast editorial system. Oversized condensed headlines alternate solid and outlined words; the page moves from an energetic hero and statistic into receipt workflows, ledger tables, dashboard charts, feature grids, a public project proof section, calculator, pricing, FAQ, lead capture, and a large orange closing CTA, with thin rules and compact monospace annotations keeping the dense content ordered.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/tryobra-com/5ed8a808-d125-4341-bc8a-0a69442cb995-1789152035672.webp",
+  "prompts": [
+    "kage/designs--tryobra-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "tryobra-com",
+  "tags": [
+    "search?q=oversized-type",
+    "search?q=outlined-headlines",
+    "search?q=orange-accent",
+    "search?q=receipt-capture",
+    "search?q=data-dashboard",
+    "search?q=comparison-table",
+    "search?q=faq-accordion",
+    "search?q=pricing-cards"
+  ],
+  "pageSha256": "55186b106e4b137a06133a4b89367ad5c3c2a8052122207748d6e06708acbba8"
+}

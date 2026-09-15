@@ -1,0 +1,33 @@
+e=>`/* figma 155:13094 — geometry is the spec, frost is by eye */
+.gcard {
+  width: 316px;
+  height: 316px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+/* The band: ${e.ticks} ticks over ${xy(Number(e.sweep),0)}deg, leaving
+   ${xy(360-Number(e.sweep),0)}deg of gap at the bottom. Each tick is placed
+   from its own index, so the count is the only thing that
+   changes when the band gets finer. */
+.hwheel-tick {
+  --start: 120deg;
+  --sweep: ${xy(Number(e.sweep),0)}deg;
+  --step: calc(var(--sweep) / ${Number(e.ticks)-1});
+  rotate: calc(var(--start) + var(--step) * var(--i));
+}
+
+/* the lit ticks carry a travelling wave whose amplitude
+   scales with the reading — at 0 the ring is a static gauge,
+   and this is the number that decides whether it looks
+   alive */
+--wave-amp: calc(1 + var(--reading) * ${xy(Number(e.wave))});
+
+/* title 16px at 16.04 / 21.5 */
+/* chip 70 x 31, radius 8, #f4f4f4 */
+/* note in DM Mono 12px at 30% */
+
+/* #hglass-dispersion is feTurbulence driving three
+   feDisplacementMap passes at 34 / 24 / 13, one per colour
+   channel, recombined with screen blends. different channels
+   bending by different amounts is the chromatic fringing. */`

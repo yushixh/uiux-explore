@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--monarchmoney-feature-grid",
+  "source": "kage",
+  "slug": "component--monarchmoney-feature-grid",
+  "url": "https://kage.design/component/monarchmoney-feature-grid",
+  "name": "All-in-one product capabilities by monarchmoney.com",
+  "description": "A softly tinted rounded panel presents four capability areas around a central mobile UI, creating a balanced, scan-friendly feature overview.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146615-4.webp",
+  "prompts": [
+    "kage/component--monarchmoney-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monarchmoney-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=features",
+    "search?q=grid",
+    "search?q=product"
+  ],
+  "pageSha256": "722110f7c43c86d8a7c45660502203704ab79dd47fbb40db2e677b71f7f554a5"
+}

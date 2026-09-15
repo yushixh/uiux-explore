@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-logo-cloud",
+  "source": "kage",
+  "slug": "component--lorikeetcx-logo-cloud",
+  "url": "https://kage.design/component/lorikeetcx-logo-cloud",
+  "name": "Customer logo cloud by lorikeetcx.ai",
+  "description": "A quiet two-row logo strip follows the proof cards, providing lightweight breadth of adoption without adding another heavy content block.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142169-4.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=logos",
+    "search?q=customers",
+    "search?q=trust"
+  ],
+  "pageSha256": "26f1735580da348afe0a363f76d1d4263a3618644671115512c8a5c00b793397"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--duolingo-feature-grid",
+  "source": "kage",
+  "slug": "component--duolingo-feature-grid",
+  "url": "https://kage.design/component/duolingo-feature-grid",
+  "name": "Four learning benefits by duolingo.com",
+  "description": "Four spacious alternating feature bands explain the product promise: effectiveness, science, motivation, and personalization. Each uses a short green heading, compact copy, and a contrasting playful visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/duolingo-com/3a8c78c9-bd82-49c8-8251-8e9f7b022530-1789146268-3.webp",
+  "prompts": [
+    "kage/component--duolingo-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/duolingo-landing-page",
+  "product": "duolingo-com",
+  "tags": [
+    "search?q=benefits",
+    "search?q=split-layout",
+    "search?q=features"
+  ],
+  "pageSha256": "6385dce7cd5554591c9c28db3c5cddad03ce365521ea509fb770bc1377f7bf67"
+}

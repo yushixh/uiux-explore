@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--attio-hero",
+  "source": "kage",
+  "slug": "component--attio-hero",
+  "url": "https://kage.design/component/attio-hero",
+  "name": "Centered SaaS product hero by attio.com",
+  "description": "A spacious, conversion-focused hero that combines a compact announcement pill, strong centered headline, supporting value proposition, dual CTAs, and a softly staged product interface preview. The pale atmospheric background and oversized UI mockup create depth without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060457-1.webp",
+  "prompts": [
+    "kage/component--attio-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=product-ui",
+    "search?q=cta"
+  ],
+  "pageSha256": "956c93a361957cedaa07c8c8058241127d8356e8328bec6d64ce32ad0bae32b5"
+}

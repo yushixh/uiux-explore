@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--plaid-gallery",
+  "source": "kage",
+  "slug": "component--plaid-gallery",
+  "url": "https://kage.design/component/plaid-gallery",
+  "name": "Story rail over gradient signup section by plaid.com",
+  "description": "A premium marketing section pairs a horizontally clipped row of customer-story links with a vivid, oversized gradient CTA area below. The contrast between editorial navigation and a glowing form panel creates a strong transition from proof to conversion.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/plaid-com/7f22fbce-e808-4b19-99a1-7dcb31fbfb56-1789060800-6.webp",
+  "prompts": [
+    "kage/component--plaid-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/plaid-landing-page",
+  "product": "plaid-com",
+  "tags": [
+    "search?q=case+studies",
+    "search?q=gradient",
+    "search?q=signup+form",
+    "search?q=horizontal+rail"
+  ],
+  "pageSha256": "992666e8e25a5eb9b123f34a9af6ed1da93bb62500ac800999f4e2bf3b430117"
+}

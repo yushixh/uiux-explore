@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ai-observability-by-openobserve-navigation",
+  "source": "kage",
+  "slug": "component--ai-observability-by-openobserve-navigation",
+  "url": "https://kage.design/component/ai-observability-by-openobserve-navigation",
+  "name": "Announcement bar and primary navigation by AI Observability by OpenObserve",
+  "description": "A compact two-tier header pairs a high-contrast promotional announcement strip with a clean, utility-rich primary navigation. It works through clear grouping, restrained controls, and a strong action hierarchy without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ai-observability-by-openobserve/e945d001-9c66-4981-a493-d9cb08ea77ee-1789106505-0.webp",
+  "prompts": [
+    "kage/component--ai-observability-by-openobserve-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=announcement",
+    "search?q=saas"
+  ],
+  "pageSha256": "00006d1a925da2c9d3322d2b0fbeae864dc428dd0d3494885f1e389e0fe813ae"
+}

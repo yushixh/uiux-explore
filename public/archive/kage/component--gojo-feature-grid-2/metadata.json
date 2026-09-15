@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--gojo-feature-grid-2",
+  "source": "kage",
+  "slug": "component--gojo-feature-grid-2",
+  "url": "https://kage.design/component/gojo-feature-grid-2",
+  "name": "Editorial feature-grid showcase by Gojo",
+  "description": "This section works by pairing a concise, editorial feature narrative with a believable product UI preview, using strong alignment, generous whitespace, and restrained neutral colour. The repeated row structure makes a larger set of capabilities feel scannable while letting each feature retain a focused story.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106542-3.webp",
+  "prompts": [
+    "kage/component--gojo-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=product-ui",
+    "search?q=editorial",
+    "search?q=dark-preview"
+  ],
+  "pageSha256": "c25ef3e37a0cd1ac2c8547afe5a9f1c29621584a6f988c7e65a024e901165460"
+}

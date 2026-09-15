@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tally-hero",
+  "source": "kage",
+  "slug": "component--tally-hero",
+  "url": "https://kage.design/component/tally-hero",
+  "name": "Playful SaaS hero with product preview by tally.so",
+  "description": "A spacious, conversion-focused hero pairs a bold centered headline with a compact supporting message, a vivid primary CTA, and a large browser-style product preview. Hand-drawn peripheral marks and restrained social proof add personality and credibility without competing with the core action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060951-1.webp",
+  "prompts": [
+    "kage/component--tally-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=playful",
+    "search?q=product-preview"
+  ],
+  "pageSha256": "887431e754477924f25c8887064bc4ff5f7c1349c5cdba0adbf22aa489ff031e"
+}

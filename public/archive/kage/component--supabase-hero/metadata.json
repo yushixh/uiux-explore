@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--supabase-hero",
+  "source": "kage",
+  "slug": "component--supabase-hero",
+  "url": "https://kage.design/component/supabase-hero",
+  "name": "Platform capability mosaic hero by supabase.com",
+  "description": "A spacious product hero pairs a concise, high-impact headline with supporting value proposition and dual CTAs, then turns the product platform into a visual bento grid. Unequal cards, restrained technical illustrations, and generous whitespace make a broad feature set feel cohesive without overwhelming the visitor.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/supabase-com/b03f69f9-4b47-487d-8f2b-17d7cd19e877-1789060352-1.webp",
+  "prompts": [
+    "kage/component--supabase-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/supabase-landing-page",
+  "product": "supabase-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=bento",
+    "search?q=saas",
+    "search?q=developer"
+  ],
+  "pageSha256": "6c645ec91c9eb79c13b9d0a73582b3cae63da8a8957137b724af3a4a9473b030"
+}

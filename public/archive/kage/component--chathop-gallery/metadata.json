@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chathop-gallery",
+  "source": "kage",
+  "slug": "component--chathop-gallery",
+  "url": "https://kage.design/component/chathop-gallery",
+  "name": "Embedded product demonstration by ChatHop",
+  "description": "A chapter heading introduces a large rounded video frame, giving the product story a tangible demonstration while preserving the dark visual system.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chathop/788ba903-59f3-47ff-b1c8-618bf4f4ae3c-1789193010-5.webp",
+  "prompts": [
+    "kage/component--chathop-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chathop-landing-page",
+  "product": "chathop",
+  "tags": [
+    "search?q=video",
+    "search?q=demo",
+    "search?q=media"
+  ],
+  "pageSha256": "f36b15e70d312281a82f349427d68dce5222d4df9a17a2f7320e152224d8cdc5"
+}

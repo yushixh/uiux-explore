@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--domestika-hero",
+  "source": "kage",
+  "slug": "component--domestika-hero",
+  "url": "https://kage.design/component/domestika-hero",
+  "name": "Featured course hero by domestika.org",
+  "description": "A blue split hero pairs persuasive course metadata and a purchase CTA with a large editorial illustration, while carousel dots signal additional featured content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/domestika-org/a1bec580-5d19-4289-a277-048dcd6cb3c6-1789146410-2.webp",
+  "prompts": [
+    "kage/component--domestika-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/domestika-landing-page",
+  "product": "domestika-org",
+  "tags": [
+    "search?q=featured",
+    "search?q=course",
+    "search?q=carousel"
+  ],
+  "pageSha256": "6f4c629ee71b41e31511ec634ac4a683f6622499ca70c33a4347c256654750d8"
+}

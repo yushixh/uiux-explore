@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workid-navigation",
+  "source": "kage",
+  "slug": "component--workid-navigation",
+  "url": "https://kage.design/component/workid-navigation",
+  "name": "Minimal recruitment platform navbar by WorkID.ai",
+  "description": "This navigation works through a restrained two-sided layout: brand identity at the left, centered product destinations, and clearly separated account actions at the right. Generous whitespace, compact controls, and a high-contrast primary action make the header feel trustworthy without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workid-ai/2843b616-ed30-482d-adaf-40c736e4842a-1789106673-0.webp",
+  "prompts": [
+    "kage/component--workid-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workid-landing-page",
+  "product": "workid-ai",
+  "tags": [
+    "search?q=navbar",
+    "search?q=saas",
+    "search?q=desktop",
+    "search?q=authentication"
+  ],
+  "pageSha256": "902eead5dce0e9ffc800d89bc0a561e0a06af70b66ed2335300cded48854374b"
+}

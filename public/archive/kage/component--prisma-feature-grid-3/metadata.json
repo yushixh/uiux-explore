@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--prisma-feature-grid-3",
+  "source": "kage",
+  "slug": "component--prisma-feature-grid-3",
+  "url": "https://kage.design/component/prisma-feature-grid-3",
+  "name": "Integrated product stack feature grid by prisma.io",
+  "description": "A large, editorial feature section that presents a cohesive product suite as a sequence of alternating product panels, connected by a shared-contract thread, then closes with a compact supporting-tools grid. The restrained typography, soft borders, and vivid product UI surfaces make a complex platform feel unified and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073819-5.webp",
+  "prompts": [
+    "kage/component--prisma-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=product-stack",
+    "search?q=bento-layout",
+    "search?q=saas"
+  ],
+  "pageSha256": "a430755bf97e524f450b7e6d014ccf3d469784b320d7064a953614dcb939d4f3"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--frigade-assist-api-og-image",
+  "source": "kage",
+  "slug": "designs--frigade-assist-api-og-image",
+  "url": "https://kage.design/designs/frigade-assist-api-og-image",
+  "name": "Frigade Assist API social card by Frigade Assist API",
+  "description": "A 1200×630 social card uses a near-black charcoal canvas with subtle vertical panels and diagonal texture at the edges. The white wordmark sits centered above a large two-line headline, while a thin electric-blue glowing arc and small white pointer create a visual divider; the final phrase is isolated in bright blue for emphasis.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/frigade-assist-api/d8a44e39-e0ef-424f-ab8e-b27fea62f0f2-1789106648228.webp",
+  "prompts": [
+    "kage/designs--frigade-assist-api-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=social-card",
+    "search?q=dark-canvas",
+    "search?q=centered-wordmark",
+    "search?q=oversized-headline",
+    "search?q=blue-accent",
+    "search?q=glow",
+    "search?q=radial-arc"
+  ],
+  "pageSha256": "ad2c3355b483a1b700dd0163cce7130c9d58fdf50b44bb0fa518453ba0914faf"
+}

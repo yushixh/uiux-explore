@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--goodreads-hero",
+  "source": "kage",
+  "slug": "component--goodreads-hero",
+  "url": "https://kage.design/component/goodreads-hero",
+  "name": "Seasonal discovery hero by goodreads.com",
+  "description": "A wide illustrated seasonal campaign banner uses a warm, editorial composition and oversized serif headline to make book discovery feel timely and aspirational. A single dark rounded CTA anchors the message, while the sign-up card overlaps the right side.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/goodreads-com/0ed04b7a-0db2-4e11-9788-e963511428af-1789146329-1.webp",
+  "prompts": [
+    "kage/component--goodreads-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/goodreads-landing-page",
+  "product": "goodreads-com",
+  "tags": [
+    "search?q=editorial",
+    "search?q=campaign",
+    "search?q=cta"
+  ],
+  "pageSha256": "f9e896708578476723ea441b8f42b36fcc6c001caf71e10199f898eb5f9d1728"
+}

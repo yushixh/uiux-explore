@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fplxi-pricing-table",
+  "source": "kage",
+  "slug": "component--fplxi-pricing-table",
+  "url": "https://kage.design/component/fplxi-pricing-table",
+  "name": "Two-tier pricing table with feature comparison by fplxi.com",
+  "description": "A restrained, editorial pricing section pairs a free plan and a highlighted paid plan with a compact adjacent outcome panel. It works through clear hierarchy, generous whitespace, explicit feature grouping, and low-pressure conversion cues rather than aggressive sales styling.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fplxi-com/54b8421e-1a9f-4884-bebf-8d70ddcd8ef8-1789073157-6.webp",
+  "prompts": [
+    "kage/component--fplxi-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fplxi-landing-page",
+  "product": "fplxi-com",
+  "tags": [
+    "search?q=pricing",
+    "search?q=comparison",
+    "search?q=conversion",
+    "search?q=saas"
+  ],
+  "pageSha256": "8bea6d365a6e200ba530b81e5e03ac83489a33f9eaa6e87f053ea3031e8a4193"
+}

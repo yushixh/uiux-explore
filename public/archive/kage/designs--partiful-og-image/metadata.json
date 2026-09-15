@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--partiful-og-image",
+  "source": "kage",
+  "slug": "designs--partiful-og-image",
+  "url": "https://kage.design/designs/partiful-og-image",
+  "name": "Partiful party invitations OG card by partiful.com",
+  "description": "A 1200×630 social card built around a fanned cluster of three tilted invitation cards floating over a dark aubergine gradient. Each card follows the same anatomy — big date headline at the top, a photo or motif panel in the middle, event title in large type at the bottom — while their distinct palettes (icy blue, pixel-sprinkled indigo, peach-to-pink gradient) create variety within repetition. Glossy translucent bubbles, soft bokeh circles and two magenta glow orbs add depth around the edges, keeping the dark background atmospheric without competing with the cards.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/partiful-com/cb133596-3834-4ccf-b102-7785581e98fa-1789146203980.webp",
+  "prompts": [
+    "kage/designs--partiful-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-og-image",
+  "product": "partiful-com",
+  "tags": [
+    "search?q=og-card",
+    "search?q=party-invites",
+    "search?q=floating-cards",
+    "search?q=3d-tilt",
+    "search?q=bokeh",
+    "search?q=retro-pixel-art",
+    "search?q=photo-collage"
+  ],
+  "pageSha256": "0adcc0498d9ba04ad432145ad962478c665b558f326f0a8eddfb58617b506d80"
+}

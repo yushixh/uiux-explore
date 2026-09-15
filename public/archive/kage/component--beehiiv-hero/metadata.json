@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--beehiiv-hero",
+  "source": "kage",
+  "slug": "component--beehiiv-hero",
+  "url": "https://kage.design/component/beehiiv-hero",
+  "name": "Dark split-screen product hero by beehiiv.com",
+  "description": "A high-impact SaaS hero that pairs an oversized, tightly stacked value proposition with a vivid gradient emphasis and a layered product preview. Strong contrast, compact proof points, and dual signup actions make the section feel both expressive and conversion-focused.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067453-1.webp",
+  "prompts": [
+    "kage/component--beehiiv-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark-mode",
+    "search?q=saas",
+    "search?q=split-layout",
+    "search?q=gradient"
+  ],
+  "pageSha256": "759288db971f997e284017bfc7ce750b2d552eadaf1ac4ff835a933cd8ae9682"
+}

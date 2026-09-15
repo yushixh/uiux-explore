@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--turso-logo-cloud",
+  "source": "kage",
+  "slug": "component--turso-logo-cloud",
+  "url": "https://kage.design/component/turso-logo-cloud",
+  "name": "Bordered customer logo rail by turso.tech",
+  "description": "A compact, low-contrast trust strip pairs a short credibility statement with a single row of monochrome customer marks. The framed container, vertical divider, generous alignment, and restrained typography make many logos feel orderly without competing with the page’s primary message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/turso-tech/a01fe972-4603-42df-a7fd-1b66e57f2913-1789073738-2.webp",
+  "prompts": [
+    "kage/component--turso-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/turso-landing-page",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=dark+ui",
+    "search?q=horizontal+layout"
+  ],
+  "pageSha256": "b3f9d71d50d64febd34756fa048c15ed7c7aa986194f58e438173fec509960bc"
+}

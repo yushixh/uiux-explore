@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--granola-og-image",
+  "source": "kage",
+  "slug": "designs--granola-og-image",
+  "url": "https://kage.design/designs/granola-og-image",
+  "name": "Granola AI social card by granola.ai",
+  "description": "A 1200×630 social card uses a vivid, tactile collage background—lime graphic paper at left and a pink-blue woven textile at right—as a frame for a large warm-white rounded browser-like panel. Inside, a bold black wordmark sits above an oversized high-contrast serif headline arranged in four lines, creating a clear focal hierarchy; small browser dots and a compact utility badge add interface cues without competing with the typography.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/granola-ai/d4db2a95-b2c2-49b3-9ad8-c1367dbeb578-1789060742531.webp",
+  "prompts": [
+    "kage/designs--granola-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/relic-og-image",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=social-card",
+    "search?q=editorial-serif",
+    "search?q=collage",
+    "search?q=textured-background",
+    "search?q=rounded-window",
+    "search?q=wordmark"
+  ],
+  "pageSha256": "6550f85f797d0a9117d9b2d7ea77960926801ecb778ee36d5c44559115603651"
+}

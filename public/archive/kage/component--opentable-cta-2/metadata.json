@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-cta-2",
+  "source": "kage",
+  "slug": "component--opentable-cta-2",
+  "url": "https://kage.design/component/opentable-cta-2",
+  "name": "Business platform promotion by opentable.com",
+  "description": "A full-width gradient banner switches audience from diners to businesses, combining a bold proposition, two actions, and a product-interface visual on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146317-10.webp",
+  "prompts": [
+    "kage/component--opentable-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=business",
+    "search?q=promotion",
+    "search?q=cta"
+  ],
+  "pageSha256": "d4ef4f6d376b40decba4f511e7248e9ddb6abf7616360e0524e3dc26f3db4a2f"
+}

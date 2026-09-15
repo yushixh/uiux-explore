@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--betterment-navigation",
+  "source": "kage",
+  "slug": "component--betterment-navigation",
+  "url": "https://kage.design/component/betterment-navigation",
+  "name": "Audience bar and primary navigation by betterment.com",
+  "description": "A slim audience switcher sits above a blue, spacious primary navigation. The bright yellow action button creates a clear conversion anchor without competing with the wordmark.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/betterment-com/48b23e19-a777-4bc7-89e7-1aceabf18629-1789146555-0.webp",
+  "prompts": [
+    "kage/component--betterment-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/betterment-landing-page",
+  "product": "betterment-com",
+  "tags": [
+    "search?q=nav",
+    "search?q=audiences",
+    "search?q=dropdowns",
+    "search?q=cta"
+  ],
+  "pageSha256": "90e5910f075ccd997a3bd4f6b585a1fd186d9abacb69d06f640a0a7eac561b1b"
+}

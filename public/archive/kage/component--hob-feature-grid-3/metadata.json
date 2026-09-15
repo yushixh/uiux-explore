@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-feature-grid-3",
+  "source": "kage",
+  "slug": "component--hob-feature-grid-3",
+  "url": "https://kage.design/component/hob-feature-grid-3",
+  "name": "Layered workflow feature grid by hob",
+  "description": "A spacious, editorial feature section pairs a concise value proposition with a layered product-workflow visual. Soft surfaces, restrained borders, and overlapping utility cards make a complex system feel unified without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106503-5.webp",
+  "prompts": [
+    "kage/component--hob-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=workflow",
+    "search?q=bento"
+  ],
+  "pageSha256": "e83f8ad4613d8e2eeb7e29b3835de70aaa32f969beae91edb170a102dadd4a32"
+}

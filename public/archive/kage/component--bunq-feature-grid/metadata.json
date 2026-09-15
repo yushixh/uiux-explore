@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bunq-feature-grid",
+  "source": "kage",
+  "slug": "component--bunq-feature-grid",
+  "url": "https://kage.design/component/bunq-feature-grid",
+  "name": "Personal banking benefits by bunq.com",
+  "description": "A dark benefits section introduces the product promise and presents stacked feature rows with short descriptions, creating an easy-to-scan mobile information hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bunq-com/4420c8b4-fa9d-40bf-a5d3-de95f2febdf1-1789146828-2.webp",
+  "prompts": [
+    "kage/component--bunq-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bunq-landing-page",
+  "product": "bunq-com",
+  "tags": [
+    "search?q=benefits",
+    "search?q=accordion",
+    "search?q=dark"
+  ],
+  "pageSha256": "eb353f8a815bad873dcf36633054277beed33a1a8345456bb2640f73f279160a"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--jackalope-landing-page",
+  "source": "kage",
+  "slug": "designs--jackalope-landing-page",
+  "url": "https://kage.design/designs/jackalope-landing-page",
+  "name": "Jackalope landing page by Jackalope",
+  "description": "A soft, friendly landing page built on a near-white lavender background with an electric indigo accent used sparingly for CTAs and highlighted words. Hierarchy comes from very large two-tone display headlines (black first phrase, indigo second), then the page breaks into bento-style feature cards whose tops are pastel-tinted illustration panels (lavender, mint, cream, blush) with white text halves below. Rhythm alternates between card grids, an icon-led two-column feature list with hairline dividers, a tabbed walkthrough with a large purple canvas illustration, a UI screenshot showcase, a theme switcher demo, and a two-column accordion FAQ. A saturated indigo footer with a giant wordmark and an email-capture form closes the page. Density stays low; generous whitespace and consistent card radius/soft shadows carry the cohesive, approachable feel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/jackalope/0b3edf93-8385-4e4a-8f92-3c01052ad81d-1789192900792.webp",
+  "prompts": [
+    "kage/designs--jackalope-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "jackalope",
+  "tags": [
+    "search?q=bento+feature+grid",
+    "search?q=pastel+accent+cards",
+    "search?q=illustrated+product+shots",
+    "search?q=accordion+faq",
+    "search?q=waitlist+cta",
+    "search?q=soft+shadows",
+    "search?q=workspace+screenshot"
+  ],
+  "pageSha256": "3a469c4ce280712eaf7c9e48d41a3042e030d2359f526ab99a332082dcf215c4"
+}

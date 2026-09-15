@@ -1,0 +1,28 @@
+{
+  "id": "kage--designs--vercel-empty-state",
+  "source": "kage",
+  "slug": "designs--vercel-empty-state",
+  "url": "https://kage.design/designs/vercel-empty-state",
+  "name": "Vercel homepage — Agentic Infrastructure hero by vercel.com",
+  "description": "A radically minimal monochrome landing page built almost entirely from typography and one flat black triangle. The hero uses an asymmetric three-part grid: a huge two-line display headline (~110px, tight leading) on the left, the giant geometric brand shape centered, and a small stack of three short value lines on the right. Hierarchy is achieved purely through scale contrast — a compact 14–16px nav and banner, one enormous headline, everything on a white field with near-black text. Fully rounded pill CTAs (solid black and outlined white), an announcement strip above the nav, and a customer wordmark marquee cropped at the fold set the rhythm for the rest of the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/vercel-com/9f6134af-817e-461c-9f8e-dd4299d73956-1789059978911.webp",
+  "prompts": [
+    "kage/designs--vercel-empty-state/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "vercel-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=big-type",
+    "search?q=whitespace",
+    "search?q=asymmetric-grid",
+    "search?q=pill-buttons",
+    "search?q=geometric-graphic",
+    "search?q=logo-strip",
+    "search?q=announcement-banner",
+    "search?q=monochrome"
+  ],
+  "pageSha256": "9f33c06d4d1e16eb2f381c9eea57e8bf45bac8b1a3ecbfa906220fead98f316f"
+}

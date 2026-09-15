@@ -14,6 +14,10 @@
   "scripts": {
     "dev": "vite",
     "typecheck": "tsc --noEmit",
+    "archive:restore": "python3 scripts/restore-archive-cache.py",
+    "archive:index": "node scripts/build-archive-index.mjs",
+    "archive:previews": "node scripts/extract-bencho-runtime.mjs && node scripts/build-archive-previews.mjs && node scripts/build-original-previews.mjs",
+    "test:archive": "node tests/archive-integrity.mjs",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview --host 127.0.0.1"
   },
@@ -23,19 +27,24 @@
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "@types/three": "^0.185.4",
+    "eslint-scope": "^9.1.2",
     "playwright": "^1.55.0",
+    "sass": "^1.104.1",
     "tailwindcss": "^4.3.3",
     "typescript": "^7.0.2",
     "vite": "^7.1.0"
   },
   "dependencies": {
     "border-beam": "^1.3.0",
+    "framer-motion": "^13.3.0",
     "img-fx": "^0.5.1",
     "liquid-gooey": "^0.2.1",
+    "lucide-react": "^1.46.0",
     "metal-fx": "^2.0.10",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "thinking-orbs": "^0.3.1",
-    "three": "^0.186.0"
+    "three": "^0.186.0",
+    "web-haptics": "^0.0.6"
   }
 }

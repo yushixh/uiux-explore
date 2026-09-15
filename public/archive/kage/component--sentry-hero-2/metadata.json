@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--sentry-hero-2",
+  "source": "kage",
+  "slug": "component--sentry-hero-2",
+  "url": "https://kage.design/component/sentry-hero-2",
+  "name": "Connected product hero by sentry.io",
+  "description": "A bold, dark SaaS hero that pairs a two-line headline with a vivid accent word, explanatory copy, and a concise product promise. Its restrained composition creates focus while subtle atmospheric texture and a cropped interface preview add depth without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sentry-io/7f1d8e63-d1c6-4f27-8b0e-be764e2f10af-1789073904-4.webp",
+  "prompts": [
+    "kage/component--sentry-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sentry-landing-page",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark-mode",
+    "search?q=gradient",
+    "search?q=saas"
+  ],
+  "pageSha256": "57c7ff10efd56cacfd00081f23b8ef3fe10b4a7fdf1f428fcbc8cd993549d66c"
+}

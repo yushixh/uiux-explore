@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--cube-wave-background",
+  "source": "vantaui",
+  "slug": "explore--components--cube-wave-background",
+  "url": "https://www.vantaui.com/explore/components/cube-wave-background",
+  "name": "Cube Wave Background - VantaUI",
+  "description": "Minimalistic and customizable 3D wave grid background with Three.js",
+  "image": "https://vantaui-registry.vercel.app/components/cube-wave-background",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "499b37fb7593d4fb8892815e8dcc3f0e739656b6f564ade0f338bb75e0f1aa31"
+}

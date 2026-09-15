@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mintlify-navigation",
+  "source": "kage",
+  "slug": "component--mintlify-navigation",
+  "url": "https://kage.design/component/mintlify-navigation",
+  "name": "Minimal SaaS navigation bar by mintlify.com",
+  "description": "A restrained, high-trust header balances a compact brand mark, centered navigation, and clearly differentiated account and conversion actions. Generous whitespace, subtle separators, and a near-black primary button make the navigation feel polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mintlify-com/71224961-d985-451b-9e35-e02eddcee178-1789060643-0.webp",
+  "prompts": [
+    "kage/component--mintlify-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mintlify-landing-page",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=navbar",
+    "search?q=saas",
+    "search?q=responsive",
+    "search?q=header"
+  ],
+  "pageSha256": "9e4b0f0ae8d4e4dd0e8a7b7cda07c9fdd2f33c3b364b90e21e5499b50f137fc8"
+}

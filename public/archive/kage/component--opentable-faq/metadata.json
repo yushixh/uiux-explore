@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-faq",
+  "source": "kage",
+  "slug": "component--opentable-faq",
+  "url": "https://kage.design/component/opentable-faq",
+  "name": "How the service works and FAQ by opentable.com",
+  "description": "An educational block explains the service with introductory copy, a four-step visual sequence, and a compact FAQ interaction below it.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146316-7.webp",
+  "prompts": [
+    "kage/component--opentable-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=faq",
+    "search?q=how-it-works",
+    "search?q=accordion"
+  ],
+  "pageSha256": "ed6f16bf46eba32afe7281f4d11a5c9d72ea9668a0fa10ea7190ddbd75a3305f"
+}

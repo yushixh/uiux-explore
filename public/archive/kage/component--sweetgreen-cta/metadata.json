@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--sweetgreen-cta",
+  "source": "kage",
+  "slug": "component--sweetgreen-cta",
+  "url": "https://kage.design/component/sweetgreen-cta",
+  "name": "Workplace solutions panel by sweetgreen.com",
+  "description": "A pale green business-focused panel pairs a large left editorial headline and linked service list with a tall rounded image on the right, making several workplace paths scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sweetgreen-com/33a74ca8-f609-4778-a60f-a45f3e4cc9aa-1789146472-3.webp",
+  "prompts": [
+    "kage/component--sweetgreen-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sweetgreen-landing-page",
+  "product": "sweetgreen-com",
+  "tags": [
+    "search?q=business",
+    "search?q=split-layout",
+    "search?q=cta"
+  ],
+  "pageSha256": "71750a5785045e9cc3844885b1296806618b504f24b08f4e4e8a5ab5fb93778b"
+}

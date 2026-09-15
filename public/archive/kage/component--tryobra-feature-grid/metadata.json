@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--tryobra-feature-grid",
+  "source": "kage",
+  "slug": "component--tryobra-feature-grid",
+  "url": "https://kage.design/component/tryobra-feature-grid",
+  "name": "Receipt capture workflow by tryobra.com",
+  "description": "This section pairs a headline with an annotated receipt visual and a numbered five-step workflow, making a complex product process scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tryobra-com/5ed8a808-d125-4341-bc8a-0a69442cb995-1789152084-3.webp",
+  "prompts": [
+    "kage/component--tryobra-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "tryobra-com",
+  "tags": [
+    "search?q=workflow",
+    "search?q=feature-grid",
+    "search?q=dark"
+  ],
+  "pageSha256": "181ba1cde93bd38cbec1ac62da4d938c03575bd970dbe290edee16ac992ebf99"
+}

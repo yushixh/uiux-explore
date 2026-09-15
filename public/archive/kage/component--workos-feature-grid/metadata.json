@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workos-feature-grid",
+  "source": "kage",
+  "slug": "component--workos-feature-grid",
+  "url": "https://kage.design/component/workos-feature-grid",
+  "name": "Enterprise feature grid by workos.com",
+  "description": "A spacious, editorial feature section pairs a strong left-aligned product message with a lightweight visual anchor and a two-column grid of capabilities. Small icon tiles, restrained typography, and generous vertical rhythm make a broad enterprise offering feel scannable without turning the section into a dense card wall.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workos-com/c1ef5d6b-8620-4482-aad7-47f439cf35f9-1789073891-3.webp",
+  "prompts": [
+    "kage/component--workos-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-landing-page",
+  "product": "workos-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=enterprise",
+    "search?q=b2b"
+  ],
+  "pageSha256": "79ce64121587e63cee2c4628f73c5e7490f934934f4e56b906e2e3bf1501bef8"
+}

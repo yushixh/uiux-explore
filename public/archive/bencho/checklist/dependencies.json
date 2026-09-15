@@ -1,0 +1,16 @@
+{
+  "dependencies": [
+    "framer-motion"
+  ],
+  "tokens": [
+    "--card",
+    "--fill-on",
+    "--fill-on-rgb",
+    "--fill-slab",
+    "--font-ui",
+    "--ink",
+    "--ink-rgb",
+    "--pane-edge"
+  ],
+  "stubs": []
+}

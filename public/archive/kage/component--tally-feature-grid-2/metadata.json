@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--tally-feature-grid-2",
+  "source": "kage",
+  "slug": "component--tally-feature-grid-2",
+  "url": "https://kage.design/component/tally-feature-grid-2",
+  "name": "Feature grid with visual showcase by tally.so",
+  "description": "A spacious SaaS feature section pairs a bold introductory message with a large bordered showcase card, then follows with a compact three-column feature grid. The restrained monochrome palette, magenta line icons, soft fades, and product-interface preview make a long list of capabilities feel visual and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060952-3.webp",
+  "prompts": [
+    "kage/component--tally-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=product-features",
+    "search?q=editorial",
+    "search?q=responsive",
+    "search?q=saas"
+  ],
+  "pageSha256": "84973e09a8896df023de0811d1110714e870d220f7b0bc0ec385ce2a43367bea"
+}

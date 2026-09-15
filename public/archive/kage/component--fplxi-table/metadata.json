@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--fplxi-table",
+  "source": "kage",
+  "slug": "component--fplxi-table",
+  "url": "https://kage.design/component/fplxi-table",
+  "name": "Trending players data table by fplxi.com",
+  "description": "A compact, scan-friendly ranking table that pairs a clear section heading with subdued context, a comparison action, and evenly structured rows. Lightweight team chips, position labels, opponent badges, and right-aligned values create strong visual grouping without making the interface feel dense.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fplxi-com/54b8421e-1a9f-4884-bebf-8d70ddcd8ef8-1789073157-5.webp",
+  "prompts": [
+    "kage/component--fplxi-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fplxi-landing-page",
+  "product": "fplxi-com",
+  "tags": [
+    "search?q=data+table",
+    "search?q=sports",
+    "search?q=ranking",
+    "search?q=responsive",
+    "search?q=dashboard"
+  ],
+  "pageSha256": "544be3beaa03b0734bdbf1af15eedfce5402a125cb8663f0a6b6893b774deb75"
+}

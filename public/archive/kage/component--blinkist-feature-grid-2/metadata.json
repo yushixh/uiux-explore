@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--blinkist-feature-grid-2",
+  "source": "kage",
+  "slug": "component--blinkist-feature-grid-2",
+  "url": "https://kage.design/component/blinkist-feature-grid-2",
+  "name": "Choose your learning format by blinkist.com",
+  "description": "A strong section heading introduces a horizontally scrolling set of illustrated format cards, with the first card fully featured and navigation indicators below.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/blinkist-com/923d3302-3f7c-4bf2-9567-691903266cb3-1789146453-5.webp",
+  "prompts": [
+    "kage/component--blinkist-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/blinkist-landing-page",
+  "product": "blinkist-com",
+  "tags": [
+    "search?q=formats",
+    "search?q=carousel",
+    "search?q=content"
+  ],
+  "pageSha256": "63f1c61dac458832f98a285eb2574dcb38954d91e686e7aa1f953b3504d6d133"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ledger-feature-grid-2",
+  "source": "kage",
+  "slug": "component--ledger-feature-grid-2",
+  "url": "https://kage.design/component/ledger-feature-grid-2",
+  "name": "Product comparison cards by ledger.com",
+  "description": "A strong section heading introduces four product cards with consistent image areas, specifications, descriptions, ratings, and links. The shared card structure makes comparison easy despite varied products.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ledger-com/abaab959-f9d6-43c3-8f0c-09f584ac8799-1789146872-4.webp",
+  "prompts": [
+    "kage/component--ledger-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=products",
+    "search?q=cards",
+    "search?q=comparison"
+  ],
+  "pageSha256": "4b349ae1238c553b3fdaa250ff0fd32b26e7a91b8483ea946b8ce80d4988341d"
+}

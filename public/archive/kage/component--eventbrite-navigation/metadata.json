@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--eventbrite-navigation",
+  "source": "kage",
+  "slug": "component--eventbrite-navigation",
+  "url": "https://kage.design/component/eventbrite-navigation",
+  "name": "Global navigation and location search by eventbrite.com",
+  "description": "A compact, persistent header combines brand, location-aware search, primary discovery links, event creation, support, tickets, and account access.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/eventbrite-com/7528d4f6-3311-4de9-a3b5-4d616b4b671a-1789146266-0.webp",
+  "prompts": [
+    "kage/component--eventbrite-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-landing-page",
+  "product": "eventbrite-com",
+  "tags": [
+    "search?q=header",
+    "search?q=search",
+    "search?q=navigation"
+  ],
+  "pageSha256": "21f1c5ca823d576990ae9f3169945385ea3a6d3a48129f7fe803e3c32021307e"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--masterclass-card",
+  "source": "kage",
+  "slug": "component--masterclass-card",
+  "url": "https://kage.design/component/masterclass-card",
+  "name": "Certificates and business promos by masterclass.com",
+  "description": "Two large promotional cards broaden the offer beyond consumer membership: an image-rich certificate panel followed by a team-focused business panel with clear sales actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146211-6.webp",
+  "prompts": [
+    "kage/component--masterclass-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/masterclass-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=promotional",
+    "search?q=split-layout",
+    "search?q=business"
+  ],
+  "pageSha256": "0890a57613e5c630ead14684fc17e235c9d1a0c1c8b2e4b3a4d2ffd6fb8fae80"
+}

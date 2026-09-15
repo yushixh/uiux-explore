@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--masterclass-feature-grid",
+  "source": "kage",
+  "slug": "component--masterclass-feature-grid",
+  "url": "https://kage.design/component/masterclass-feature-grid",
+  "name": "Membership benefits by masterclass.com",
+  "description": "A compact split section turns the membership promise into a scannable checklist while retaining two conversion buttons and a strong question-led heading.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146210-2.webp",
+  "prompts": [
+    "kage/component--masterclass-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/masterclass-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=benefits",
+    "search?q=membership",
+    "search?q=checklist"
+  ],
+  "pageSha256": "c7123d9b1470920a2fcab81fe0dd51ea52e81f1e7bf7d852caa023f036b8852c"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--venmo-feature-grid",
+  "source": "kage",
+  "slug": "component--venmo-feature-grid",
+  "url": "https://kage.design/component/venmo-feature-grid",
+  "name": "More ways to pay by venmo.com",
+  "description": "A spacious feature sequence presents three payment products—each with a left-aligned title, explanatory copy and CTA paired with a large rounded visual placeholder on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/venmo-com/e421e2ca-b11c-49c9-b106-d3994196da77-1789146507-2.webp",
+  "prompts": [
+    "kage/component--venmo-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/venmo-landing-page",
+  "product": "venmo-com",
+  "tags": [
+    "search?q=features",
+    "search?q=cards",
+    "search?q=payments"
+  ],
+  "pageSha256": "d6a698f92130a83ba43bded3e6815d3db17a7f5c9f5a6779026843339f64600d"
+}

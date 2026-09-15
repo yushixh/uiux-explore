@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--viso-now-logo-cloud",
+  "source": "kage",
+  "slug": "component--viso-now-logo-cloud",
+  "url": "https://kage.design/component/viso-now-logo-cloud",
+  "name": "Trusted-by logo strip by Viso Now",
+  "description": "A restrained horizontal trust bar that pairs a compact credibility label with a single row of muted customer marks. Its low-contrast treatment supports the page without competing with the primary product messaging above it.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106575-1.webp",
+  "prompts": [
+    "kage/component--viso-now-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/viso-now-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=customer+logos",
+    "search?q=trust+bar"
+  ],
+  "pageSha256": "9b481bafe61ecce4737f8b9b02a01e1677636be39ed8062aeb7133d80b43ef76"
+}

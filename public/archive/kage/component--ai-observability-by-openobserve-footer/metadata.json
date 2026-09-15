@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ai-observability-by-openobserve-footer",
+  "source": "kage",
+  "slug": "component--ai-observability-by-openobserve-footer",
+  "url": "https://kage.design/component/ai-observability-by-openobserve-footer",
+  "name": "Event strip and social footer by AI Observability by OpenObserve",
+  "description": "A compact dark footer combines a full-width webinar announcement bar with event metadata and a clear registration action, followed by company details and a right-aligned row of circular social links. The warm charcoal-to-brown gradient and restrained borders give the utility-heavy area a polished, branded finish without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ai-observability-by-openobserve/e945d001-9c66-4981-a493-d9cb08ea77ee-1789106509-10.webp",
+  "prompts": [
+    "kage/component--ai-observability-by-openobserve-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=footer",
+    "search?q=event-banner",
+    "search?q=social-links",
+    "search?q=dark-ui"
+  ],
+  "pageSha256": "522807b42443ab10f0acede04c9a1aef21fd35648c8b2d24c64b79eb492dbf54"
+}

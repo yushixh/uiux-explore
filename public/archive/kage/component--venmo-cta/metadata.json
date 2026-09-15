@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--venmo-cta",
+  "source": "kage",
+  "slug": "component--venmo-cta",
+  "url": "https://kage.design/component/venmo-cta",
+  "name": "Rewards promotion by venmo.com",
+  "description": "A high-energy purple promotional band uses centered white messaging, a light pill CTA, and a large rounded product image to create a focused campaign moment.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/venmo-com/e421e2ca-b11c-49c9-b106-d3994196da77-1789146508-3.webp",
+  "prompts": [
+    "kage/component--venmo-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/venmo-landing-page",
+  "product": "venmo-com",
+  "tags": [
+    "search?q=promotion",
+    "search?q=rewards",
+    "search?q=media"
+  ],
+  "pageSha256": "c7384af2d540c61e7e8556dde94653b9c68191256fe037bfd30f6b9f03753474"
+}

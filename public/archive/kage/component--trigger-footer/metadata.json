@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-footer",
+  "source": "kage",
+  "slug": "component--trigger-footer",
+  "url": "https://kage.design/component/trigger-footer",
+  "name": "Dark multi-column utility footer by trigger.dev",
+  "description": "A restrained dark footer that uses a strong grid, subtle vertical dividers, compact social buttons, and low-contrast utility links. The composition feels infrastructural and developer-oriented while keeping the legal/copyright line visually quiet.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073778-11.webp",
+  "prompts": [
+    "kage/component--trigger-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=footer",
+    "search?q=dark+ui",
+    "search?q=multi-column",
+    "search?q=utility+links"
+  ],
+  "pageSha256": "e6b3e58bae78177a08d814bac4e80a54bcdc9f1bbe0cf2ed24f5659f3b86e7c6"
+}

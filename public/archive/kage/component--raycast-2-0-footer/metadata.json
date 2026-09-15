@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--raycast-2-0-footer",
+  "source": "kage",
+  "slug": "component--raycast-2-0-footer",
+  "url": "https://kage.design/component/raycast-2-0-footer",
+  "name": "Multi-column site footer by Raycast 2.0",
+  "description": "The footer uses a wide multi-column sitemap, a subtle divider, and a bottom newsletter signup with descriptive copy, email input, and light subscribe button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-2-0/585c4674-841f-40bf-a211-e6fd2d8f71e9-1789192912-8.webp",
+  "prompts": [
+    "kage/component--raycast-2-0-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-2-0-landing-page",
+  "product": "raycast-2-0",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=newsletter"
+  ],
+  "pageSha256": "3185af88557cc2bf3cb364166f0c23f59a811f9d0a12a79f224a9a61aef8419f"
+}

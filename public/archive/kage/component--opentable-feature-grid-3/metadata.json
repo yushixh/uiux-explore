@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-feature-grid-3",
+  "source": "kage",
+  "slug": "component--opentable-feature-grid-3",
+  "url": "https://kage.design/component/opentable-feature-grid-3",
+  "name": "Outdoor dining recommendation by opentable.com",
+  "description": "A lightweight category band presents a heading and a single restaurant card, leaving generous whitespace so the next content group remains distinct.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146315-4.webp",
+  "prompts": [
+    "kage/component--opentable-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=category",
+    "search?q=single-card",
+    "search?q=browse"
+  ],
+  "pageSha256": "65c952be5456c1d148af20623a9fc9eb45229029039dae8c8171455b7bdab0d3"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--basedash-in-espanol-francais-portugues-feature-grid-3",
+  "source": "kage",
+  "slug": "component--basedash-in-espanol-francais-portugues-feature-grid-3",
+  "url": "https://kage.design/component/basedash-in-espanol-francais-portugues-feature-grid-3",
+  "name": "Integration ecosystem feature grid by Basedash in Español Français & Português",
+  "description": "This section works by pairing a confident, centered value proposition with a restrained call to action and a dense but orderly ecosystem grid. The visual contrast between the quiet editorial header and colourful integration marks communicates breadth without making the section feel like a directory.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/basedash-in-espanol-francais-portugues/b3381e01-f9b6-42c9-8798-975c026618b1-1789106702-5.webp",
+  "prompts": [
+    "kage/component--basedash-in-espanol-francais-portugues-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=integrations",
+    "search?q=data-platform",
+    "search?q=logo-cloud"
+  ],
+  "pageSha256": "66f91d381895928425a08aa4fe9c74887b6d2e4e42c5e363d0d30fcb6acbd52a"
+}

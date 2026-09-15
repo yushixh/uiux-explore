@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--goodreads-feature-grid-3",
+  "source": "kage",
+  "slug": "component--goodreads-feature-grid-3",
+  "url": "https://kage.design/component/goodreads-feature-grid-3",
+  "name": "Search, browse, and quotes by goodreads.com",
+  "description": "The lower content area combines a book search field, a multi-column browse taxonomy, and a quote feature. It supports both high-intent lookup and casual exploration in a compact editorial layout.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/goodreads-com/0ed04b7a-0db2-4e11-9788-e963511428af-1789146330-4.webp",
+  "prompts": [
+    "kage/component--goodreads-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/goodreads-landing-page",
+  "product": "goodreads-com",
+  "tags": [
+    "search?q=search",
+    "search?q=categories",
+    "search?q=quotes"
+  ],
+  "pageSha256": "25c20a57f64e1a85ae4ef2c057a23d93748be4da13b47bb5936c0d48f635d5dd"
+}

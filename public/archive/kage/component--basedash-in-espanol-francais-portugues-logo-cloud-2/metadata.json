@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--basedash-in-espanol-francais-portugues-logo-cloud-2",
+  "source": "kage",
+  "slug": "component--basedash-in-espanol-francais-portugues-logo-cloud-2",
+  "url": "https://kage.design/component/basedash-in-espanol-francais-portugues-logo-cloud-2",
+  "name": "Integration logo cloud by Basedash in Español Français & Português",
+  "description": "A quiet, highly spaced logo field builds credibility without competing with the primary content below. The restrained grid, varied brand colours, and generous empty space make a large set of integrations feel organised and premium.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/basedash-in-espanol-francais-portugues/b3381e01-f9b6-42c9-8798-975c026618b1-1789106703-6.webp",
+  "prompts": [
+    "kage/component--basedash-in-espanol-francais-portugues-logo-cloud-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=integrations",
+    "search?q=trust"
+  ],
+  "pageSha256": "e1eba3c041afecb2bea961aa989d2cac13cb3c26b384ae6d3f68c40148a5e388"
+}

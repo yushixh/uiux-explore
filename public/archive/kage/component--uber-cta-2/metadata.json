@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--uber-cta-2",
+  "source": "kage",
+  "slug": "component--uber-cta-2",
+  "url": "https://kage.design/component/uber-cta-2",
+  "name": "Driver opportunity callout by uber.com",
+  "description": "A broad two-column recruitment callout places a warm editorial visual beside a concise opportunity message and a primary onboarding action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uber-com/6fbdb16b-1d65-42c3-b533-0bc1468316af-1789146364-5.webp",
+  "prompts": [
+    "kage/component--uber-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uber-landing-page",
+  "product": "uber-com",
+  "tags": [
+    "search?q=partners",
+    "search?q=recruitment",
+    "search?q=cta"
+  ],
+  "pageSha256": "89616ebd6b6e5fada1f55943c227a36e85f2993f3e4cdb42f08a3b7d3df7b1fb"
+}

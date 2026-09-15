@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--resurf-landing-page",
+  "source": "kage",
+  "slug": "designs--resurf-landing-page",
+  "url": "https://kage.design/designs/resurf-landing-page",
+  "name": "Resurf landing page — personal context library for Mac by Resurf",
+  "description": "An editorial-minimal landing page where hierarchy comes almost entirely from type: oversized serif display headlines sit above tiny gray sans-serif body copy on a warm off-white canvas, while all UI chrome (nav, buttons, cards, footer) stays monochrome so the only colour arrives inside the product screenshots. The page builds rhythm by alternating centred headline blocks with large framed visuals: hero → full-width Mac window screenshot → a 3×4 bento of feature tiles, each with a miniature white UI mockup and a one-line description → a tabbed product tour with a segmented control → an icon grid of supported formats → an overlapping desktop/phone/tablet collage → a centred CTA and a whisper-quiet footer. Pill buttons, 16px tile radii, flat tonal fills instead of borders, and small 'Opt-in' meta badges keep everything calm and native-Mac feeling.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/resurf/ff64fde5-ed9d-4c90-b5a1-3641329afaa7-1789365665919.webp",
+  "prompts": [
+    "kage/designs--resurf-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-landing-page",
+  "product": "resurf",
+  "tags": [
+    "search?q=serif-display-headlines",
+    "search?q=bento-feature-grid",
+    "search?q=app-screenshot-hero",
+    "search?q=monochrome-chrome",
+    "search?q=segmented-tabs",
+    "search?q=device-collage",
+    "search?q=mac-app",
+    "search?q=centered-rhythm"
+  ],
+  "pageSha256": "70c57da6ceb389980ab44fc1e9fbc4633494fe18ac094b77da7467c79a69acc3"
+}

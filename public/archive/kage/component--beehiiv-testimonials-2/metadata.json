@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--beehiiv-testimonials-2",
+  "source": "kage",
+  "slug": "component--beehiiv-testimonials-2",
+  "url": "https://kage.design/component/beehiiv-testimonials-2",
+  "name": "Centered dark testimonial card by beehiiv.com",
+  "description": "A focused testimonial panel uses generous negative space, a high-contrast quote, and a compact author block to make one customer story feel authoritative. The subtle border, deep indigo surface, and centered composition give the section a premium, editorial feel without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067454-6.webp",
+  "prompts": [
+    "kage/component--beehiiv-testimonials-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=dark-mode",
+    "search?q=social-proof",
+    "search?q=quote"
+  ],
+  "pageSha256": "1db1e83c54fdbba2d560c5ca9036445365d97b7eeec78946220ade111306a803"
+}

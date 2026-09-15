@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--viso-now-feature-grid",
+  "source": "kage",
+  "slug": "component--viso-now-feature-grid",
+  "url": "https://kage.design/component/viso-now-feature-grid",
+  "name": "Three-card feature grid by Viso Now",
+  "description": "A spacious, editorial feature section uses three equal cards to explain a product journey from idea to refinement to secure deployment. Soft interface previews, restrained colour washes, and consistent card anatomy make complex platform capabilities feel approachable and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106575-2.webp",
+  "prompts": [
+    "kage/component--viso-now-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/viso-now-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=product-tour",
+    "search?q=cards"
+  ],
+  "pageSha256": "a2efc0a3534fd9b43fbc25d3f4d5f33bee1bf8c1771db4ca2004005b9d82215a"
+}

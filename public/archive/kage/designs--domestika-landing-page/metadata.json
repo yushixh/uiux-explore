@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--domestika-landing-page",
+  "source": "kage",
+  "slug": "designs--domestika-landing-page",
+  "url": "https://kage.design/designs/domestika-landing-page",
+  "name": "Domestika creative courses homepage by domestika.org",
+  "description": "A commerce-led education homepage combines a dark utility navigation with a vivid orange urgency banner and a blue promotional hero. Below the hero, the page becomes highly scannable: four-column course cards repeat a tight image, metadata, discount, and teal purchase-button pattern, then shift into teacher discovery, a sparse benefits grid, and a text-heavy SEO footer. Orange is reserved for promotion and primary calls to action, while teal handles repeated buying actions against a mostly white, lightly bordered canvas.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/domestika-org/a1bec580-5d19-4289-a277-048dcd6cb3c6-1789146380715.webp",
+  "prompts": [
+    "kage/designs--domestika-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/blinkist-landing-page",
+  "product": "domestika-org",
+  "tags": [
+    "search?q=course-grid",
+    "search?q=hero-carousel",
+    "search?q=course-cards",
+    "search?q=teacher-carousel",
+    "search?q=feature-list",
+    "search?q=multi-column-footer",
+    "search?q=promotional-banner"
+  ],
+  "pageSha256": "3bc917bbb546ef3cb6410a4d004ae63bb69f5b0afe1bc88b1614912abe378dba"
+}

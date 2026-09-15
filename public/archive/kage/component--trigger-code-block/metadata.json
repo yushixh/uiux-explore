@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-code-block",
+  "source": "kage",
+  "slug": "component--trigger-code-block",
+  "url": "https://kage.design/component/trigger-code-block",
+  "name": "Open-source proof and developer testimonials by trigger.dev",
+  "description": "A dark, editorial trust section that combines an open-source mission statement, three high-signal metrics, and a developer testimonial grid. Strong dividers, generous vertical rhythm, and restrained accent colours make dense proof feel structured rather than crowded.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073777-8.webp",
+  "prompts": [
+    "kage/component--trigger-code-block/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=social+proof",
+    "search?q=testimonials",
+    "search?q=open+source",
+    "search?q=metrics"
+  ],
+  "pageSha256": "3183c198a7e2669aedb6fee080bfdb5f0315a9e9beb96716394c9696f3498879"
+}

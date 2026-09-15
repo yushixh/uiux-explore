@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--raycast-og-image",
+  "source": "kage",
+  "slug": "designs--raycast-og-image",
+  "url": "https://kage.design/designs/raycast-og-image",
+  "name": "Raycast social card — dark command palette OG image by raycast.com",
+  "description": "A 1200×630 social card that reads as one vertical stack on a near-black stage: centered wordmark, a single oversized gradient headline, and a command-palette app window that bleeds off the bottom edge. All colour is environmental — diagonal red light streaks rake across the backdrop and rim-light the window's border, so the UI itself stays monochrome glass. Focal hierarchy is achieved purely through scale and position: type at the top does the talking, the product shot below proves it.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/raycast-com/0ad10ca7-9e38-40ee-bcc1-17e09b8f6b56-1789059985949.webp",
+  "prompts": [
+    "kage/designs--raycast-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-og-image",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=command-palette",
+    "search?q=app-mockup",
+    "search?q=red-glow",
+    "search?q=diagonal-light-streaks",
+    "search?q=text-gradient",
+    "search?q=cropped-viewport"
+  ],
+  "pageSha256": "a4367b7736c1d5908874caf0e14e060d429560d605012b73153f98e17516ea72"
+}

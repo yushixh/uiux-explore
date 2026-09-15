@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--replicate-footer",
+  "source": "kage",
+  "slug": "component--replicate-footer",
+  "url": "https://kage.design/component/replicate-footer",
+  "name": "Editorial Gradient Footer by replicate.com",
+  "description": "A spacious, editorial footer that pairs a high-impact CTA with a thin multicolor rule and a restrained multi-column navigation area. The visual personality comes from the oversized typography above and the vivid horizontal gradient accent separating the content from the utility links.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/replicate-com/18021eac-ea1d-469d-8210-9b10eacb77c7-1789073924-6.webp",
+  "prompts": [
+    "kage/component--replicate-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/replicate-landing-page",
+  "product": "replicate-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=editorial",
+    "search?q=gradient",
+    "search?q=navigation"
+  ],
+  "pageSha256": "5e9ebab66ec372d3abc4228c597968185ffafdbe99508bab04cb54b1f3ee035b"
+}

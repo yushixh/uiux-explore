@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--upstash-footer",
+  "source": "kage",
+  "slug": "component--upstash-footer",
+  "url": "https://kage.design/component/upstash-footer",
+  "name": "Legal and developer resources footer by upstash.com",
+  "description": "A restrained, centered footer utility area that combines status links, legal trademark notes, and an AI-agent resource callout. It works through low-contrast typography, generous whitespace, and a narrow readable measure rather than visual decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/upstash-com/210669b2-56ab-47a0-9be6-e94255ecbd31-1789073749-8.webp",
+  "prompts": [
+    "kage/component--upstash-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/upstash-landing-page",
+  "product": "upstash-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=legal",
+    "search?q=developer",
+    "search?q=minimal"
+  ],
+  "pageSha256": "7170cfb13f559524d87b9773f8d899049b57e17311acc36483983205047eb71b"
+}

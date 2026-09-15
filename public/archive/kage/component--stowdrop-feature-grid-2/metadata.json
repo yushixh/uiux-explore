@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--stowdrop-feature-grid-2",
+  "source": "kage",
+  "slug": "component--stowdrop-feature-grid-2",
+  "url": "https://kage.design/component/stowdrop-feature-grid-2",
+  "name": "Chronological feed feature grid by stowdrop.app",
+  "description": "This section works by pairing a large editorial headline with a quieter supporting statement, then using an asymmetric card grid to explain related product capabilities. Dark, restrained cards and embedded interface previews make the features feel tangible without overwhelming the hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067822-4.webp",
+  "prompts": [
+    "kage/component--stowdrop-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=product-tour",
+    "search?q=search",
+    "search?q=dashboard"
+  ],
+  "pageSha256": "8838af85949eea530043a5eff56fb685144298de1172af981d747bdad89671f6"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--partiful-navigation",
+  "source": "kage",
+  "slug": "component--partiful-navigation",
+  "url": "https://kage.design/component/partiful-navigation",
+  "name": "Announcement bar and primary navigation by partiful.com",
+  "description": "A thin promotional strip sits above a dark, image-backed navigation bar with category links and Login/Create actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/partiful-com/97ae038c-0277-4e29-93fa-45b4a481f7ba-1789146241-0.webp",
+  "prompts": [
+    "kage/component--partiful-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/partiful-landing-page",
+  "product": "partiful-com",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=announcement"
+  ],
+  "pageSha256": "41832ed0b3a5868a647d2eddac0218b7dd26dfd41c361c60f5572abce9415f1c"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--wealthfront-hero-2",
+  "source": "kage",
+  "slug": "component--wealthfront-hero-2",
+  "url": "https://kage.design/component/wealthfront-hero-2",
+  "name": "Long-term investing introduction by wealthfront.com",
+  "description": "A pale section reframes the value proposition with a centered two-line headline, explanatory paragraph, and two award-style trust cards.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfront-com/3e3be85e-7bdd-4e6a-8630-f389b2c5e8da-1789146564-2.webp",
+  "prompts": [
+    "kage/component--wealthfront-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=investing",
+    "search?q=trust",
+    "search?q=hero"
+  ],
+  "pageSha256": "64fe34a17a5199395577c86aeb5b4292f5f68fa1deace95a33154b4d399c5918"
+}

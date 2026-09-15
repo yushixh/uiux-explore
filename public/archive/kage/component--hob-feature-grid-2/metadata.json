@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-feature-grid-2",
+  "source": "kage",
+  "slug": "component--hob-feature-grid-2",
+  "url": "https://kage.design/component/hob-feature-grid-2",
+  "name": "Agent workspace feature grid by hob",
+  "description": "A restrained product-introduction section pairs a concise two-column statement with a large, tactile split-pane workspace preview. The composition makes collaboration between agents legible through aligned panels, subtle chrome, generous whitespace, and realistic interface states rather than decorative graphics.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106503-4.webp",
+  "prompts": [
+    "kage/component--hob-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=workspace",
+    "search?q=agent-ui",
+    "search?q=split-pane"
+  ],
+  "pageSha256": "fc91549ad87aba716d17c3f6d59deab19099e30d6ad5c4d252bc2a6e4c89b822"
+}

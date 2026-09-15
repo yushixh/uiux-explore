@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--turso-landing-page",
+  "source": "kage",
+  "slug": "designs--turso-landing-page",
+  "url": "https://kage.design/designs/turso-landing-page",
+  "name": "Turso landing page by turso.tech",
+  "description": "A dark, near-black developer landing page built almost entirely from typography, terminal-style code windows and thin-bordered cards, with a single teal/mint accent used sparingly for CTAs, links and one glowing illustration. The hero pairs a bold statement headline with a live code snippet, then the page alternates rhythm: a manifesto section with a diagram, a five-column numbered property grid, code demo, customer stories in bordered cards, enterprise compliance, a two-path open-source/cloud split, a community section with pill-labelled cards, and a CTA closed by a playful green database illustration. The restraint is the point: no stock photos, no gradients (except the final illustration), density controlled by generous whitespace and consistent hairline card borders.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/turso-tech/a01fe972-4603-42df-a7fd-1b66e57f2913-1789073641906.webp",
+  "prompts": [
+    "kage/designs--turso-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=database",
+    "search?q=code-samples",
+    "search?q=developer-credibility",
+    "search?q=terminal-motif",
+    "search?q=case-studies",
+    "search?q=enterprise-security",
+    "search?q=illustrated-footprint"
+  ],
+  "pageSha256": "d2af54e2dcd714efecfabec9c2d803ede20b2127c8e1f2da293e8865f26c034d"
+}

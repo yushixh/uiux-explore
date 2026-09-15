@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--pitch-landing-page",
+  "source": "kage",
+  "slug": "designs--pitch-landing-page",
+  "url": "https://kage.design/designs/pitch-landing-page",
+  "name": "Pitch presentation workspace landing page by pitch.com",
+  "description": "A long-form marketing page that moves from a luminous, lavender AI hero into spacious white product-story sections, then increases density with metrics, a horizontal workflow showcase, testimonial cards, and a bento-like toolkit grid. Purple is the signature colour, appearing as soft gradients and UI accents on white before becoming a deep full-bleed background for solutions, templates, and FAQs; neon lime buttons and cards provide contrast, while oversized rounded product mockups and restrained black typography keep the page approachable and editorial.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/pitch-com/6703b162-6073-44e6-a626-e3df0dc35c4b-1789060072254.webp",
+  "prompts": [
+    "kage/designs--pitch-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=ai-presentation-builder",
+    "search?q=purple-gradient",
+    "search?q=product-showcase",
+    "search?q=testimonial-grid",
+    "search?q=feature-cards",
+    "search?q=dark-cta-section",
+    "search?q=faq-accordion"
+  ],
+  "pageSha256": "11d94e136bcd25396708b9c82e89e92072a5ee22790e137b9c313d55e4ca4f10"
+}

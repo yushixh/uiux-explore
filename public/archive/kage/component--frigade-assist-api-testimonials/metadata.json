@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--frigade-assist-api-testimonials",
+  "source": "kage",
+  "slug": "component--frigade-assist-api-testimonials",
+  "url": "https://kage.design/component/frigade-assist-api-testimonials",
+  "name": "Split-feature testimonial grid by Frigade Assist API",
+  "description": "A credibility section that pairs a centered trust statement with one oversized featured quote and a three-column grid of supporting customer testimonials. Strong typographic hierarchy, restrained borders, and a dark branded feature panel make the proof feel structured, premium, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/frigade-assist-api/d96f9c4b-8236-4442-b795-92795f229d4a-1789106745-7.webp",
+  "prompts": [
+    "kage/component--frigade-assist-api-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/frigade-assist-api-landing-page",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=editorial",
+    "search?q=b2b"
+  ],
+  "pageSha256": "8971e28e65dd86e357a04fb5601340aeed624a7943cce16ccd178ed8f0c1ed7a"
+}

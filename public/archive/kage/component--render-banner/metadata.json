@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--render-banner",
+  "source": "kage",
+  "slug": "component--render-banner",
+  "url": "https://kage.design/component/render-banner",
+  "name": "Stack-flexible technology banner by render.com",
+  "description": "A wide promotional banner pairs a strong left-aligned statement and compact CTA with a decorative matrix of technology tiles. The soft lavender-to-white field, vivid purple tiles, and intentional edge cropping create energy while keeping the message and action easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/render-com/a2f1bfec-cff8-46a3-938e-5c68bed6eccd-1789073949-4.webp",
+  "prompts": [
+    "kage/component--render-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/render-landing-page",
+  "product": "render-com",
+  "tags": [
+    "search?q=banner",
+    "search?q=gradient",
+    "search?q=technology",
+    "search?q=cta"
+  ],
+  "pageSha256": "6dacec671e7035661989e6989bf667d194cd1e927391d9c3f848acab0634252c"
+}

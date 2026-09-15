@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bilt-gallery-2",
+  "source": "kage",
+  "slug": "component--bilt-gallery-2",
+  "url": "https://kage.design/component/bilt-gallery-2",
+  "name": "Dining and payment benefits by bilt.com",
+  "description": "Three large image cards show different everyday-use scenarios, each with a dark bottom caption bar that makes the offer immediately legible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146825-5.webp",
+  "prompts": [
+    "kage/component--bilt-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bilt-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=dining",
+    "search?q=gallery",
+    "search?q=offers"
+  ],
+  "pageSha256": "64d45f0e223cc9dc08d2a7a780fe8a21eb9075715b5fff50e0195e647fe5bfed"
+}

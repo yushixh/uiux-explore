@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--desert-ant-labs-cta",
+  "source": "kage",
+  "slug": "component--desert-ant-labs-cta",
+  "url": "https://kage.design/component/desert-ant-labs-cta",
+  "name": "Minimal free-trial CTA by Desert Ant Labs",
+  "description": "A quiet, left-aligned conversion block that pairs a direct two-line headline with concise monospace supporting copy and a compact row of primary and secondary resource links. Strong contrast, generous whitespace, and pill-shaped controls make the section feel confident without becoming promotional.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/desert-ant-labs/9afde706-8b4f-4c5f-a9d8-7a634f78e07d-1789106570-4.webp",
+  "prompts": [
+    "kage/component--desert-ant-labs-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/desert-ant-labs-landing-page",
+  "product": "desert-ant-labs",
+  "tags": [
+    "search?q=cta",
+    "search?q=developer",
+    "search?q=minimal",
+    "search?q=multi-action"
+  ],
+  "pageSha256": "2f2e13b5b27d9887e0b611270944f9c5ae3e742462d612da2084cd3350ad4cfd"
+}

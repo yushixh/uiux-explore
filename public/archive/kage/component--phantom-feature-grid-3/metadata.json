@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--phantom-feature-grid-3",
+  "source": "kage",
+  "slug": "component--phantom-feature-grid-3",
+  "url": "https://kage.design/component/phantom-feature-grid-3",
+  "name": "Security and support feature carousel by phantom.com",
+  "description": "This section presents trust-building benefits through three soft, highly visual cards and keeps the carousel pattern consistent with the earlier feature bands.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/phantom-com/df84c488-d9fa-4f45-8b51-bd3e334c55b2-1789146860-4.webp",
+  "prompts": [
+    "kage/component--phantom-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/phantom-landing-page",
+  "product": "phantom-com",
+  "tags": [
+    "search?q=security",
+    "search?q=support",
+    "search?q=trust"
+  ],
+  "pageSha256": "3ff14a2b848e1fb3b5bfb188848cb9a744a94aa214747afd7bfc3a4625592ed6"
+}

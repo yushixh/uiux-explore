@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--cash-landing-page",
+  "source": "kage",
+  "slug": "designs--cash-landing-page",
+  "url": "https://kage.design/designs/cash-landing-page",
+  "name": "Cash App homepage hero by cash.app",
+  "description": "The whole first viewport is a single flat field of vivid brand green — no gradient, texture or photography; colour alone carries the brand. The composition is a three-part split: an oversized two-line black grotesque headline left, a phone mockup of the live app centre-cropped by the hero's bottom edge, and a narrow ~30-character copy column with a white pill CTA right. Type does all the work (~88px headline against 14px body), buttons are all rounded pills in white or black, and the nav collapses to a squircle logo plus three controls. Below the hero the capture renders only white, so the page's visible design story ends at the fold — the hero is where the language lives.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cash-app/7c13f178-963d-4437-bcf4-5300340c2bdd-1789146439052.webp",
+  "prompts": [
+    "kage/designs--cash-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "cash-app",
+  "tags": [
+    "search?q=hero",
+    "search?q=device-mockup",
+    "search?q=flat-color-field",
+    "search?q=pill-buttons",
+    "search?q=big-type",
+    "search?q=split-hero",
+    "search?q=minimal",
+    "search?q=fintech"
+  ],
+  "pageSha256": "7855f0112805be7dbc9bf09b67cccc10bec67c197e0e0345362573a3eb0122d6"
+}

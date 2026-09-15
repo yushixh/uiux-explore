@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--runwayml-logo-cloud",
+  "source": "kage",
+  "slug": "component--runwayml-logo-cloud",
+  "url": "https://kage.design/component/runwayml-logo-cloud",
+  "name": "Editorial partner logo cloud by runwayml.com",
+  "description": "A quiet credibility section that uses a centered statement and a single horizontal row of restrained partner marks. Generous whitespace, low-contrast type, and monochrome treatment keep the logos supportive rather than turning the component into a promotional grid.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/runwayml-com/e724fd81-b6a6-43a2-b9ac-10cfe806f6fa-1789074882-2.webp",
+  "prompts": [
+    "kage/component--runwayml-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/runwayml-landing-page",
+  "product": "runwayml-com",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=editorial",
+    "search?q=monochrome",
+    "search?q=responsive"
+  ],
+  "pageSha256": "f3510854ed090d3a03528bad4add2b3fea7f8447f28719a8da84cc6ac2b5d0f6"
+}

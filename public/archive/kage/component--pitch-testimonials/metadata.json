@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--pitch-testimonials",
+  "source": "kage",
+  "slug": "component--pitch-testimonials",
+  "url": "https://kage.design/component/pitch-testimonials",
+  "name": "Testimonial carousel with trust link by pitch.com",
+  "description": "A horizontally overflowing testimonial strip uses vivid gradient cards, generous rounded corners, and a centered trust statement to create a lively social-proof moment. A quiet text link beneath the cards provides a clear path to deeper customer stories without competing with the quotes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/pitch-com/6703b162-6073-44e6-a626-e3df0dc35c4b-1789060648-5.webp",
+  "prompts": [
+    "kage/component--pitch-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/pitch-landing-page",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=carousel",
+    "search?q=social-proof",
+    "search?q=trust"
+  ],
+  "pageSha256": "e7a4b18822bbcaad01b987925a71cc32c0c82805f817128de7e9a7bbcbecfb50"
+}

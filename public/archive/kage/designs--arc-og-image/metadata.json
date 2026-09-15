@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--arc-og-image",
+  "source": "kage",
+  "slug": "designs--arc-og-image",
+  "url": "https://kage.design/designs/arc-og-image",
+  "name": "Arc OG social card — sticker logo on salmon grain by arc.net",
+  "description": "This 1200×630 OG card is a single-object composition: the interlocking-loop 'A' mark sits dead centre, rendered as a die-cut sticker with a thick white border and soft shadow, floating on a flat salmon-pink field (~#F29EA4) with a fine grain overlay. There is no headline, wordmark or URL — the mark alone carries the brand, and gradient strokes (light-to-deep blue, coral-to-rose) give it dimension against the flat background. The ~65% negative space and radial symmetry make it instantly legible even at tiny link-preview thumbnail sizes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/arc-net/d72a523c-28ba-48c9-b0cf-967eb0a1d954-1789060022427.webp",
+  "prompts": [
+    "kage/designs--arc-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "arc-net",
+  "tags": [
+    "search?q=social-card",
+    "search?q=sticker-logo",
+    "search?q=centered-composition",
+    "search?q=grain-texture",
+    "search?q=gradient",
+    "search?q=negative-space",
+    "search?q=rounded"
+  ],
+  "pageSha256": "6557209ce94f293e7313dda88507d7474c49887881580ed9fe8a13d6d182bec1"
+}

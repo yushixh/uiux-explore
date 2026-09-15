@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--sentry-hero",
+  "source": "kage",
+  "slug": "component--sentry-hero",
+  "url": "https://kage.design/component/sentry-hero",
+  "name": "Immersive product hero by sentry.io",
+  "description": "A high-impact dark hero pairs a concise announcement pill with an oversized split-color headline, supporting statement, and dual CTAs. A textured, illustrated product narrative fills the lower field, giving the section energy and making the abstract promise feel tangible without competing with the primary message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sentry-io/7f1d8e63-d1c6-4f27-8b0e-be764e2f10af-1789073902-1.webp",
+  "prompts": [
+    "kage/component--sentry-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sentry-landing-page",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark-mode",
+    "search?q=cta",
+    "search?q=visual-storytelling"
+  ],
+  "pageSha256": "d6dd33e3337d3f37ecce35cc22699275e383c394c7babbec79336d71a24ed762"
+}

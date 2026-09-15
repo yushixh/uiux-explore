@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--shiui-feature-grid-3",
+  "source": "kage",
+  "slug": "component--shiui-feature-grid-3",
+  "url": "https://kage.design/component/shiui-feature-grid-3",
+  "name": "Seals, tags and eyebrows inventory by SHIUI",
+  "description": "This section isolates small editorial markers and status elements, showing how stamps, tags, labels, and eyebrow treatments work as a coherent family.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/shiui/3111a107-5e9b-4487-9176-525a4b4c448a-1789365765-4.webp",
+  "prompts": [
+    "kage/component--shiui-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/shiui-navigation",
+  "product": "shiui",
+  "tags": [
+    "search?q=badges",
+    "search?q=labels",
+    "search?q=metadata"
+  ],
+  "pageSha256": "c35a3f7c0e666a8e60c06c0c0e403bc225150712d3f1df10f3168b29e3977a03"
+}

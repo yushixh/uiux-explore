@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resend-navigation",
+  "source": "kage",
+  "slug": "component--resend-navigation",
+  "url": "https://kage.design/component/resend-navigation",
+  "name": "Global navigation by resend.com",
+  "description": "A compact dark header keeps the wordmark, grouped product links, sign-in action, and primary CTA in a single low-contrast row.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resend-com/a5fe426a-0829-45e6-9969-dd938a799528-1789141640-0.webp",
+  "prompts": [
+    "kage/component--resend-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resend-empty-state",
+  "product": "resend-com",
+  "tags": [
+    "search?q=dark",
+    "search?q=utility",
+    "search?q=responsive"
+  ],
+  "pageSha256": "919e2b06cb803af7995e4ddd6284e05309db96c871e4457b5ff5fdab0afda057"
+}

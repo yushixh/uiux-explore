@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--data-tunnel",
+  "source": "vantaui",
+  "slug": "explore--components--data-tunnel",
+  "url": "https://www.vantaui.com/explore/components/data-tunnel",
+  "name": "Data Tunnel - VantaUI",
+  "description": "A blooming tunnel of lane lines and traveling signal trails.",
+  "image": "https://vantaui-registry.vercel.app/components/data-tunnel",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "095d3b67849eaac0fe30906107ca79867767d5f366ef2dc60d561f1cd5728357"
+}

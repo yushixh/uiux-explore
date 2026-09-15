@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--goodreads-landing-page",
+  "source": "kage",
+  "slug": "designs--goodreads-landing-page",
+  "url": "https://kage.design/designs/goodreads-landing-page",
+  "name": "Goodreads logged-out homepage by goodreads.com",
+  "description": "A warm, link-dense community homepage that saves all its colour for one moment: a saturated orange-to-yellow hero band with flat-illustrated readers flanking a large serif headline. A white signup card overlaps the hero's right edge, then the page settles onto a cream paper background and alternates editorial text blocks, book-cover discovery panels and a scannable right rail of news, lists and CTAs. Hierarchy is carried by a serif display face against small sans-serif body text, with dark teal reserved exclusively for navigational links, so even the dense genre and awards directories feel calm and consistent.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/goodreads-com/0ed04b7a-0db2-4e11-9788-e963511428af-1789146295884.webp",
+  "prompts": [
+    "kage/designs--goodreads-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "goodreads-com",
+  "tags": [
+    "search?q=book-covers",
+    "search?q=illustrated-hero",
+    "search?q=signup-card",
+    "search?q=teal-link-directory",
+    "search?q=warm-palette",
+    "search?q=serif-headline",
+    "search?q=community",
+    "search?q=link-dense"
+  ],
+  "pageSha256": "7cb7bbbd185912bda8a108cab7aa00413c585f3be9b2013623c8a30c8657b4cf"
+}

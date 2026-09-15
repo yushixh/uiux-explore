@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--supabase-code-block",
+  "source": "kage",
+  "slug": "component--supabase-code-block",
+  "url": "https://kage.design/component/supabase-code-block",
+  "name": "Template showcase grid by supabase.com",
+  "description": "A restrained two-column template gallery pairs a clear section heading with a compact secondary link and large preview cards. Each card uses lightweight metadata, muted descriptive copy, and a browser-like preview frame to make technical starter projects feel tangible without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/supabase-com/b03f69f9-4b47-487d-8f2b-17d7cd19e877-1789060353-4.webp",
+  "prompts": [
+    "kage/component--supabase-code-block/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/supabase-landing-page",
+  "product": "supabase-com",
+  "tags": [
+    "search?q=templates",
+    "search?q=cards",
+    "search?q=showcase",
+    "search?q=grid"
+  ],
+  "pageSha256": "3e24b23e87dae16535240401ced4257f887c54ec6bd74b9b1814d304f7023e66"
+}

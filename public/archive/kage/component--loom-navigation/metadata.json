@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--loom-navigation",
+  "source": "kage",
+  "slug": "component--loom-navigation",
+  "url": "https://kage.design/component/loom-navigation",
+  "name": "Minimal SaaS Header Navigation by loom.com",
+  "description": "A spacious, low-noise navigation bar that pairs a recognizable brand block with a compact set of actions. The strong primary CTA, softer secondary action, and circular menu control create a clear hierarchy while remaining easy to adapt across responsive layouts.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060436-0.webp",
+  "prompts": [
+    "kage/component--loom-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=navbar",
+    "search?q=saas",
+    "search?q=responsive",
+    "search?q=cta"
+  ],
+  "pageSha256": "893c6022e26c9af31fef1dd37d7f9a17fb2d1d1938b6acd62fbd0073489945fa"
+}

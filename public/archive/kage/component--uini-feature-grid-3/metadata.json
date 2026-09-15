@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--uini-feature-grid-3",
+  "source": "kage",
+  "slug": "component--uini-feature-grid-3",
+  "url": "https://kage.design/component/uini-feature-grid-3",
+  "name": "Unanswered Questions Feature Split by uini.io",
+  "description": "A calm two-column feature section pairs a benefit-led narrative with a lightweight product workflow mockup. The contrast between unresolved user needs and a reviewable draft makes the value immediately legible without relying on heavy illustration or decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uini-io/ef5b466a-1fe9-4cb6-9300-79049ee31244-1789059862-6.webp",
+  "prompts": [
+    "kage/component--uini-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uini-landing-page",
+  "product": "uini-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=workflow",
+    "search?q=editorial"
+  ],
+  "pageSha256": "a16f5435870179bf568781719faa501cce909e97d29ca97dad3e210fc1ea59cb"
+}

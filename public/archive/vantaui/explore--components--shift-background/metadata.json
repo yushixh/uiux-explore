@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--shift-background",
+  "source": "vantaui",
+  "slug": "explore--components--shift-background",
+  "url": "https://www.vantaui.com/explore/components/shift-background",
+  "name": "Shift Background - VantaUI",
+  "description": "Fullscreen canvas bloom of large drifting orbs. Hue shifts with simplex noise, then the whole field is blurred.",
+  "image": "https://vantaui-registry.vercel.app/components/shift-background",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "66520939d2920fe11be0097fabf2ce185489b2d3376e087f33e5da6a101c3c8a"
+}

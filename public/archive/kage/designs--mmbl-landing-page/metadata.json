@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--mmbl-landing-page",
+  "source": "kage",
+  "slug": "designs--mmbl-landing-page",
+  "url": "https://kage.design/designs/mmbl-landing-page",
+  "name": "mmbl.io voice-to-task app landing page by mmbl.io",
+  "description": "A dark, type-led landing page for a voice-capture task app, built on a near-black canvas with a single lavender editorial interstitial that resets the rhythm mid-page. Every section repeats a disciplined pattern: a two-line display headline (second line knocked back to gray or accented in periwinkle), a small right-aligned supporting paragraph, then a media moment — a tilted phone mockup wrapped in organic colour blobs, a side-by-side capture/parse demo, or a mockup paired with stacked feature blocks. Density stays low with generous whitespace; colour is rationed to small doses (waveform bars, pill tags, glyphs) against #0b0c10 panels, slightly lighter cards, and pill-shaped buttons with soft radii and no decorative shadows. The colourful waveform mark is the only recurring graphic motif, tying voice capture to brand identity down to the footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/mmbl-io/849f4ec6-ce65-4185-a867-71fbc561b804-1789060060914.webp",
+  "prompts": [
+    "kage/designs--mmbl-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "mmbl-io",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=voice-capture",
+    "search?q=task-app",
+    "search?q=phone-mockup",
+    "search?q=waveform",
+    "search?q=big-type",
+    "search?q=app-landing",
+    "search?q=colorful-accents"
+  ],
+  "pageSha256": "a02a1d50b3a51f61a7d87fe059961597005f45d8da6e3540d388d537db8c4a98"
+}

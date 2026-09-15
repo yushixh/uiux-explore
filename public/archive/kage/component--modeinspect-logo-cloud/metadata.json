@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-logo-cloud",
+  "source": "kage",
+  "slug": "component--modeinspect-logo-cloud",
+  "url": "https://kage.design/component/modeinspect-logo-cloud",
+  "name": "Minimal monochrome logo cloud by Modeinspect",
+  "description": "This logo cloud works through restraint: a quiet editorial label, evenly distributed grayscale marks, and a two-row composition that creates social proof without competing with the surrounding page. Generous negative space, thin rules, and low-contrast branding make the section feel refined and trustworthy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106491-2.webp",
+  "prompts": [
+    "kage/component--modeinspect-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=monochrome",
+    "search?q=centered"
+  ],
+  "pageSha256": "fdb2c04985af545a34f3008515c92ace1918c563b77a1e958f0dbc634e7be44e"
+}

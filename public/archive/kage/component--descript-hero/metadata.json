@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--descript-hero",
+  "source": "kage",
+  "slug": "component--descript-hero",
+  "url": "https://kage.design/component/descript-hero",
+  "name": "AI video editing hero by descript.com",
+  "description": "The hero uses a deep burgundy field, oversized centered editorial typography, concise explanatory copy, one bright CTA, and a large product-interface visual beneath it.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/descript-com/c210b18a-1678-4bef-91b5-c444a8589f04-1789146910-1.webp",
+  "prompts": [
+    "kage/component--descript-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/descript-landing-page",
+  "product": "descript-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=conversion"
+  ],
+  "pageSha256": "68a27c8b98966513a94d3fc7a87254c66e7683db52061cec398ca74e65a36637"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resend-feature-grid-6",
+  "source": "kage",
+  "slug": "component--resend-feature-grid-6",
+  "url": "https://kage.design/component/resend-feature-grid-6",
+  "name": "Control and observability dashboard by resend.com",
+  "description": "A centered promise is reinforced by three pill-like capability tabs and a large dashboard preview, creating a clear product-tour moment.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resend-com/a5fe426a-0829-45e6-9969-dd938a799528-1789141644-10.webp",
+  "prompts": [
+    "kage/component--resend-feature-grid-6/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resend-empty-state",
+  "product": "resend-com",
+  "tags": [
+    "search?q=dashboard",
+    "search?q=tabs",
+    "search?q=observability"
+  ],
+  "pageSha256": "1733f25c8c2e731c2a53e58d806fe74d4154189b104798a2f689b757fd3b5463"
+}

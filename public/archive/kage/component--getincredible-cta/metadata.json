@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--getincredible-cta",
+  "source": "kage",
+  "slug": "component--getincredible-cta",
+  "url": "https://kage.design/component/getincredible-cta",
+  "name": "Compact download CTA with compliance footer by getincredible.com",
+  "description": "This section works by pairing a high-contrast primary download action with a quieter secondary text link, then resolving the area with compact regulatory and disclaimer copy. Generous whitespace, restrained typography, and a wide container keep the CTA useful without competing with the rest of the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/getincredible-com/e2886fef-b68a-4ec0-9c25-0cadbf1e05de-1789067377-2.webp",
+  "prompts": [
+    "kage/component--getincredible-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/getincredible-landing-page",
+  "product": "getincredible-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=download",
+    "search?q=disclaimer",
+    "search?q=footer"
+  ],
+  "pageSha256": "12062a7b2df9e31f29143371a20bfbb666d6a085b1c7b1269ee1ae79548fe72c"
+}

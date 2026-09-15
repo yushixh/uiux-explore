@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--masterclass-gallery-2",
+  "source": "kage",
+  "slug": "component--masterclass-gallery-2",
+  "url": "https://kage.design/component/masterclass-gallery-2",
+  "name": "Category browsing carousel by masterclass.com",
+  "description": "A category chip rail filters a horizontal row of portrait class cards, creating a dense discovery module with clear browsing controls and a final exploration action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146210-4.webp",
+  "prompts": [
+    "kage/component--masterclass-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/masterclass-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=carousel",
+    "search?q=categories",
+    "search?q=cards"
+  ],
+  "pageSha256": "7f99e7a7186c10955fd3d52ce75127d21110178a869b9e27488d8e10b1926e2c"
+}

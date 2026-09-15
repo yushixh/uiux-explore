@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--slide-delete-dialog",
+  "source": "vantaui",
+  "slug": "explore--components--slide-delete-dialog",
+  "url": "https://www.vantaui.com/explore/components/slide-delete-dialog",
+  "name": "Slide Delete Dialog - VantaUI",
+  "description": "A destructive confirmation dialog with typed confirmation and an iOS-style slide-to-delete control.",
+  "image": "https://vantaui-registry.vercel.app/components/slide-delete-dialog",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "b679080d3b14e57952b99acfa24315b17a74ccbcb8a58ea93616ea87ecad1223"
+}

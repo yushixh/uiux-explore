@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--raycast-feature-grid-5",
+  "source": "kage",
+  "slug": "component--raycast-feature-grid-5",
+  "url": "https://kage.design/component/raycast-feature-grid-5",
+  "name": "Professional proof and feature showcase by raycast.com",
+  "description": "This section combines understated social proof with compact product highlights, using low-contrast dark surfaces, generous vertical pacing, and a split editorial layout. A later feature card introduces the product through a practical workflow example, keeping the experience aspirational but grounded.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067517-6.webp",
+  "prompts": [
+    "kage/component--raycast-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=social-proof",
+    "search?q=feature-grid",
+    "search?q=productivity"
+  ],
+  "pageSha256": "e5ffc91cc6361d7cf77bb3833373f19f552e575af3fd4bc2ec2d3f873af13702"
+}

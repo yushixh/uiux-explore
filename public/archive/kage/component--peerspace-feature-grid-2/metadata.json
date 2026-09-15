@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--peerspace-feature-grid-2",
+  "source": "kage",
+  "slug": "component--peerspace-feature-grid-2",
+  "url": "https://kage.design/component/peerspace-feature-grid-2",
+  "name": "Why choose the marketplace by peerspace.com",
+  "description": "A high-contrast oversized heading introduces a benefit carousel, pairing a large image with explanatory copy and simple previous/next controls.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146241-6.webp",
+  "prompts": [
+    "kage/component--peerspace-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/peerspace-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=benefits",
+    "search?q=carousel",
+    "search?q=image"
+  ],
+  "pageSha256": "d9ade63a8e9adad82996c5f4818746a312e58a1249f20c9532bf3bf3544d8af6"
+}

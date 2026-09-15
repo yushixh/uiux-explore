@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--elevenlabs-logo-cloud",
+  "source": "kage",
+  "slug": "component--elevenlabs-logo-cloud",
+  "url": "https://kage.design/component/elevenlabs-logo-cloud",
+  "name": "Enterprise logo cloud by elevenlabs.io",
+  "description": "A restrained trust section pairs a concise credibility statement with a low-contrast grid of recognizable customer marks. A simple secondary CTA sits above the grid, while generous whitespace, hairline dividers, and monochrome logos keep the component credible without overpowering the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060951-2.webp",
+  "prompts": [
+    "kage/component--elevenlabs-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=enterprise",
+    "search?q=minimalist"
+  ],
+  "pageSha256": "4827930f0aa9246ceb17e096d5a2239a2be8b637808fbf7610b1d0b100b3868c"
+}

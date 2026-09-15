@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bun-feature-grid-4",
+  "source": "kage",
+  "slug": "component--bun-feature-grid-4",
+  "url": "https://kage.design/component/bun-feature-grid-4",
+  "name": "Expandable feature comparison table by bun.sh",
+  "description": "This section works by turning a dense capability comparison into a calm, highly scannable table: a wide descriptive feature column, compact status columns, subtle row grouping, and a centered reveal control for progressive disclosure. Restrained borders, generous whitespace, and simple status marks keep attention on the differences rather than on decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073825-10.webp",
+  "prompts": [
+    "kage/component--bun-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=comparison",
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=table"
+  ],
+  "pageSha256": "6132dc49ea7814b86d2686a8c1c39c8ad6c8fff826d1fa1e72b39f7e86aa778d"
+}

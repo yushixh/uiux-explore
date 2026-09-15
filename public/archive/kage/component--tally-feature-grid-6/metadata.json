@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tally-feature-grid-6",
+  "source": "kage",
+  "slug": "component--tally-feature-grid-6",
+  "url": "https://kage.design/component/tally-feature-grid-6",
+  "name": "Use-case category grid by tally.so",
+  "description": "A spacious, bordered grid organizes six audience or use-case categories into a quick-scanning two-row layout. Small accent icons, bold labels, concise example bullets, and one clear browse action make the section feel useful without becoming visually heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060954-7.webp",
+  "prompts": [
+    "kage/component--tally-feature-grid-6/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=use-cases",
+    "search?q=templates",
+    "search?q=saas"
+  ],
+  "pageSha256": "b45f9ddf3fc2154d6ce31ca2d3550b9dc83e8e9307886e37da9838c3f43e5d77"
+}

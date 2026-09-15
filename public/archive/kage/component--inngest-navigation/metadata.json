@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--inngest-navigation",
+  "source": "kage",
+  "slug": "component--inngest-navigation",
+  "url": "https://kage.design/component/inngest-navigation",
+  "name": "Atmospheric utility navbar by inngest.com",
+  "description": "A compact, high-contrast navigation bar pairs a restrained primary menu with clear utility actions and a strong conversion button. The textured dark background and tiny decorative specks add atmosphere without competing with the navigation hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/inngest-com/085d18d8-47d3-43b1-92ae-d8bd045a677d-1789074881-0.webp",
+  "prompts": [
+    "kage/component--inngest-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/inngest-landing-page",
+  "product": "inngest-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=dark-mode",
+    "search?q=utility-bar",
+    "search?q=saas"
+  ],
+  "pageSha256": "e937b18986af255f1d40e1233cc64b4a8be5b4ca265855ff742ceefbafbddbc8"
+}

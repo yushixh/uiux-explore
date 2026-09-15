@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workid-logo-cloud",
+  "source": "kage",
+  "slug": "component--workid-logo-cloud",
+  "url": "https://kage.design/component/workid-logo-cloud",
+  "name": "Hiring companies logo cloud by WorkID.ai",
+  "description": "A centered proof section uses compact company pills to make current hiring activity feel tangible without overwhelming the page. The final muted placeholder and bright CTA turn social proof into an invitation for another company to join.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workid-ai/2843b616-ed30-482d-adaf-40c736e4842a-1789106674-4.webp",
+  "prompts": [
+    "kage/component--workid-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workid-landing-page",
+  "product": "workid-ai",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=pill+list",
+    "search?q=conversion"
+  ],
+  "pageSha256": "0d87870dde09007d205614b09f5cd1147277f6535826755d8a62a34fbe5b70a1"
+}

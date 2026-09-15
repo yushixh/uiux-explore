@@ -1,0 +1,22 @@
+{
+  "id": "ciggie-index",
+  "name": "Ciggie Index",
+  "description": "Enter a city and hours spent outside to see your local air quality translated into cigarettes smoked.",
+  "shortInfo": "See your air quality in cigarettes",
+  "url": "https://cig-index.vercel.app/",
+  "handle": "pauline_makes",
+  "creatorName": "Pauline Wee",
+  "creatorUrl": "https://x.com/pauline_makes",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Lifestyle",
+  "categories": [
+    "Lifestyle"
+  ],
+  "launchDate": "2026-09-02",
+  "added": "2026-09-02",
+  "sortOrder": 34,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/ciggie-index/reviewed-1788762491288-ciggie-index-5x2mP2WhyLi06Rt5YpwCBqJBSe1Sc3.svg",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/world-time-bestie/avatar-mtq3ackp-U8EsKM2l5JI5Cnwyk8EPjODto63ZIt.jpg",
+  "shot": "/screenshots/ciggie-index.png"
+}

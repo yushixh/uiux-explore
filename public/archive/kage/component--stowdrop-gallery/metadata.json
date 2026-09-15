@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stowdrop-gallery",
+  "source": "kage",
+  "slug": "component--stowdrop-gallery",
+  "url": "https://kage.design/component/stowdrop-gallery",
+  "name": "Two-Path Capture Feature Cards by stowdrop.app",
+  "description": "A dark, editorial product section that introduces two complementary capture workflows through a strong headline, supporting copy, and side-by-side interactive cards. The contrast between selection capture and quick entry makes the product feel fast, focused, and non-disruptive.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067822-2.webp",
+  "prompts": [
+    "kage/component--stowdrop-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=feature+cards",
+    "search?q=product+workflow",
+    "search?q=keyboard-first"
+  ],
+  "pageSha256": "40b6a49cf70f962fb80e7a878b3935d9b1b40540441249cd59d77411d1f9ba92"
+}

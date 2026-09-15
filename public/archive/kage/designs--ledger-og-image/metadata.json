@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--ledger-og-image",
+  "source": "kage",
+  "slug": "designs--ledger-og-image",
+  "url": "https://kage.design/designs/ledger-og-image",
+  "name": "Ledger OG social card — fanned hardware wallets on dark gradient by ledger.com",
+  "description": "A 1200×630 social card built on a near-black radial gradient that lightens toward the upper left, giving the product photography a studio backdrop. The [ LEDGER ] wordmark sits alone in the top ~15%, its corner-bracket motif doubling as a frame device, while three hardware wallets fan across the lower two-thirds at slightly different rotations, bleeding off the bottom edge for scale. Each device screen carries real, legible UI (a Bitcoin signing prompt, a send/receive summary, an app grid) so the card communicates function, not just hardware, with a single orange accent on the centre device acting as the only saturated colour and focal anchor.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/ledger-com/26bad2b6-47f3-4765-aef3-ff585d1a0053-1789146800485.webp",
+  "prompts": [
+    "kage/designs--ledger-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/phantom-og-image",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=og-card",
+    "search?q=device-fan",
+    "search?q=dark-gradient",
+    "search?q=wordmark-brackets",
+    "search?q=product-hero",
+    "search?q=hardware-wallet",
+    "search?q=orange-accent"
+  ],
+  "pageSha256": "39aea7068221361afc54215057acaca389ff5f48174daaf1de8fdc175b35b6e7"
+}

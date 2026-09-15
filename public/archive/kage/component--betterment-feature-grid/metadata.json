@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--betterment-feature-grid",
+  "source": "kage",
+  "slug": "component--betterment-feature-grid",
+  "url": "https://kage.design/component/betterment-feature-grid",
+  "name": "Account pathways by betterment.com",
+  "description": "A saturated blue product directory introduces several financial pathways in three columns. Each item has a compact icon, title, supporting descriptor, and arrow, with a legal note below.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/betterment-com/48b23e19-a777-4bc7-89e7-1aceabf18629-1789146556-2.webp",
+  "prompts": [
+    "kage/component--betterment-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/betterment-landing-page",
+  "product": "betterment-com",
+  "tags": [
+    "search?q=accounts",
+    "search?q=products",
+    "search?q=grid",
+    "search?q=links"
+  ],
+  "pageSha256": "33bb3b3ca25ca51abe70c4eb81230cfeaf92fadc4b8ac20b7f8e9abf8100b1e9"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--superhuman-og-image",
+  "source": "kage",
+  "slug": "designs--superhuman-og-image",
+  "url": "https://kage.design/designs/superhuman-og-image",
+  "name": "Superhuman OG card — gradient split with floating AI card by superhuman.com",
+  "description": "A 1200×630 social card built on a 55/45 split: the left half is a saturated crimson-to-indigo gradient field carrying a white rounded app icon, an oversized letterspaced uppercase wordmark and a light two-line subhead, all clustered on the vertical centre line; the right half is a product screenshot that bleeds off the top and right edges, giving the flat canvas depth. Hierarchy reads icon → wordmark → subhead on the left, while the floating AI popover card — with its red diff text '14 months. 16 months.' — is the focal detail on the right. The palette is strictly three-tone (brand red, deep blue, white), with the screenshot rendered at believable small type sizes so the UI reads as real software rather than an illustration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/superhuman-com/1f7d17be-24f6-47c6-8058-aed5ff910680-1789060099252.webp",
+  "prompts": [
+    "kage/designs--superhuman-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-og-image",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=split-composition",
+    "search?q=gradient-field",
+    "search?q=product-screenshot",
+    "search?q=floating-card",
+    "search?q=wordmark",
+    "search?q=edge-bleed"
+  ],
+  "pageSha256": "4c4f7f8a8e24a975d04c9fe20dc2ed3f68850973cd53e34c76db27f3a59d49fc"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-testimonials",
+  "source": "kage",
+  "slug": "component--lorikeetcx-testimonials",
+  "url": "https://kage.design/component/lorikeetcx-testimonials",
+  "name": "Proof and performance mosaic by lorikeetcx.ai",
+  "description": "A centered proof heading introduces a varied mosaic of testimonial cards and quantified outcomes, combining human credibility with scannable metrics.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142169-3.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=stats",
+    "search?q=social-proof"
+  ],
+  "pageSha256": "7741dd4dae7a677192f0579096d852caf56e2358fa29c227c43e94473668268a"
+}

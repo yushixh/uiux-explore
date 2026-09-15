@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--dockfix-5-0-feature-grid",
+  "source": "kage",
+  "slug": "component--dockfix-5-0-feature-grid",
+  "url": "https://kage.design/component/dockfix-5-0-feature-grid",
+  "name": "Announcement and what’s-new feature list by DockFix 5.0",
+  "description": "A light editorial section opens with an announcement headline and supporting paragraph, then presents product improvements as a disciplined two-column list of titled rows and explanatory copy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/dockfix-5-0/2c092be4-cae6-431a-8bc7-3fef5352fd95-1789279442-3.webp",
+  "prompts": [
+    "kage/component--dockfix-5-0-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "dockfix-5-0",
+  "tags": [
+    "search?q=features",
+    "search?q=release",
+    "search?q=list"
+  ],
+  "pageSha256": "e26b83098647b3ec7d4f9a1687e96cf1e4e99c16cc2f37d83c5da04cb80195e3"
+}

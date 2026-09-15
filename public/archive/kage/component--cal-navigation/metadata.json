@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cal-navigation",
+  "source": "kage",
+  "slug": "component--cal-navigation",
+  "url": "https://kage.design/component/cal-navigation",
+  "name": "Minimal SaaS top navigation by cal.com",
+  "description": "A restrained top navigation that balances a strong wordmark, low-friction authentication, a high-contrast primary CTA, and a compact menu control. The generous whitespace, soft borders, and contained header surface make the page feel polished without competing with the main content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cal-com/cdeba7c5-dd46-4ce9-ba9c-2d344d57a58b-1789060422-0.webp",
+  "prompts": [
+    "kage/component--cal-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cal-landing-page",
+  "product": "cal-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=header",
+    "search?q=responsive"
+  ],
+  "pageSha256": "67b810fcdaa23546a426548597fbdd06783ecc174dd92135dbc660c1c527f349"
+}

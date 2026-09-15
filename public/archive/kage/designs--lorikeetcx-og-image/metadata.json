@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--lorikeetcx-og-image",
+  "source": "kage",
+  "slug": "designs--lorikeetcx-og-image",
+  "url": "https://kage.design/designs/lorikeetcx-og-image",
+  "name": "Lorikeet AI customer-experience social card by lorikeetcx.ai",
+  "description": "A 1200×630 social card built as a collage: a bold serif wordmark sits top-centre above one large rounded hero photo, while four lifestyle photos bleed off the canvas corners and five frosted notification pills float between them. The bottom half erupts in blurred vertical light rays — magenta on the left, violet in the middle, amber on the right — that fade upward into the white canvas. Hierarchy is driven by scale and position (centre photo > wordmark > pills > cropped corners), and the playful gradient energy is grounded by the disciplined white space at the top.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/lorikeetcx-ai/2ae1c9ca-c4f1-416e-87d9-53e72891f801-1789141727851.webp",
+  "prompts": [
+    "kage/designs--lorikeetcx-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/typewise-nova-og-image",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=social-card",
+    "search?q=photo-collage",
+    "search?q=frosted-pills",
+    "search?q=gradient-rays",
+    "search?q=serif-wordmark",
+    "search?q=center-focal",
+    "search?q=rounded-corners"
+  ],
+  "pageSha256": "722c3f709b25756ebc4e563daecad0766f7bca7d10650f45ab31bcafb993f77e"
+}

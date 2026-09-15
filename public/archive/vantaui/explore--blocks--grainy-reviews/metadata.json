@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--grainy-reviews",
+  "source": "vantaui",
+  "slug": "explore--blocks--grainy-reviews",
+  "url": "https://www.vantaui.com/explore/blocks/grainy-reviews",
+  "name": "Grainy Reviews - VantaUI",
+  "description": "A grainy social-proof section with a highlighted headline, rating badge, and expandable review cards.",
+  "image": "https://vantaui-registry.vercel.app/blocks/grainy-reviews",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "0a1272332b8b076938adf253bd121102b342d1b59d13ee12bf1f996b9e02d13d"
+}

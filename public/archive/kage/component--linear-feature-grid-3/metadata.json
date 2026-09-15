@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--linear-feature-grid-3",
+  "source": "kage",
+  "slug": "component--linear-feature-grid-3",
+  "url": "https://kage.design/component/linear-feature-grid-3",
+  "name": "Dark feature-grid showcase by linear.app",
+  "description": "A restrained, editorial feature section pairs a large left-aligned capability heading with explanatory copy and a low-contrast product visualization that fades into the dark canvas. Thin dividers, compact navigation labels, and a restrained accent colour create a premium, technical feel without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789060208-5.webp",
+  "prompts": [
+    "kage/component--linear-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/linear-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=product-marketing",
+    "search?q=data-visualization"
+  ],
+  "pageSha256": "a4b059acd9290f457d5886704ddeb19ecb9fdeadaa3b41e224914a6d14cd4dc4"
+}

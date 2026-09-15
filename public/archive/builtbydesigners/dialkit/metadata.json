@@ -1,0 +1,22 @@
+{
+  "id": "dialkit",
+  "name": "DialKit",
+  "description": "Add a control panel to your React project and adjust motion, layout, colors, and other values in real time. Use sliders, toggles, and presets to explore variations while seeing the result directly in your interface.",
+  "shortInfo": "Tune interface details with live controls",
+  "url": "https://dialkit.dev/",
+  "handle": "joshpuckett",
+  "creatorName": "Josh Puckett",
+  "creatorUrl": "https://joshpuckett.me/",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Development",
+  "categories": [
+    "Development"
+  ],
+  "launchDate": "2026-09-05",
+  "added": "2026-09-05",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/dialkit/icon-mtrb9ici-YY6Igb1BTj2JGvv5ezCMPznf7oAkun.svg",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/dialkit/avatar-mtodjrtk-lgj7Z5ywVIjrfTyqrhJeD5QxAvK6qu.jpg",
+  "shot": "/screenshots/dialkit.png"
+}

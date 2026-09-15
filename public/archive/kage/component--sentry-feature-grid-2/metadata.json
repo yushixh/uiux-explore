@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--sentry-feature-grid-2",
+  "source": "kage",
+  "slug": "component--sentry-feature-grid-2",
+  "url": "https://kage.design/component/sentry-feature-grid-2",
+  "name": "Context-led feature grid by sentry.io",
+  "description": "A dark, editorial feature section that pairs a vertically prioritized list of product capabilities with a large diagnostic media panel. Progressive emphasis, vivid accent rails, and generous negative space create a clear Issue → Context → Fix narrative without relying on conventional cards.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sentry-io/7f1d8e63-d1c6-4f27-8b0e-be764e2f10af-1789073904-5.webp",
+  "prompts": [
+    "kage/component--sentry-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sentry-landing-page",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=product-story",
+    "search?q=media-panel"
+  ],
+  "pageSha256": "cf47c88854d48c060b1101f37c98f2014b03a8517b2804339431ae1696eb9384"
+}

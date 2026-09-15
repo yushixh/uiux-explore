@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cognitions-swe-2-navigation",
+  "source": "kage",
+  "slug": "component--cognitions-swe-2-navigation",
+  "url": "https://kage.design/component/cognitions-swe-2-navigation",
+  "name": "Minimal article navigation by Cognition's SWE-2",
+  "description": "A sparse fixed-looking rail combines a small mark, primary links, active Blog state, and a compact Devin button while leaving the article column visually dominant.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cognitions-swe-2/e9966f12-655e-494e-9580-e5330b0ddc92-1789365704-0.webp",
+  "prompts": [
+    "kage/component--cognitions-swe-2-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-blog",
+  "product": "cognitions-swe-2",
+  "tags": [
+    "search?q=minimal",
+    "search?q=article",
+    "search?q=sidebar"
+  ],
+  "pageSha256": "48a2fb1fd5560f487906ca87b04e4f46419843733f546d564b51c321429f769b"
+}

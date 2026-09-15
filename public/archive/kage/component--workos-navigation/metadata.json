@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workos-navigation",
+  "source": "kage",
+  "slug": "component--workos-navigation",
+  "url": "https://kage.design/component/workos-navigation",
+  "name": "Minimal SaaS Header Navigation by workos.com",
+  "description": "This header works through restraint: a wide, airy layout gives the brand a clear anchor while a compact set of links and a softly outlined sign-in action create an obvious path through the product site. Subtle dropdown indicators and restrained contrast add hierarchy without visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workos-com/c1ef5d6b-8620-4482-aad7-47f439cf35f9-1789073890-0.webp",
+  "prompts": [
+    "kage/component--workos-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-landing-page",
+  "product": "workos-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=header",
+    "search?q=responsive"
+  ],
+  "pageSha256": "212e9334ef959c2e36ff88b8516d33369d4838cc5aad9b6aa78b356f8363827a"
+}

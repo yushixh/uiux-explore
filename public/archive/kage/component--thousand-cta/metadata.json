@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--thousand-cta",
+  "source": "kage",
+  "slug": "component--thousand-cta",
+  "url": "https://kage.design/component/thousand-cta",
+  "name": "Plainspoken FAQ Grid by Thousand",
+  "description": "A calm, editorial FAQ section built from two columns of generous, lightly bordered answer cards. Small uppercase eyebrow text, restrained typography, and a warm neutral palette make the content feel clear and approachable without competing with the rest of the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/thousand/cb10af68-535d-4246-97d9-03dbd24306a9-1789106639-8.webp",
+  "prompts": [
+    "kage/component--thousand-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/thousand-landing-page",
+  "product": "thousand",
+  "tags": [
+    "search?q=faq",
+    "search?q=grid",
+    "search?q=editorial",
+    "search?q=minimal"
+  ],
+  "pageSha256": "bd080e7e7d1cd79cba6f7c5f4c19f9cc341fa9cd628f2913bbdab2e6b222fabd"
+}

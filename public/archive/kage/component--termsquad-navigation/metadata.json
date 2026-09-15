@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--termsquad-navigation",
+  "source": "kage",
+  "slug": "component--termsquad-navigation",
+  "url": "https://kage.design/component/termsquad-navigation",
+  "name": "Minimal dark site navigation by termsquad.com",
+  "description": "A restrained header keeps the brand at left, compact product links centered, and authentication plus a bright primary action at right. The near-black background and tiny type preserve focus on the hero.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/termsquad-com/d12b8131-9740-4063-aef8-780525dfffce-1789166957-0.webp",
+  "prompts": [
+    "kage/component--termsquad-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=dark",
+    "search?q=minimal",
+    "search?q=header"
+  ],
+  "pageSha256": "4e078a066f5778051a5d04acfda1dbfa322873466efe56d45ec66a5855b3568b"
+}

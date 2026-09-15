@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--thousand-og-image",
+  "source": "kage",
+  "slug": "designs--thousand-og-image",
+  "url": "https://kage.design/designs/thousand-og-image",
+  "name": "Thousand OG card — brand lockup on cream by Thousand",
+  "description": "A brand-only Open Graph card at roughly 1200×630: one centered lockup — a rounded bracket glyph cradling three pill bars, the longest in amber, beside the wordmark set in an extra-bold rounded sans — floating in a warm cream field with no headline, tagline or URL. Hierarchy comes entirely from the single accent bar and the matching scale of glyph and type; roughly two-thirds of the canvas is empty. Flat fills, a consistent pill radius across glyph and bars, and tight tracking on the heavy type keep it legible even at small share-preview sizes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/thousand/ca7627a3-de1c-415c-9316-c024b806960c-1789106569790.webp",
+  "prompts": [
+    "kage/designs--thousand-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "thousand",
+  "tags": [
+    "search?q=social-card",
+    "search?q=lockup",
+    "search?q=wordmark",
+    "search?q=negative-space",
+    "search?q=rounded-type",
+    "search?q=flat",
+    "search?q=cream"
+  ],
+  "pageSha256": "66ea8c73f760a7154882be47a7a1a6e184acaddcdd2149e2a91e3c0d53517012"
+}

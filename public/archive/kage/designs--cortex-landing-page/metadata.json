@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--cortex-landing-page",
+  "source": "kage",
+  "slug": "designs--cortex-landing-page",
+  "url": "https://kage.design/designs/cortex-landing-page",
+  "name": "Cortex API docs platform landing page by Cortex",
+  "description": "A near-black developer-tool landing page that lets dense, dimmed product mockups carry the proof while typography stays minimal: a grotesque display headline with a deliberately dimmed second line, monospace uppercase eyebrows marked with dots and dashes, and hairline-bordered panels throughout. A single green accent is rationed to live dots, status chips, and checklist ticks, while HTTP method colors (green GET, blue POST, orange PUT, red DELETE) appear only inside the docs mockup. Rhythm alternates between centered hero-style sections and left-aligned feature blocks, compressed by full-width numbered table strips (spec surfaces, eleven languages) and a numbered bento grid of five proof cards.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cortex/48e48c32-4544-4e71-94d3-849a84be1bb9-1789279338139.webp",
+  "prompts": [
+    "kage/designs--cortex-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "cortex",
+  "tags": [
+    "search?q=dark-hero",
+    "search?q=product-mockup",
+    "search?q=monospace-labels",
+    "search?q=numbered-sections",
+    "search?q=bento-grid",
+    "search?q=code-blocks",
+    "search?q=api-docs",
+    "search?q=green-accent"
+  ],
+  "pageSha256": "d607a42755445ae6c97e02c8ad9c45804651ca6cb36331645f0108dfeacf3437"
+}

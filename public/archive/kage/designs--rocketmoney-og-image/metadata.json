@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--rocketmoney-og-image",
+  "source": "kage",
+  "slug": "designs--rocketmoney-og-image",
+  "url": "https://kage.design/designs/rocketmoney-og-image",
+  "name": "Rocket Money OG social card by rocketmoney.com",
+  "description": "A 1200×630 share card built on a quiet warm-gray canvas with a hard left/right split: a text lockup on the left, a cropped device hero on the right. Hierarchy is pure scale — red wordmark, then a two-line near-black display headline, then three gray bullets — while all the colour energy (crimson gradient header, purple chart, green checkmarks) is pushed into the phone screen. The ~30° rotated phone bleeding off the top and bottom edges gives the card depth and motion without any background decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/rocketmoney-com/3f5b0bc5-0681-4f2c-b7e0-f64ec40bb9a0-1789146527361.webp",
+  "prompts": [
+    "kage/designs--rocketmoney-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "rocketmoney-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=phone-mockup",
+    "search?q=wordmark",
+    "search?q=headline",
+    "search?q=feature-bullets",
+    "search?q=product-ui",
+    "search?q=diagonal-crop"
+  ],
+  "pageSha256": "4ec18f64b4d5cbed7249c2b8bc51151668f748a0ac485f1a7a0768a7269cf01f"
+}

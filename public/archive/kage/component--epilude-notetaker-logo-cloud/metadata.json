@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--epilude-notetaker-logo-cloud",
+  "source": "kage",
+  "slug": "component--epilude-notetaker-logo-cloud",
+  "url": "https://kage.design/component/epilude-notetaker-logo-cloud",
+  "name": "Customer trust banner by Epilude Notetaker",
+  "description": "A short credibility transition introduces a guide link and places multiple customer marks over a single rounded atmospheric panel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/epilude-notetaker/4c1f6c09-8367-4067-b5eb-19bb83b45625-1789365730-2.webp",
+  "prompts": [
+    "kage/component--epilude-notetaker-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-landing-page",
+  "product": "epilude-notetaker",
+  "tags": [
+    "search?q=logos",
+    "search?q=trust",
+    "search?q=image"
+  ],
+  "pageSha256": "4a8a9eb6d85b8d7a8e0230b63833a55669bdee69a32026d0587c5bb0fdccb27a"
+}

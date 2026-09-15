@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--warp-footer",
+  "source": "kage",
+  "slug": "component--warp-footer",
+  "url": "https://kage.design/component/warp-footer",
+  "name": "Grid-Based Link Directory Footer by warp.dev",
+  "description": "A restrained, editorial footer that uses a faint technical grid to organize multiple link groups into clear vertical columns. The low-contrast structure, compact monospace-like labels, and separated legal bar make a dense navigation area feel precise rather than heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060391-11.webp",
+  "prompts": [
+    "kage/component--warp-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=footer",
+    "search?q=grid",
+    "search?q=navigation",
+    "search?q=minimal"
+  ],
+  "pageSha256": "7fb80d82e1e5e083d26a5a7babf5cd9db68832a393723c30f293ad726c0758a7"
+}

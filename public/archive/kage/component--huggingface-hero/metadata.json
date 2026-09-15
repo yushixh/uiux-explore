@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--huggingface-hero",
+  "source": "kage",
+  "slug": "component--huggingface-hero",
+  "url": "https://kage.design/component/huggingface-hero",
+  "name": "AI community hero with discovery panel by huggingface.co",
+  "description": "This hero works by pairing a confident, high-contrast value proposition with a live-looking discovery interface that makes the platform feel broad and active. A restrained action row and oversized dark container create a clear path from understanding the product to exploring it.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/huggingface-co/7a35650e-acfa-4ee6-9c74-f477a83c58e6-1789073961-1.webp",
+  "prompts": [
+    "kage/component--huggingface-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/huggingface-landing-page",
+  "product": "huggingface-co",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark+panel",
+    "search?q=ai+platform",
+    "search?q=split+layout"
+  ],
+  "pageSha256": "a0f9199cdb5578860587c22e3cc8a6183e8f54159c5a90d284e4e6ee8fdc1107"
+}

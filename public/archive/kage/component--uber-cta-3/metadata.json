@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--uber-cta-3",
+  "source": "kage",
+  "slug": "component--uber-cta-3",
+  "url": "https://kage.design/component/uber-cta-3",
+  "name": "Business solutions callout by uber.com",
+  "description": "A second asymmetric callout targets business users with a clear value proposition, primary conversion action, secondary exploration link, and a large right-side visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uber-com/6fbdb16b-1d65-42c3-b533-0bc1468316af-1789146365-6.webp",
+  "prompts": [
+    "kage/component--uber-cta-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uber-landing-page",
+  "product": "uber-com",
+  "tags": [
+    "search?q=business",
+    "search?q=solutions",
+    "search?q=cta"
+  ],
+  "pageSha256": "59f14ea302eb0712feb1669345d7cba8ea96efe456c518b19c6281362102d005"
+}

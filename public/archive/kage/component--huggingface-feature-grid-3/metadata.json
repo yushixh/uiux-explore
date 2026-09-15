@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--huggingface-feature-grid-3",
+  "source": "kage",
+  "slug": "component--huggingface-feature-grid-3",
+  "url": "https://kage.design/component/huggingface-feature-grid-3",
+  "name": "Enterprise feature grid by huggingface.co",
+  "description": "This component works by pairing a high-contrast enterprise feature panel with floating capability labels, then following it with clean, equal-width cards for adjacent offerings. The restrained typography, generous whitespace, and clear CTA hierarchy make a complex platform feel scannable without losing visual character.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/huggingface-co/7a35650e-acfa-4ee6-9c74-f477a83c58e6-1789073962-4.webp",
+  "prompts": [
+    "kage/component--huggingface-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/huggingface-landing-page",
+  "product": "huggingface-co",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=enterprise",
+    "search?q=pricing",
+    "search?q=dark-panel"
+  ],
+  "pageSha256": "da761e1c87a5c010fb3de7ad3dd03ef8a509f132082c0234f43bca9f74015577"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--prisma-navigation",
+  "source": "kage",
+  "slug": "component--prisma-navigation",
+  "url": "https://kage.design/component/prisma-navigation",
+  "name": "Announcement Bar and Floating Navigation by prisma.io",
+  "description": "A polished SaaS header pairs a slim promotional announcement strip with a spacious, rounded navigation panel. The restrained menu, strong primary CTA, and subtle brand texture create a clear path from discovery to conversion without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073817-0.webp",
+  "prompts": [
+    "kage/component--prisma-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=header",
+    "search?q=saas"
+  ],
+  "pageSha256": "49eaa16b86d2143ca3963c0063606fb1439e1c25d259c0a10f08e038b1ea90c7"
+}

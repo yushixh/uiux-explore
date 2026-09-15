@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--framer-gallery",
+  "source": "kage",
+  "slug": "component--framer-gallery",
+  "url": "https://kage.design/component/framer-gallery",
+  "name": "Editorial showcase mosaic by framer.com",
+  "description": "A dark, high-contrast showcase section uses an asymmetric masonry grid to present varied project previews with equal visual weight. A dominant feature tile anchors the composition while narrower cards create rhythm, making the gallery feel curated rather than templated.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/framer-com/fbc97830-061d-4fdf-8e20-ea2d86299263-1789060391-5.webp",
+  "prompts": [
+    "kage/component--framer-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/framer-landing-page",
+  "product": "framer-com",
+  "tags": [
+    "search?q=gallery",
+    "search?q=masonry",
+    "search?q=showcase",
+    "search?q=editorial"
+  ],
+  "pageSha256": "e648dc43421fa6b8ae6dfd27c2205a2e2db294965148dfacca21a10f05bd9642"
+}

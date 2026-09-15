@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--lu-ma-og-image",
+  "source": "kage",
+  "slug": "designs--lu-ma-og-image",
+  "url": "https://kage.design/designs/lu-ma-og-image",
+  "name": "Luma gradient social card by lu.ma",
+  "description": "A 1200×630 social card built almost entirely from atmosphere: a heavily blurred mesh gradient where hot pink dominates the centre, coral-orange pools in the lower right, a sky-blue patch enters at the top-left corner and luminous white breaks glow through the upper right. The only focal element is a white lowercase wordmark, slightly left of true centre, closed by a small four-point sparkle that acts as the brand's punctuation mark. With no headline, CTA or imagery, hierarchy is achieved purely through white-on-saturated-pastel contrast, which keeps the card legible even when shrunk to a small link preview.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/lu-ma/96018a8e-ecd4-43e5-9fc4-0edc592cafb2-1789146157463.webp",
+  "prompts": [
+    "kage/designs--lu-ma-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-og-image",
+  "product": "lu-ma",
+  "tags": [
+    "search?q=og-card",
+    "search?q=mesh-gradient",
+    "search?q=wordmark",
+    "search?q=centered",
+    "search?q=pastel",
+    "search?q=sparkle",
+    "search?q=soft-glow"
+  ],
+  "pageSha256": "e0fc1ae088e885a0d10151e5e2f31868bd3013facac46d109f1753743632ea53"
+}

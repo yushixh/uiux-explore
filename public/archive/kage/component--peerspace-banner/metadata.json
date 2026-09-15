@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--peerspace-banner",
+  "source": "kage",
+  "slug": "component--peerspace-banner",
+  "url": "https://kage.design/component/peerspace-banner",
+  "name": "Awards announcement banner by peerspace.com",
+  "description": "A saturated purple promotional band combines a collage of spaces with a large typographic announcement and a small directional link, creating a high-impact editorial interlude.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146240-2.webp",
+  "prompts": [
+    "kage/component--peerspace-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/peerspace-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=editorial",
+    "search?q=promotion",
+    "search?q=gallery"
+  ],
+  "pageSha256": "cb2ed1a9088977282225782e5f342d4e75de44d3aadda6a05377a59b5b9b453f"
+}

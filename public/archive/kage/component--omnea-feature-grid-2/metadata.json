@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--omnea-feature-grid-2",
+  "source": "kage",
+  "slug": "component--omnea-feature-grid-2",
+  "url": "https://kage.design/component/omnea-feature-grid-2",
+  "name": "Workflow and integrations showcase by omnea.co",
+  "description": "This section shifts from promise to tangible product behavior with two large visual workflow cards and three smaller capability cards beneath.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/omnea-co/444fd721-a6f8-467e-8179-cf278abe5ec1-1789142167-4.webp",
+  "prompts": [
+    "kage/component--omnea-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/omnea-landing-page",
+  "product": "omnea-co",
+  "tags": [
+    "search?q=workflow",
+    "search?q=integrations",
+    "search?q=product"
+  ],
+  "pageSha256": "0601b9630bc2dbe8bf2d185b50d3f8e6af584ff3d4ec29a6846e595b12c26292"
+}

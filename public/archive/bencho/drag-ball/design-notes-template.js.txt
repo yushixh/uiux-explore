@@ -1,0 +1,56 @@
+e=>`/* ONE body, deformed by its own speed. A trail would put a
+   second circle behind this one, and that reads as exactly
+   what it is — a thread while you drag slowly and a detached
+   blob when you drag fast. Stretch lengthens the single body
+   into its direction of travel instead, so the elasticity has
+   nothing to leave behind. */
+<Liquid blur={4.5} contrast={16} fill="var(--board)" filterPadding={80}>
+  <Liquid.Item
+    effect="move"
+    move={{ springiness: ${xy(Number(e.give)/100,2)}, stretch: ${xy(Number(e.stretch)/100,2)}, wobble: 0.35, trail: 0 }}
+  >
+    <motion.span
+      drag
+      dragConstraints={{ left: -122, right: 122, top: -72, bottom: 72 }}
+      dragElastic={0.14}
+      dragMomentum={false}
+      style={{ width: ${e.size}, height: ${e.size} }}
+    />
+  </Liquid.Item>
+</Liquid>
+
+/* the ball carries no fill of its own — the group paints the
+   merged silhouette behind it, and a background here would lay
+   a hard circle over the liquid edge */
+.drg-ball { border-radius: 999px; cursor: grab; touch-action: none; }
+
+/* AND IT HAS TO BE GRABBED, not just dragged. Three beats,
+   and none of them is the drag: hover swells it a little so
+   you know it is live, the press PINCHES it, and letting go
+   rounds it back out on a spring. */
+whileHover={{ scaleX: 1.03, scaleY: 1.03 }}
+whileTap={{ scaleX: 0.92, scaleY: 1.04 }}
+transition={{ type: "spring", stiffness: 520, damping: 24 }}
+
+/* A PINCH, NOT A SHRINK. A circle that gets uniformly smaller
+   reads as a button being pressed INTO a surface; this one is
+   not on a surface, it is in your hand, and what a held ball
+   does is narrow across the grip and bulge along it. Area is
+   roughly kept, so it reads as squeezed rather than resized.
+
+   It works because the metaball library renders its children
+   inside the filtered group rather than drawing circles from
+   their measurements — so a CSS transform on the span comes
+   through in the painted silhouette. */
+
+/* ONE NOTE IN, ONE NOTE OUT, whichever event brings it. The
+   sounds hung off onDragStart/onDragEnd, so a press that
+   never moved was silent — which is exactly the gesture the
+   squeeze was added for. Both handlers are idempotent and
+   wired to the pointer AND the drag, so whichever framer
+   forwards first makes the sound and the other does nothing;
+   the pair can never go out of balance. */
+const grab = () => { if (armed.current) return;
+                     armed.current = true;  play("lift"); };
+const drop = () => { if (!armed.current) return;
+                     armed.current = false; play("drop"); };`

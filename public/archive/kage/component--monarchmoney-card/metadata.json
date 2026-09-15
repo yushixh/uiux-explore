@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--monarchmoney-card",
+  "source": "kage",
+  "slug": "component--monarchmoney-card",
+  "url": "https://kage.design/component/monarchmoney-card",
+  "name": "Featured press quote by monarchmoney.com",
+  "description": "A large muted quote card creates a slower editorial moment, pairing a prominent testimonial with a vertical stack of publication names.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146616-8.webp",
+  "prompts": [
+    "kage/component--monarchmoney-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monarchmoney-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=press",
+    "search?q=quote",
+    "search?q=editorial"
+  ],
+  "pageSha256": "5ba334d3758302233a2847658011a807aeab278889ef1ca6d0871e5855685abb"
+}

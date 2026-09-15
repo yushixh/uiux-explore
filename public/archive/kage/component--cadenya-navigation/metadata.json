@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cadenya-navigation",
+  "source": "kage",
+  "slug": "component--cadenya-navigation",
+  "url": "https://kage.design/component/cadenya-navigation",
+  "name": "Minimal utility navigation by Cadenya",
+  "description": "A compact white navigation bar uses a strong left brand lockup, restrained text links, and separated sign-up/login actions. Thin rules and generous whitespace make the utilitarian interface feel precise rather than heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192866-0.webp",
+  "prompts": [
+    "kage/component--cadenya-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cadenya-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=editorial",
+    "search?q=utility",
+    "search?q=bordered"
+  ],
+  "pageSha256": "f26e909b05131de233c8dab5a1342c370c8aa6f4799e02916e4d1641248a7b5f"
+}

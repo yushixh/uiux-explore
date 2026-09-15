@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--deno-landing-page",
+  "source": "kage",
+  "slug": "designs--deno-landing-page",
+  "url": "https://kage.design/designs/deno-landing-page",
+  "name": "Deno runtime landing page by deno.com",
+  "description": "A developer-focused landing page alternates a restrained white documentation-like canvas with deep charcoal feature bands, using bright mint green for badges, buttons, highlights, and active code states. The page starts with a compact announcement and navigation, then moves from a dark split hero into installation commands, code-led capability sections, security cards, benchmark grids, deployment integrations, social proof, and a final product CTA; the rhythm broadens from dense technical proof to spacious editorial blocks before resolving in a dark multi-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073665790.webp",
+  "prompts": [
+    "kage/designs--deno-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=developer-landing-page",
+    "search?q=terminal-panels",
+    "search?q=mint-accent",
+    "search?q=code-samples",
+    "search?q=benchmark-cards",
+    "search?q=dark-sections",
+    "search?q=responsive-grid"
+  ],
+  "pageSha256": "5743e27490233cd1e7105c37978599470f6e9a2fcb6131f81de0e996f0e5a683"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--rating-badge",
+  "source": "vantaui",
+  "slug": "explore--components--rating-badge",
+  "url": "https://www.vantaui.com/explore/components/rating-badge",
+  "name": "Rating Badge - VantaUI",
+  "description": "A rating badge for social proof and trust",
+  "image": "https://vantaui-registry.vercel.app/components/rating-badge",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "08ffbd6021c32baf53004dd69417d80c7ce71d70e86a5cd40030b86299c1e443"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--uber-hero",
+  "source": "kage",
+  "slug": "component--uber-hero",
+  "url": "https://kage.design/component/uber-hero",
+  "name": "Location-aware ride booking hero by uber.com",
+  "description": "The hero pairs a large location-specific headline and ride input flow with a strong editorial visual, creating an immediate path to book or price a trip.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uber-com/6fbdb16b-1d65-42c3-b533-0bc1468316af-1789146363-1.webp",
+  "prompts": [
+    "kage/component--uber-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uber-landing-page",
+  "product": "uber-com",
+  "tags": [
+    "search?q=booking",
+    "search?q=location",
+    "search?q=hero"
+  ],
+  "pageSha256": "f3a8c8ebb9d711f5db07b6c0566d720651f803b5438d77c9ff2f047d07a5e2ab"
+}

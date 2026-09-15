@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--labs-winszn-landing-page",
+  "source": "kage",
+  "slug": "designs--labs-winszn-landing-page",
+  "url": "https://kage.design/designs/labs-winszn-landing-page",
+  "name": "Winszn Labs studio landing page by labs.winszn.xyz",
+  "description": "A dark, brutalist landing page for an engineering studio that earns trust through evidence rather than polish claims. The hero pairs a huge tight-tracked headline and 3D \"keyboard\" illustration with two stat cards (one vivid orange, one black), then an orange full-bleed band of tech-stack pill badges transitions into a near-black case-study grid. Each project card is a real product screenshot plus a factual \"evidence line\" and tag chips — density stays high and the rhythm alternates between image cards and typographic stat cards. The lower half shifts to a services bento with 3D icons, a numbered five-step process list, a manifesto section, and closes with an orange contact panel containing the enquiry form, a meta footer, and an oversized cropped wordmark. Orange (#E8500A-ish) is used sparingly but with total confidence against near-black surfaces and mono-spaced micro-labels.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/labs-winszn-xyz/4df5b54d-904b-4cf9-bf65-93181d626a5e-1789097586008.webp",
+  "prompts": [
+    "kage/designs--labs-winszn-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "labs-winszn-xyz",
+  "tags": [
+    "search?q=studio",
+    "search?q=portfolio+grid",
+    "search?q=case+studies",
+    "search?q=3d+illustrations",
+    "search?q=tech-stack+badges",
+    "search?q=process+steps",
+    "search?q=enquiry+form",
+    "search?q=giant+footer+wordmark"
+  ],
+  "pageSha256": "0c49189ed4c680329a70c25a896f92fa0dcad29043c2877b05a7f0604fdd4c2c"
+}

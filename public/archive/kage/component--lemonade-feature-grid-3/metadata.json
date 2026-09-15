@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lemonade-feature-grid-3",
+  "source": "kage",
+  "slug": "component--lemonade-feature-grid-3",
+  "url": "https://kage.design/component/lemonade-feature-grid-3",
+  "name": "How the service works by lemonade.com",
+  "description": "An explanatory mission section combines a centered title with two short paragraphs, then uses a large editorial illustration and three surrounding outcome statements to explain the operating model.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lemonade-com/fec12946-54bf-4cf0-ac52-dcd9bbeb95c9-1789146826-6.webp",
+  "prompts": [
+    "kage/component--lemonade-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lemonade-landing-page",
+  "product": "lemonade-com",
+  "tags": [
+    "search?q=process",
+    "search?q=mission",
+    "search?q=illustration"
+  ],
+  "pageSha256": "fe078c8346b0818ff3b1d4f225922e32b82cab300c2fbd422ef64a006a80f7f5"
+}

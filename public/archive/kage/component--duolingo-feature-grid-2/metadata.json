@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--duolingo-feature-grid-2",
+  "source": "kage",
+  "slug": "component--duolingo-feature-grid-2",
+  "url": "https://kage.design/component/duolingo-feature-grid-2",
+  "name": "English testing promotion by duolingo.com",
+  "description": "A calm white promotional row introduces a related testing product with concise explanatory copy, an outlined action, and a large educational visual on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/duolingo-com/3a8c78c9-bd82-49c8-8251-8e9f7b022530-1789146269-6.webp",
+  "prompts": [
+    "kage/component--duolingo-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/duolingo-landing-page",
+  "product": "duolingo-com",
+  "tags": [
+    "search?q=credential",
+    "search?q=education",
+    "search?q=promotion"
+  ],
+  "pageSha256": "5adfeb41b276e211b60a30f74759079a39cc747b841a7b4d60d08620a3f2fe86"
+}

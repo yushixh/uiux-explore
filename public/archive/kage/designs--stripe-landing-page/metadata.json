@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--stripe-landing-page",
+  "source": "kage",
+  "slug": "designs--stripe-landing-page",
+  "url": "https://kage.design/designs/stripe-landing-page",
+  "name": "Stripe homepage — financial infrastructure landing page by stripe.com",
+  "description": "The page runs a strict two-colour system — white canvas with navy #0A2540 text and blurple #635BFF accents — and lets huge 3D gradient artwork (orange→pink→purple) do the expressive work in the hero, then resets to restraint below. Rhythm alternates down the page: a bento grid of product cards each embedding a real UI screenshot, a full-bleed dark event banner, an airy stat band with a radial particle graphic, photographic case studies, and finally a long navy developer section with node diagrams, animated wave gradients and a code snippet. Hierarchy is carried almost entirely by type scale (60px+ display, 24px section intros, 14px gray captions) and by weight rather than ornament, with pills, 1px borders and gradient washes instead of shadows.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/stripe-com/f883ce83-9776-477f-9170-0bb4400c0ec7-1789059982020.webp",
+  "prompts": [
+    "kage/designs--stripe-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ynab-landing-page",
+  "product": "stripe-com",
+  "tags": [
+    "search?q=hero-gradient",
+    "search?q=bento-product-cards",
+    "search?q=stats-band",
+    "search?q=case-studies",
+    "search?q=dark-dev-section",
+    "search?q=logo-strip",
+    "search?q=mega-footer",
+    "search?q=ui-mockups"
+  ],
+  "pageSha256": "0db97ca39a287fa12388c1e45c1f8126689f7505b1ec815410c77c0e30216da2"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--linear-feature-grid",
+  "source": "kage",
+  "slug": "component--linear-feature-grid",
+  "url": "https://kage.design/component/linear-feature-grid",
+  "name": "Editorial feature grid by linear.app",
+  "description": "A restrained three-column feature section pairs a large editorial statement with sparse, low-contrast diagrammatic visuals and concise supporting copy. Thin dividers, generous negative space, and a muted monochrome palette make the grid feel precise, premium, and product-led.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789060207-3.webp",
+  "prompts": [
+    "kage/component--linear-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/linear-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=bento-layout"
+  ],
+  "pageSha256": "da88abba13dec2ea63b2d8d8d3b16f08c0e464c171988076f705b068fe95a2ef"
+}

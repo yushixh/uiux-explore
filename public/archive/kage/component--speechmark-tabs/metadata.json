@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--speechmark-tabs",
+  "source": "kage",
+  "slug": "component--speechmark-tabs",
+  "url": "https://kage.design/component/speechmark-tabs",
+  "name": "Editorial audience tabs by Speechmark",
+  "description": "A restrained, editorial tab section that pairs a vertical audience selector with a large contextual message. Strong typographic contrast, generous whitespace, and a slim active rule make the current tab clear without visual clutter.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/speechmark/77b904ee-7a59-4d24-b7d4-3e274188b21e-1789106593-6.webp",
+  "prompts": [
+    "kage/component--speechmark-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/speechmark-landing-page",
+  "product": "speechmark",
+  "tags": [
+    "search?q=tabs",
+    "search?q=editorial",
+    "search?q=audience",
+    "search?q=responsive"
+  ],
+  "pageSha256": "607d667bf6a19674565e17b647ca15a2d3a5486f4e56160a8bf3834e8977f8d3"
+}

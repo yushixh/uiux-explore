@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--prisma-testimonials",
+  "source": "kage",
+  "slug": "component--prisma-testimonials",
+  "url": "https://kage.design/component/prisma-testimonials",
+  "name": "Horizontal testimonial grid by prisma.io",
+  "description": "A restrained social-proof section that uses a centered headline and a horizontally clipped, multi-row grid of testimonial cards to create depth and encourage browsing. The compact identity rows and soft monochrome styling keep attention on the customer quotes while subtle edge fade suggests additional content beyond the viewport.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073820-8.webp",
+  "prompts": [
+    "kage/component--prisma-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social-proof",
+    "search?q=card-grid",
+    "search?q=carousel"
+  ],
+  "pageSha256": "2ecbb4998b5f01a7832983eb0d5629c7e2c63c6a53c2d828fad89df258db01df"
+}

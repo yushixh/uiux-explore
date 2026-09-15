@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--planetscale-card",
+  "source": "kage",
+  "slug": "component--planetscale-card",
+  "url": "https://kage.design/component/planetscale-card",
+  "name": "Terminal-style product brief card by planetscale.com",
+  "description": "A restrained documentation card that uses a terminal-inspired typographic system, dense readable content, linked inline accents, and dotted dividers to organize a long product narrative into clearly labeled sections.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/planetscale-com/b4abfdd8-cd39-4289-8914-c1bd40d118b4-1789060673-6.webp",
+  "prompts": [
+    "kage/component--planetscale-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/planetscale-landing-page",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=technical",
+    "search?q=documentation",
+    "search?q=monospace",
+    "search?q=long-form"
+  ],
+  "pageSha256": "302f2eecf989b63dbb573bbe8378f76c552690c117fa52f48e712624edd97cc7"
+}

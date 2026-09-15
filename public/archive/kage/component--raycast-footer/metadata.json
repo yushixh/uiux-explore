@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--raycast-footer",
+  "source": "kage",
+  "slug": "component--raycast-footer",
+  "url": "https://kage.design/component/raycast-footer",
+  "name": "Dark grid footer CTA by raycast.com",
+  "description": "A restrained, near-black footer treatment that uses a faint technical grid and a single centered call to action to close the page with focus. Low-contrast typography and structural lines create atmosphere without competing with the primary conversion action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067519-11.webp",
+  "prompts": [
+    "kage/component--raycast-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=dark-ui",
+    "search?q=grid",
+    "search?q=cta"
+  ],
+  "pageSha256": "146219b8198f444d5f3a62ebbbddd1a53c7ba7e45e61960a5091ba5613c8217f"
+}

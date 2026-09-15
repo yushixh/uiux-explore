@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bun-navigation",
+  "source": "kage",
+  "slug": "component--bun-navigation",
+  "url": "https://kage.design/component/bun-navigation",
+  "name": "Announcement bar and developer navigation header by bun.sh",
+  "description": "A compact, high-contrast developer navigation pattern combines a global announcement strip with a precise desktop header, lightweight documentation links, prominent search, utility icons, and a clear install CTA. Its restrained geometry and monospace release cue make the interface feel technical without becoming dense.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073821-0.webp",
+  "prompts": [
+    "kage/component--bun-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=developer-tools",
+    "search?q=search"
+  ],
+  "pageSha256": "d6cdc4f668e5d58cf2670cb193ade5727b0f93e5f6d8d72857ec18ebc8ce6944"
+}

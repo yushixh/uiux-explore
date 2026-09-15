@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--posthog-feature-grid-3",
+  "source": "kage",
+  "slug": "component--posthog-feature-grid-3",
+  "url": "https://kage.design/component/posthog-feature-grid-3",
+  "name": "Editorial resource links by posthog.com",
+  "description": "This section works by pairing a compact editorial heading and short supporting paragraph with a low-friction list of useful text links. Generous whitespace, strong underlined link treatment, and an offset visual area give the otherwise simple resource grid personality without making it feel like a conventional card layout.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/posthog-com/73877279-c1a4-4217-acde-d4b5e92c7eb5-1789060473-5.webp",
+  "prompts": [
+    "kage/component--posthog-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/posthog-landing-page",
+  "product": "posthog-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=resource-links",
+    "search?q=editorial",
+    "search?q=cta"
+  ],
+  "pageSha256": "6f4e4409e8751cad1e66b75aa50be675015d44619cdd3a01e4a4a02d1b99c802"
+}

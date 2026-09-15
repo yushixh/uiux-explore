@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--phantom-feature-grid",
+  "source": "kage",
+  "slug": "component--phantom-feature-grid",
+  "url": "https://kage.design/component/phantom-feature-grid",
+  "name": "Trading feature carousel by phantom.com",
+  "description": "A category label and carousel controls introduce a horizontally arranged set of colorful product-benefit cards, allowing several capabilities to be scanned at once.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/phantom-com/df84c488-d9fa-4f45-8b51-bd3e334c55b2-1789146859-2.webp",
+  "prompts": [
+    "kage/component--phantom-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/phantom-landing-page",
+  "product": "phantom-com",
+  "tags": [
+    "search?q=features",
+    "search?q=carousel",
+    "search?q=cards"
+  ],
+  "pageSha256": "952c84fd18cadd9c0329edfaa2514ab3323233bd219533d2b05b1e7114593d6c"
+}

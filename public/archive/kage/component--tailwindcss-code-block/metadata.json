@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tailwindcss-code-block",
+  "source": "kage",
+  "slug": "component--tailwindcss-code-block",
+  "url": "https://kage.design/component/tailwindcss-code-block",
+  "name": "Framed multi-panel code block by tailwindcss.com",
+  "description": "A compact, editorial code showcase that uses oversized rounded panels, dense syntax-highlighted text, and a restrained grid to make technical examples feel like polished product design. The surrounding feature cards and generous whitespace give the code visual weight without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tailwindcss-com/8ea80760-a5bd-4198-8781-a7bb4737c216-1789073868-4.webp",
+  "prompts": [
+    "kage/component--tailwindcss-code-block/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tailwindcss-landing-page",
+  "product": "tailwindcss-com",
+  "tags": [
+    "search?q=code",
+    "search?q=panels",
+    "search?q=editorial",
+    "search?q=responsive"
+  ],
+  "pageSha256": "4f2e1c5c27beae78a0548d9888d36ba27ba65517d6ba8e310380553b94da1f14"
+}

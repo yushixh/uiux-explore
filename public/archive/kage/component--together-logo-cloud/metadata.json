@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--together-logo-cloud",
+  "source": "kage",
+  "slug": "component--together-logo-cloud",
+  "url": "https://kage.design/component/together-logo-cloud",
+  "name": "Trusted-by logo cloud by together.ai",
+  "description": "A restrained horizontal trust strip that uses low-contrast partner marks to create credibility without competing with the page’s primary message. The generous spacing, pale background, and consistent visual weight make varied logos feel like one cohesive system.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/together-ai/60591018-8706-471e-a3f2-ad3109f52987-1789073939-2.webp",
+  "prompts": [
+    "kage/component--together-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/together-landing-page",
+  "product": "together-ai",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=brand-strip"
+  ],
+  "pageSha256": "c706dbf01345974b7e386dbfd6e8b13c1e3e7759a111afb11ca986ba458ee885"
+}

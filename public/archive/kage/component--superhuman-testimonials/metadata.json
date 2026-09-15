@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--superhuman-testimonials",
+  "source": "kage",
+  "slug": "component--superhuman-testimonials",
+  "url": "https://kage.design/component/superhuman-testimonials",
+  "name": "Centered testimonial spotlight by superhuman.com",
+  "description": "A calm, high-contrast testimonial section that gives one customer quote most of the page’s attention. Its generous spacing, restrained metadata, selective bold emphasis, and understated text link make the proof feel credible without becoming a busy carousel or card grid.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060755-5.webp",
+  "prompts": [
+    "kage/component--superhuman-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=testimonial",
+    "search?q=quote",
+    "search?q=social+proof",
+    "search?q=minimal"
+  ],
+  "pageSha256": "e4dba5dbdcf657b2193fbfa03662808fbe5eaf2bed57cb402253569f734eccef"
+}

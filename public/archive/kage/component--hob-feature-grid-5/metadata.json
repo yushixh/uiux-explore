@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-feature-grid-5",
+  "source": "kage",
+  "slug": "component--hob-feature-grid-5",
+  "url": "https://kage.design/component/hob-feature-grid-5",
+  "name": "Asymmetric feature mosaic by hob",
+  "description": "A calm bento-style feature section uses varied card sizes, generous gaps, and selective product visuals to turn a long capability list into an easy-to-scan narrative. The repeated card treatment creates consistency while the asymmetric placement gives the page rhythm and lets the most visual features carry more weight.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106504-7.webp",
+  "prompts": [
+    "kage/component--hob-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=product-marketing",
+    "search?q=saas"
+  ],
+  "pageSha256": "671f33484c9239de151891c497f4febb89851214819d239a2ec0d4326b5b4320"
+}

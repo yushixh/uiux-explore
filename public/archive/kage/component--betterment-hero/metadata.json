@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--betterment-hero",
+  "source": "kage",
+  "slug": "component--betterment-hero",
+  "url": "https://kage.design/component/betterment-hero",
+  "name": "Confident investing hero by betterment.com",
+  "description": "The hero pairs a large editorial headline and concise reassurance copy with a full-bleed blue lifestyle/product image. A short benefits list and repeated yellow CTA make the first action obvious.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/betterment-com/48b23e19-a777-4bc7-89e7-1aceabf18629-1789146555-1.webp",
+  "prompts": [
+    "kage/component--betterment-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/betterment-landing-page",
+  "product": "betterment-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=investing",
+    "search?q=image",
+    "search?q=cta"
+  ],
+  "pageSha256": "7217c8bc4a818a6e3c6ea9f01f439bcade6f0e44f000024db73befba3bcf7068"
+}

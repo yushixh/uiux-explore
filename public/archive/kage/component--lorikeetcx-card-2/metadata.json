@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-card-2",
+  "source": "kage",
+  "slug": "component--lorikeetcx-card-2",
+  "url": "https://kage.design/component/lorikeetcx-card-2",
+  "name": "Resolved interaction example by lorikeetcx.ai",
+  "description": "A small isolated example card turns the abstract workflow into a concrete resolved customer interaction while maintaining the page's airy rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142171-9.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-card-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=example",
+    "search?q=resolution",
+    "search?q=card"
+  ],
+  "pageSha256": "66e7b9afd69b39ba848fc45fbb490742017217b67b7ee73640581c90e7f15067"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workos-hero-2",
+  "source": "kage",
+  "slug": "component--workos-hero-2",
+  "url": "https://kage.design/component/workos-hero-2",
+  "name": "Connected infrastructure hero by workos.com",
+  "description": "A dramatic, full-bleed hero transitions from a dark technical backdrop into a bright product-introduction panel. The focused headline, short supporting copy, pill-shaped CTA, and subtle branching connector diagram communicate complex integrations with clarity and momentum.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workos-com/c1ef5d6b-8620-4482-aad7-47f439cf35f9-1789073891-5.webp",
+  "prompts": [
+    "kage/component--workos-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-landing-page",
+  "product": "workos-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark-to-light",
+    "search?q=integration",
+    "search?q=cta"
+  ],
+  "pageSha256": "0519bb3cab90c2382b6cb0c9455beeb7c360d9edd346506883324cdd1f98a5d3"
+}

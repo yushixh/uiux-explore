@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--domestika-og-image",
+  "source": "kage",
+  "slug": "designs--domestika-og-image",
+  "url": "https://kage.design/designs/domestika-og-image",
+  "name": "Domestika OG social card — white wordmark on flat red field by domestika.org",
+  "description": "A single-element social card: a full-bleed flat red-orange field (~#F02A10) with nothing but the white DOMÉSTIKA wordmark, optically centred on the 1200×630 canvas. Roughly 85% of the surface is empty colour, so the heavy geometric sans wordmark — whose accented É is doubled by the brand's chevron glyph — carries all focal weight. The restraint works because contrast does everything: one saturated hue, one pure-white wordmark at ~55% of canvas width, no tagline, URL, imagery or second colour to dilute recognition in a small link preview.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/domestika-org/0913f44c-12dc-4316-bfca-0b137dd69489-1789146384773.webp",
+  "prompts": [
+    "kage/designs--domestika-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "domestika-org",
+  "tags": [
+    "search?q=og-card",
+    "search?q=wordmark",
+    "search?q=flat-color",
+    "search?q=centered",
+    "search?q=high-contrast",
+    "search?q=negative-space",
+    "search?q=brand-forward"
+  ],
+  "pageSha256": "31a8aa908bd09ccd774f40d6bac9a97f10ad134d0da547164dc0716e2f9c72d3"
+}

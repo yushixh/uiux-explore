@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ramp-cta",
+  "source": "kage",
+  "slug": "component--ramp-cta",
+  "url": "https://kage.design/component/ramp-cta",
+  "name": "Minimal email capture CTA by ramp.com",
+  "description": "A focused, high-contrast conversion block that pairs a concise value statement with an inline work-email field and bright action button. Its generous whitespace and rounded transition into the dark footer make the CTA feel like a distinct final step without competing with the rest of the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060917-10.webp",
+  "prompts": [
+    "kage/component--ramp-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=email+capture",
+    "search?q=conversion",
+    "search?q=footer"
+  ],
+  "pageSha256": "50081c73bfac3337367e9c036826c3a82891459b88aec863a600d1f0c5fd72e6"
+}

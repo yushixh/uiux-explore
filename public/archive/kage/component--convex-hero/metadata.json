@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--convex-hero",
+  "source": "kage",
+  "slug": "component--convex-hero",
+  "url": "https://kage.design/component/convex-hero",
+  "name": "Layered developer-tool hero by convex.dev",
+  "description": "A high-contrast SaaS hero that pairs an oversized value proposition with a compact interactive-looking developer panel. Layered route-like color bands create a distinctive transition into the next section while the restrained navigation and dual CTAs keep the focus on activation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789074850-1.webp",
+  "prompts": [
+    "kage/component--convex-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/convex-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark-mode",
+    "search?q=developer",
+    "search?q=cta"
+  ],
+  "pageSha256": "a3e89b2cb033a08492af9577a0c307460f7abadfe739ec1e6f702707f2e2c977"
+}

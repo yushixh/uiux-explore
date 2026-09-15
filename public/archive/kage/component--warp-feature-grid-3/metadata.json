@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--warp-feature-grid-3",
+  "source": "kage",
+  "slug": "component--warp-feature-grid-3",
+  "url": "https://kage.design/component/warp-feature-grid-3",
+  "name": "Governance Feature Grid by warp.dev",
+  "description": "A technical, editorial feature section that combines a bold headline with an asymmetric dashboard collage. Thin grid lines, terminal-like typography, restrained lavender surfaces, and small operational details make the product feel precise, observable, and built for serious engineering workflows.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060390-8.webp",
+  "prompts": [
+    "kage/component--warp-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=governance",
+    "search?q=dashboard",
+    "search?q=bento"
+  ],
+  "pageSha256": "e4a5ed7646a07ab85d7024282ec68539e3dd98862a4e0c6767373499389ef9da"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cal-footer",
+  "source": "kage",
+  "slug": "component--cal-footer",
+  "url": "https://kage.design/component/cal-footer",
+  "name": "Trust-rich utility footer by cal.com",
+  "description": "A spacious, low-density footer that combines company credibility, compliance marks, utility controls, downloads, support, and the beginning of a multi-column navigation system. Its strong left rail and restrained monochrome styling make a large amount of practical information feel organized rather than overwhelming.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cal-com/cdeba7c5-dd46-4ce9-ba9c-2d344d57a58b-1789060425-9.webp",
+  "prompts": [
+    "kage/component--cal-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cal-landing-page",
+  "product": "cal-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=trust",
+    "search?q=navigation",
+    "search?q=utilities"
+  ],
+  "pageSha256": "0694eb8c0dcab88c9ee7ba7741f6d741ea37f7df9e1f03784a71546df59be114"
+}

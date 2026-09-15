@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--fplxi-landing-page",
+  "source": "kage",
+  "slug": "designs--fplxi-landing-page",
+  "url": "https://kage.design/designs/fplxi-landing-page",
+  "name": "FPLXI fantasy football analytics landing page by fplxi.com",
+  "description": "A data-dense fantasy football analytics landing page set on warm off-white paper, led by a floating black pill nav and a live gameweek ticker. The hero pairs a large serif headline and inline two-step form with a real model leaderboard, so the product's data does the persuading. Down the page the rhythm alternates hairline-bordered white data cards (best XI pitch view, fixtures, position leaders, accuracy charts) with full-black punctuation bands (testimonial, dark stat card), before loosening into pricing with deliberately blurred locked rows and a two-column FAQ accordion. Typography carries the identity: uppercase letterspaced micro-labels, monospaced tabular numerals in every table, and one indigo-blue accent reserved for CTAs and chart bars.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/fplxi-com/54b8421e-1a9f-4884-bebf-8d70ddcd8ef8-1789073004446.webp",
+  "prompts": [
+    "kage/designs--fplxi-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "fplxi-com",
+  "tags": [
+    "search?q=data-dense",
+    "search?q=leaderboard-table",
+    "search?q=live-ticker",
+    "search?q=chip-badges",
+    "search?q=serif-headline",
+    "search?q=dark-punctuation-bands",
+    "search?q=locked-pricing-rows",
+    "search?q=faq-accordion"
+  ],
+  "pageSha256": "a528a1ec2a52b262a7a5d850ae805b5dd6acb5726ff936d8443a7f34f7a9a425"
+}

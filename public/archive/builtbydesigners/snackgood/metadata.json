@@ -1,0 +1,22 @@
+{
+  "id": "snackgood",
+  "name": "Snackgood",
+  "description": "A playful community snack guide where friends share fun, healthier finds with photos, stores and personal notes, turning everyday recommendations into a browsable visual collection.",
+  "shortInfo": "Fun, healthier snacks from friends",
+  "url": "https://snackgood.app/",
+  "handle": "raghavpink",
+  "creatorName": "Raghav",
+  "creatorUrl": "https://x.com/raghavpink",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Lifestyle",
+  "categories": [
+    "Lifestyle"
+  ],
+  "launchDate": "2026-06-08",
+  "added": "2026-08-31",
+  "sortOrder": 4,
+  "icon": "/backend/icons/snackgood.png",
+  "avatar": "/backend/avatars/snackgood.jpg",
+  "shot": "/screenshots/snackgood.png"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ravio-cta",
+  "source": "kage",
+  "slug": "component--ravio-cta",
+  "url": "https://kage.design/component/ravio-cta",
+  "name": "Benchmark coverage CTA by Ravio",
+  "description": "A cloud-backed promotional panel creates an emotional pause, presents one clear exploration action, then resolves into three large proof metrics.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ravio/21fc8fab-2ae9-4a70-87c8-10ebee6c9a8e-1789142159-3.webp",
+  "prompts": [
+    "kage/component--ravio-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ravio-landing-page",
+  "product": "ravio",
+  "tags": [
+    "search?q=cta",
+    "search?q=stats",
+    "search?q=coverage"
+  ],
+  "pageSha256": "aa0c52e29dfec1d34b50cb70505d4f71db787f717eceb76a8f59fc2b291fd87b"
+}

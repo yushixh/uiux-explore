@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-card",
+  "source": "kage",
+  "slug": "component--lorikeetcx-card",
+  "url": "https://kage.design/component/lorikeetcx-card",
+  "name": "Capability chips by lorikeetcx.ai",
+  "description": "Floating capability chips are arranged with ample whitespace to suggest a flexible orchestration layer and make the abstract system feel tangible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142170-7.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=capabilities",
+    "search?q=chips",
+    "search?q=automation"
+  ],
+  "pageSha256": "be46e9125d754550741c58497fd9b1098b11403bcafd91ac432a19f46b3e862c"
+}

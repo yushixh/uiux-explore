@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--gojo-pricing-table",
+  "source": "kage",
+  "slug": "component--gojo-pricing-table",
+  "url": "https://kage.design/component/gojo-pricing-table",
+  "name": "Two-option pricing cards by Gojo",
+  "description": "A restrained pricing section pairs a clear plan toggle with two side-by-side offer cards, using contrast, hierarchy, and focused calls to action to make the preferred plan easy to understand. The highlighted card communicates value without overwhelming the lower-cost alternative.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106544-10.webp",
+  "prompts": [
+    "kage/component--gojo-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=pricing",
+    "search?q=toggle",
+    "search?q=cards",
+    "search?q=conversion"
+  ],
+  "pageSha256": "495eed31d6298a4d4e5c803019f933dce6ab54f334acd1b213d77b8a77e464a4"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-feature-grid-3",
+  "source": "kage",
+  "slug": "component--lorikeetcx-feature-grid-3",
+  "url": "https://kage.design/component/lorikeetcx-feature-grid-3",
+  "name": "Connected systems workflow by lorikeetcx.ai",
+  "description": "A large looping connector diagram visually explains how external tools feed into a central resolution workflow, while the centered copy remains the semantic anchor.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142170-8.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=integrations",
+    "search?q=workflow",
+    "search?q=systems"
+  ],
+  "pageSha256": "470a568b08ead5dad08748ccccf088a09671f20b098ee82370f5d38caa8ddc18"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--superhuman-banner",
+  "source": "kage",
+  "slug": "component--superhuman-banner",
+  "url": "https://kage.design/component/superhuman-banner",
+  "name": "Product switch announcement banner by superhuman.com",
+  "description": "A slim, full-width announcement strip uses a soft lavender background, centered inline messaging, and a small text link with an arrow to communicate a related product or destination without overpowering the page. Its restrained height, generous horizontal padding, and high-contrast text make it easy to scan and dismiss visually as a secondary navigation element.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060754-1.webp",
+  "prompts": [
+    "kage/component--superhuman-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=announcement",
+    "search?q=banner",
+    "search?q=cta",
+    "search?q=navigation"
+  ],
+  "pageSha256": "debfacc68fe6e2ea408d2f569046ec7bec90594713de198b878fc25c3cad1cd8"
+}

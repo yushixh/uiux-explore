@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--notion-testimonials",
+  "source": "kage",
+  "slug": "component--notion-testimonials",
+  "url": "https://kage.design/component/notion-testimonials",
+  "name": "Colour-washed testimonial cards by notion.com",
+  "description": "A bold social-proof section that combines an oversized trust headline with a three-column grid of testimonial cards. Full-bleed portraits, distinct colour overlays, restrained branding zones, and bottom-aligned quotes make each story feel cinematic while keeping the content scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/notion-com/9e072824-4b09-4216-9cff-06c643793f91-1789060359-3.webp",
+  "prompts": [
+    "kage/component--notion-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/notion-landing-page",
+  "product": "notion-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=video+cards",
+    "search?q=editorial"
+  ],
+  "pageSha256": "7e69ed402cfc6383f136412f73c905e40a02be9790735e86542d5605acf40cc3"
+}

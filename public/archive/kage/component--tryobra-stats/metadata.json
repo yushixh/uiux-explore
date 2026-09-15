@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--tryobra-stats",
+  "source": "kage",
+  "slug": "component--tryobra-stats",
+  "url": "https://kage.design/component/tryobra-stats",
+  "name": "Single proof-point statistic by tryobra.com",
+  "description": "A restrained dark band centers one enormous orange metric, with a short framing statement and tiny qualification text to make the number feel credible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tryobra-com/5ed8a808-d125-4341-bc8a-0a69442cb995-1789152084-2.webp",
+  "prompts": [
+    "kage/component--tryobra-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "tryobra-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=metric",
+    "search?q=dark"
+  ],
+  "pageSha256": "200c08dd1808d85295f67ba57c475a5d5cea091b844fab21c879e164dc7c0f22"
+}

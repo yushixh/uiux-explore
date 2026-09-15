@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--gojo-feature-grid-7",
+  "source": "kage",
+  "slug": "component--gojo-feature-grid-7",
+  "url": "https://kage.design/component/gojo-feature-grid-7",
+  "name": "Editorial feature split with interactive product preview by Gojo",
+  "description": "This section works by pairing a concise editorial feature description with a large, tactile product preview, using generous whitespace and a restrained divider system to make the capability feel understandable and premium. A draggable comparison treatment gives the preview a clear moment of interaction without overwhelming the supporting copy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106544-8.webp",
+  "prompts": [
+    "kage/component--gojo-feature-grid-7/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=split-layout",
+    "search?q=comparison",
+    "search?q=product-tour"
+  ],
+  "pageSha256": "ae8e6b1c265625ad960875fa1520ed92b3a630613b6d7939f3bfd1c28828c0c7"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--monarchmoney-cta",
+  "source": "kage",
+  "slug": "component--monarchmoney-cta",
+  "url": "https://kage.design/component/monarchmoney-cta",
+  "name": "Trial pricing CTA by monarchmoney.com",
+  "description": "A split promotional card combines a low-friction trial message and CTA with a product-in-use photograph.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146617-10.webp",
+  "prompts": [
+    "kage/component--monarchmoney-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monarchmoney-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=pricing",
+    "search?q=trial",
+    "search?q=cta"
+  ],
+  "pageSha256": "ea2e3514f203ca5ae8f040b5ef2b9959a5d0ba3674d9e33dc488e66684457527"
+}

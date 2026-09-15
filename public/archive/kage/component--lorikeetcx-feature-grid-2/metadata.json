@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lorikeetcx-feature-grid-2",
+  "source": "kage",
+  "slug": "component--lorikeetcx-feature-grid-2",
+  "url": "https://kage.design/component/lorikeetcx-feature-grid-2",
+  "name": "Omnichannel rules introduction by lorikeetcx.ai",
+  "description": "A centered headline introduces the relationship between customer channels and internal operating rules, with lightweight channel cues above the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789142170-6.webp",
+  "prompts": [
+    "kage/component--lorikeetcx-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=channels",
+    "search?q=systems",
+    "search?q=workflow"
+  ],
+  "pageSha256": "7423c46cd21d687e379f15de2a424e75fd1b5c46ab6ebf5ac37b86d7b021fca9"
+}

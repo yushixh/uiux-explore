@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--meetup-feature-grid-2",
+  "source": "kage",
+  "slug": "component--meetup-feature-grid-2",
+  "url": "https://kage.design/component/meetup-feature-grid-2",
+  "name": "Upcoming online events by meetup.com",
+  "description": "A second event collection reuses the card grammar but changes the content to online programming. The shorter row maintains consistent image proportions and a clear “see all events” affordance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/meetup-com/38f9f6c4-75f1-46e9-b1c3-f8b44b19e777-1789146456-3.webp",
+  "prompts": [
+    "kage/component--meetup-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=online",
+    "search?q=events",
+    "search?q=cards"
+  ],
+  "pageSha256": "f9b401d9c29e816f9777110ff055af7afac4a9fb60b1d35e4658f35807c9a799"
+}

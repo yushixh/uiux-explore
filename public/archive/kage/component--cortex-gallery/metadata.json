@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cortex-gallery",
+  "source": "kage",
+  "slug": "component--cortex-gallery",
+  "url": "https://kage.design/component/cortex-gallery",
+  "name": "Interactive product preview by Cortex",
+  "description": "A large framed browser-like product visualization demonstrates the product through dense documentation UI, navigation, content, and an SDK panel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cortex/48e48c32-4544-4e71-94d3-849a84be1bb9-1789279409-2.webp",
+  "prompts": [
+    "kage/component--cortex-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cortex-landing-page",
+  "product": "cortex",
+  "tags": [
+    "search?q=gallery",
+    "search?q=product",
+    "search?q=preview"
+  ],
+  "pageSha256": "d4fa7b9552fe168515f418e4e389a567e2114d20dd5a2713896fdda1ade0ac9b"
+}

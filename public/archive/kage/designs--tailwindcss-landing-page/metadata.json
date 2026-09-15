@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--tailwindcss-landing-page",
+  "source": "kage",
+  "slug": "designs--tailwindcss-landing-page",
+  "url": "https://kage.design/designs/tailwindcss-landing-page",
+  "name": "Tailwind CSS landing page by tailwindcss.com",
+  "description": "A long developer-tool landing page that pairs an airy white editorial layout with dark, editor-styled code panels as the hero visual and throughout the feature bento grid. The page builds trust with a dense sponsor logo wall, then shifts rhythm into a playful, illustrated bento of feature cards each containing a live UI demo (responsive cards, dark-mode banking widget, colour palettes, easing curves). Small monospace eyebrow labels, a giant tight-tracked grotesque headline, and pink/teal utility-class highlights in body copy carry the product's own identity into the design.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/tailwindcss-com/8ea80760-a5bd-4198-8781-a7bb4737c216-1789073666539.webp",
+  "prompts": [
+    "kage/designs--tailwindcss-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "tailwindcss-com",
+  "tags": [
+    "search?q=code-editor",
+    "search?q=bento-grid",
+    "search?q=monospace-accents",
+    "search?q=sponsor-logos",
+    "search?q=feature-cards",
+    "search?q=dark-editor-panels"
+  ],
+  "pageSha256": "01645ea02e8f62e6eee7f6dbfdd5113495015af0a31515bc6778c5539b1da107"
+}

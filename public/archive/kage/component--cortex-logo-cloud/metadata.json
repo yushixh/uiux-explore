@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cortex-logo-cloud",
+  "source": "kage",
+  "slug": "component--cortex-logo-cloud",
+  "url": "https://kage.design/component/cortex-logo-cloud",
+  "name": "Supported API surface strip by Cortex",
+  "description": "A compact bordered strip signals breadth through a short introductory label and a row of numbered interface categories.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cortex/48e48c32-4544-4e71-94d3-849a84be1bb9-1789279409-3.webp",
+  "prompts": [
+    "kage/component--cortex-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cortex-landing-page",
+  "product": "cortex",
+  "tags": [
+    "search?q=logos",
+    "search?q=strip",
+    "search?q=api"
+  ],
+  "pageSha256": "d7b062b7d3bdc1eb86f2d2d12ddceedc5c971e22c57eaaa68badea8c0a7ccd07"
+}

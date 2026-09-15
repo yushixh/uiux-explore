@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--drizzle-team-landing-page",
+  "source": "kage",
+  "slug": "designs--drizzle-team-landing-page",
+  "url": "https://kage.design/designs/drizzle-team-landing-page",
+  "name": "Drizzle Team open-source org page by drizzle.team",
+  "description": "A near-monochrome open-source org page where the data does the design work: eleven project cards each pair a star/fork count with a black sparkline charting traction over time. Structure is carried by tiny uppercase micro-labels and a two-line black/grey greeting, and the rhythm shifts down the page from a dense three-column card grid to a heavy light-grey sponsor panel and a sparse three-column footer. Colour is withheld almost entirely — white, greys, one dark button — leaving a single blue 'Become a sponsor' link as the only action accent.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/drizzle-team/742c665e-9ce1-4c98-831f-72085091350d-1789073651988.webp",
+  "prompts": [
+    "kage/designs--drizzle-team-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "drizzle-team",
+  "tags": [
+    "search?q=open-source",
+    "search?q=card-grid",
+    "search?q=sparkline",
+    "search?q=metrics",
+    "search?q=sponsors",
+    "search?q=monochrome",
+    "search?q=github-stats"
+  ],
+  "pageSha256": "508166569bb9f1e448fc6178bca3223f24e537cc67b445d644d96f3ff264575f"
+}

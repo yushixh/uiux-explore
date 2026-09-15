@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--meetup-og-image",
+  "source": "kage",
+  "slug": "designs--meetup-og-image",
+  "url": "https://kage.design/designs/meetup-og-image",
+  "name": "Meetup OG social card — 'The people platform' by meetup.com",
+  "description": "A 1200×630 social card built almost entirely from typography and negative space: a small black wordmark sits top-left, then a three-line stacked headline ('The / people / platform.') set in an ultra-heavy grotesque with tight leading, left-aligned and pushed to the lower two-thirds of the canvas. The type is punctuated by three hand-drawn watercolor icons inline with the words — an orange compass disc, a purple pair-of-people glyph and a pink heart — which supply the only colour and make the sentence feel spoken rather than stated. The entire right third stays empty, so the composition reads instantly at thumbnail size while still feeling handcrafted.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/meetup-com/dc3478b2-85ef-4f49-990d-d3eb92797114-1789146409089.webp",
+  "prompts": [
+    "kage/designs--meetup-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/goodreads-og-image",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=wordmark",
+    "search?q=oversized-headline",
+    "search?q=inline-icons",
+    "search?q=watercolor-texture",
+    "search?q=negative-space",
+    "search?q=left-aligned-stack",
+    "search?q=social-card"
+  ],
+  "pageSha256": "49277a89546b84ce5fa901f120eb49d4370b744d51f75a99738f598ea6dd2e78"
+}

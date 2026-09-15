@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cal-feature-grid-3",
+  "source": "kage",
+  "slug": "component--cal-feature-grid-3",
+  "url": "https://kage.design/component/cal-feature-grid-3",
+  "name": "Feature capability grid by cal.com",
+  "description": "A restrained capability section that turns a long product promise into a compact, scannable grid. Repeated icon tiles, generous whitespace, soft borders, and a bold continuation heading create a polished SaaS rhythm without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cal-com/cdeba7c5-dd46-4ce9-ba9c-2d344d57a58b-1789060423-5.webp",
+  "prompts": [
+    "kage/component--cal-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cal-landing-page",
+  "product": "cal-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-cards",
+    "search?q=saas",
+    "search?q=capabilities"
+  ],
+  "pageSha256": "13d12c5d5104df515a098788a945062ea707ad935be8608645aca632bc40c3f9"
+}

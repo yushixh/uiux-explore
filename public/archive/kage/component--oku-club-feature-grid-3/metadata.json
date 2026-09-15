@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--oku-club-feature-grid-3",
+  "source": "kage",
+  "slug": "component--oku-club-feature-grid-3",
+  "url": "https://kage.design/component/oku-club-feature-grid-3",
+  "name": "Values and product principles by oku.club",
+  "description": "A restrained two-column principles section pairs short labels with explanatory text about switching, data ownership, and sustainable business choices.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/oku-club/e710a983-c1d6-4177-b014-2738acd07d09-1789146244-7.webp",
+  "prompts": [
+    "kage/component--oku-club-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/oku-club-landing-page",
+  "product": "oku-club",
+  "tags": [
+    "search?q=values",
+    "search?q=privacy",
+    "search?q=sustainability"
+  ],
+  "pageSha256": "30900ca3d34d1f24f3d70a8ff8a29203ab8ab90e382c84336c12b7fc0d1a4c56"
+}

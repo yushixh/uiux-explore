@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--inngest-tabs-2",
+  "source": "kage",
+  "slug": "component--inngest-tabs-2",
+  "url": "https://kage.design/component/inngest-tabs-2",
+  "name": "Dark sequential feature tabs by inngest.com",
+  "description": "A high-contrast, vertically staged feature section that pairs numbered tab content with abstract technical visuals. The oversized typography, generous negative space, and restrained electric-blue accent make each step feel like part of a guided product narrative rather than a conventional tab panel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/inngest-com/085d18d8-47d3-43b1-92ae-d8bd045a677d-1789074884-9.webp",
+  "prompts": [
+    "kage/component--inngest-tabs-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/inngest-landing-page",
+  "product": "inngest-com",
+  "tags": [
+    "search?q=tabs",
+    "search?q=dark-mode",
+    "search?q=editorial",
+    "search?q=interactive"
+  ],
+  "pageSha256": "0e0b0dc9b60aabe61edda2ed9b0b576c7d89e00fe8560f1520b3844e7f324a48"
+}

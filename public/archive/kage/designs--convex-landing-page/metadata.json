@@ -1,0 +1,28 @@
+{
+  "id": "kage--designs--convex-landing-page",
+  "source": "kage",
+  "slug": "designs--convex-landing-page",
+  "url": "https://kage.design/designs/convex-landing-page",
+  "name": "Convex developer platform landing page by convex.dev",
+  "description": "A full-width developer-platform landing page alternates a near-black hero and product sections with warm cream, olive, rust, and brown bands. The page starts with a compact split hero, oversized condensed headline, embedded command-style setup panel, and multicolour bent stripes; below it, proof becomes progressively denser through a trusted-by logo row, checklist and diagram, dark component cards, testimonials, founder credibility, enterprise strip, a grid-backed final CTA, and a multi-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789073643738.webp",
+  "prompts": [
+    "kage/designs--convex-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=agentic-workflows",
+    "search?q=split-hero",
+    "search?q=color-bands",
+    "search?q=logo-cloud",
+    "search?q=checklist",
+    "search?q=testimonial-cards",
+    "search?q=developer-cta",
+    "search?q=grid-background",
+    "search?q=dense-footer"
+  ],
+  "pageSha256": "4a4a4758fb58a65c5a727a3cdf047ccba90bdca8684c3f37278fa5364aa0ee38"
+}

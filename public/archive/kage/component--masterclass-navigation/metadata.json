@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--masterclass-navigation",
+  "source": "kage",
+  "slug": "component--masterclass-navigation",
+  "url": "https://kage.design/component/masterclass-navigation",
+  "name": "Global navigation by masterclass.com",
+  "description": "A two-tier dark navigation establishes the brand hierarchy: a slim utility bar above the primary browse, search, account, and membership actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146209-0.webp",
+  "prompts": [
+    "kage/component--masterclass-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/masterclass-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=header",
+    "search?q=dark",
+    "search?q=responsive"
+  ],
+  "pageSha256": "9e5caa996c0dbda5fd67ec98e080e03f7fb652abe477a653ca81d10b7e97fd8f"
+}

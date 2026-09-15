@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--desert-ant-labs-landing-page",
+  "source": "kage",
+  "slug": "designs--desert-ant-labs-landing-page",
+  "url": "https://kage.design/designs/desert-ant-labs-landing-page",
+  "name": "Desert Ant Labs — on-device AI model library landing page by Desert Ant Labs",
+  "description": "A warm cream editorial landing page where an enormous tight grotesque headline (first line distressed with a spray-paint texture) sits over tiny monospace body copy — the size contrast is the whole hierarchy. Colour is withheld until a full-bleed carousel of slightly rotated, duotone-pastel model cards, after which the page settles into a dense three-column grid of flat beige model cards with mono uppercase tag pills, a punchy free-tier CTA with pill buttons, and a six-column mono-labelled footer. Rhythm alternates airy statements with dense card clusters down the page, and beta models are signalled by greyed-out text plus small Beta badges in both grid and footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/desert-ant-labs/9afde706-8b4f-4c5f-a9d8-7a634f78e07d-1789106536160.webp",
+  "prompts": [
+    "kage/designs--desert-ant-labs-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "desert-ant-labs",
+  "tags": [
+    "search?q=oversized-display-type",
+    "search?q=monospace-body",
+    "search?q=rotated-cards",
+    "search?q=duotone-photography",
+    "search?q=model-grid",
+    "search?q=pill-tags",
+    "search?q=cream-background",
+    "search?q=beta-states"
+  ],
+  "pageSha256": "27921640d31e87c12c97c53caed305f48ae9c5a10cfe3876e900c32ac6a0adc2"
+}

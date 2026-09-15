@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mastra-factory-logo-cloud",
+  "source": "kage",
+  "slug": "component--mastra-factory-logo-cloud",
+  "url": "https://kage.design/component/mastra-factory-logo-cloud",
+  "name": "Case study logo cloud by Mastra Factory",
+  "description": "A dark, spacious proof section that pairs concise customer outcome statements with a grounded row of monochrome customer marks and lightweight case-study links. The oversized contained panel, generous vertical separation, and restrained contrast make the logos feel credible without competing with the surrounding page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mastra-factory/e98dc23c-cafd-4086-ae60-932f10b41f0f-1789106664-5.webp",
+  "prompts": [
+    "kage/component--mastra-factory-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mastra-factory-landing-page",
+  "product": "mastra-factory",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=case+studies",
+    "search?q=dark+ui"
+  ],
+  "pageSha256": "3b0d3ec7ccef0d6003ff82c01b534687ae57f2291a891969a4c08e52b5bd8655"
+}

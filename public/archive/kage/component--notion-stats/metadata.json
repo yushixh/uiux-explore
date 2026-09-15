@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--notion-stats",
+  "source": "kage",
+  "slug": "component--notion-stats",
+  "url": "https://kage.design/component/notion-stats",
+  "name": "Scrolling proof-point stats bar by notion.com",
+  "description": "A slim, horizontally flowing credibility strip that uses repeated metrics, small icons, and generous spacing to create ambient trust without interrupting the page. Muted contrast and a shallow height keep it supportive rather than attention-seeking.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/notion-com/9e072824-4b09-4216-9cff-06c643793f91-1789060360-4.webp",
+  "prompts": [
+    "kage/component--notion-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/notion-landing-page",
+  "product": "notion-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=social+proof",
+    "search?q=ticker",
+    "search?q=trust"
+  ],
+  "pageSha256": "dca98b013b0874d3b5419e50d5288a8792f8638f2d8b58e431075f2b9b56a810"
+}

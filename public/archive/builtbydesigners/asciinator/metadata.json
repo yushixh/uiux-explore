@@ -1,0 +1,22 @@
+{
+  "id": "asciinator",
+  "name": "ASCIInator",
+  "description": "A browser-based ASCII art generator that turns uploaded images into adjustable text compositions, with custom character ramps, sampling and tone controls, plus PNG, SVG and TXT export.",
+  "shortInfo": "Generate precisely tuned ASCII visuals",
+  "url": "https://asciinator.app/",
+  "handle": "shedsgns",
+  "creatorName": "Juliette",
+  "creatorUrl": "https://x.com/shedsgns",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-04-01",
+  "added": "2026-04-01",
+  "icon": "/icons/asciinator.svg",
+  "avatar": "/backend/avatars/curator-shedsgns.jpg",
+  "shot": "/screenshots/asciinator.png",
+  "imageBackground": "#090909"
+}

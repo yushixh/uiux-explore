@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--duolingo-landing-page",
+  "source": "kage",
+  "slug": "designs--duolingo-landing-page",
+  "url": "https://kage.design/designs/duolingo-landing-page",
+  "name": "Duolingo landing page by duolingo.com",
+  "description": "A playful, illustration-driven landing page built almost entirely on white space and a single saturated green accent. The hero pairs a floating character cluster with a short headline and two stacked pill buttons; a scrolling strip of language/course chips acts as a divider. Below, four feature sections alternate text and illustration left/right in a strict rhythm — each has a bold lowercase green heading, one short grey paragraph, and a colourful cartoon. Rhythm shifts mid-page: a centred, confetti-like \"learn anytime, anywhere\" app section breaks the alternating pattern, then a full-bleed navy band for the premium tier provides the page's single dark contrast moment. It closes with an English Test feature, a centred CTA, a wavy green footer transition into a dense multi-column link footer. Hierarchy comes from scale and colour contrast (green headings vs grey body) rather than borders or shadows.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/duolingo-com/3a8c78c9-bd82-49c8-8251-8e9f7b022530-1789146235228.webp",
+  "prompts": [
+    "kage/designs--duolingo-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/domestika-landing-page",
+  "product": "duolingo-com",
+  "tags": [
+    "search?q=mascot",
+    "search?q=illustrated",
+    "search?q=bright-cta",
+    "search?q=alternating-features",
+    "search?q=app-download",
+    "search?q=language-learning",
+    "search?q=rounded-buttons"
+  ],
+  "pageSha256": "01c47f30a5bc9890fa448643614391eaabfc10aa8e39cfef0b19786e2f4bcb15"
+}

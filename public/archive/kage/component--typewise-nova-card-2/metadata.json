@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--typewise-nova-card-2",
+  "source": "kage",
+  "slug": "component--typewise-nova-card-2",
+  "url": "https://kage.design/component/typewise-nova-card-2",
+  "name": "Two-column audience cards by Typewise Nova",
+  "description": "This section works by presenting two audience-specific offers with equal visual weight, concise benefit lists, and clear bottom-aligned next steps. A restrained dark palette, subtle borders, and colored checkmarks make the cards feel premium while keeping the comparison easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/typewise-nova/b4948f23-79f3-4392-9236-ca27a7b6b602-1789106478-8.webp",
+  "prompts": [
+    "kage/component--typewise-nova-card-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/typewise-nova-landing-page",
+  "product": "typewise-nova",
+  "tags": [
+    "search?q=cards",
+    "search?q=comparison",
+    "search?q=dark-ui",
+    "search?q=feature-list"
+  ],
+  "pageSha256": "73866dab76099418582e95d5ca0bdc3b708cb1213a0d5c56b2a7ce935ead966f"
+}

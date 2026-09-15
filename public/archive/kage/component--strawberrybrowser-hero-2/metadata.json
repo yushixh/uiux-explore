@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--strawberrybrowser-hero-2",
+  "source": "kage",
+  "slug": "component--strawberrybrowser-hero-2",
+  "url": "https://kage.design/component/strawberrybrowser-hero-2",
+  "name": "Three-card use-case hero by strawberrybrowser.com",
+  "description": "A spacious, editorial hero section that turns three practical use cases into an immediately scannable trio of visual cards. Soft browser-window mockups, compact descriptions, and source badges make the product feel useful and credible without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/strawberrybrowser-com/0a6dd4bb-409f-4c45-aa48-6abac7e2076e-1789060563-6.webp",
+  "prompts": [
+    "kage/component--strawberrybrowser-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/strawberrybrowser-landing-page",
+  "product": "strawberrybrowser-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=cards",
+    "search?q=use-cases",
+    "search?q=browser"
+  ],
+  "pageSha256": "763b93694dfd58551a966e67d1e364a381d11964b98f504099a0be3c9f20d332"
+}

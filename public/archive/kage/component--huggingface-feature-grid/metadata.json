@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--huggingface-feature-grid",
+  "source": "kage",
+  "slug": "component--huggingface-feature-grid",
+  "url": "https://kage.design/component/huggingface-feature-grid",
+  "name": "Trending resource feature grid by huggingface.co",
+  "description": "This section works by turning three distinct resource types into a scannable comparison: calm list cards for structured content on the sides and vivid, high-energy cards for featured experiences in the center. A centered divider heading, consistent row rhythm, lightweight metadata, and understated browse links create hierarchy without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/huggingface-co/7a35650e-acfa-4ee6-9c74-f477a83c58e6-1789073962-2.webp",
+  "prompts": [
+    "kage/component--huggingface-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/huggingface-landing-page",
+  "product": "huggingface-co",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=trending",
+    "search?q=resource-discovery",
+    "search?q=three-column"
+  ],
+  "pageSha256": "ee043c50badac338abf8fa88b51da3e41aa6b67964908c65f936591c333673b4"
+}

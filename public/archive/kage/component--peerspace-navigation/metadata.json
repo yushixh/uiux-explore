@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--peerspace-navigation",
+  "source": "kage",
+  "slug": "component--peerspace-navigation",
+  "url": "https://kage.design/component/peerspace-navigation",
+  "name": "Top navigation by peerspace.com",
+  "description": "A compact overlay navigation keeps the brand at the upper left while utility links and a contrasting sign-up button sit at the upper right over the hero image.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146239-0.webp",
+  "prompts": [
+    "kage/component--peerspace-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/peerspace-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=header",
+    "search?q=utility",
+    "search?q=search"
+  ],
+  "pageSha256": "c3f149329749f3a30c06b907c57daf51f4f87353d86a6e0e87f0b9d0d48f98ef"
+}

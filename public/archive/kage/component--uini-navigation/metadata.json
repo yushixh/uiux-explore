@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--uini-navigation",
+  "source": "kage",
+  "slug": "component--uini-navigation",
+  "url": "https://kage.design/component/uini-navigation",
+  "name": "Minimal SaaS navigation bar by uini.io",
+  "description": "A lightweight, spacious header pairs a compact brand lockup with a right-aligned set of text links and one warm, high-contrast primary CTA. Subtle decorative marks near the edges add personality without competing with the navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uini-io/ef5b466a-1fe9-4cb6-9300-79049ee31244-1789059860-0.webp",
+  "prompts": [
+    "kage/component--uini-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uini-landing-page",
+  "product": "uini-io",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=header",
+    "search?q=cta"
+  ],
+  "pageSha256": "a1a4ba2c2e7f13453e3b1feaf198daa18a757aab0d6a1e346000caa9df8ba9b8"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--blinkist-stats",
+  "source": "kage",
+  "slug": "component--blinkist-stats",
+  "url": "https://kage.design/component/blinkist-stats",
+  "name": "Social proof and performance stats by blinkist.com",
+  "description": "An italic customer quote transitions into three evenly spaced proof metrics, combining emotional validation with quantified trust.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/blinkist-com/923d3302-3f7c-4bf2-9567-691903266cb3-1789146452-3.webp",
+  "prompts": [
+    "kage/component--blinkist-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/blinkist-landing-page",
+  "product": "blinkist-com",
+  "tags": [
+    "search?q=proof",
+    "search?q=ratings",
+    "search?q=metrics"
+  ],
+  "pageSha256": "37f999981c419e56b8c407f46d7414072b381678481a765c8306f50b13dae78b"
+}

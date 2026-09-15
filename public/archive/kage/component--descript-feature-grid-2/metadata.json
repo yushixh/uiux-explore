@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--descript-feature-grid-2",
+  "source": "kage",
+  "slug": "component--descript-feature-grid-2",
+  "url": "https://kage.design/component/descript-feature-grid-2",
+  "name": "Enterprise security and outcomes by descript.com",
+  "description": "A light enterprise section leads with a security-focused heading and CTA, then uses a six-card grid to combine compliance badges with quantified customer outcomes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/descript-com/c210b18a-1678-4bef-91b5-c444a8589f04-1789146911-5.webp",
+  "prompts": [
+    "kage/component--descript-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/descript-landing-page",
+  "product": "descript-com",
+  "tags": [
+    "search?q=enterprise",
+    "search?q=security",
+    "search?q=stats"
+  ],
+  "pageSha256": "8ac1bb46cdc0c7d3964571a39126a717b42797f27cac058bec32a47ce8bf6388"
+}

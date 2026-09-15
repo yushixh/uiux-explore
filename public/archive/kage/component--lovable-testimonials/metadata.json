@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--lovable-testimonials",
+  "source": "kage",
+  "slug": "component--lovable-testimonials",
+  "url": "https://kage.design/component/lovable-testimonials",
+  "name": "Centered testimonial carousel by lovable.dev",
+  "description": "A calm, editorial customer-story carousel that puts one featured testimonial in focus while partially revealing adjacent stories to invite browsing. Strong quote typography, compact proof metrics, and a low-friction story CTA make the section feel credible without becoming a dense case-study grid.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lovable-dev/7426a651-2b1e-4dbe-b0d8-bb8a847d2e81-1789060910-5.webp",
+  "prompts": [
+    "kage/component--lovable-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lovable-landing-page",
+  "product": "lovable-dev",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=carousel",
+    "search?q=social+proof",
+    "search?q=metrics"
+  ],
+  "pageSha256": "05d1aba9def1d56721947e14dff567a66ed9eae9ddb3a8ee8f1735f8cc043277"
+}

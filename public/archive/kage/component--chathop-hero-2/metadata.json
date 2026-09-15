@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chathop-hero-2",
+  "source": "kage",
+  "slug": "component--chathop-hero-2",
+  "url": "https://kage.design/component/chathop-hero-2",
+  "name": "Problem statement with visual payoff by ChatHop",
+  "description": "A dark, high-contrast narrative band reframes a frustrating moment, supports it with concise explanation, and resolves it with a large centered visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chathop/788ba903-59f3-47ff-b1c8-618bf4f4ae3c-1789193009-2.webp",
+  "prompts": [
+    "kage/component--chathop-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chathop-landing-page",
+  "product": "chathop",
+  "tags": [
+    "search?q=problem",
+    "search?q=storytelling",
+    "search?q=visual"
+  ],
+  "pageSha256": "e2ec473e848c4cec5e6164fad5f0d3944808043a6d197e4b798ad21c9179461e"
+}

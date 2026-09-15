@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--render-cta",
+  "source": "kage",
+  "slug": "component--render-cta",
+  "url": "https://kage.design/component/render-cta",
+  "name": "Security assurance feature grid CTA by render.com",
+  "description": "A restrained enterprise-security section combines a six-item capability grid with compact pixel-art accents and a low-friction two-button CTA. The strong whitespace, monochrome typography, and high-contrast primary action make a dense trust message feel calm and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/render-com/a2f1bfec-cff8-46a3-938e-5c68bed6eccd-1789073951-9.webp",
+  "prompts": [
+    "kage/component--render-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/render-landing-page",
+  "product": "render-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=security",
+    "search?q=cta",
+    "search?q=compliance"
+  ],
+  "pageSha256": "64048ceb1075e27ad2f95abc5cdbb50e53567dd6c0743495202082bff3aa5c31"
+}

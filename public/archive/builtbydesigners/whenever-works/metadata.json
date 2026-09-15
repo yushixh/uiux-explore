@@ -1,0 +1,22 @@
+{
+  "id": "whenever-works",
+  "name": "Whenever Works",
+  "description": "A lightweight group-scheduling tool for creating date and time polls, sharing one link, collecting availability without accounts, and seeing which option works for the most people.",
+  "shortInfo": "Group scheduling without the back-and-forth",
+  "url": "https://www.wheneverworks.com/",
+  "handle": "dan_strogiy",
+  "creatorName": "Dan",
+  "creatorUrl": "https://x.com/dan_strogiy",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Productivity",
+  "categories": [
+    "Productivity"
+  ],
+  "launchDate": "2025-09-01",
+  "added": "2026-08-18",
+  "sortOrder": 2,
+  "icon": "/backend/icons/whenever-works.png",
+  "avatar": "/backend/avatars/whenever-works.jpg",
+  "shot": "/screenshots/whenever-works.jpg"
+}

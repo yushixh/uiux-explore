@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--sentry-footer",
+  "source": "kage",
+  "slug": "component--sentry-footer",
+  "url": "https://kage.design/component/sentry-footer",
+  "name": "Dark multi-part product footer by sentry.io",
+  "description": "A high-impact footer that combines trust and compliance messaging, a newsletter signup, a final conversion CTA, and dense navigational link columns. It works through strong vertical pacing, a consistent dark canvas, vivid accent typography, and clear separation between content groups without relying on heavy borders.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sentry-io/7f1d8e63-d1c6-4f27-8b0e-be764e2f10af-1789073906-10.webp",
+  "prompts": [
+    "kage/component--sentry-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sentry-landing-page",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=footer",
+    "search?q=newsletter",
+    "search?q=navigation",
+    "search?q=cta"
+  ],
+  "pageSha256": "64a5e5fc740b63cf5abfcdeb8a131533a4ea48263c59846f438a4504f0f82fa1"
+}

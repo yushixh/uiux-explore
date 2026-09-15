@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--dockfix-5-0-cta",
+  "source": "kage",
+  "slug": "component--dockfix-5-0-cta",
+  "url": "https://kage.design/component/dockfix-5-0-cta",
+  "name": "Dark conversion call to action by DockFix 5.0",
+  "description": "A dark closing CTA centers a strong product promise, short reassurance, two actions, and a tiny compatibility/payment note before the footer begins.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/dockfix-5-0/2c092be4-cae6-431a-8bc7-3fef5352fd95-1789279443-5.webp",
+  "prompts": [
+    "kage/component--dockfix-5-0-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "dockfix-5-0",
+  "tags": [
+    "search?q=cta",
+    "search?q=download",
+    "search?q=conversion"
+  ],
+  "pageSha256": "f5595bdb9bac885c78bf4ae19335c4edde8d9b498ba18cf2534aa1518024a9b7"
+}

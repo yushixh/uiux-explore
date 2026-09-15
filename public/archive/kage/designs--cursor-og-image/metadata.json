@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--cursor-og-image",
+  "source": "kage",
+  "slug": "designs--cursor-og-image",
+  "url": "https://kage.design/designs/cursor-og-image",
+  "name": "Cursor OG social card by cursor.com",
+  "description": "A link-preview card reduced to its absolute minimum: a near-black canvas (roughly 1200×630) with a single white lockup dead-center, both horizontally and at optical vertical center. The mark is a hexagonal cube whose interior is cut away so a cursor arrow appears in negative space; the wordmark CURSOR sits to its right in an extended, all-caps geometric sans with wide tracking, sized so the letter height matches the mark. Focal hierarchy comes purely from scale and contrast — no tagline, URL, gradient, or decoration anywhere, which keeps it legible even when the card renders at thumbnail size. The vast empty field is the actual design decision: it makes the small white lockup feel deliberate and confident rather than sparse.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cursor-com/1b926a64-dd36-492d-809b-5b7b714d24d7-1789072668322.webp",
+  "prompts": [
+    "kage/designs--cursor-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "cursor-com",
+  "tags": [
+    "search?q=og-card",
+    "search?q=wordmark-lockup",
+    "search?q=negative-space-logo",
+    "search?q=centered-composition",
+    "search?q=dark",
+    "search?q=monochrome",
+    "search?q=wide-tracking"
+  ],
+  "pageSha256": "af2b4e3310d94c4f3577e913ef81e383f1b8f05ac72462f77b89cfc972e56d00"
+}

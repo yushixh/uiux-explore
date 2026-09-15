@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--beehiiv-og-image",
+  "source": "kage",
+  "slug": "designs--beehiiv-og-image",
+  "url": "https://kage.design/designs/beehiiv-og-image",
+  "name": "Beehiiv social card by beehiiv.com",
+  "description": "A 1200×630 social card uses a near-black indigo canvas with faint oversized geometric forms behind the content. A small centered white wordmark anchors the top, while a two-line, extremely bold uppercase headline dominates the middle with a cool lavender-to-pink gradient; a thin divider and tightly spaced uppercase feature list create a footer band.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/beehiiv-com/4c9af101-e604-417c-ae57-bb8bb3d01d7e-1789067382587.webp",
+  "prompts": [
+    "kage/designs--beehiiv-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-og-image",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=oversized-type",
+    "search?q=gradient-text",
+    "search?q=dark-canvas",
+    "search?q=centered-composition",
+    "search?q=bottom-navigation"
+  ],
+  "pageSha256": "a2bc2a6fb1bb58a7a85a05697ace65f4bc97fd90fcb0df91c6fc7e63f208f72e"
+}

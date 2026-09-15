@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-navigation",
+  "source": "kage",
+  "slug": "component--opentable-navigation",
+  "url": "https://kage.design/component/opentable-navigation",
+  "name": "Global navigation and reservation search by opentable.com",
+  "description": "A compact utility bar and primary brand navigation lead into a prominent reservation search row. The date, time, party size, location field, and red action button make the booking task immediately actionable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146314-0.webp",
+  "prompts": [
+    "kage/component--opentable-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=header",
+    "search?q=search",
+    "search?q=booking"
+  ],
+  "pageSha256": "7aac658a578091513e4e0a01c7642a3a2e940f851fdb1a84d132d92bafc24580"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--moji-gallery",
+  "source": "kage",
+  "slug": "component--moji-gallery",
+  "url": "https://kage.design/component/moji-gallery",
+  "name": "Focused product showcase by Moji",
+  "description": "A dark showcase section frames a headline and then demonstrates the product through one large interface screenshot and two smaller supporting screenshots. Captions make each image functional rather than decorative.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/moji/682da163-2f11-4698-8415-78d5458fc05f-1789193060-4.webp",
+  "prompts": [
+    "kage/component--moji-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/moji-landing-page",
+  "product": "moji",
+  "tags": [
+    "search?q=gallery",
+    "search?q=screenshots",
+    "search?q=dark"
+  ],
+  "pageSha256": "b3a7bb416bca3e97b1594eab6c697187d3e6840119aa61b04042971e786a00be"
+}

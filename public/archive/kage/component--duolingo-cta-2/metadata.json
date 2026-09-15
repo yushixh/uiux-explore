@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--duolingo-cta-2",
+  "source": "kage",
+  "slug": "component--duolingo-cta-2",
+  "url": "https://kage.design/component/duolingo-cta-2",
+  "name": "Final sign-up call to action by duolingo.com",
+  "description": "A centered final invitation repeats the core action over a bright, celebratory visual field, creating a clear endpoint before the footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/duolingo-com/3a8c78c9-bd82-49c8-8251-8e9f7b022530-1789146269-7.webp",
+  "prompts": [
+    "kage/component--duolingo-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/duolingo-landing-page",
+  "product": "duolingo-com",
+  "tags": [
+    "search?q=signup",
+    "search?q=conversion",
+    "search?q=closing"
+  ],
+  "pageSha256": "9b405274be85e367de39a1a512e5b3509a04c39614e293f0e79b1f0caa0641f5"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--sentry-form",
+  "source": "kage",
+  "slug": "component--sentry-form",
+  "url": "https://kage.design/component/sentry-form",
+  "name": "Dark onboarding command form by sentry.io",
+  "description": "A focused developer onboarding form that pairs a strong, benefit-led heading with a single framework selector and an immediately visible command output. The dark canvas, high-contrast type, and vivid accent colour make the setup path feel fast, simple, and technically credible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sentry-io/7f1d8e63-d1c6-4f27-8b0e-be764e2f10af-1789073905-8.webp",
+  "prompts": [
+    "kage/component--sentry-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sentry-landing-page",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=onboarding",
+    "search?q=developer",
+    "search?q=form",
+    "search?q=dark-ui"
+  ],
+  "pageSha256": "a2ea9dd3dcdd538393c72ca926737f158224af0df8ba658635918b333ac17ca5"
+}

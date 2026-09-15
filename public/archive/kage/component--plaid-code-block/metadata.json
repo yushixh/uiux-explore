@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--plaid-code-block",
+  "source": "kage",
+  "slug": "component--plaid-code-block",
+  "url": "https://kage.design/component/plaid-code-block",
+  "name": "Code preview with editorial case-study carousel by plaid.com",
+  "description": "A dark, oversized code panel creates a technical focal point above a pale editorial carousel. The strong contrast, restrained syntax accents, clipped horizontal cards, and circular navigation controls make the section feel both developer-focused and polished.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/plaid-com/7f22fbce-e808-4b19-99a1-7dcb31fbfb56-1789060800-5.webp",
+  "prompts": [
+    "kage/component--plaid-code-block/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/plaid-landing-page",
+  "product": "plaid-com",
+  "tags": [
+    "search?q=code",
+    "search?q=carousel",
+    "search?q=case-studies",
+    "search?q=gradient",
+    "search?q=dark-ui"
+  ],
+  "pageSha256": "55bf7b2cfa82a4962bf08af20cd9a5a7f0885008369d44504a98d91f48d9cd4c"
+}

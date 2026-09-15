@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neopress-cta",
+  "source": "kage",
+  "slug": "component--neopress-cta",
+  "url": "https://kage.design/component/neopress-cta",
+  "name": "Build or migrate services CTA by Neopress",
+  "description": "A warm, centered conversion section introduces two clear routes—migration and design help—through parallel bordered cards with direct next steps.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neopress/126c1916-850c-4473-b9b4-49923d5d31e2-1789365754-5.webp",
+  "prompts": [
+    "kage/component--neopress-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neopress-landing-page",
+  "product": "neopress",
+  "tags": [
+    "search?q=cta",
+    "search?q=services",
+    "search?q=cards"
+  ],
+  "pageSha256": "26eae9c1ec878ad2f914d05dae9f2293f5e610cd0a8f8a397b4fc60b9ed2e264"
+}

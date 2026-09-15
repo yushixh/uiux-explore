@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--neopress-og-image",
+  "source": "kage",
+  "slug": "designs--neopress-og-image",
+  "url": "https://kage.design/designs/neopress-og-image",
+  "name": "Neopress Open Graph brand card by Neopress",
+  "description": "A maximum-restraint social card: a warm cream canvas (roughly #FAF7F0, deliberately not pure white) with a single black lockup dead-centre on both axes. The lockup pairs a thick geometric mark — a rounded-diamond outline whose stroke pinches at the four vertices around a white core — with 'Neopress' set in a bold, high-contrast editorial serif with tight tracking; the icon's height is matched to the cap height so the two read as one unit occupying about a third of the canvas width. There is no headline, URL or imagery: hierarchy, scale contrast (huge ink shapes vs ~25% margins of empty paper) and the serif-on-paper tone do all the work. A stray red pixel in the top-left corner reads as a capture artefact rather than part of the design.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/neopress/ba0ff32c-97b4-478a-8e5d-6b7a2c19c47e-1789365677063.webp",
+  "prompts": [
+    "kage/designs--neopress-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "neopress",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=wordmark",
+    "search?q=serif",
+    "search?q=brand-lockup",
+    "search?q=negative-space",
+    "search?q=centered-composition",
+    "search?q=minimal"
+  ],
+  "pageSha256": "5c5eb7978236e87e84aedea1c93b09ac91a48b9307ce1b3d89afd9a6eaf7c0b3"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fly-testimonials",
+  "source": "kage",
+  "slug": "component--fly-testimonials",
+  "url": "https://kage.design/component/fly-testimonials",
+  "name": "Pastel testimonial cards by fly.io",
+  "description": "A spacious testimonial grid uses tall, editorial cards and a soft pink-to-cyan atmospheric background to make customer quotes feel substantial and trustworthy. Strong typographic contrast, restrained metadata, and generous whitespace keep long-form praise readable without relying on avatars or logos.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fly-io/55088b40-21c4-4b5b-a67c-8a1494f33e2d-1789073899-9.webp",
+  "prompts": [
+    "kage/component--fly-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fly-landing-page",
+  "product": "fly-io",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=cards",
+    "search?q=pastel",
+    "search?q=social-proof"
+  ],
+  "pageSha256": "e871ec55cf78f05f3532358dce2cf6ce935a7036a615739fc976a57c6eff4899"
+}

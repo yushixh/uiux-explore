@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-testimonials",
+  "source": "kage",
+  "slug": "component--fresha-testimonials",
+  "url": "https://kage.design/component/fresha-testimonials",
+  "name": "Customer reviews by fresha.com",
+  "description": "Four tall testimonial cards use star ratings, bold review titles, short quotes, and reviewer identity blocks in a pale gray carousel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146193-6.webp",
+  "prompts": [
+    "kage/component--fresha-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=reviews",
+    "search?q=testimonials",
+    "search?q=carousel"
+  ],
+  "pageSha256": "0ef6741a57139354618ba1d7c5fb06980a78f0a4a008a36b570cc7714a140eb5"
+}

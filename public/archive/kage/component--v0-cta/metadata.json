@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--v0-cta",
+  "source": "kage",
+  "slug": "component--v0-cta",
+  "url": "https://kage.design/component/v0-cta",
+  "name": "Centered build invitation CTA by v0.dev",
+  "description": "A quiet, high-contrast closing CTA that creates a clear visual pause after dense product content. The strong headline, restrained supporting line, and single dark button form a simple conversion path with generous whitespace.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/v0-dev/99e42d3b-29f6-491c-8f06-cd6295e0d986-1789073272-6.webp",
+  "prompts": [
+    "kage/component--v0-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/v0-empty-state",
+  "product": "v0-dev",
+  "tags": [
+    "search?q=cta",
+    "search?q=centered",
+    "search?q=minimal",
+    "search?q=conversion"
+  ],
+  "pageSha256": "ccb268c5628cf75c5e33ba987a395a891574750979ab4a333134f6b0b9151c77"
+}

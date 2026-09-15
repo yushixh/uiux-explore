@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--encrypt-text",
+  "source": "vantaui",
+  "slug": "explore--components--encrypt-text",
+  "url": "https://www.vantaui.com/explore/components/encrypt-text",
+  "name": "Encrypt Text - VantaUI",
+  "description": "Text that triggers a scrambled encryption animation on hover",
+  "image": "https://vantaui-registry.vercel.app/components/encrypt-text",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "01b2b1b23627dd73fc605eb9c6da892515d48abf6c7c25f401fbb88dc294c053"
+}

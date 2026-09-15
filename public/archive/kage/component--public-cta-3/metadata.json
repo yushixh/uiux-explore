@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--public-cta-3",
+  "source": "kage",
+  "slug": "component--public-cta-3",
+  "url": "https://kage.design/component/public-cta-3",
+  "name": "Account funding CTA by public.com",
+  "description": "A final dark conversion block pairs a simple sign-up message with a product/device scene and a compact rating proof point before the footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/public-com/cb41c975-325f-4844-b439-84e9d28bd7b7-1789146538-9.webp",
+  "prompts": [
+    "kage/component--public-cta-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/public-landing-page",
+  "product": "public-com",
+  "tags": [
+    "search?q=signup",
+    "search?q=funding",
+    "search?q=social+proof"
+  ],
+  "pageSha256": "190b2594959535c1ce0ff4709a9bed5130b35bc34504adbdf95bf8afe88fea75"
+}

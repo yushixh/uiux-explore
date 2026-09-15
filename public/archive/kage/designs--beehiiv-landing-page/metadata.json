@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--beehiiv-landing-page",
+  "source": "kage",
+  "slug": "designs--beehiiv-landing-page",
+  "url": "https://kage.design/designs/beehiiv-landing-page",
+  "name": "beehiiv newsletter platform landing page by beehiiv.com",
+  "description": "A near-black canvas where hierarchy is carried entirely by type and colour: staccato all-caps grotesque headlines punctuated with periods, an electric-indigo highlight word in the hero, and hot-pink eyebrows and stat numerals. The middle of the page is a 2×3 bento grid of deep-indigo cards, each embedding a cropped, floating product-UI screenshot so features are shown rather than told. Below, rhythm alternates deliberately — dense creator/stat mosaic, structured four-column pricing with a subscriber slider, one airy quote panel, a punchy pink numbers band, an icon-tile integrations strip, a split FAQ — before a dense utility footer closes the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067369298.webp",
+  "prompts": [
+    "kage/designs--beehiiv-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=dark-theme",
+    "search?q=bento-grid",
+    "search?q=product-ui-mockups",
+    "search?q=big-caps-type",
+    "search?q=pricing-columns",
+    "search?q=social-proof-mosaic",
+    "search?q=stat-band",
+    "search?q=newsletter-platform"
+  ],
+  "pageSha256": "f7f8673ec6c7b1e9ee6ab36aeea03e76b95867a5ba4ba2cc60818738598ff645"
+}

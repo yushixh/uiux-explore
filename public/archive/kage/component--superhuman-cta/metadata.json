@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--superhuman-cta",
+  "source": "kage",
+  "slug": "component--superhuman-cta",
+  "url": "https://kage.design/component/superhuman-cta",
+  "name": "Multi-column editorial footer navigation by superhuman.com",
+  "description": "A quiet, editorial footer uses a deep monochrome background and generous horizontal spacing to organize several link groups without visual clutter. The sparse grid, restrained typography, and small social/privacy utilities make the section feel polished and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060757-11.webp",
+  "prompts": [
+    "kage/component--superhuman-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=links",
+    "search?q=social"
+  ],
+  "pageSha256": "29deacf8b4df6e82d12f4c8a2390707098ef647be62b3a58b9873952a5b2a8c2"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--uber-navigation",
+  "source": "kage",
+  "slug": "component--uber-navigation",
+  "url": "https://kage.design/component/uber-navigation",
+  "name": "Global navigation by uber.com",
+  "description": "A compact black navigation bar establishes the product brand and provides primary product links, language/help controls, and account actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uber-com/6fbdb16b-1d65-42c3-b533-0bc1468316af-1789146363-0.webp",
+  "prompts": [
+    "kage/component--uber-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uber-landing-page",
+  "product": "uber-com",
+  "tags": [
+    "search?q=header",
+    "search?q=utility",
+    "search?q=navigation"
+  ],
+  "pageSha256": "2fac431e7dd4c427fd016c571ae6bbb79702c32c69207861c4d6e9e8e9fcda25"
+}

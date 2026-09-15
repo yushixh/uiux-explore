@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--relic-faq",
+  "source": "kage",
+  "slug": "component--relic-faq",
+  "url": "https://kage.design/component/relic-faq",
+  "name": "Frequently asked questions by Relic",
+  "description": "A simple accordion answers practical objections with one expanded answer and a series of compact collapsed rows, preserving a low-friction reading flow.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/relic/11197dbe-e39c-44cc-b0a1-5cdca0c05213-1789279383-9.webp",
+  "prompts": [
+    "kage/component--relic-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/relic-landing-page",
+  "product": "relic",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=answers"
+  ],
+  "pageSha256": "f4021336519741b9ab79ca44f461cfd2fc42303c9f7cb1978bab655220193b1b"
+}

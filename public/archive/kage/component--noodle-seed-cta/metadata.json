@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--noodle-seed-cta",
+  "source": "kage",
+  "slug": "component--noodle-seed-cta",
+  "url": "https://kage.design/component/noodle-seed-cta",
+  "name": "Dark product-control CTA by Noodle Seed",
+  "description": "A restrained, high-contrast CTA section that pairs a clear product-control message with supporting proof and a quiet runtime-status panel. The generous spacing, muted text hierarchy, and thin dividers make the section feel technical, credible, and focused without relying on imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/noodle-seed/892ab390-1bf9-4a7d-a1b3-8cebe5820ba8-1789106718-8.webp",
+  "prompts": [
+    "kage/component--noodle-seed-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/noodle-seed-landing-page",
+  "product": "noodle-seed",
+  "tags": [
+    "search?q=dark+mode",
+    "search?q=product+cta",
+    "search?q=split+layout",
+    "search?q=trust"
+  ],
+  "pageSha256": "41f1ad6d7dc798c008b50530f1cdbd91b9da67dbc9548cd9179ef8b498363c0d"
+}

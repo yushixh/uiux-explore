@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--workos-testimonials",
+  "source": "kage",
+  "slug": "component--workos-testimonials",
+  "url": "https://kage.design/component/workos-testimonials",
+  "name": "Layered customer testimonial by workos.com",
+  "description": "This section pairs a persuasive product narrative with a prominent customer quote, using generous whitespace, a soft atmospheric background, and offset card layers to make the testimonial feel substantial without becoming visually heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workos-com/c1ef5d6b-8620-4482-aad7-47f439cf35f9-1789073892-8.webp",
+  "prompts": [
+    "kage/component--workos-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-landing-page",
+  "product": "workos-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=enterprise",
+    "search?q=editorial",
+    "search?q=card"
+  ],
+  "pageSha256": "6a25d269606e11b99274ed09756d66f3cef339e27c912687c8bc51d1f59f7693"
+}

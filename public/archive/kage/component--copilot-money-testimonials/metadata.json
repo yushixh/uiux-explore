@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--copilot-money-testimonials",
+  "source": "kage",
+  "slug": "component--copilot-money-testimonials",
+  "url": "https://kage.design/component/copilot-money-testimonials",
+  "name": "Customer review masonry by copilot.money",
+  "description": "A prominent social-proof heading leads into a three-column masonry wall of compact review cards. Varied card heights, avatars, ratings, and occasional media make the collection feel authentic while preserving a consistent dark visual system.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/copilot-money/645bb157-e222-4315-91ed-1b76fbb9bd6b-1789146603-7.webp",
+  "prompts": [
+    "kage/component--copilot-money-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/copilot-money-landing-page",
+  "product": "copilot-money",
+  "tags": [
+    "search?q=reviews",
+    "search?q=masonry",
+    "search?q=social-proof"
+  ],
+  "pageSha256": "c35b8f49d06b61d54d0179f8012da0d328ba18490e74316d4bd529871f683c18"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--basedash-in-espanol-francais-portugues-navigation",
+  "source": "kage",
+  "slug": "component--basedash-in-espanol-francais-portugues-navigation",
+  "url": "https://kage.design/component/basedash-in-espanol-francais-portugues-navigation",
+  "name": "Minimal SaaS top navigation by Basedash in Español Français & Português",
+  "description": "A calm, single-row SaaS header with strong horizontal balance: brand identity on the left, restrained primary navigation in the centre, and clear authentication and conversion actions on the right. The thin divider, generous whitespace, and high-contrast CTA make the section feel polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/basedash-in-espanol-francais-portugues/b3381e01-f9b6-42c9-8798-975c026618b1-1789106701-0.webp",
+  "prompts": [
+    "kage/component--basedash-in-espanol-francais-portugues-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=minimal",
+    "search?q=header"
+  ],
+  "pageSha256": "9795c2c178f0b9298b81693e074bdeb2451a1d444545731bd11631f48cdc601a"
+}

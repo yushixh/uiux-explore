@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mmbl-cta",
+  "source": "kage",
+  "slug": "component--mmbl-cta",
+  "url": "https://kage.design/component/mmbl-cta",
+  "name": "Centered App Download CTA by mmbl.io",
+  "description": "This CTA works through a tightly centered composition: a small colorful mark establishes focus, a large two-line headline creates an emotional hook, and a single high-contrast app-store button provides a clear next step. The restrained dark canvas, generous vertical spacing, and selective purple emphasis make the section feel confident without adding visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mmbl-io/849f4ec6-ce65-4185-a867-71fbc561b804-1789060567-5.webp",
+  "prompts": [
+    "kage/component--mmbl-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mmbl-landing-page",
+  "product": "mmbl-io",
+  "tags": [
+    "search?q=cta",
+    "search?q=app-download",
+    "search?q=dark-mode",
+    "search?q=hero"
+  ],
+  "pageSha256": "411e4d115f74e42b3544566b8f0b077451222399dd64408637ea91041ec424eb"
+}

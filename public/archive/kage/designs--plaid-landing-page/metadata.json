@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--plaid-landing-page",
+  "source": "kage",
+  "slug": "designs--plaid-landing-page",
+  "url": "https://kage.design/designs/plaid-landing-page",
+  "name": "Plaid fintech homepage by plaid.com",
+  "description": "The page opens and closes with the same cyan-to-blue gradient atmosphere, wrapping a rhythm of light product sections and deep-navy rounded banner blocks. An engraved banknote illustration with magenta halftone overlays gives the brand a tactile signature, while pastel bento product cards, a purple serif stat grid, floating notification cards, and a dark code-editor mockup shift the tone from marketing to technical proof. A dense multi-column navy footer with generous rounding closes the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/plaid-com/7f22fbce-e808-4b19-99a1-7dcb31fbfb56-1789060126350.webp",
+  "prompts": [
+    "kage/designs--plaid-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "plaid-com",
+  "tags": [
+    "search?q=gradient-hero",
+    "search?q=engraved-illustration",
+    "search?q=bento-grid",
+    "search?q=stat-block",
+    "search?q=code-editor",
+    "search?q=carousel",
+    "search?q=lead-form",
+    "search?q=dense-footer"
+  ],
+  "pageSha256": "0d13afce1e2114414b3ec7efa9d554b8f8ba26bd94dd43f804c2ccb1abab70dc"
+}

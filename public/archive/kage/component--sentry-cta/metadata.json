@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--sentry-cta",
+  "source": "kage",
+  "slug": "component--sentry-cta",
+  "url": "https://kage.design/component/sentry-cta",
+  "name": "Terminal-led hero CTA by sentry.io",
+  "description": "A high-contrast hero CTA that pairs a lightweight terminal command bar with oversized, vertically staged headline typography. The generous negative space and playful edge illustrations create an energetic developer-tool landing-page moment while keeping the action and message visually dominant.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sentry-io/7f1d8e63-d1c6-4f27-8b0e-be764e2f10af-1789073905-9.webp",
+  "prompts": [
+    "kage/component--sentry-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sentry-landing-page",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=hero",
+    "search?q=terminal",
+    "search?q=cta",
+    "search?q=dark-mode"
+  ],
+  "pageSha256": "8549ea521984c219f9794722c13758354a425510865c7942a6a44a442b4a11c0"
+}

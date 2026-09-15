@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--elevenlabs-gallery",
+  "source": "kage",
+  "slug": "component--elevenlabs-gallery",
+  "url": "https://kage.design/component/elevenlabs-gallery",
+  "name": "Research impact gallery and timeline by elevenlabs.io",
+  "description": "This section combines an editorial media gallery with a restrained research timeline, creating a strong visual pause before deeper product or mission content. The asymmetric cards, muted canvas, and compact navigation make a dense set of stories feel curated rather than catalogue-like.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060953-7.webp",
+  "prompts": [
+    "kage/component--elevenlabs-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=gallery",
+    "search?q=research",
+    "search?q=timeline",
+    "search?q=editorial"
+  ],
+  "pageSha256": "5fe9e2f2e4d7e7b0c5defc68d5ab749918c0f5047513657e1253dfd149146be3"
+}

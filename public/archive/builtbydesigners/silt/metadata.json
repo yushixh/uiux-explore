@@ -1,0 +1,22 @@
+{
+  "id": "silt",
+  "name": "Silt",
+  "description": "silt is the blackboard for designers who design in code: the real component, running and clickable, with every version and the session that made it kept together. a place, not a link.",
+  "shortInfo": "The blackboard for designers who design in code",
+  "url": "https://silt.app/",
+  "handle": "aaapinen",
+  "creatorName": "Artemi",
+  "creatorUrl": "https://x.com/aaapinen",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Productivity",
+  "categories": [
+    "Productivity"
+  ],
+  "launchDate": "2026-04-22",
+  "added": "2026-08-18",
+  "sortOrder": 8,
+  "icon": "/backend/icons/silt.png",
+  "avatar": "/backend/avatars/silt.jpg",
+  "shot": "/screenshots/silt.jpg"
+}

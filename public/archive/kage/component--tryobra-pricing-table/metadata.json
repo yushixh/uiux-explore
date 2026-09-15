@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--tryobra-pricing-table",
+  "source": "kage",
+  "slug": "component--tryobra-pricing-table",
+  "url": "https://kage.design/component/tryobra-pricing-table",
+  "name": "Two-tier pricing table by tryobra.com",
+  "description": "A simple two-column comparison makes the free and paid choices immediately legible, with the paid plan using a full orange panel to attract attention.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tryobra-com/5ed8a808-d125-4341-bc8a-0a69442cb995-1789152087-10.webp",
+  "prompts": [
+    "kage/component--tryobra-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "tryobra-com",
+  "tags": [
+    "search?q=pricing",
+    "search?q=plans",
+    "search?q=conversion"
+  ],
+  "pageSha256": "6fd4f5f078ece6a2ee4f81e8246537d9a48fbfefc76cedc348906fbcfeaea3fb"
+}

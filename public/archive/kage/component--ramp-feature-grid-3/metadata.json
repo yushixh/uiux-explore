@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ramp-feature-grid-3",
+  "source": "kage",
+  "slug": "component--ramp-feature-grid-3",
+  "url": "https://kage.design/component/ramp-feature-grid-3",
+  "name": "Bento feature grid by ramp.com",
+  "description": "A spacious bento grid pairs a strong two-line section heading and calls to action with varied feature cards. Large cards establish the primary stories, while smaller cards use restrained UI previews and abstract textures to create hierarchy without overwhelming the content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060914-3.webp",
+  "prompts": [
+    "kage/component--ramp-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=bento",
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=responsive"
+  ],
+  "pageSha256": "acdbc39216e62c4dcd9fcedaa88b5d6e047fce396a587388c7f8fb02985accdf"
+}

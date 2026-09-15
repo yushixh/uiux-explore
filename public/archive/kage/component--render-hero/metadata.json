@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--render-hero",
+  "source": "kage",
+  "slug": "component--render-hero",
+  "url": "https://kage.design/component/render-hero",
+  "name": "Technical SaaS hero with infrastructure grid by render.com",
+  "description": "A spacious split hero pairs an oversized, high-contrast product promise with concise supporting copy and dual CTAs. A restrained technical dashboard vignette, geometric construction lines, and a slim promotional/navigation shell add credibility without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/render-com/a2f1bfec-cff8-46a3-938e-5c68bed6eccd-1789073948-1.webp",
+  "prompts": [
+    "kage/component--render-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/render-landing-page",
+  "product": "render-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=infrastructure",
+    "search?q=grid"
+  ],
+  "pageSha256": "1ea214683127b38fee5cad9a39162704af9ecc3e7fa2166c08b4a6305da35603"
+}

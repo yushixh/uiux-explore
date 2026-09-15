@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--speechmark-feature-grid-2",
+  "source": "kage",
+  "slug": "component--speechmark-feature-grid-2",
+  "url": "https://kage.design/component/speechmark-feature-grid-2",
+  "name": "Editorial split feature showcase by Speechmark",
+  "description": "A calm, editorial feature section pairs a persuasive text column with a lightweight product UI preview. Numbered benefit points create a clear reading rhythm while the generous spacing, muted palette, and restrained interface card make the product feel thoughtful and trustworthy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/speechmark/77b904ee-7a59-4d24-b7d4-3e274188b21e-1789106592-3.webp",
+  "prompts": [
+    "kage/component--speechmark-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/speechmark-landing-page",
+  "product": "speechmark",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=split-layout",
+    "search?q=product-benefits"
+  ],
+  "pageSha256": "7f1ca7a773cc358d257d60fe0157dce74f42d4a957f75c2dfe4f55f8753d7322"
+}

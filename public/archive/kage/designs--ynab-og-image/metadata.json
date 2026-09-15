@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--ynab-og-image",
+  "source": "kage",
+  "slug": "designs--ynab-og-image",
+  "url": "https://kage.design/designs/ynab-og-image",
+  "name": "YNAB open graph social card by ynab.com",
+  "description": "A 1200×630 share card on a flat periwinkle-indigo field, split roughly 55/45 between a product visual and a headline column. The left cluster layers a simplified iPhone mockup — showing a believable app home screen with white rounded cards and lime amount pills — over an organic green blob, ringed with thin white and teal doodles (plus signs, sparkles, circles) that keep the flat background from feeling empty. The right column stacks a three-line rounded-bold headline in cream with a hand-drawn lime squiggle under the first word, a plain CTA line, and a cream wordmark with a green period pinned to the bottom-right corner. Hierarchy is carried almost entirely by scale and colour: cream-on-indigo for text, lime and teal reserved for accents and in-app money amounts.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/ynab-com/be23c356-740f-4db8-bf5d-603404fcab26-1789146549001.webp",
+  "prompts": [
+    "kage/designs--ynab-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "ynab-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=phone-mockup",
+    "search?q=doodle-accents",
+    "search?q=rounded-type",
+    "search?q=squiggle-underline",
+    "search?q=organic-blob",
+    "search?q=cta",
+    "search?q=wordmark"
+  ],
+  "pageSha256": "37527af2a5e7df42a7b7bc2eeb9cb31ac7eb0b98501accbb77576445caa04e7f"
+}

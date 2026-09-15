@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--raycast-2-0-cta",
+  "source": "kage",
+  "slug": "component--raycast-2-0-cta",
+  "url": "https://kage.design/component/raycast-2-0-cta",
+  "name": "Final download call to action by Raycast 2.0",
+  "description": "A spacious closing CTA repeats the product promise in a centered headline, offers the same light download action, shows a small compatibility note, and uses a low-contrast decorative product visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-2-0/585c4674-841f-40bf-a211-e6fd2d8f71e9-1789192911-7.webp",
+  "prompts": [
+    "kage/component--raycast-2-0-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-2-0-landing-page",
+  "product": "raycast-2-0",
+  "tags": [
+    "search?q=cta",
+    "search?q=download",
+    "search?q=conversion"
+  ],
+  "pageSha256": "e88f6469e75306eddac84e60ac1904d8dff7ef67a0bd36cbf41d8e1051551546"
+}

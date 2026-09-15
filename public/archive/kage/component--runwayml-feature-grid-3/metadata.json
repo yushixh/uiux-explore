@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--runwayml-feature-grid-3",
+  "source": "kage",
+  "slug": "component--runwayml-feature-grid-3",
+  "url": "https://kage.design/component/runwayml-feature-grid-3",
+  "name": "Editorial feature grid by runwayml.com",
+  "description": "A restrained editorial grid pairs soft, image-led story tiles with concise headlines, summaries, and understated links. Generous whitespace, consistent two-column rhythm, and strong typographic hierarchy make a varied set of updates feel calm and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/runwayml-com/e724fd81-b6a6-43a2-b9ac-10cfe806f6fa-1789074882-6.webp",
+  "prompts": [
+    "kage/component--runwayml-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/runwayml-landing-page",
+  "product": "runwayml-com",
+  "tags": [
+    "search?q=editorial",
+    "search?q=feature-grid",
+    "search?q=news",
+    "search?q=responsive",
+    "search?q=minimal"
+  ],
+  "pageSha256": "56e86d0b2b18fdc28e76e626521dc3d1748e7956d234d188d876a0ff17aaef54"
+}

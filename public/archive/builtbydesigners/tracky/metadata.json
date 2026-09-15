@@ -1,0 +1,22 @@
+{
+  "id": "tracky",
+  "name": "Tracky",
+  "description": "A playful project-management workspace for freelancers, combining project tracking with a notebook-style interface and a roadmap for tasks, to-dos, custom tables, reports and invoicing.",
+  "shortInfo": "Project management that feels hand-drawn",
+  "url": "https://www.tracky.so/",
+  "handle": "aydaoz",
+  "creatorName": "Ayda",
+  "creatorUrl": "https://x.com/aydaoz",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Productivity",
+  "categories": [
+    "Productivity"
+  ],
+  "launchDate": "2023-08-15",
+  "added": "2026-08-18",
+  "sortOrder": 29,
+  "icon": "/backend/icons/tracky.png",
+  "avatar": "/backend/avatars/tracky.jpg",
+  "shot": "/screenshots/tracky.jpg"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--cash-og-image",
+  "source": "kage",
+  "slug": "designs--cash-og-image",
+  "url": "https://kage.design/designs/cash-og-image",
+  "name": "Cash App OG social card by cash.app",
+  "description": "A 1200×630 share card on a pure black field, deliberately left-weighted: the only element in the left half is a rounded-square app icon with a bold dollar glyph anchored bottom-left. The right two-thirds stacks two overlapping phone mockups — a white balance-list screen behind and a solid neon-green payment screen in front whose giant white '$20' numeral is the focal point — while a gold-flecked debit card bleeds off the bottom-right corner for texture. Hierarchy comes almost entirely from extreme scale contrast (the hero numeral is roughly eight times the UI label size), a single saturated accent carrying all brand colour, and edge-cropped props that imply a larger product beyond the frame.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cash-app/8a23447e-fbda-4721-92a9-f26e6b924e63-1789146440688.webp",
+  "prompts": [
+    "kage/designs--cash-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "cash-app",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=phone-mockup",
+    "search?q=brand-icon",
+    "search?q=hero-numeral",
+    "search?q=negative-space",
+    "search?q=cropped-props",
+    "search?q=neon-green"
+  ],
+  "pageSha256": "494a13852b96b331bdee0fbd59a7999b4a4b6bb8329bbd26fc91b1fc0a1b6aee"
+}

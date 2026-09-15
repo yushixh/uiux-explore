@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--eventbrite-feature-grid-2",
+  "source": "kage",
+  "slug": "component--eventbrite-feature-grid-2",
+  "url": "https://kage.design/component/eventbrite-feature-grid-2",
+  "name": "Local event results grid by eventbrite.com",
+  "description": "Four columns of event cards combine image-led scanning with urgency badges, save/share controls, title, schedule, venue, and price metadata.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/eventbrite-com/7528d4f6-3311-4de9-a3b5-4d616b4b671a-1789146266-4.webp",
+  "prompts": [
+    "kage/component--eventbrite-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-landing-page",
+  "product": "eventbrite-com",
+  "tags": [
+    "search?q=events",
+    "search?q=cards",
+    "search?q=grid"
+  ],
+  "pageSha256": "9a8f7f1c66d11c45c2e5981b515969121d335103752047b743f279a24374a650"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chime-card",
+  "source": "kage",
+  "slug": "component--chime-card",
+  "url": "https://kage.design/component/chime-card",
+  "name": "Investing promotional card by chime.com",
+  "description": "A pale rounded promotional panel uses a left text column and right financial-dashboard visual to explain an adjacent product capability, ending with a bright CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146542-4.webp",
+  "prompts": [
+    "kage/component--chime-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chime-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=investing",
+    "search?q=promotion",
+    "search?q=card"
+  ],
+  "pageSha256": "a562990da0a980574ace0e1c57f40de617fd42ca3a0d423c492dc05d10b11dea"
+}

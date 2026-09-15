@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--framer-testimonials",
+  "source": "kage",
+  "slug": "component--framer-testimonials",
+  "url": "https://kage.design/component/framer-testimonials",
+  "name": "Dark testimonial story grid by framer.com",
+  "description": "A high-contrast customer proof section that pairs a bold editorial headline with a restrained action and a row of large, image-led testimonial cards. The generous black space, thin outlines, and partially visible horizontal overflow make the section feel premium, curated, and inviting to explore.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/framer-com/fbc97830-061d-4fdf-8e20-ea2d86299263-1789060391-6.webp",
+  "prompts": [
+    "kage/component--framer-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/framer-landing-page",
+  "product": "framer-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=dark-mode",
+    "search?q=editorial",
+    "search?q=card-grid"
+  ],
+  "pageSha256": "8fa9d2a94fc1b7bd3c18e1ff0b267fcbd7918a33eaf68b415e980baca73e7c84"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--anthropic-landing-page",
+  "source": "kage",
+  "slug": "designs--anthropic-landing-page",
+  "url": "https://kage.design/designs/anthropic-landing-page",
+  "name": "Anthropic landing page by anthropic.com",
+  "description": "An editorial, typographically driven landing page built on a warm parchment background with stark black full-bleed sections as rhythm breaks. The hero pairs a bold underlined grotesk headline with a right-aligned serif paragraph, an asymmetric two-column split. Down the page, density increases: a sparse dark product announcement, three beige release cards with tabular date/category metadata, a two-column statement-plus-index list with hairline dividers, and a massive multi-column dark footer. Serif display type against sans body text, generous whitespace, and minimal ornamentation carry the identity.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/anthropic-com/9400eeef-f6ac-4bf6-a324-e094b3c8d068-1789060045183.webp",
+  "prompts": [
+    "kage/designs--anthropic-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "anthropic-com",
+  "tags": [
+    "search?q=serif-and-grotesk-pairing",
+    "search?q=split-hero",
+    "search?q=announcement-cards",
+    "search?q=index-list",
+    "search?q=full-bleed-dark-section",
+    "search?q=oversized-footer"
+  ],
+  "pageSha256": "abe1d55b91be61780005a6f9e3735713cf7575d755bcacc40ce72fdf98b87b25"
+}

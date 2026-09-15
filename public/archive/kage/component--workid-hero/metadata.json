@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workid-hero",
+  "source": "kage",
+  "slug": "component--workid-hero",
+  "url": "https://kage.design/component/workid-hero",
+  "name": "Trust-first recruitment hero by WorkID.ai",
+  "description": "A centered, high-conviction hero pairs a bold two-line value proposition with a compact CTA and a partially cropped proof artifact. Handwritten annotations and curved arrows turn the profile card into the visual focal point, explaining trust benefits without adding another dense content block.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workid-ai/2843b616-ed30-482d-adaf-40c736e4842a-1789106673-1.webp",
+  "prompts": [
+    "kage/component--workid-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workid-landing-page",
+  "product": "workid-ai",
+  "tags": [
+    "search?q=hero",
+    "search?q=trust",
+    "search?q=recruitment",
+    "search?q=saas"
+  ],
+  "pageSha256": "cb40a40dface103d993a63c4e49a11ca1e807c9de70e8961a24322d8579bd8f8"
+}

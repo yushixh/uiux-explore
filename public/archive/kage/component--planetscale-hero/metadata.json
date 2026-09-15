@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--planetscale-hero",
+  "source": "kage",
+  "slug": "component--planetscale-hero",
+  "url": "https://kage.design/component/planetscale-hero",
+  "name": "Monospace database platform hero by planetscale.com",
+  "description": "A restrained, text-led SaaS hero that combines a promotional announcement bar, utility navigation, a compact value proposition, and a bordered customer proof grid. The monochrome interface, orange accent, and visible grid structure make the section feel technical, credible, and enterprise-ready.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/planetscale-com/b4abfdd8-cd39-4289-8914-c1bd40d118b4-1789060672-2.webp",
+  "prompts": [
+    "kage/component--planetscale-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/planetscale-landing-page",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=b2b"
+  ],
+  "pageSha256": "d1d8f76addb9bb459b95ed670cfd72c38240f99286bbc1be5d96e2f0e80e94b2"
+}

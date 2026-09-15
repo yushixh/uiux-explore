@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--venmo-footer",
+  "source": "kage",
+  "slug": "component--venmo-footer",
+  "url": "https://kage.design/component/venmo-footer",
+  "name": "Legal and utility footer by venmo.com",
+  "description": "The footer switches to a restrained white layout with a blue brand treatment, grouped utility links, a divider, licensing copy, and dense legal disclosures.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/venmo-com/e421e2ca-b11c-49c9-b106-d3994196da77-1789146509-6.webp",
+  "prompts": [
+    "kage/component--venmo-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/venmo-landing-page",
+  "product": "venmo-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=legal",
+    "search?q=links"
+  ],
+  "pageSha256": "f005db6da9b5b03fb60df4b6936b327d58a178e01075f9f33382e3380366da0d"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--clerk-feature-grid-2",
+  "source": "kage",
+  "slug": "component--clerk-feature-grid-2",
+  "url": "https://kage.design/component/clerk-feature-grid-2",
+  "name": "Expandable feature showcase by clerk.com",
+  "description": "A split feature section pairs an expandable capability list with a large, softly faded product preview. The focused item carries the explanatory copy while the surrounding interface stays quiet, creating a clear narrative path without losing the sense of a broader product system.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/clerk-com/b0a171ff-4b4c-415f-ac9b-4885f02b49d0-1789060782-3.webp",
+  "prompts": [
+    "kage/component--clerk-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/clerk-landing-page",
+  "product": "clerk-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=accordion",
+    "search?q=saas"
+  ],
+  "pageSha256": "1c91b9385fb291b8b85df69f1abf9bb2c98a3ca5bdc30538aa0a08d248a4bad6"
+}

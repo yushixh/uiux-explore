@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--planetscale-landing-page",
+  "source": "kage",
+  "slug": "designs--planetscale-landing-page",
+  "url": "https://kage.design/designs/planetscale-landing-page",
+  "name": "PlanetScale cloud database platform homepage by planetscale.com",
+  "description": "The page reads like a printed technical spec: one monospace family carries everything from the yellow announcement bar to the footer, and hierarchy comes from bold, underlines and 1px table borders rather than size jumps or decoration. The hero is a short statement with a red accent bar, then the page spends its length on a huge bordered logo wall, a tabbed product section illustrated with an ASCII architecture diagram, and man-page-style sections (Performance, Uptime, Cost, Security, Features) separated by dotted rules and punctuated with attributed quotes. Colour is rationed — yellow promo bar, orange-red CTA and accent bar, blue/green inline links on an otherwise black-and-white page — which makes the sparse accents and the ASCII diagram feel intentional rather than plain.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/planetscale-com/b4abfdd8-cd39-4289-8914-c1bd40d118b4-1789060077493.webp",
+  "prompts": [
+    "kage/designs--planetscale-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=monospace",
+    "search?q=terminal",
+    "search?q=ascii-diagram",
+    "search?q=logo-wall",
+    "search?q=table-borders",
+    "search?q=dotted-dividers",
+    "search?q=spec-sheet",
+    "search?q=technical"
+  ],
+  "pageSha256": "eae9d22b5bb12830a1f22274055c3a91e7d1cfbecf9436d83f1c02d42bf1617a"
+}

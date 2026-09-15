@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mastra-factory-navigation",
+  "source": "kage",
+  "slug": "component--mastra-factory-navigation",
+  "url": "https://kage.design/component/mastra-factory-navigation",
+  "name": "Dark utility navbar with split primary navigation by Mastra Factory",
+  "description": "A compact, high-contrast header balances brand identity, evenly spaced navigation links, and utility actions in a single horizontal row. Subtle muted text, restrained dividers, and pill-shaped account controls keep the dense navigation calm and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mastra-factory/e98dc23c-cafd-4086-ae60-932f10b41f0f-1789106663-0.webp",
+  "prompts": [
+    "kage/component--mastra-factory-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mastra-factory-landing-page",
+  "product": "mastra-factory",
+  "tags": [
+    "search?q=navbar",
+    "search?q=dark-mode",
+    "search?q=navigation",
+    "search?q=header"
+  ],
+  "pageSha256": "2655c1dee418f55d935a872d1fc81d8f19cd78b9288b1728f80a79f2bfd6323c"
+}

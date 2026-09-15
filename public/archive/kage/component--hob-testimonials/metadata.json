@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-testimonials",
+  "source": "kage",
+  "slug": "component--hob-testimonials",
+  "url": "https://kage.design/component/hob-testimonials",
+  "name": "Editorial testimonial cards by hob",
+  "description": "A restrained two-column testimonial section that gives long-form quotes room to breathe while anchoring each card with a compact author identity row. The generous vertical structure and near-neutral palette make the social proof feel credible, calm, and integrated with a documentation or product-marketing page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106504-8.webp",
+  "prompts": [
+    "kage/component--hob-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=editorial",
+    "search?q=cards",
+    "search?q=social+proof"
+  ],
+  "pageSha256": "9148658ad9f85f16cc702206ac0e60a06d7f667a9d9bde43f9188987e3778a2b"
+}

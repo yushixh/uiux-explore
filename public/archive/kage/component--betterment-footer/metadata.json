@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--betterment-footer",
+  "source": "kage",
+  "slug": "component--betterment-footer",
+  "url": "https://kage.design/component/betterment-footer",
+  "name": "Illustrated footer and disclosures by betterment.com",
+  "description": "The footer begins with a wide decorative destination illustration, then provides multi-column navigation, app/social links, and extensive legal disclosures on a deep navy background.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/betterment-com/48b23e19-a777-4bc7-89e7-1aceabf18629-1789146559-10.webp",
+  "prompts": [
+    "kage/component--betterment-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/betterment-landing-page",
+  "product": "betterment-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=disclosures",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "bb71f226ed9bd951d71519111cc24f35b54948220b347017402c9f3c4478cdac"
+}

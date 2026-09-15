@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--cloudflare-landing-page",
+  "source": "kage",
+  "slug": "designs--cloudflare-landing-page",
+  "url": "https://kage.design/designs/cloudflare-landing-page",
+  "name": "Cloudflare homepage — orange brand-block landing page by cloudflare.com",
+  "description": "The page opens with a full-bleed, heavily rounded brand-orange hero panel — event pill, oversized two-line headline, one white pill CTA and a glowing horizon — then settles onto a white canvas where airy centred display statements alternate with dense proof modules: a halftone-dot globe card, a tabbed logo wall with testimonial, a bordered four-column pricing grid, and fake product-UI mockups (a deployment version table, an agent terminal). After the hero, orange is rationed to micro-accents — active tabs, \"Deployed\" badges, line icons — so the closing orange CTA band lands with the same visual weight as the opening. Thin 1px borders, flat shadows, a single geometric sans and a dense multi-column footer keep the enterprise scale readable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cloudflare-com/1ca6ff30-a094-43e2-8124-fd26c9356e55-1789213756578.webp",
+  "prompts": [
+    "kage/designs--cloudflare-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "cloudflare-com",
+  "tags": [
+    "search?q=brand-block-hero",
+    "search?q=halftone-globe",
+    "search?q=logo-wall",
+    "search?q=pricing-table",
+    "search?q=terminal-mockup",
+    "search?q=pill-tabs",
+    "search?q=marquee-strip",
+    "search?q=footer-columns"
+  ],
+  "pageSha256": "a55183f9babae8e8a1c3a353b59d29e8d900f2c12c3d9adc15f6bcb8195fa36c"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chathop-navigation",
+  "source": "kage",
+  "slug": "component--chathop-navigation",
+  "url": "https://kage.design/component/chathop-navigation",
+  "name": "Floating product navigation by ChatHop",
+  "description": "A compact centered pill navigation stays visually light against the pale hero, with the primary install action isolated in a black capsule.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chathop/788ba903-59f3-47ff-b1c8-618bf4f4ae3c-1789193009-0.webp",
+  "prompts": [
+    "kage/component--chathop-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chathop-landing-page",
+  "product": "chathop",
+  "tags": [
+    "search?q=floating",
+    "search?q=pill",
+    "search?q=dark"
+  ],
+  "pageSha256": "ebbaa9dec9719fd9029f53269120b5721e692f90b7abe95825d7616d08cd41bc"
+}

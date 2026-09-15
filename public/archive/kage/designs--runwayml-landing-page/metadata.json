@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--runwayml-landing-page",
+  "source": "kage",
+  "slug": "designs--runwayml-landing-page",
+  "url": "https://kage.design/designs/runwayml-landing-page",
+  "name": "Runway landing page by runwayml.com",
+  "description": "A cinematic, monochrome landing page where full-bleed imagery does the persuading and a neutral grotesque with tight tracking carries the copy. The page alternates between airy white sections (partner strip, three-column platform grid, tabbed showcase, 2×2 news grid) and two immersive bands — a misty forest hero with left-aligned white type and a blurred olive-green research band with hairline-divided link lists. Everything is flat and shadow-free: hierarchy comes from a strong scale jump (56px display → 14px body), bold-vs-regular weight, and gray secondary text, while buttons stay in three quiet tiers (black filled, light-gray filled, white/outline on imagery) and a dense black link-column footer closes the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/runwayml-com/e724fd81-b6a6-43a2-b9ac-10cfe806f6fa-1789073694936.webp",
+  "prompts": [
+    "kage/designs--runwayml-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "runwayml-com",
+  "tags": [
+    "search?q=cinematic-hero",
+    "search?q=three-column-grid",
+    "search?q=tabbed-showcase",
+    "search?q=full-bleed-band",
+    "search?q=news-grid",
+    "search?q=editorial-type",
+    "search?q=black-footer"
+  ],
+  "pageSha256": "6afcb557e285dba6292bd84d7b086d30e390eb36fffc04b9856cb5eaa5234820"
+}

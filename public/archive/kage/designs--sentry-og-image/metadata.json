@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--sentry-og-image",
+  "source": "kage",
+  "slug": "designs--sentry-og-image",
+  "url": "https://kage.design/designs/sentry-og-image",
+  "name": "Sentry OG social card — mascot debugging vignette by sentry.io",
+  "description": "A 1200×630 social card built as a triptych: skeleton product vignettes (Replays and Traces timelines) bleed off the left edge, an oversized flat-vector robot fills the centre, and an AI-diagnosis card bleeds off the right. Two light beams — hot magenta from the character's ray gun toward the left panels, neon lime from its handheld scanner toward the right panel — act as focal connectors, so the mascot literally illuminates the product UI it is debugging. The deep purple-black canvas carries saturated magenta/purple character art and reserves a single lime accent for headings and key UI spans, with white bold sans headings and small icon-chipped event lines adding technical texture.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/sentry-io/c3b1c2c6-51b0-4c27-82f2-e9204e1a73a4-1789073673623.webp",
+  "prompts": [
+    "kage/designs--sentry-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=og-image",
+    "search?q=mascot",
+    "search?q=skeleton-ui",
+    "search?q=neon-accent",
+    "search?q=dark-purple",
+    "search?q=ai-panel",
+    "search?q=light-beams"
+  ],
+  "pageSha256": "6e4ea108b2814a21ab97a5da7568f00169252329b86273e4b0d3855b95a94468"
+}

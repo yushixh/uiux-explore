@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--sentry-logo-cloud",
+  "source": "kage",
+  "slug": "component--sentry-logo-cloud",
+  "url": "https://kage.design/component/sentry-logo-cloud",
+  "name": "Dark-mode customer logo cloud by sentry.io",
+  "description": "A low-profile customer showcase that uses a dark atmospheric surface, generous horizontal spacing, and a single row of high-contrast wordmarks to establish credibility without competing with the main message. The restrained treatment keeps the logos readable while making the section feel premium and integrated with a product-led landing page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sentry-io/7f1d8e63-d1c6-4f27-8b0e-be764e2f10af-1789073903-2.webp",
+  "prompts": [
+    "kage/component--sentry-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sentry-landing-page",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=dark+mode",
+    "search?q=brand+grid"
+  ],
+  "pageSha256": "ea347be7b9502565de2cbcfc5e7596337f583f3ee174d8d486536327286b5b3b"
+}

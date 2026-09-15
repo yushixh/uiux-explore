@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--bun-og-image",
+  "source": "kage",
+  "slug": "designs--bun-og-image",
+  "url": "https://kage.design/designs/bun-og-image",
+  "name": "Bun social card by bun.sh",
+  "description": "A 1200×630 social card uses a white canvas with a compact top identity row: a cute rounded mascot at left and a large black wordmark beside it. The lower half is dominated by an oversized, tightly set sans-serif headline, with a single vivid pink phrase creating the focal accent; a small uppercase monospace capability line anchors the bottom edge.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/bun-sh/74da770e-fff7-4821-ab22-bb8c1fa6b2cd-1789073657469.webp",
+  "prompts": [
+    "kage/designs--bun-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=social-card",
+    "search?q=bold-type",
+    "search?q=mascot",
+    "search?q=high-contrast",
+    "search?q=oversized-headline",
+    "search?q=monochrome",
+    "search?q=accent-colour"
+  ],
+  "pageSha256": "5bbcf0b4edcd6d412a13c03adca3ba684ecf8609b9f89917b409699114506df6"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--elevenlabs-code-block",
+  "source": "kage",
+  "slug": "component--elevenlabs-code-block",
+  "url": "https://kage.design/component/elevenlabs-code-block",
+  "name": "API code showcase panel by elevenlabs.io",
+  "description": "A split API catalogue section pairs concise model or endpoint descriptions with generous, copyable code examples. Thin grid dividers, restrained typography, and spacious white surfaces make the technical content feel approachable while keeping the code visually prominent.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060952-6.webp",
+  "prompts": [
+    "kage/component--elevenlabs-code-block/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=code",
+    "search?q=api",
+    "search?q=developer",
+    "search?q=copy-button"
+  ],
+  "pageSha256": "2433a70dbef50e045fa31170d4fe07b921a1542ccc0ef9518404d4eba9194c57"
+}

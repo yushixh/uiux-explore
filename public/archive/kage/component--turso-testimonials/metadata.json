@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--turso-testimonials",
+  "source": "kage",
+  "slug": "component--turso-testimonials",
+  "url": "https://kage.design/component/turso-testimonials",
+  "name": "Split feature testimonial panel by turso.tech",
+  "description": "A dark, bordered feature section pairs a concise product value proposition and CTA with a spacious testimonial card. The strong two-column hierarchy, restrained contrast, and bottom-anchored attribution make the section feel editorial, credible, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/turso-tech/a01fe972-4603-42df-a7fd-1b66e57f2913-1789073739-6.webp",
+  "prompts": [
+    "kage/component--turso-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/turso-landing-page",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=testimonial",
+    "search?q=split-layout",
+    "search?q=dark-ui",
+    "search?q=feature-section"
+  ],
+  "pageSha256": "e3916d2c7b887f0a12a727f95aed31585a65382657e9254222a0d486072b20b7"
+}

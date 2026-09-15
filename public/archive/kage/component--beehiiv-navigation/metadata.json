@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--beehiiv-navigation",
+  "source": "kage",
+  "slug": "component--beehiiv-navigation",
+  "url": "https://kage.design/component/beehiiv-navigation",
+  "name": "Dark SaaS navigation bar by beehiiv.com",
+  "description": "A compact, high-contrast marketing header that balances a left-aligned brand mark, evenly spaced navigation links, and right-aligned authentication and conversion actions. The restrained dark palette, subtle divider, and distinct primary button make the hierarchy immediately scannable without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067452-0.webp",
+  "prompts": [
+    "kage/component--beehiiv-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=dark",
+    "search?q=header"
+  ],
+  "pageSha256": "12651caa7702c06e623fdd9d015ae2c553e3a2aabafc0da18ebb7bee4d815f55"
+}

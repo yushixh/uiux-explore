@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--supabase-banner",
+  "source": "kage",
+  "slug": "component--supabase-banner",
+  "url": "https://kage.design/component/supabase-banner",
+  "name": "Minimal multi-column link directory by supabase.com",
+  "description": "A quiet, highly structured navigation area that uses generous whitespace, narrow text columns, and consistent vertical link rhythm to make a large set of destinations easy to scan. Its low-contrast palette keeps the focus on the links without adding visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/supabase-com/b03f69f9-4b47-487d-8f2b-17d7cd19e877-1789060354-10.webp",
+  "prompts": [
+    "kage/component--supabase-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/supabase-landing-page",
+  "product": "supabase-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=columns",
+    "search?q=links"
+  ],
+  "pageSha256": "9b6e618d07249394e37022adc1e7c324ebab949dec7432eb3fb93a58a4d6bcc9"
+}

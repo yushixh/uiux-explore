@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-navigation",
+  "source": "kage",
+  "slug": "component--hob-navigation",
+  "url": "https://kage.design/component/hob-navigation",
+  "name": "Minimal product navigation bar by hob",
+  "description": "A restrained, high-clarity SaaS header that balances a compact brand mark, evenly spaced navigation, and contrasting utility actions. The generous whitespace and small visual accents keep the bar polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106502-0.webp",
+  "prompts": [
+    "kage/component--hob-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=navbar",
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=header"
+  ],
+  "pageSha256": "037ef63ea359255bf6eb0adc6658add760a89a5bf2d0c88942c889cd84fa2cc9"
+}

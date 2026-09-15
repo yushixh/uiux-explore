@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--warp-feature-grid",
+  "source": "kage",
+  "slug": "component--warp-feature-grid",
+  "url": "https://kage.design/component/warp-feature-grid",
+  "name": "Interactive feature split grid by warp.dev",
+  "description": "A structured feature section pairs a numbered, selectable capability list with a live product preview, making a broad platform story scannable while giving the active feature visual weight. The restrained developer-tool aesthetic, grid backdrop, and precise two-column alignment make the component feel technical and credible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060389-3.webp",
+  "prompts": [
+    "kage/component--warp-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=technical",
+    "search?q=interactive"
+  ],
+  "pageSha256": "415a7151c144d6fa16ea4ccfae4c30997152df5e0bec0295212ab8989857a9f7"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--blinkist-testimonials",
+  "source": "kage",
+  "slug": "component--blinkist-testimonials",
+  "url": "https://kage.design/component/blinkist-testimonials",
+  "name": "Member stories by blinkist.com",
+  "description": "A community headline is supported by three editorial testimonial columns combining portrait cards, audience labels, star ratings, and pull quotes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/blinkist-com/923d3302-3f7c-4bf2-9567-691903266cb3-1789146453-6.webp",
+  "prompts": [
+    "kage/component--blinkist-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/blinkist-landing-page",
+  "product": "blinkist-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=community",
+    "search?q=stories"
+  ],
+  "pageSha256": "238cb6dabbde617346c1cd077e701ddf915e7279b7cb5bbccaeb724ecaa52626"
+}

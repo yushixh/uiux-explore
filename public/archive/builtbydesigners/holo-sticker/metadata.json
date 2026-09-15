@@ -1,0 +1,22 @@
+{
+  "id": "holo-sticker",
+  "name": "Holo Sticker",
+  "description": "A Figma plugin that turns selected layers into holographic stickers. Choose tinted, rainbow, glitter, or foil finishes, adjust the shimmer and die-cut edges, and add the result back to your file as an image. Supports multiple layers at once.",
+  "shortInfo": "Turn Figma layers into holographic stickers",
+  "url": "https://github.com/rikkijanae/holo-sticker-figma-plugin",
+  "handle": "rikkijanae",
+  "creatorName": "Rikki Janae",
+  "creatorUrl": "https://x.com/rikkijanae",
+  "creatorVerified": true,
+  "platform": "Desktop",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-09-06",
+  "added": "2026-09-08",
+  "sortOrder": 46,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/holo-sticker/icon-MI0rcqwnaXCqSwZGMUeeYCefIHRd5L.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/holo-sticker/avatar-VbD4JlgCRigFxDrZGc2NJ0aVP6pQo7.jpg",
+  "shot": "/screenshots/holo-sticker.webp"
+}

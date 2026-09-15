@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tally-faq",
+  "source": "kage",
+  "slug": "component--tally-faq",
+  "url": "https://kage.design/component/tally-faq",
+  "name": "Minimal FAQ accordion by tally.so",
+  "description": "A low-noise FAQ list uses full-width rows, subtle dividers, strong question labels, and right-aligned chevrons to make scanning and expansion effortless. Generous whitespace below the list lets the section transition naturally into a structured footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060955-9.webp",
+  "prompts": [
+    "kage/component--tally-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=minimal",
+    "search?q=footer"
+  ],
+  "pageSha256": "4d6cdbdc070c48d0d2697bc4c69773d308224f4d657128939e9eced35c63b8ac"
+}

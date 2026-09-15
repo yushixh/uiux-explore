@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stowdrop-feature-grid",
+  "source": "kage",
+  "slug": "component--stowdrop-feature-grid",
+  "url": "https://kage.design/component/stowdrop-feature-grid",
+  "name": "Editorial workflow feature grid by stowdrop.app",
+  "description": "This section works by pairing a strong editorial headline with a concise explanatory paragraph and a wide, low-contrast workflow diagram. The connected cards turn an abstract product capability into a scannable sequence without competing with the page’s typography.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067822-3.webp",
+  "prompts": [
+    "kage/component--stowdrop-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=workflow",
+    "search?q=editorial"
+  ],
+  "pageSha256": "a95c982764b3bd52fcefb218d5b3bbb398446b3db5c11f43247e22e76a9a1e43"
+}

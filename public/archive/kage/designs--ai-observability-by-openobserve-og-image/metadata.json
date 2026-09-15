@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--ai-observability-by-openobserve-og-image",
+  "source": "kage",
+  "slug": "designs--ai-observability-by-openobserve-og-image",
+  "url": "https://kage.design/designs/ai-observability-by-openobserve-og-image",
+  "name": "OpenObserve AI monitoring OG card by AI Observability by OpenObserve",
+  "description": "A 1200×630 social card built from a soft aurora gradient: blurred pastel blobs (mint upper-left, lavender upper-right, peach lower-right, pale blue lower-left) dissolve into a near-white centre, giving depth without any photographic content. The only element is a single centred lockup on both axes — a multicolour segmented ring with a white inner disc holding a black ECG-pulse glyph, paired with a lowercase near-black geometric-sans wordmark that carries a faint warm fade toward its lower right. No headline, tagline or URL competes for attention; roughly 40% of the canvas stays empty, and the dark-on-pastel contrast keeps the card legible at the small sizes chat apps render shared links.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/ai-observability-by-openobserve/eefaaee1-edc7-4bb9-b05e-05d601caf612-1789106451293.webp",
+  "prompts": [
+    "kage/designs--ai-observability-by-openobserve-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-og-image",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=gradient",
+    "search?q=pastel",
+    "search?q=centered-lockup",
+    "search?q=wordmark",
+    "search?q=minimal"
+  ],
+  "pageSha256": "471fabc0836fd490a0fcd0d91bd16328ead70e9ef80ff6322690f55e9ddf5e1a"
+}

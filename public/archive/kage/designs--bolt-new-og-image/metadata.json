@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--bolt-new-og-image",
+  "source": "kage",
+  "slug": "designs--bolt-new-og-image",
+  "url": "https://kage.design/designs/bolt-new-og-image",
+  "name": "bolt.new Open Graph social card by bolt.new",
+  "description": "A 1200×630 dark social card split into a quiet left half and a product-teaser right half. The bolt.new wordmark sits large, bold and italicised on the left with a two-line gray tagline beneath, while the right half shows three stacked chat panels receding toward the top-right, cropped off the canvas edge to imply a bigger app. Depth is carried by a soft blue radial glow in the top-right corner and a sharp white light streak grazing the top edge of the rearmost panel; the frontmost panel reads as a prompt input with placeholder text and paperclip/sparkle icons. Type is a single sans family scaled in three steps — wordmark, tagline, UI text — with muted blue-gray on near-black doing all the contrast work.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/bolt-new/1a11d5a2-b894-41a7-8ce8-ae1103e8e5f7-1789073699363.webp",
+  "prompts": [
+    "kage/designs--bolt-new-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "bolt-new",
+  "tags": [
+    "search?q=og-image",
+    "search?q=wordmark",
+    "search?q=ui-mockup",
+    "search?q=prompt-input",
+    "search?q=stacked-panels",
+    "search?q=glow",
+    "search?q=light-streak",
+    "search?q=cropped-composition"
+  ],
+  "pageSha256": "6010b65a89dcc5d5edc1b02dc47518fc4d11e1d9d588382837a827669a93d4a6"
+}

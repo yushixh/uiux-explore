@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--madebydaedalus-hero",
+  "source": "kage",
+  "slug": "component--madebydaedalus-hero",
+  "url": "https://kage.design/component/madebydaedalus-hero",
+  "name": "Playful split-screen studio hero by madebydaedalus.com",
+  "description": "A spacious, editorial hero pairs an oversized statement headline with a whimsical abstract visual, creating a clear narrative from promise to action. Restrained navigation and generous whitespace keep the expressive artwork focused while small annotations add personality and motion.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/madebydaedalus-com/ae0cc407-2597-43fd-9c0f-0722227b2dcc-1789060549-1.webp",
+  "prompts": [
+    "kage/component--madebydaedalus-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/madebydaedalus-landing-page",
+  "product": "madebydaedalus-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=split-layout",
+    "search?q=editorial",
+    "search?q=cta",
+    "search?q=playful"
+  ],
+  "pageSha256": "9682291d3b656772f1b91d92393ae09c95fb94b51ba801f20d52fa9b6dbf0367"
+}

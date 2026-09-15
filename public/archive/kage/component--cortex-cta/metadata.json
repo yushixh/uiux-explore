@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cortex-cta",
+  "source": "kage",
+  "slug": "component--cortex-cta",
+  "url": "https://kage.design/component/cortex-cta",
+  "name": "Open-source platform callout by Cortex",
+  "description": "A rounded, softly textured callout combines a strong ownership message and dual actions with a subdued product panel on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cortex/48e48c32-4544-4e71-94d3-849a84be1bb9-1789279411-8.webp",
+  "prompts": [
+    "kage/component--cortex-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cortex-landing-page",
+  "product": "cortex",
+  "tags": [
+    "search?q=cta",
+    "search?q=open-source",
+    "search?q=split"
+  ],
+  "pageSha256": "305c7928b236f7dfa3d9eb285163fc50fa94668d83eeee9b0fe93e77a29173b9"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--ollio-hero",
+  "source": "vantaui",
+  "slug": "explore--blocks--ollio-hero",
+  "url": "https://www.vantaui.com/explore/blocks/ollio-hero",
+  "name": "Ollio Hero - VantaUI",
+  "description": "A scroll-shrinking studio hero over a continuously moving editorial image wall.",
+  "image": "https://vantaui-registry.vercel.app/blocks/ollio-hero",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "6cfc0439127464b945ffc629a1e8d583d5b937ed3ecf58cdb69dddd559bb2997"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-gallery",
+  "source": "kage",
+  "slug": "component--trigger-gallery",
+  "url": "https://kage.design/component/trigger-gallery",
+  "name": "Dark product workflow explainer by trigger.dev",
+  "description": "A restrained, dark-mode product explainer section that combines a credibility logo rail with a large interactive workflow stage. Strong borders, sparse controls, and generous negative space make the product demonstration feel focused and premium.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073775-3.webp",
+  "prompts": [
+    "kage/component--trigger-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=workflow",
+    "search?q=video+panel",
+    "search?q=logo+strip"
+  ],
+  "pageSha256": "f875186538a96b9162593e7edcbc3d1a559be38f42ad5ac56e35b8a8186e6680"
+}

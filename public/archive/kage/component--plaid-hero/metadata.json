@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--plaid-hero",
+  "source": "kage",
+  "slug": "component--plaid-hero",
+  "url": "https://kage.design/component/plaid-hero",
+  "name": "Gradient financial platform hero by plaid.com",
+  "description": "This hero works through a high-contrast split composition: expressive oversized typography and clear CTAs anchor the left side, while a textured, finance-inspired visual field creates energy and depth on the right. A restrained customer-proof row and floating feature card add credibility without competing with the primary message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/plaid-com/7f22fbce-e808-4b19-99a1-7dcb31fbfb56-1789060798-1.webp",
+  "prompts": [
+    "kage/component--plaid-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/plaid-landing-page",
+  "product": "plaid-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=gradient",
+    "search?q=editorial",
+    "search?q=cta",
+    "search?q=responsive"
+  ],
+  "pageSha256": "4b0897304afa617394b7db9cdf795dd9bf325ac2272c3fe6ed7c26c120d515d7"
+}

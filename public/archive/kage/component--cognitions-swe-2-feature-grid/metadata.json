@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cognitions-swe-2-feature-grid",
+  "source": "kage",
+  "slug": "component--cognitions-swe-2-feature-grid",
+  "url": "https://kage.design/component/cognitions-swe-2-feature-grid",
+  "name": "Model behavior and trajectory evidence by Cognition's SWE-2",
+  "description": "The article transitions into model-behavior findings with explanatory prose, bullet points, a horizontal stacked comparison chart, and an expandable example trajectory.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cognitions-swe-2/e9966f12-655e-494e-9580-e5330b0ddc92-1789365706-4.webp",
+  "prompts": [
+    "kage/component--cognitions-swe-2-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-blog",
+  "product": "cognitions-swe-2",
+  "tags": [
+    "search?q=behavior",
+    "search?q=bullets",
+    "search?q=chart"
+  ],
+  "pageSha256": "bc0bb2a057a5a14da054b07ab360ac62019e269dda43038625b3c3c6c1076889"
+}

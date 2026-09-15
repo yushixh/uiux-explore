@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--moji-navigation",
+  "source": "kage",
+  "slug": "component--moji-navigation",
+  "url": "https://kage.design/component/moji-navigation",
+  "name": "Minimal product navigation by Moji",
+  "description": "A slim, warm off-white header pairs a compact wordmark with a small set of anchor links and a language/theme control. Its restrained height keeps attention on the product while preserving clear wayfinding.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/moji/682da163-2f11-4698-8415-78d5458fc05f-1789193059-0.webp",
+  "prompts": [
+    "kage/component--moji-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/moji-landing-page",
+  "product": "moji",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=desktop"
+  ],
+  "pageSha256": "f2485018f80de96474d3223ed235214a357e64b0a8fe61b0e8835c1f5a496f04"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--shiui-feature-grid-4",
+  "source": "kage",
+  "slug": "component--shiui-feature-grid-4",
+  "url": "https://kage.design/component/shiui-feature-grid-4",
+  "name": "Forms and inputs inventory by SHIUI",
+  "description": "A large catalogue section covers input anatomy and interaction states across text fields, selects, checkboxes, sliders, search, upload, payment, and address controls.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/shiui/3111a107-5e9b-4487-9176-525a4b4c448a-1789365766-5.webp",
+  "prompts": [
+    "kage/component--shiui-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/shiui-navigation",
+  "product": "shiui",
+  "tags": [
+    "search?q=forms",
+    "search?q=inputs",
+    "search?q=controls"
+  ],
+  "pageSha256": "da309b9129e07246dadcbd3e937d60399eea831802ebebaa87c3c44b1cffa48b"
+}

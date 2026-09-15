@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--railway-hero",
+  "source": "kage",
+  "slug": "component--railway-hero",
+  "url": "https://kage.design/component/railway-hero",
+  "name": "Dark product launch hero by railway.com",
+  "description": "A cinematic, centered hero pairs a calm editorial headline and focused CTA row with a large floating product interface preview. The dark atmospheric backdrop, soft illustrated texture, and restrained purple accent create depth while keeping the product demonstration as the visual anchor.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/railway-com/2043945d-689d-427f-b51d-92aa383b8c92-1789060662-1.webp",
+  "prompts": [
+    "kage/component--railway-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/railway-landing-page",
+  "product": "railway-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark-ui",
+    "search?q=saas",
+    "search?q=product-preview"
+  ],
+  "pageSha256": "8bacd2309d418b1c3d7cf0899e6a9f1d800265b34d59b6731cb704d4c8404c06"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--supabase-og-image",
+  "source": "kage",
+  "slug": "designs--supabase-og-image",
+  "url": "https://kage.design/designs/supabase-og-image",
+  "name": "Supabase Open Graph social card by supabase.com",
+  "description": "A 1200×630 dark card built on a single centered axis with almost no furniture: a near-black #1c1c1c canvas, the glyph-plus-wordmark lockup sitting in the upper third, and a stacked two-line headline filling the middle. The only hierarchy device is colour — line one of the headline is white while line two flips to the brand green (#3ECF8E), making the tagline pair read as a call-and-response. Roughly half the canvas is empty, which lets the heavy geometric sans headline dominate even at small preview sizes; there are no gradients, shadows, screenshots or decoration of any kind.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/supabase-com/81666b05-7983-4e17-85c9-eae9593d3d46-1789059997848.webp",
+  "prompts": [
+    "kage/designs--supabase-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-og-image",
+  "product": "supabase-com",
+  "tags": [
+    "search?q=og-card",
+    "search?q=wordmark-lockup",
+    "search?q=two-line-headline",
+    "search?q=centered-composition",
+    "search?q=negative-space",
+    "search?q=brand-accent",
+    "search?q=flat-color"
+  ],
+  "pageSha256": "2ea6dc00739d956bb77a924e0ceeb2c10bc3346a0438434c72d0b0d897bc01fd"
+}

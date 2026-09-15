@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--stripe-og-image",
+  "source": "kage",
+  "slug": "designs--stripe-og-image",
+  "url": "https://kage.design/designs/stripe-og-image",
+  "name": "Stripe gradient wordmark social card by stripe.com",
+  "description": "A 1200×630 brand card built almost entirely from one gesture: a diagonal silk-like gradient sweep running from a cool lavender/periwinkle anchor in the lower-left through hot pink at mid-left into a saturated orange mass filling the upper right, with streaked anisotropic bands rather than a smooth CSS-style blend. The white extra-bold lowercase wordmark is the sole element, centered a touch above the vertical midpoint at roughly a third of the canvas width, so the entire focal hierarchy rests on colour field versus type contrast. There is no headline, tagline or framing device — the negative space and the diagonal motion do the communicating, which keeps the card legible at feed-thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/stripe-com/d12f7877-3cd3-4617-8613-1584ea38edf4-1789059984218.webp",
+  "prompts": [
+    "kage/designs--stripe-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "stripe-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=gradient",
+    "search?q=wordmark",
+    "search?q=diagonal-flow",
+    "search?q=lowercase-type",
+    "search?q=brand-only",
+    "search?q=aurora-texture",
+    "search?q=1200x630"
+  ],
+  "pageSha256": "679e5ecbc6bf3ab46ad02eb07f7e904223b6287e33f197671b9ab898357656ec"
+}

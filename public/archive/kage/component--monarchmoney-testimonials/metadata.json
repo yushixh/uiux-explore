@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--monarchmoney-testimonials",
+  "source": "kage",
+  "slug": "component--monarchmoney-testimonials",
+  "url": "https://kage.design/component/monarchmoney-testimonials",
+  "name": "Member testimonials grid by monarchmoney.com",
+  "description": "A centered heading introduces a dense three-column review grid of white cards, making social proof easy to scan and compare.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146616-7.webp",
+  "prompts": [
+    "kage/component--monarchmoney-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monarchmoney-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=reviews",
+    "search?q=grid"
+  ],
+  "pageSha256": "a49b8ae846e99fae1b3f8d6bacd1b0b7d7b4cbadbb634a63953a7a73454f8974"
+}

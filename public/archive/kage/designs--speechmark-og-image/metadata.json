@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--speechmark-og-image",
+  "source": "kage",
+  "slug": "designs--speechmark-og-image",
+  "url": "https://kage.design/designs/speechmark-og-image",
+  "name": "Speechmark Open Graph social card by Speechmark",
+  "description": "The card is essentially the app icon enlarged: a warm off-white macOS-style squircle floats on a full-bleed near-black field, carrying a single oversized opening-quote glyph optically centred slightly above the tile's middle. There is no headline, wordmark or URL — focal hierarchy comes entirely from the scale jump between one glyph and the surrounding negative space, plus the cream-on-black luminance contrast. A faint top-to-bottom sheen on the tile makes it read as a physical icon, and the strict two-value palette keeps it legible even at thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/speechmark/159d00b0-37dc-4173-8691-11980d66c0df-1789106543254.webp",
+  "prompts": [
+    "kage/designs--speechmark-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-og-image",
+  "product": "speechmark",
+  "tags": [
+    "search?q=social-card",
+    "search?q=app-icon",
+    "search?q=glyph",
+    "search?q=negative-space",
+    "search?q=squircle",
+    "search?q=typographic",
+    "search?q=mac"
+  ],
+  "pageSha256": "127ab4f6d3a4b8a031708946f244096da5bf8c80cbc6ae8e35f253a1f3fb30e2"
+}

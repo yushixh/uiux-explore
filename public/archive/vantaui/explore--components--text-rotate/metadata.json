@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--text-rotate",
+  "source": "vantaui",
+  "slug": "explore--components--text-rotate",
+  "url": "https://www.vantaui.com/explore/components/text-rotate",
+  "name": "Text Rotate - VantaUI",
+  "description": "Animated text that rotates through a list with customizable transitions, splitting, staggering, looping, and manual controls.",
+  "image": "https://vantaui-registry.vercel.app/components/text-rotate",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "7aa30c5f1ac3991055e2fa88df6359faf5d6a3d671ab00715004b083c92da6e8"
+}

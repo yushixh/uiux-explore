@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mastra-factory-hero",
+  "source": "kage",
+  "slug": "component--mastra-factory-hero",
+  "url": "https://kage.design/component/mastra-factory-hero",
+  "name": "Orbital product hero by Mastra Factory",
+  "description": "A focused, high-contrast hero that pairs a centered orbital/radar motif with a strong product statement and two practical calls to action. The restrained palette, generous vertical spacing, and subtle technical details make the section feel sophisticated without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mastra-factory/e98dc23c-cafd-4086-ae60-932f10b41f0f-1789106663-1.webp",
+  "prompts": [
+    "kage/component--mastra-factory-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mastra-factory-landing-page",
+  "product": "mastra-factory",
+  "tags": [
+    "search?q=dark+mode",
+    "search?q=hero+section",
+    "search?q=radial+graphic",
+    "search?q=developer+cta"
+  ],
+  "pageSha256": "d2dd997487c6404252f0878be6c40a43d867032d4198ca4095178d6c73f3e1c5"
+}

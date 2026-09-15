@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--epilude-notetaker-feature-grid",
+  "source": "kage",
+  "slug": "component--epilude-notetaker-feature-grid",
+  "url": "https://kage.design/component/epilude-notetaker-feature-grid",
+  "name": "Core note-taking features by Epilude Notetaker",
+  "description": "Four alternating feature bands explain the product benefits with concise copy on one side and tall rounded interface visuals on the other.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/epilude-notetaker/4c1f6c09-8367-4067-b5eb-19bb83b45625-1789365730-3.webp",
+  "prompts": [
+    "kage/component--epilude-notetaker-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-landing-page",
+  "product": "epilude-notetaker",
+  "tags": [
+    "search?q=features",
+    "search?q=alternating",
+    "search?q=media"
+  ],
+  "pageSha256": "b86e015a02e5f62300dc86ad11dd3b3a66e7ce8ba316086d8b82f498eea118c9"
+}

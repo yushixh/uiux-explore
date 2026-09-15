@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resend-feature-grid-4",
+  "source": "kage",
+  "slug": "component--resend-feature-grid-4",
+  "url": "https://kage.design/component/resend-feature-grid-4",
+  "name": "Email audience and analytics by resend.com",
+  "description": "The section introduces capabilities beyond editing through two visual cards followed by a two-column explanation row with compact feature details.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resend-com/a5fe426a-0829-45e6-9969-dd938a799528-1789141642-6.webp",
+  "prompts": [
+    "kage/component--resend-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resend-empty-state",
+  "product": "resend-com",
+  "tags": [
+    "search?q=analytics",
+    "search?q=audience",
+    "search?q=features"
+  ],
+  "pageSha256": "0bd71d72e9095fcd799aa9facbced7ed7777189135a41a71e7ca6ef8cd78a8e4"
+}

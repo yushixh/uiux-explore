@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--ai-observability-by-openobserve-landing-page",
+  "source": "kage",
+  "slug": "designs--ai-observability-by-openobserve-landing-page",
+  "url": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "name": "AI & LLM observability product landing page by AI Observability by OpenObserve",
+  "description": "A long-form B2B observability landing page starts with a clean white hero and product UI collage, then shifts into a pale cyan integration area before deepening through blue, indigo, and near-black sections. The page alternates centered headings with increasingly dense card grids, four large alternating feature panels, a unified-stack diagram, deployment cards, resource cards, FAQ accordions, and a three-tier pricing CTA; rounded white surfaces, fine borders, purple controls, and restrained shadows keep the dense content coherent.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/ai-observability-by-openobserve/e945d001-9c66-4981-a493-d9cb08ea77ee-1789106447582.webp",
+  "prompts": [
+    "kage/designs--ai-observability-by-openobserve-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=gradient-sections",
+    "search?q=product-screenshots",
+    "search?q=integration-grid",
+    "search?q=feature-cards",
+    "search?q=dark-faq",
+    "search?q=pricing-cards",
+    "search?q=sticky-navigation"
+  ],
+  "pageSha256": "8950ad21db8755720f3136d2490ccfaac32298c468e0b6d97e9769c079cf040c"
+}

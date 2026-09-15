@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--railway-navigation",
+  "source": "kage",
+  "slug": "component--railway-navigation",
+  "url": "https://kage.design/component/railway-navigation",
+  "name": "Dark SaaS navigation bar by railway.com",
+  "description": "A compact, high-contrast header that balances brand recognition, grouped navigation, and conversion actions without competing with the page content below. Its restrained spacing, subtle dropdown indicators, and split utility actions make it effective for developer-focused products.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/railway-com/2043945d-689d-427f-b51d-92aa383b8c92-1789060661-0.webp",
+  "prompts": [
+    "kage/component--railway-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/railway-landing-page",
+  "product": "railway-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=dark-ui",
+    "search?q=saas",
+    "search?q=header"
+  ],
+  "pageSha256": "9ddcca55ab7e04bc8645fa091693ebf028470b2fec0cac8df15f026743ee2e09"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--clerk-testimonials",
+  "source": "kage",
+  "slug": "component--clerk-testimonials",
+  "url": "https://kage.design/component/clerk-testimonials",
+  "name": "Testimonial quote mosaic by clerk.com",
+  "description": "A quiet, editorial testimonial section that uses staggered quote cards to create a conversational mosaic rather than a rigid grid. The oversized quotation mark, compact attribution rows, soft borders, and generous whitespace make customer voices feel credible while keeping the page visually light.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/clerk-com/b0a171ff-4b4c-415f-ac9b-4885f02b49d0-1789060784-8.webp",
+  "prompts": [
+    "kage/component--clerk-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/clerk-landing-page",
+  "product": "clerk-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=masonry",
+    "search?q=editorial"
+  ],
+  "pageSha256": "65eca8d683c69535c2f1ccc2bc90251782c76ee8047744f2554fe89d7e1bc6d3"
+}

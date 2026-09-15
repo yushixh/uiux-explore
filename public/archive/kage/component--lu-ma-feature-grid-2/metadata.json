@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lu-ma-feature-grid-2",
+  "source": "kage",
+  "slug": "component--lu-ma-feature-grid-2",
+  "url": "https://kage.design/component/lu-ma-feature-grid-2",
+  "name": "Global communities grid by lu.ma",
+  "description": "A directory-like grid of bordered community cards uses small identity marks, bold names, and faded descriptions to make many destinations scannable without feeling dense.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lu-ma/a4be0bf4-46ad-4066-8582-e9890f24d9e0-1789146185-3.webp",
+  "prompts": [
+    "kage/component--lu-ma-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lu-ma-landing-page",
+  "product": "lu-ma",
+  "tags": [
+    "search?q=communities",
+    "search?q=grid",
+    "search?q=directory"
+  ],
+  "pageSha256": "530c4ee44e01cc6bf3990a97162d95527d27042ac9287be0b1ac0234cda2b93f"
+}

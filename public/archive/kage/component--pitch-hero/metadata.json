@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--pitch-hero",
+  "source": "kage",
+  "slug": "component--pitch-hero",
+  "url": "https://kage.design/component/pitch-hero",
+  "name": "AI-first presentation hero by pitch.com",
+  "description": "A spacious, atmospheric hero that combines a translucent navigation layer, softly blurred presentation-card collage, and a prominent AI prompt composer. The centered composer creates a clear action focus while the washed-out background adds product context without competing with the CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/pitch-com/6703b162-6073-44e6-a626-e3df0dc35c4b-1789060646-1.webp",
+  "prompts": [
+    "kage/component--pitch-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/pitch-landing-page",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=gradient",
+    "search?q=prompt"
+  ],
+  "pageSha256": "908204503fd40e496aa5e7f0922655539463e5b7934f587edf558087f10173f6"
+}

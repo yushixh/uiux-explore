@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ai-observability-by-openobserve-feature-grid",
+  "source": "kage",
+  "slug": "component--ai-observability-by-openobserve-feature-grid",
+  "url": "https://kage.design/component/ai-observability-by-openobserve-feature-grid",
+  "name": "Purpose-built feature card grid by AI Observability by OpenObserve",
+  "description": "A centered value proposition section uses a small eyebrow, strong headline, supporting paragraph, and three evenly weighted cards to explain differentiated product benefits. The restrained cards, generous whitespace, and soft blue background make dense technical copy feel approachable and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ai-observability-by-openobserve/e945d001-9c66-4981-a493-d9cb08ea77ee-1789106505-2.webp",
+  "prompts": [
+    "kage/component--ai-observability-by-openobserve-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=b2b-saas",
+    "search?q=cards",
+    "search?q=observability"
+  ],
+  "pageSha256": "5b920e7158816586c437b99497c4d8c3b049ac72a8025d6ce49a54bf2a4b3ef7"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--gravity-pills",
+  "source": "vantaui",
+  "slug": "explore--components--gravity-pills",
+  "url": "https://www.vantaui.com/explore/components/gravity-pills",
+  "name": "Gravity Pills - VantaUI",
+  "description": "Draggable pill labels that fall and collide in a Matter.js gravity scene.",
+  "image": "https://vantaui-registry.vercel.app/components/gravity-pills",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "b060638ade98a0487632e9a8b876f8d942c3795440db44ea2351e3371c4541ae"
+}

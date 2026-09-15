@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--inngest-tabs",
+  "source": "kage",
+  "slug": "component--inngest-tabs",
+  "url": "https://kage.design/component/inngest-tabs",
+  "name": "Three-panel feature tabs by inngest.com",
+  "description": "A compact, high-contrast tab strip turns three related product capabilities into an easy-to-scan decision surface. The selected panel uses a vivid accent fill and lighter text, while inactive panels recede into a charcoal canvas with clear dividers and generous editorial spacing.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/inngest-com/085d18d8-47d3-43b1-92ae-d8bd045a677d-1789074882-4.webp",
+  "prompts": [
+    "kage/component--inngest-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/inngest-landing-page",
+  "product": "inngest-com",
+  "tags": [
+    "search?q=tabs",
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=product-ui"
+  ],
+  "pageSha256": "b6237c3390f122f9a249f08d9c710b487573be95e8ee8727a2a825746579a2b7"
+}

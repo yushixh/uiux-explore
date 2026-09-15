@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--adscope-pricing-table",
+  "source": "kage",
+  "slug": "component--adscope-pricing-table",
+  "url": "https://kage.design/component/adscope-pricing-table",
+  "name": "Launch pricing comparison table by AdScope",
+  "description": "A calm, high-contrast pricing section that uses a billing toggle, two clearly differentiated plan cards, and a strong launch offer to make the primary conversion path obvious. The generous spacing, lime benefit markers, and concise supporting copy balance promotional urgency with product credibility.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/adscope/d628eaa8-0259-4816-ad11-db69e3ce98d4-1789106703-5.webp",
+  "prompts": [
+    "kage/component--adscope-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/adscope-landing-page",
+  "product": "adscope",
+  "tags": [
+    "search?q=pricing",
+    "search?q=comparison",
+    "search?q=saas",
+    "search?q=billing"
+  ],
+  "pageSha256": "a590abc1706636d927c44d6e77dec6a3b9b32b1bc7ed0008e9188f1638a6812b"
+}

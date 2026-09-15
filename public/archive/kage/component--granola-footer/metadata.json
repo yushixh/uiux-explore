@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--granola-footer",
+  "source": "kage",
+  "slug": "component--granola-footer",
+  "url": "https://kage.design/component/granola-footer",
+  "name": "Multi-column site footer by granola.ai",
+  "description": "The footer uses a compact multi-column link directory and a large brand lockup area to close the page with strong visual presence.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789141840-10.webp",
+  "prompts": [
+    "kage/component--granola-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=brand"
+  ],
+  "pageSha256": "83b6b1f26c48f84bc0f2f40fef2aab3d11624f642ba35fce4c3546e3dc22b4f5"
+}

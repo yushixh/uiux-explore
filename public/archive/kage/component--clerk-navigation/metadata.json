@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--clerk-navigation",
+  "source": "kage",
+  "slug": "component--clerk-navigation",
+  "url": "https://kage.design/component/clerk-navigation",
+  "name": "Announcement bar and utility navigation by clerk.com",
+  "description": "A compact, high-contrast announcement strip sits above a light, pill-shaped global navigation bar. The section works through clear grouping, restrained borders, generous horizontal spacing, and a simple split between primary navigation and account actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/clerk-com/b0a171ff-4b4c-415f-ac9b-4885f02b49d0-1789060781-0.webp",
+  "prompts": [
+    "kage/component--clerk-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/clerk-landing-page",
+  "product": "clerk-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=header",
+    "search?q=saas"
+  ],
+  "pageSha256": "206dab6b7ea1cece51686248392e54c93207fa0c918b078ea145ae96a919b32b"
+}

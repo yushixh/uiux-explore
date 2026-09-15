@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--teenage-engineering-gallery-5",
+  "source": "kage",
+  "slug": "component--teenage-engineering-gallery-5",
+  "url": "https://kage.design/component/teenage-engineering-gallery-5",
+  "name": "Editorial product gallery by teenage.engineering",
+  "description": "A high-contrast product gallery alternates oversized editorial hero imagery with precise three-column product grids. Generous negative space, restrained labels, and consistent image staging make the products feel collectible while keeping shopping actions easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/teenage-engineering/02d63820-361c-4c31-b791-8f2d75691669-1789060823-6.webp",
+  "prompts": [
+    "kage/component--teenage-engineering-gallery-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/teenage-engineering-landing-page",
+  "product": "teenage-engineering",
+  "tags": [
+    "search?q=gallery",
+    "search?q=commerce",
+    "search?q=editorial",
+    "search?q=products"
+  ],
+  "pageSha256": "f689dbcc39409b30cd22e7cba053b2f90e8468a553506d284a2ea3eebf1d8ab1"
+}

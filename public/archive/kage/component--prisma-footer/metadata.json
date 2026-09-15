@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--prisma-footer",
+  "source": "kage",
+  "slug": "component--prisma-footer",
+  "url": "https://kage.design/component/prisma-footer",
+  "name": "Branded multi-column footer by prisma.io",
+  "description": "A spacious, editorial footer that combines a compact brand contact block with grouped navigation, social links, legal utilities, and a large typographic brand signature. The restrained grid, generous whitespace, and subtle divider make a dense set of links feel calm and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073821-11.webp",
+  "prompts": [
+    "kage/component--prisma-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=responsive",
+    "search?q=brand"
+  ],
+  "pageSha256": "4ddea683c59293352bea9c90acc508459ef43607ab3513d63e110296d3464140"
+}

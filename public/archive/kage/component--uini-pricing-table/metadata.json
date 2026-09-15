@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--uini-pricing-table",
+  "source": "kage",
+  "slug": "component--uini-pricing-table",
+  "url": "https://kage.design/component/uini-pricing-table",
+  "name": "Three-tier pricing table by uini.io",
+  "description": "A calm, editorial pricing section that makes the free plan feel welcoming while clearly increasing value across paid tiers. Strong column alignment, restrained colour, equal-height cards, and a compact comparison expansion keep the decision simple without hiding detail.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uini-io/ef5b466a-1fe9-4cb6-9300-79049ee31244-1789059863-9.webp",
+  "prompts": [
+    "kage/component--uini-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uini-landing-page",
+  "product": "uini-io",
+  "tags": [
+    "search?q=pricing",
+    "search?q=saas",
+    "search?q=comparison",
+    "search?q=toggle"
+  ],
+  "pageSha256": "41b3253f8db7d2f11bc3af36e367715a66ea5b458614638037fcd9fb48ad1c30"
+}

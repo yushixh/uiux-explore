@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chathop-feature-grid",
+  "source": "kage",
+  "slug": "component--chathop-feature-grid",
+  "url": "https://kage.design/component/chathop-feature-grid",
+  "name": "Three-step how-it-works sequence by ChatHop",
+  "description": "Three numbered steps use alternating media placement and oversized outlined numerals to make a simple workflow easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chathop/788ba903-59f3-47ff-b1c8-618bf4f4ae3c-1789193009-3.webp",
+  "prompts": [
+    "kage/component--chathop-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chathop-landing-page",
+  "product": "chathop",
+  "tags": [
+    "search?q=steps",
+    "search?q=feature",
+    "search?q=alternating"
+  ],
+  "pageSha256": "70a7139312d29e1b8b431ac8bbc2cd5e369fdcc3fea36ea3298260658183141b"
+}

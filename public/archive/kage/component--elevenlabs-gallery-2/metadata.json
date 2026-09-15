@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--elevenlabs-gallery-2",
+  "source": "kage",
+  "slug": "component--elevenlabs-gallery-2",
+  "url": "https://kage.design/component/elevenlabs-gallery-2",
+  "name": "Structured mega-footer navigation by elevenlabs.io",
+  "description": "This footer works through a quiet, highly structured grid: a clear brand and locale block anchors the left while grouped navigation columns make a large information architecture easy to scan. Subtle dividers, restrained typography, generous whitespace, and a compact utility row keep the section comprehensive without feeling dense.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060954-10.webp",
+  "prompts": [
+    "kage/component--elevenlabs-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=columns",
+    "search?q=minimal",
+    "search?q=responsive"
+  ],
+  "pageSha256": "76bd7370afe234a22e0ead667277f6990bb207e7d3e38300740f0aacde62fdaa"
+}

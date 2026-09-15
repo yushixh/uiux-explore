@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stripe-feature-grid",
+  "source": "kage",
+  "slug": "component--stripe-feature-grid",
+  "url": "https://kage.design/component/stripe-feature-grid",
+  "name": "Three-path integration feature grid by stripe.com",
+  "description": "A dark, editorial feature section that helps visitors self-select an integration route through three equal cards. Strong typographic hierarchy, vivid product-focused visual panels, and concise link-led descriptions make the options easy to scan without feeling like a generic card grid.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stripe-com/f883ce83-9776-477f-9170-0bb4400c0ec7-1789067515-9.webp",
+  "prompts": [
+    "kage/component--stripe-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stripe-landing-page",
+  "product": "stripe-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-theme",
+    "search?q=integration",
+    "search?q=developer-tools"
+  ],
+  "pageSha256": "f2067bcdd501025f73c626704d11be481bde7fd585d305ba6b1a0bdda890d541"
+}

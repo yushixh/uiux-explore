@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--posthog-logo-cloud",
+  "source": "kage",
+  "slug": "component--posthog-logo-cloud",
+  "url": "https://kage.design/component/posthog-logo-cloud",
+  "name": "Split-panel social proof logo cloud by posthog.com",
+  "description": "A credible social-proof section pairs a concise trust-building headline with a dense, balanced logo cloud divided into two contrasting visual groups. The restrained container, thin rules, generous whitespace, and small action button make the collection feel editorial rather than like a generic logo strip.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/posthog-com/73877279-c1a4-4217-acde-d4b5e92c7eb5-1789060472-1.webp",
+  "prompts": [
+    "kage/component--posthog-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/posthog-landing-page",
+  "product": "posthog-com",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=split-panel",
+    "search?q=testimonial"
+  ],
+  "pageSha256": "0c39f3d377fcf639534808530c7f32f2887ee0713a24a3b0bacaf393a9a2bc23"
+}

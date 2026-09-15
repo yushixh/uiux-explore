@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--deno-navigation",
+  "source": "kage",
+  "slug": "component--deno-navigation",
+  "url": "https://kage.design/component/deno-navigation",
+  "name": "Announcement bar and primary navigation by deno.com",
+  "description": "A compact two-tier header pairs a high-visibility announcement strip with a calm, highly legible navigation row. Strong horizontal alignment, restrained controls, and a clearly bounded search field make the section feel useful without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073864-0.webp",
+  "prompts": [
+    "kage/component--deno-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/deno-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=header",
+    "search?q=search"
+  ],
+  "pageSha256": "a5337e31206e8cf1e8e66bbb6f57697e0531f71dfda532609d75080aeb7c3430"
+}

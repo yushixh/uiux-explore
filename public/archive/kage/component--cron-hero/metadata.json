@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cron-hero",
+  "source": "kage",
+  "slug": "component--cron-hero",
+  "url": "https://kage.design/component/cron-hero",
+  "name": "Dark product showcase hero by cron.com",
+  "description": "A dramatic, centered SaaS hero that pairs a compact navigation and announcement pill with an oversized headline, restrained supporting copy, and a layered product preview. The dark canvas, warm accent, generous negative space, and overlapping device mockup create a premium, product-led first impression.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cron-com/13c2d880-1e0a-4e61-bc53-4a819d6c2d36-1789060776-1.webp",
+  "prompts": [
+    "kage/component--cron-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cron-landing-page",
+  "product": "cron-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark+mode",
+    "search?q=product+preview",
+    "search?q=saas"
+  ],
+  "pageSha256": "2ba62732daab25f56d86766ac5f25b34924eede32bcc78d847c0001023de431f"
+}

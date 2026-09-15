@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--tryobra-table",
+  "source": "kage",
+  "slug": "component--tryobra-table",
+  "url": "https://kage.design/component/tryobra-table",
+  "name": "Ledger transaction table by tryobra.com",
+  "description": "The light ledger section turns the product promise into a concrete record view with filters, aligned columns, colored amounts, and a visible total.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tryobra-com/5ed8a808-d125-4341-bc8a-0a69442cb995-1789152085-5.webp",
+  "prompts": [
+    "kage/component--tryobra-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "tryobra-com",
+  "tags": [
+    "search?q=table",
+    "search?q=ledger",
+    "search?q=light"
+  ],
+  "pageSha256": "d6e61b79febe2770a79fb46b5f6298799e329bb313fa38aadacc9852c45e5f53"
+}

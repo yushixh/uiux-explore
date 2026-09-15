@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--partiful-logo-cloud",
+  "source": "kage",
+  "slug": "component--partiful-logo-cloud",
+  "url": "https://kage.design/component/partiful-logo-cloud",
+  "name": "Press and social proof strip by partiful.com",
+  "description": "A white, airy credibility band displays several publication names and short endorsement snippets in a horizontal row.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/partiful-com/97ae038c-0277-4e29-93fa-45b4a481f7ba-1789146242-3.webp",
+  "prompts": [
+    "kage/component--partiful-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/partiful-landing-page",
+  "product": "partiful-com",
+  "tags": [
+    "search?q=press",
+    "search?q=trust",
+    "search?q=logos"
+  ],
+  "pageSha256": "4233cb83304b952d3027720df653723c7a3f589e4254564d4d333f1e2e855b24"
+}

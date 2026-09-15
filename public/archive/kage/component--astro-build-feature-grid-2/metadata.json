@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--astro-build-feature-grid-2",
+  "source": "kage",
+  "slug": "component--astro-build-feature-grid-2",
+  "url": "https://kage.design/component/astro-build-feature-grid-2",
+  "name": "Dark modular feature grid by astro.build",
+  "description": "A dense, editorial feature section that combines a clear introductory block with a varied bento grid of capability cards. Large visual cards establish hierarchy while smaller text-led cards create a flexible, scannable catalogue of product strengths.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/astro-build/2448cc02-1e48-497c-9333-8941f9d81557-1789073852-6.webp",
+  "prompts": [
+    "kage/component--astro-build-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/astro-build-landing-page",
+  "product": "astro-build",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=bento-layout",
+    "search?q=saas",
+    "search?q=developer-tools"
+  ],
+  "pageSha256": "17fbe4b44d768341b54a608dfee1add436ca8169ac76bfd6daa2504199c10579"
+}

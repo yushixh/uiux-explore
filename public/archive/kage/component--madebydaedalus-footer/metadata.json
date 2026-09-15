@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--madebydaedalus-footer",
+  "source": "kage",
+  "slug": "component--madebydaedalus-footer",
+  "url": "https://kage.design/component/madebydaedalus-footer",
+  "name": "Minimal brand footer by madebydaedalus.com",
+  "description": "A quiet, highly structured footer uses a three-part horizontal layout: brand anchor on the left, a short positioning line centered, and utility/accessibility controls on the right. Generous whitespace, a pale top rule, restrained typography, and a small colour accent keep the section polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/madebydaedalus-com/ae0cc407-2597-43fd-9c0f-0722227b2dcc-1789060550-6.webp",
+  "prompts": [
+    "kage/component--madebydaedalus-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/madebydaedalus-landing-page",
+  "product": "madebydaedalus-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=minimal",
+    "search?q=brand",
+    "search?q=accessibility"
+  ],
+  "pageSha256": "e8e3683cab7e728fa09d0516801529b5491a29ff22148bcfc701a18e1d92bf10"
+}

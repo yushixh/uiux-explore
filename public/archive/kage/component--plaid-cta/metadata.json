@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--plaid-cta",
+  "source": "kage",
+  "slug": "component--plaid-cta",
+  "url": "https://kage.design/component/plaid-cta",
+  "name": "Dark editorial CTA banner by plaid.com",
+  "description": "A high-impact promotional banner that pairs oversized editorial typography with a deep navy canvas, luminous cyan gradient edge, and abstract technical artwork. Its strong left-aligned message and compact pill CTA remain readable while the right side carries the visual drama.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/plaid-com/7f22fbce-e808-4b19-99a1-7dcb31fbfb56-1789060799-3.webp",
+  "prompts": [
+    "kage/component--plaid-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/plaid-landing-page",
+  "product": "plaid-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=hero",
+    "search?q=dark-mode",
+    "search?q=editorial"
+  ],
+  "pageSha256": "f57f182dc460e0078508a8c05fe043d04a7a8dc534de83734e2e23376c8dcb09"
+}

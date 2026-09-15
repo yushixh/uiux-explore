@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stripe-hero",
+  "source": "kage",
+  "slug": "component--stripe-hero",
+  "url": "https://kage.design/component/stripe-hero",
+  "name": "Gradient-backed SaaS growth hero by stripe.com",
+  "description": "A high-impact product hero pairs a concise global navigation with oversized, outcome-led typography, conversion-focused actions, and a restrained customer proof rail. The abstract multicolor sweep adds energy and depth while the text remains readable on a light, spacious canvas.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stripe-com/f883ce83-9776-477f-9170-0bb4400c0ec7-1789067511-1.webp",
+  "prompts": [
+    "kage/component--stripe-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stripe-landing-page",
+  "product": "stripe-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=gradient",
+    "search?q=navigation"
+  ],
+  "pageSha256": "bb1976c962931ff66dfa007fa93866f7edb9f0d1a207687442f2333a0d49a71e"
+}

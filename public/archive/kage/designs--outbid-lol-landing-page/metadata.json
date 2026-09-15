@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--outbid-lol-landing-page",
+  "source": "kage",
+  "slug": "designs--outbid-lol-landing-page",
+  "url": "https://kage.design/designs/outbid-lol-landing-page",
+  "name": "outbid.lol — pay-to-rank product leaderboard by outbid.lol",
+  "description": "A pay-to-rank leaderboard where the design gamifies scarcity: one hot-orange accent marks everything money-related — bid prices, active pills, the claim button — while the rest of the page stays near-monochrome. The hero compresses pitch and action into a single row (a live bid price with tiny steppers, a URL input, a category select, a claim button), then hands off to a dense 50-row feed in which the top three ranks are tinted peach, a live-activity strip interrupts after #10, and a 'TOP 20' pill divider resets the rhythm before progressively quieter mid-table rows finish in numbered pagination. Fully-rounded pill controls, tabular rank numerals, 12px meta labels and hairline dividers keep 2,870 products scannable; a compact sidebar mini-ranking and a three-card stats band close the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/outbid-lol/7d6cde02-1b78-43c8-adde-d87a2555099d-1789139287563.webp",
+  "prompts": [
+    "kage/designs--outbid-lol-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "outbid-lol",
+  "tags": [
+    "search?q=leaderboard",
+    "search?q=bidding",
+    "search?q=ranked-feed",
+    "search?q=pill-filters",
+    "search?q=live-counters",
+    "search?q=orange-accent",
+    "search?q=sidebar-ranking",
+    "search?q=stats-band"
+  ],
+  "pageSha256": "49550e4d632e0ac654430709ce0b48b0d2bfff481b50fc7fd9c7114b983b1563"
+}

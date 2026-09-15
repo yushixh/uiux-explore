@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--tryobra-feature-grid-2",
+  "source": "kage",
+  "slug": "component--tryobra-feature-grid-2",
+  "url": "https://kage.design/component/tryobra-feature-grid-2",
+  "name": "Construction-ready capabilities by tryobra.com",
+  "description": "A dense 3×3 capability grid translates the product into specific use cases, while the dark treatment and strong borders make the list feel like a specification sheet.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tryobra-com/5ed8a808-d125-4341-bc8a-0a69442cb995-1789152086-7.webp",
+  "prompts": [
+    "kage/component--tryobra-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "tryobra-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=capabilities",
+    "search?q=dark"
+  ],
+  "pageSha256": "d89f3d80c7ddc725c004217d300e613a6d04155ca574be7910862131b0bd414a"
+}

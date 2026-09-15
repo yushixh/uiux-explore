@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--sentry-feature-grid-3",
+  "source": "kage",
+  "slug": "component--sentry-feature-grid-3",
+  "url": "https://kage.design/component/sentry-feature-grid-3",
+  "name": "Context-led feature grid by sentry.io",
+  "description": "A high-contrast, editorial feature section that pairs a strong split-color headline and supporting copy with vertically stacked benefit statements and a product visual. Active and inactive feature rows create hierarchy while a vivid accent frame draws attention to the most important message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sentry-io/7f1d8e63-d1c6-4f27-8b0e-be764e2f10af-1789073904-6.webp",
+  "prompts": [
+    "kage/component--sentry-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sentry-landing-page",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=ai",
+    "search?q=alternating-content"
+  ],
+  "pageSha256": "99779de98b3db43c79c7660cc7b8809d982aead6d2be405e6c37553fc8527f19"
+}

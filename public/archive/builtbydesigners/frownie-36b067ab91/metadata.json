@@ -1,0 +1,22 @@
+{
+  "id": "frownie-36b067ab91",
+  "name": "Frownie",
+  "description": "A Mac menu bar app that detects when you frown and reminds you to relax your forehead.",
+  "shortInfo": "Mac reminders to relax your forehead",
+  "url": "https://frownie.app/",
+  "handle": "itsloukman",
+  "creatorName": "Loukman",
+  "creatorUrl": "https://x.com/itsloukman",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Productivity",
+  "categories": [
+    "Productivity"
+  ],
+  "launchDate": "2026-09-09",
+  "added": "2026-09-09",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/frownie-36b067ab91/reviewed-icon-1789030254648-PODucubLjKSKrKMALq6BQqUg6q8zr6.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/mttysk51-frownie/avatar-mtucl3yq-g94Xh3VYZwhZWDq9MVtF2skv118KrY.jpg",
+  "shot": "/screenshots/frownie-36b067ab91.webp"
+}

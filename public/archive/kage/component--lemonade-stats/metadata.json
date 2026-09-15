@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lemonade-stats",
+  "source": "kage",
+  "slug": "component--lemonade-stats",
+  "url": "https://kage.design/component/lemonade-stats",
+  "name": "Switching and savings proof by lemonade.com",
+  "description": "A switching-focused heading is supported by a cluster of circular percentage statistics and a direct conversion CTA. The irregular cluster gives the data a memorable visual rhythm while keeping the message concise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lemonade-com/fec12946-54bf-4cf0-ac52-dcd9bbeb95c9-1789146826-5.webp",
+  "prompts": [
+    "kage/component--lemonade-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lemonade-landing-page",
+  "product": "lemonade-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=switching",
+    "search?q=savings"
+  ],
+  "pageSha256": "b750d1c2864b8105857d7a7058cb7287f8f317cd7036e644e89c9faaf3b91aa4"
+}

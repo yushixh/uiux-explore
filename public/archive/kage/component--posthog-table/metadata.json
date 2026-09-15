@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--posthog-table",
+  "source": "kage",
+  "slug": "component--posthog-table",
+  "url": "https://kage.design/component/posthog-table",
+  "name": "Usage-based pricing comparison table by posthog.com",
+  "description": "A compact pricing reference table turns a dense usage-based pricing explanation into an easy-to-scan comparison. Strong column hierarchy, restrained borders, product links, and generous surrounding whitespace make the data feel approachable rather than spreadsheet-heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/posthog-com/73877279-c1a4-4217-acde-d4b5e92c7eb5-1789060472-3.webp",
+  "prompts": [
+    "kage/component--posthog-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/posthog-landing-page",
+  "product": "posthog-com",
+  "tags": [
+    "search?q=pricing",
+    "search?q=comparison",
+    "search?q=table",
+    "search?q=saas"
+  ],
+  "pageSha256": "1f31dda835ebde6fe4ec49ffad2099fa5af1d49d45bb98620d0fef95df1e0a0c"
+}

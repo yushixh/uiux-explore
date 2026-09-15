@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--attio-feature-grid-2",
+  "source": "kage",
+  "slug": "component--attio-feature-grid-2",
+  "url": "https://kage.design/component/attio-feature-grid-2",
+  "name": "Signal-led feature grid by attio.com",
+  "description": "A high-contrast, editorial feature section that pairs a compact navigation rail with oversized messaging and spacious visual panels. It works through strong hierarchy, restrained borders, muted secondary text, and tab-like feature labels that suggest a broader product story without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060460-6.webp",
+  "prompts": [
+    "kage/component--attio-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=tabs",
+    "search?q=bento-layout"
+  ],
+  "pageSha256": "d1e6db7e9f506ae64738f22d6f519d5846379e718e1504b34440c0e85d78c7e6"
+}

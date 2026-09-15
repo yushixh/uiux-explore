@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--typewise-nova-stats",
+  "source": "kage",
+  "slug": "component--typewise-nova-stats",
+  "url": "https://kage.design/component/typewise-nova-stats",
+  "name": "Proof points and trust bar by Typewise Nova",
+  "description": "A restrained dark-mode credibility section that combines three headline metrics, an external review signal, and a quiet customer logo grid. Strong typographic contrast, thin dividers, and generous negative space make the evidence feel credible rather than promotional.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/typewise-nova/b4948f23-79f3-4392-9236-ca27a7b6b602-1789106476-3.webp",
+  "prompts": [
+    "kage/component--typewise-nova-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/typewise-nova-landing-page",
+  "product": "typewise-nova",
+  "tags": [
+    "search?q=stats",
+    "search?q=social-proof",
+    "search?q=trust",
+    "search?q=dark-ui"
+  ],
+  "pageSha256": "075916c96603d76b5d2e80c67ac99cd369337da10bf36cd0e105216e493e797e"
+}

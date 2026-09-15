@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--viso-now-gallery-3",
+  "source": "kage",
+  "slug": "component--viso-now-gallery-3",
+  "url": "https://kage.design/component/viso-now-gallery-3",
+  "name": "Customer story card carousel by Viso Now",
+  "description": "A high-contrast customer-story gallery that pairs an oversized editorial headline with a short supporting message and a horizontally overflowing row of image-led case study cards. The restrained palette, generous whitespace, consistent card anatomy, and partial off-canvas cards create a polished, browsable showcase without overwhelming the content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106577-7.webp",
+  "prompts": [
+    "kage/component--viso-now-gallery-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/viso-now-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=carousel",
+    "search?q=case+studies",
+    "search?q=cards",
+    "search?q=gallery"
+  ],
+  "pageSha256": "4b95435e191b102953c8771b73dd1a954f1611194c127b86d5138acea18936d2"
+}

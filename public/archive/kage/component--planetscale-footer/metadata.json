@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--planetscale-footer",
+  "source": "kage",
+  "slug": "component--planetscale-footer",
+  "url": "https://kage.design/component/planetscale-footer",
+  "name": "Editorial Link-Grid Footer by planetscale.com",
+  "description": "A restrained, editorial footer organizes navigation into evenly divided columns, then separates legal metadata and social links into clear horizontal bands. Monospaced typography, dashed rules, generous whitespace, and a near-white canvas give the component a technical, utilitarian character while keeping many links easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/planetscale-com/b4abfdd8-cd39-4289-8914-c1bd40d118b4-1789060674-8.webp",
+  "prompts": [
+    "kage/component--planetscale-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/planetscale-landing-page",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=link-grid",
+    "search?q=monospace",
+    "search?q=responsive",
+    "search?q=legal"
+  ],
+  "pageSha256": "f7c1ad7f6d1ca98353afd98476b6b9c4a4c55a82f7f11b8234cf7be6e0f56edf"
+}

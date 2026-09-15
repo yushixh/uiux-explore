@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--strawberrybrowser-faq",
+  "source": "kage",
+  "slug": "component--strawberrybrowser-faq",
+  "url": "https://kage.design/component/strawberrybrowser-faq",
+  "name": "Editorial testimonial grid by strawberrybrowser.com",
+  "description": "A warm, editorial six-card testimonial grid uses consistent card geometry, generous whitespace, and compact attribution rows to make varied customer quotes feel structured, credible, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/strawberrybrowser-com/0a6dd4bb-409f-4c45-aa48-6abac7e2076e-1789060564-9.webp",
+  "prompts": [
+    "kage/component--strawberrybrowser-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/strawberrybrowser-landing-page",
+  "product": "strawberrybrowser-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=grid",
+    "search?q=social-proof",
+    "search?q=cards"
+  ],
+  "pageSha256": "d84c1fc91405759bcec52f09091cd11dd88b548d3576e5f880cd50f4d0fd6bd3"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--sentry-landing-page",
+  "source": "kage",
+  "slug": "designs--sentry-landing-page",
+  "url": "https://kage.design/designs/sentry-landing-page",
+  "name": "Sentry developer monitoring landing page by sentry.io",
+  "description": "A deep purple-black starfield sets a space theme that carries through cartoon mascots and retro illustration, while a repeating two-tone headline pattern (white first line, hot-pink second line) gives every section the same signature. Proof is handled through bordered dark cards embedding miniature UI mockups and split sections that pair pink-ruled step lists with product screenshots ringed in pink, so dense feature content stays legible. Rhythm shifts down the page: dense feature grids give way to an airy testimonial trio, then a hands-on terminal install block, trust badges, a newsletter card, an oversized closing CTA, and a dense four-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/sentry-io/7f1d8e63-d1c6-4f27-8b0e-be764e2f10af-1789073668428.webp",
+  "prompts": [
+    "kage/designs--sentry-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "sentry-io",
+  "tags": [
+    "search?q=dark-hero",
+    "search?q=product-mockups",
+    "search?q=illustrated-mascot",
+    "search?q=logo-cloud",
+    "search?q=terminal-install",
+    "search?q=testimonials",
+    "search?q=compliance-badges",
+    "search?q=pink-accent"
+  ],
+  "pageSha256": "7e828fa0a5e521fb7d91a681b341b1a859bc0712eee026aa2a9df5904b595b31"
+}

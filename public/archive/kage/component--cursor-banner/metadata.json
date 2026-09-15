@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cursor-banner",
+  "source": "kage",
+  "slug": "component--cursor-banner",
+  "url": "https://kage.design/component/cursor-banner",
+  "name": "Minimal Verification Error Banner by cursor.com",
+  "description": "A restrained browser-verification failure state that uses generous whitespace, a centered message stack, and quiet secondary metadata to communicate an interruption without visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cursor-com/5392efee-9a9c-40ed-b07e-39a30ea372bb-1789060316-0.webp",
+  "prompts": [
+    "kage/component--cursor-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cursor-empty-state",
+  "product": "cursor-com",
+  "tags": [
+    "search?q=error",
+    "search?q=system",
+    "search?q=centered",
+    "search?q=minimal"
+  ],
+  "pageSha256": "23a85c1e3c50342f0365140604bf58d4ab5e435fbbe9fc714041cca87f8979e3"
+}

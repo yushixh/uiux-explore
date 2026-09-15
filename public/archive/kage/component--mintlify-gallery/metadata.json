@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mintlify-gallery",
+  "source": "kage",
+  "slug": "component--mintlify-gallery",
+  "url": "https://kage.design/component/mintlify-gallery",
+  "name": "Proof points and customer showcase rail by mintlify.com",
+  "description": "A restrained social-proof section combines three high-impact metrics with a spacious customer-story banner and a horizontally clipped showcase rail. The strong typographic hierarchy, faint dividers, directional controls, and vivid card backgrounds create credibility without making the section feel dense.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mintlify-com/71224961-d985-451b-9e35-e02eddcee178-1789060645-7.webp",
+  "prompts": [
+    "kage/component--mintlify-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mintlify-landing-page",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=metrics",
+    "search?q=showcase",
+    "search?q=carousel",
+    "search?q=social+proof"
+  ],
+  "pageSha256": "a249d3b77c92a6a64db26f91739b8b1bbfaab9ad1c94dec96795f13fdbf697cc"
+}

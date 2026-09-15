@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--superhuman-hero-2",
+  "source": "kage",
+  "slug": "component--superhuman-hero-2",
+  "url": "https://kage.design/component/superhuman-hero-2",
+  "name": "Centered productivity hero by superhuman.com",
+  "description": "A spacious, editorial SaaS hero that pairs a compact product eyebrow with a large two-line value proposition, supporting copy, and a focused primary/secondary CTA row. The broad whitespace and softly framed visual cards below create a calm, premium transition into the product story.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060755-6.webp",
+  "prompts": [
+    "kage/component--superhuman-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=centered",
+    "search?q=cta"
+  ],
+  "pageSha256": "8f6732bfc098d8f823eb9dfd01a31f4acf35d5796ef6d3e65664064c5eb45130"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--framer-navigation",
+  "source": "kage",
+  "slug": "component--framer-navigation",
+  "url": "https://kage.design/component/framer-navigation",
+  "name": "Minimal dark product navigation by framer.com",
+  "description": "A compact, high-contrast header that balances a recognizable brand mark, horizontally grouped navigation, and a clear authentication/action area. Muted links keep the black canvas quiet while a bright rounded primary action creates an obvious endpoint.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/framer-com/fbc97830-061d-4fdf-8e20-ea2d86299263-1789060389-0.webp",
+  "prompts": [
+    "kage/component--framer-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/framer-landing-page",
+  "product": "framer-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=dark+ui",
+    "search?q=saas",
+    "search?q=header"
+  ],
+  "pageSha256": "672766259b40c7e6e96aaa8e3020c97a8724c6be70b0a5b7e61c58f8cb1cdbd1"
+}

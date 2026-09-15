@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--huggingface-og-image",
+  "source": "kage",
+  "slug": "designs--huggingface-og-image",
+  "url": "https://kage.design/designs/huggingface-og-image",
+  "name": "Hugging Face OG social card by huggingface.co",
+  "description": "A 1200×630 share card built around a single focal row: a die-cut sticker mascot on the left balanced by a two-line, extra-bold near-black headline on the right, the whole group vertically and horizontally centered on a white canvas with a barely-there grey gradient toward the bottom. Hierarchy comes entirely from scale and weight contrast — roughly 90px headline type against the ~200px mark — with the sticker's white outline and soft shadow giving the mark lift off the flat background. All margins are generous (top and bottom quarters are pure whitespace), so the card stays legible at thumbnail size in Slack or X previews.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/huggingface-co/3b9b40c8-7480-44fb-8849-e2f2d14bca03-1789073699538.webp",
+  "prompts": [
+    "kage/designs--huggingface-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "huggingface-co",
+  "tags": [
+    "search?q=og-image",
+    "search?q=mascot",
+    "search?q=sticker-outline",
+    "search?q=bold-sans",
+    "search?q=two-line-headline",
+    "search?q=centered-composition",
+    "search?q=light-gradient",
+    "search?q=large-whitespace"
+  ],
+  "pageSha256": "1696d445c7e2a1383e9a8bb661c34a498be7b2da088592113204ba8a01b814b3"
+}

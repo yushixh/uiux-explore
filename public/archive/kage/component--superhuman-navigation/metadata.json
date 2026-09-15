@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--superhuman-navigation",
+  "source": "kage",
+  "slug": "component--superhuman-navigation",
+  "url": "https://kage.design/component/superhuman-navigation",
+  "name": "Minimal SaaS navigation bar by superhuman.com",
+  "description": "A restrained, high-clarity header that balances brand recognition, product discovery, and account actions in a single horizontal row. Generous whitespace, subtle controls, and a soft colour transition below make it feel premium without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/superhuman-com/aa0f5749-a8ae-405c-9afb-679f6a47222d-1789060753-0.webp",
+  "prompts": [
+    "kage/component--superhuman-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/superhuman-landing-page",
+  "product": "superhuman-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=saas",
+    "search?q=header",
+    "search?q=dropdown"
+  ],
+  "pageSha256": "580269e5e25c8b82100e7a7c8ab76c46c9c26f0a32d4e4c05e93389fc00cb376"
+}

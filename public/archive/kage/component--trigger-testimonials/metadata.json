@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-testimonials",
+  "source": "kage",
+  "slug": "component--trigger-testimonials",
+  "url": "https://kage.design/component/trigger-testimonials",
+  "name": "Dark footer conversion grid by trigger.dev",
+  "description": "A high-contrast closing section that pairs a strong call to action with compact value propositions, then transitions into a structured multi-column footer. Its effectiveness comes from clear column boundaries, restrained typography, vivid accent icons, and a single prominent action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073778-10.webp",
+  "prompts": [
+    "kage/component--trigger-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=footer",
+    "search?q=conversion",
+    "search?q=dark-ui",
+    "search?q=link-grid"
+  ],
+  "pageSha256": "06a82cfe7a7b27344bcc74f889eaff6ddaad903b8dd2954844e432e5bce85d08"
+}

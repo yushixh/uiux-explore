@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--railway-landing-page",
+  "source": "kage",
+  "slug": "designs--railway-landing-page",
+  "url": "https://kage.design/designs/railway-landing-page",
+  "name": "Railway cloud platform landing page by railway.com",
+  "description": "A near-black, long-scroll landing page that pairs an editorial serif display face with monospace UI labels, set against a vaporwave illustrated hero (starry sky, gradient mountains, train). The page runs on a repeating 'chapter' skeleton — monospace eyebrow tag, serif heading, one-line support copy with a Learn more arrow, a large product screenshot, a 3-up blurb row, and an 'Alternative to' competitor icon row — so rhythm comes from repetition while section backgrounds subtly shift tint (deep green for observability, deep purple elsewhere) to mark transitions. Dense, hairline-bordered logo wall and monospace flip-counter stats provide contrast to the airy feature sections, with purple reserved almost exclusively for the primary CTA and green for status/success states.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/railway-com/2043945d-689d-427f-b51d-92aa383b8c92-1789060083072.webp",
+  "prompts": [
+    "kage/designs--railway-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "railway-com",
+  "tags": [
+    "search?q=dark-theme",
+    "search?q=serif-headlines",
+    "search?q=monospace",
+    "search?q=product-screenshots",
+    "search?q=logo-wall",
+    "search?q=testimonials",
+    "search?q=flip-counter",
+    "search?q=vaporwave-hero"
+  ],
+  "pageSha256": "c6de581349f2cfdd0ef7aece7772f2152d05b957ede2c888efa7c3a41c0f958b"
+}

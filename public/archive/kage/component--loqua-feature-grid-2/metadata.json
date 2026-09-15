@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--loqua-feature-grid-2",
+  "source": "kage",
+  "slug": "component--loqua-feature-grid-2",
+  "url": "https://kage.design/component/loqua-feature-grid-2",
+  "name": "Product capability stories by Loqua",
+  "description": "Several editorial capability bands use centered serif section titles and alternating text/video placeholders to explain dictation, translation, capture, and editing workflows.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loqua/e5cf041a-edc7-487a-b4b8-8f4d563da4de-1789192873-4.webp",
+  "prompts": [
+    "kage/component--loqua-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "loqua",
+  "tags": [
+    "search?q=capabilities",
+    "search?q=alternating",
+    "search?q=video-cards"
+  ],
+  "pageSha256": "aa109ee064dea9332440f72ddfb2475cb84efd9e7d503ae22cb46be58dbcffa0"
+}

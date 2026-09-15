@@ -1,0 +1,28 @@
+{
+  "id": "kage--designs--cal-landing-page",
+  "source": "kage",
+  "slug": "designs--cal-landing-page",
+  "url": "https://kage.design/designs/cal-landing-page",
+  "name": "Cal.com scheduling landing page by cal.com",
+  "description": "A near-monochrome scheduling landing page built from white cards with hairline borders floating on an off-white canvas, where black is the only accent — reserved for CTAs, section badges and the selected calendar day. The hero pairs a three-line display headline and stacked auth buttons with a functional-looking booking widget (duration pills, timezone row, month grid), so the product demos itself above the fold. Below the hero the rhythm alternates between centred badge–headline–CTA sections and denser grids: three numbered step cards, a 2×2 bento of feature cards each embedding a real UI fragment (settings dropdowns, booking URL, mini week calendar, notification toast), an 8-tile icon grid, a masonry testimonial wall, an accordion FAQ and a final CTA with award laurels, closing on an unusually deep footer with platform download badges, compliance marks and multi-column links.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cal-com/cdeba7c5-dd46-4ce9-ba9c-2d344d57a58b-1789060022408.webp",
+  "prompts": [
+    "kage/designs--cal-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "cal-com",
+  "tags": [
+    "search?q=calendar-widget-hero",
+    "search?q=pill-buttons",
+    "search?q=numbered-steps",
+    "search?q=bento-feature-grid",
+    "search?q=masonry-testimonials",
+    "search?q=faq-accordion",
+    "search?q=app-logo-grid",
+    "search?q=deep-footer",
+    "search?q=monochrome"
+  ],
+  "pageSha256": "fc87f864a2d2ded02bd43a5cecc88504231df884dfc423601066cacd752a150a"
+}

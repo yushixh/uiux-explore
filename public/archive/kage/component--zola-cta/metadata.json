@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--zola-cta",
+  "source": "kage",
+  "slug": "component--zola-cta",
+  "url": "https://kage.design/component/zola-cta",
+  "name": "Expert support call to action by zola.com",
+  "description": "A horizontal split pairs a friendly support visual with a concise promise and a single dark CTA, reducing uncertainty near the end of the journey.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/zola-com/ad1936e8-70c2-47e9-b9d5-59869832f93f-1789146311-6.webp",
+  "prompts": [
+    "kage/component--zola-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/zola-landing-page",
+  "product": "zola-com",
+  "tags": [
+    "search?q=support",
+    "search?q=cta",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "676a62a7e10d45eaf601be3e73b097537f22211ed12d08b2993c9039e8111b92"
+}

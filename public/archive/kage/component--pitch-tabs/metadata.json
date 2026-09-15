@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--pitch-tabs",
+  "source": "kage",
+  "slug": "component--pitch-tabs",
+  "url": "https://kage.design/component/pitch-tabs",
+  "name": "Editorial category tabs by pitch.com",
+  "description": "A spacious, high-contrast category switcher pairs a concise introduction with oversized typographic labels and a compact preview strip for the selected category. The restrained active state and generous vertical rhythm make the interaction feel more like browsing a curated collection than operating a conventional tab bar.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/pitch-com/6703b162-6073-44e6-a626-e3df0dc35c4b-1789060649-8.webp",
+  "prompts": [
+    "kage/component--pitch-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/pitch-landing-page",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=tabs",
+    "search?q=editorial",
+    "search?q=templates",
+    "search?q=responsive",
+    "search?q=showcase"
+  ],
+  "pageSha256": "ce922e3a9398bc716368306e0b2f21acb951d976c37ffb87ccc50ea325c8870c"
+}

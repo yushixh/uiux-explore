@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cadenya-faq",
+  "source": "kage",
+  "slug": "component--cadenya-faq",
+  "url": "https://kage.design/component/cadenya-faq",
+  "name": "Frequently asked questions by Cadenya",
+  "description": "The FAQ uses the same pale lime surface and grid language, with a fixed editorial heading column and a clean stack of numbered question rows. A load-more control gives the list room to grow without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192868-7.webp",
+  "prompts": [
+    "kage/component--cadenya-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cadenya-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=support",
+    "search?q=grid"
+  ],
+  "pageSha256": "232964164168922d8e0cea48b48d9a229231856810a16f56e84c672f0a175af1"
+}

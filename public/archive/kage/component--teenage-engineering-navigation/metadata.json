@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--teenage-engineering-navigation",
+  "source": "kage",
+  "slug": "component--teenage-engineering-navigation",
+  "url": "https://kage.design/component/teenage-engineering-navigation",
+  "name": "Monochrome utility navigation by teenage.engineering",
+  "description": "A wide, highly structured navigation strip that combines text-led brand identification, iconographic category links, compact utility labels, and a bold graphic mark. It works through strict alignment, generous white space, and a restrained black-and-grey visual system rather than conventional card styling.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/teenage-engineering/02d63820-361c-4c31-b791-8f2d75691669-1789060820-0.webp",
+  "prompts": [
+    "kage/component--teenage-engineering-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/teenage-engineering-landing-page",
+  "product": "teenage-engineering",
+  "tags": [
+    "search?q=navigation",
+    "search?q=monochrome",
+    "search?q=editorial",
+    "search?q=utility"
+  ],
+  "pageSha256": "ee8f371c2a74e702670b218c0a8756e8be8aa2362b4fca5a919f98e7146dd616"
+}

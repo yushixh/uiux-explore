@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--mock-magic-video-presets-landing-page",
+  "source": "kage",
+  "slug": "designs--mock-magic-video-presets-landing-page",
+  "url": "https://kage.design/designs/mock-magic-video-presets-landing-page",
+  "name": "Mock Magic device mockup generator landing page by Mock Magic: Video Presets",
+  "description": "A near-monochrome dark landing page where all colour is quarantined inside product imagery — painterly phone screens and a warm orange editor capture pop against a black canvas. Hierarchy is carried almost entirely by type weight and a strict white-on-black/gray body split; the only chromatic UI elements are green check icons in pricing. Rhythm alternates between split layouts (hero text + cropped device), a full-bleed light-mode app screenshot that inverts the palette for contrast, a three-column feature row, a centred FAQ accordion, twin pricing cards with dimmed locked features, and a dense SEO footer with newsletter capture. Buttons are the inverse of the theme — white fills with black text — so a single CTA style repeats from navbar to footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/mock-magic-video-presets/201a35ef-5103-4614-9439-92b73face5de-1789106514777.webp",
+  "prompts": [
+    "kage/designs--mock-magic-video-presets-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "mock-magic-video-presets",
+  "tags": [
+    "search?q=device-mockups",
+    "search?q=split-hero",
+    "search?q=editor-screenshot",
+    "search?q=feature-columns",
+    "search?q=faq-accordion",
+    "search?q=pricing-cards",
+    "search?q=newsletter-footer",
+    "search?q=monochrome"
+  ],
+  "pageSha256": "58f6764551f8fc28877e88bd548ea06abab041e43c3020111e6790f09356d6bb"
+}

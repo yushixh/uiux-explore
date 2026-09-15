@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--termsquad-feature-grid",
+  "source": "kage",
+  "slug": "component--termsquad-feature-grid",
+  "url": "https://kage.design/component/termsquad-feature-grid",
+  "name": "Work beyond the laptop feature by termsquad.com",
+  "description": "A section introduction establishes the benefit, while a large browser/device composition makes remote continuity tangible. Small directional links and a closing caption turn the visual into a clear product story.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/termsquad-com/d12b8131-9740-4063-aef8-780525dfffce-1789166958-2.webp",
+  "prompts": [
+    "kage/component--termsquad-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/termsquad-landing-page",
+  "product": "termsquad-com",
+  "tags": [
+    "search?q=feature",
+    "search?q=product",
+    "search?q=visual"
+  ],
+  "pageSha256": "47f4f0d6af45e8f7ccbf869f014c980da2c5ebca6fdea79da2e7c3871ab06f2c"
+}

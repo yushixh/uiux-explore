@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fplxi-hero",
+  "source": "kage",
+  "slug": "component--fplxi-hero",
+  "url": "https://kage.design/component/fplxi-hero",
+  "name": "Dashboard hero with team intake and model board by fplxi.com",
+  "description": "A split hero pairs a calm, conversion-focused team intake panel with a dense, credible model-results board. The surrounding navigation and live status strip establish product context while the contrasting card layouts make the primary action and analytical payoff immediately clear.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fplxi-com/54b8421e-1a9f-4884-bebf-8d70ddcd8ef8-1789073156-1.webp",
+  "prompts": [
+    "kage/component--fplxi-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fplxi-landing-page",
+  "product": "fplxi-com",
+  "tags": [
+    "search?q=dashboard",
+    "search?q=hero",
+    "search?q=data-table",
+    "search?q=onboarding"
+  ],
+  "pageSha256": "f336804cd538b06e4af39e91395603db1aec5990d227c5d95df5f35dd142bb30"
+}

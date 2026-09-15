@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--gojo-navigation",
+  "source": "kage",
+  "slug": "component--gojo-navigation",
+  "url": "https://kage.design/component/gojo-navigation",
+  "name": "Blurred Hero Navigation Bar by Gojo",
+  "description": "A compact navigation bar floats over a softly blurred, full-bleed hero background, using high-contrast branding at the edges and restrained centered links. The rounded container, generous side padding, and single CTA create a polished landing-page header without competing with the hero content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106542-0.webp",
+  "prompts": [
+    "kage/component--gojo-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=navigation",
+    "search?q=hero",
+    "search?q=glassmorphism",
+    "search?q=responsive"
+  ],
+  "pageSha256": "e9793ca052a63e06958116033944df84fb11c5dafca0330d7fc73e2b4afbe557"
+}

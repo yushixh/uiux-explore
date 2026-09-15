@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--meetup-feature-grid-3",
+  "source": "kage",
+  "slug": "component--meetup-feature-grid-3",
+  "url": "https://kage.design/component/meetup-feature-grid-3",
+  "name": "Top categories by meetup.com",
+  "description": "Five broad category tiles turn browsing into a visual choice. Large labels sit above minimal icon or illustration treatments with colourful underlines, creating a low-friction exploration step.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/meetup-com/38f9f6c4-75f1-46e9-b1c3-f8b44b19e777-1789146457-5.webp",
+  "prompts": [
+    "kage/component--meetup-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=categories",
+    "search?q=topics",
+    "search?q=navigation"
+  ],
+  "pageSha256": "0c31b6813eb7f6c64def04de13e27a9ce189252f4093da4b047e4b3cd75ef237"
+}

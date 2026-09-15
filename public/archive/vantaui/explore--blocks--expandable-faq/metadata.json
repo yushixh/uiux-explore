@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--expandable-faq",
+  "source": "vantaui",
+  "slug": "explore--blocks--expandable-faq",
+  "url": "https://www.vantaui.com/explore/blocks/expandable-faq",
+  "name": "Expandable Faq - VantaUI",
+  "description": "Faq section that expands to show more items",
+  "image": "https://vantaui-registry.vercel.app/blocks/expandable-faq",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "76a0f468464e38138dd1b3183f46cedcc9856183bbf414b51d16cfad9b294261"
+}

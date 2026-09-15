@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--strawberrybrowser-testimonials",
+  "source": "kage",
+  "slug": "component--strawberrybrowser-testimonials",
+  "url": "https://kage.design/component/strawberrybrowser-testimonials",
+  "name": "Editorial testimonial mosaic by strawberrybrowser.com",
+  "description": "A warm, editorial testimonial section that uses oversized quotes, varied card proportions, and generous whitespace to make social proof feel human rather than transactional. Soft borders, muted cream tones, and selective accent colour create a calm, premium rhythm while keeping each voice easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/strawberrybrowser-com/0a6dd4bb-409f-4c45-aa48-6abac7e2076e-1789060563-7.webp",
+  "prompts": [
+    "kage/component--strawberrybrowser-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/strawberrybrowser-landing-page",
+  "product": "strawberrybrowser-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=editorial",
+    "search?q=social-proof",
+    "search?q=grid"
+  ],
+  "pageSha256": "d24843bc96ed5fc450bc58fd87e6fc83200d80f4d51067f80c85ef1ef70dbe16"
+}

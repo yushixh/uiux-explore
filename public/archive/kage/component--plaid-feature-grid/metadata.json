@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--plaid-feature-grid",
+  "source": "kage",
+  "slug": "component--plaid-feature-grid",
+  "url": "https://kage.design/component/plaid-feature-grid",
+  "name": "Gradient feature card grid by plaid.com",
+  "description": "A spacious bento-style feature section uses oversized editorial typography and soft luminous cards to turn a broad product portfolio into an easy-to-scan set of destinations. Varied card sizes, concise copy, and restrained arrow affordances create hierarchy while the abstract product UI previews add visual proof without competing with the messages.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/plaid-com/7f22fbce-e808-4b19-99a1-7dcb31fbfb56-1789060799-2.webp",
+  "prompts": [
+    "kage/component--plaid-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/plaid-landing-page",
+  "product": "plaid-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=gradient-cards",
+    "search?q=product-navigation"
+  ],
+  "pageSha256": "91d71069d30bbb00a9578ad5cc4a7ab34bea52332a96ca5953a00efb8066bb09"
+}

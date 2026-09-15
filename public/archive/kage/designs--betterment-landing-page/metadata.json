@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--betterment-landing-page",
+  "source": "kage",
+  "slug": "designs--betterment-landing-page",
+  "url": "https://kage.design/designs/betterment-landing-page",
+  "name": "Betterment wealth management homepage by betterment.com",
+  "description": "A finance landing page that pairs oversized editorial serif headlines with a restrained sans-serif UI layer. The opening uses a vivid blue photographic hero, then shifts through saturated blue product navigation, pale beige editorial sections, image-led proof points, and a deep navy footer; cards, statistics, FAQs, and disclosures progressively increase information density below the hero.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/betterment-com/48b23e19-a777-4bc7-89e7-1aceabf18629-1789146496914.webp",
+  "prompts": [
+    "kage/designs--betterment-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "betterment-com",
+  "tags": [
+    "search?q=serif-headlines",
+    "search?q=full-bleed-photography",
+    "search?q=gradient-sections",
+    "search?q=product-cards",
+    "search?q=trust-signals",
+    "search?q=faq-accordion",
+    "search?q=dense-footer"
+  ],
+  "pageSha256": "840a7c51dfba424dda066fbb444f426cce5241697ced56e544f636638f521c7b"
+}

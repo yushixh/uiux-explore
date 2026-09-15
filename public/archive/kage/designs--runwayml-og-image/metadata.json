@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--runwayml-og-image",
+  "source": "kage",
+  "slug": "designs--runwayml-og-image",
+  "url": "https://kage.design/designs/runwayml-og-image",
+  "name": "Runway OG social card by runwayml.com",
+  "description": "A 1200×630 social card built almost entirely from atmosphere: a soft, defocused gradient field reads like a blurred film still, sweeping from pale warm mist at the lower left into deep teal and near-black corners at the top and right. Hierarchy is carried by exactly two text elements — a single line of light-weight white grotesque headline set across the optical middle, and a small lowercase wordmark near the bottom center — with the darkened upper edge doing the legibility work so no boxes or overlays are needed. The enormous negative space and the absence of any UI, buttons or product imagery give it a cinematic, editorial restraint that suits a generative-video brand.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/runwayml-com/89370747-7699-4034-81b1-650c02a28dbc-1789073700462.webp",
+  "prompts": [
+    "kage/designs--runwayml-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "runwayml-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=cinematic-blur",
+    "search?q=gradient-field",
+    "search?q=light-typography",
+    "search?q=centered-wordmark",
+    "search?q=negative-space"
+  ],
+  "pageSha256": "e6bfc6952ee7c50b9d2ae8be5b6f0bd7fe046e3ede99bbf20f5ca36d5795d834"
+}

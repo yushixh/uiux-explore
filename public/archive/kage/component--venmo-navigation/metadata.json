@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--venmo-navigation",
+  "source": "kage",
+  "slug": "component--venmo-navigation",
+  "url": "https://kage.design/component/venmo-navigation",
+  "name": "Primary navigation by venmo.com",
+  "description": "A compact white utility header places the blue wordmark at left, primary product links in the middle, and support, authentication, and menu controls at right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/venmo-com/e421e2ca-b11c-49c9-b106-d3994196da77-1789146507-0.webp",
+  "prompts": [
+    "kage/component--venmo-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/venmo-landing-page",
+  "product": "venmo-com",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=responsive"
+  ],
+  "pageSha256": "53ded7ebb6c6ce394681d3de3dfbaaa3871c36a47e103d80772b3823036430f5"
+}

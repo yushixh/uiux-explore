@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--peerspace-landing-page",
+  "source": "kage",
+  "slug": "designs--peerspace-landing-page",
+  "url": "https://kage.design/designs/peerspace-landing-page",
+  "name": "Peerspace landing page by peerspace.com",
+  "description": "Peerspace's homepage alternates hard colour blocks — black hero, deep-violet awards banner, white category section, black filmstrip and city list, cream editorial breaks — each anchored by large credited photography like 'Production — Super8 studio, Houston TX'. Scale contrast carries the hierarchy: 100px+ grotesque headlines sit against 11px uppercase micro-labels and tiny state/country captions. Interaction is photo-led throughout: a floating three-field search card rides the hero, the activity tag cloud swaps the adjacent image, the dimmed grey city list brightens on hover, and carousels use thin arrows with 01/03 counters.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146201971.webp",
+  "prompts": [
+    "kage/designs--peerspace-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=photography-led",
+    "search?q=oversized-typography",
+    "search?q=search-first-hero",
+    "search?q=hover-image-swap",
+    "search?q=filmstrip-carousel",
+    "search?q=color-blocking",
+    "search?q=editorial-credits",
+    "search?q=marketplace"
+  ],
+  "pageSha256": "8d9a091ac2fa6d18a1ea770dbaaab8043da25fda6676f0b5b0b418542bddf096"
+}

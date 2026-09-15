@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--dockfix-5-0-footer",
+  "source": "kage",
+  "slug": "component--dockfix-5-0-footer",
+  "url": "https://kage.design/component/dockfix-5-0-footer",
+  "name": "Multi-column product footer by DockFix 5.0",
+  "description": "The footer uses a dark field, an oversized subdued wordmark area, several compact navigation columns, and a final legal row to close the page quietly.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/dockfix-5-0/2c092be4-cae6-431a-8bc7-3fef5352fd95-1789279443-6.webp",
+  "prompts": [
+    "kage/component--dockfix-5-0-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "dockfix-5-0",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "3e0c111c2ed9276069db49e283a6b0eaf2ca799b5329a9de5aeabf4dcd11f148"
+}

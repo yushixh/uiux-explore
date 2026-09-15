@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ramp-gallery",
+  "source": "kage",
+  "slug": "component--ramp-gallery",
+  "url": "https://kage.design/component/ramp-gallery",
+  "name": "Connected systems collage by ramp.com",
+  "description": "A centered editorial gallery that makes a complex multi-step workflow feel tangible by combining a strong headline, quiet supporting copy, and a loose collage of interface fragments connected by dotted paths. The generous whitespace and subtle shadows keep the visual story legible without turning it into a conventional dashboard.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060915-5.webp",
+  "prompts": [
+    "kage/component--ramp-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=gallery",
+    "search?q=workflow",
+    "search?q=saas",
+    "search?q=systems"
+  ],
+  "pageSha256": "5668eeda9ac6d1be9b37115bf013064f1db9303566818c2f876f0611d468f6cd"
+}

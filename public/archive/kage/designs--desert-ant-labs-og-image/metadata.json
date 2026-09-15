@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--desert-ant-labs-og-image",
+  "source": "kage",
+  "slug": "designs--desert-ant-labs-og-image",
+  "url": "https://kage.design/designs/desert-ant-labs-og-image",
+  "name": "Desert Ant Labs social card by Desert Ant Labs",
+  "description": "A roughly 1200×630 off-white social card uses a sparse, left-anchored composition with generous negative space. A small black rounded-square mark sits in the upper-left, while the focal headline occupies the lower-left in two oversized lines: the first has a soft grainy texture and the second is crisp, heavy black type; a small monospaced URL provides a quiet footer detail.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/desert-ant-labs/3d4185b9-43a5-4715-af3c-0e39490fc3a5-1789106537383.webp",
+  "prompts": [
+    "kage/designs--desert-ant-labs-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "desert-ant-labs",
+  "tags": [
+    "search?q=social-card",
+    "search?q=oversized-type",
+    "search?q=grain-texture",
+    "search?q=monochrome",
+    "search?q=asymmetric-layout",
+    "search?q=wordmark",
+    "search?q=high-contrast"
+  ],
+  "pageSha256": "05e70ae9f83b5f71b961f9ac84828d70c63885d9a448b681dbb8450cb70c0b05"
+}

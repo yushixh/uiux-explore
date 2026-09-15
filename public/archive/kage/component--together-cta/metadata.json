@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--together-cta",
+  "source": "kage",
+  "slug": "component--together-cta",
+  "url": "https://kage.design/component/together-cta",
+  "name": "Centered gradient CTA with oversized abstract backdrop by together.ai",
+  "description": "This CTA works through a simple centered conversion message paired with a soft, oversized abstract visual field that adds energy without competing with the action. The restrained type hierarchy, high-contrast button, and generous whitespace make the next step immediately legible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/together-ai/60591018-8706-471e-a3f2-ad3109f52987-1789073940-8.webp",
+  "prompts": [
+    "kage/component--together-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/together-landing-page",
+  "product": "together-ai",
+  "tags": [
+    "search?q=cta",
+    "search?q=centered",
+    "search?q=gradient",
+    "search?q=saas"
+  ],
+  "pageSha256": "c8c860d5497e625abaa8d000e3d1c8581c52558ce7f53372ed770a6a89cf2afa"
+}

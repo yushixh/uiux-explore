@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--attio-cta",
+  "source": "kage",
+  "slug": "component--attio-cta",
+  "url": "https://kage.design/component/attio-cta",
+  "name": "Product-led showcase CTA by attio.com",
+  "description": "A centered, editorial CTA pairs a small contextual label with a large two-tone statement, a low-friction action, and a partially visible product interface that makes the promise tangible. The restrained monochrome palette, fine grid lines, and soft panel treatment create a polished, trustworthy SaaS landing-page moment without overwhelming the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060459-4.webp",
+  "prompts": [
+    "kage/component--attio-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=saas",
+    "search?q=product-demo",
+    "search?q=conversion"
+  ],
+  "pageSha256": "123af8bef4a18d4d5a8288bee17b1a131a1b3c161d592ae1b20f635fd7386a4e"
+}

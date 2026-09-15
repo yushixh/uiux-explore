@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--omnea-stats",
+  "source": "kage",
+  "slug": "component--omnea-stats",
+  "url": "https://kage.design/component/omnea-stats",
+  "name": "Customer achievement proof by omnea.co",
+  "description": "A claim-led proof section combines a large retention statement, a customer quote with image, and three large outcome metrics.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/omnea-co/444fd721-a6f8-467e-8179-cf278abe5ec1-1789142167-3.webp",
+  "prompts": [
+    "kage/component--omnea-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/omnea-landing-page",
+  "product": "omnea-co",
+  "tags": [
+    "search?q=stats",
+    "search?q=proof",
+    "search?q=testimonial"
+  ],
+  "pageSha256": "16c4c845f855c22808449392dfa7f625fcd9ba98b421add98451b95766eee145"
+}

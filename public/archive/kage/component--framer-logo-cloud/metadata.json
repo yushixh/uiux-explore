@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--framer-logo-cloud",
+  "source": "kage",
+  "slug": "component--framer-logo-cloud",
+  "url": "https://kage.design/component/framer-logo-cloud",
+  "name": "Minimal monochrome logo cloud by framer.com",
+  "description": "A restrained two-row logo cloud uses generous negative space, consistent visual weight, and muted monochrome marks to communicate credibility without competing with the page’s primary message. The compact centered grid feels editorial and premium while remaining easy to scan across desktop and collapse responsively on smaller screens.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/framer-com/fbc97830-061d-4fdf-8e20-ea2d86299263-1789060389-2.webp",
+  "prompts": [
+    "kage/component--framer-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/framer-landing-page",
+  "product": "framer-com",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=monochrome",
+    "search?q=brand+grid"
+  ],
+  "pageSha256": "b357d4171e0a3a80b464692222fbc673089730640b6f278a252da4081ab64c72"
+}

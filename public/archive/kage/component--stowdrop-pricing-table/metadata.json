@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stowdrop-pricing-table",
+  "source": "kage",
+  "slug": "component--stowdrop-pricing-table",
+  "url": "https://kage.design/component/stowdrop-pricing-table",
+  "name": "Dark FAQ pricing panel by stowdrop.app",
+  "description": "A spacious, dark FAQ section uses a large rounded panel, restrained dividers, and a centered oversized heading to make support content feel calm and premium. The low-contrast structure keeps attention on the questions while a warm accent provides a small, clear interaction cue.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067825-10.webp",
+  "prompts": [
+    "kage/component--stowdrop-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=faq",
+    "search?q=pricing",
+    "search?q=accordion"
+  ],
+  "pageSha256": "919a28a5cc6ab177b4b5ef928b1615d313cdac95ab6f1f27868eb600434772aa"
+}

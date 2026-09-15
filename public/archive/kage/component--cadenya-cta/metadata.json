@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cadenya-cta",
+  "source": "kage",
+  "slug": "component--cadenya-cta",
+  "url": "https://kage.design/component/cadenya-cta",
+  "name": "Add-water conversion block by Cadenya",
+  "description": "A pale lime CTA section uses a framed text card beside a calm landscape visual. The high-contrast color shift creates a clear conversion moment after the darker product explanation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192868-6.webp",
+  "prompts": [
+    "kage/component--cadenya-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cadenya-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=cta",
+    "search?q=split-layout",
+    "search?q=image",
+    "search?q=conversion"
+  ],
+  "pageSha256": "e7c3a849f0378fe79ddc4b5f90390a8b59e1a9cf7d56b5e4e51e262c1c6ac7da"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tailwindcss-gallery",
+  "source": "kage",
+  "slug": "component--tailwindcss-gallery",
+  "url": "https://kage.design/component/tailwindcss-gallery",
+  "name": "Editorial product explainer with code demo by tailwindcss.com",
+  "description": "This section works by pairing a crisp, benefit-led editorial introduction with a large, tactile code workspace that makes the product’s technical value immediately tangible. A restrained grid, monospace metadata, and a dark high-contrast demo create a distinctive rhythm before transitioning into a visual showcase gallery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tailwindcss-com/8ea80760-a5bd-4198-8781-a7bb4737c216-1789073868-5.webp",
+  "prompts": [
+    "kage/component--tailwindcss-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tailwindcss-landing-page",
+  "product": "tailwindcss-com",
+  "tags": [
+    "search?q=editorial",
+    "search?q=code-demo",
+    "search?q=grid-layout",
+    "search?q=product-story"
+  ],
+  "pageSha256": "a113f7526b6a56259a79890e7d100e662ebf1b4e522cb4e9719d3cd0df06601b"
+}

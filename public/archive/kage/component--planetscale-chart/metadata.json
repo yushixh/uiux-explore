@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--planetscale-chart",
+  "source": "kage",
+  "slug": "component--planetscale-chart",
+  "url": "https://kage.design/component/planetscale-chart",
+  "name": "Performance monitoring chart by planetscale.com",
+  "description": "A restrained observability panel that combines summary metrics, a compact time-range navigator, a multi-series latency chart, and a clear event marker. The monochrome shell and thin grid let the coloured percentile lines communicate the performance story without visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/planetscale-com/b4abfdd8-cd39-4289-8914-c1bd40d118b4-1789060673-5.webp",
+  "prompts": [
+    "kage/component--planetscale-chart/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/planetscale-landing-page",
+  "product": "planetscale-com",
+  "tags": [
+    "search?q=charts",
+    "search?q=monitoring",
+    "search?q=metrics",
+    "search?q=database"
+  ],
+  "pageSha256": "301549b0beb1a1d1cb157ccdf41e1b6c2bc9ea674d9acd84a4c502c1db050151"
+}

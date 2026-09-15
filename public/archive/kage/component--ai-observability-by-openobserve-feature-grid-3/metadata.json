@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ai-observability-by-openobserve-feature-grid-3",
+  "source": "kage",
+  "slug": "component--ai-observability-by-openobserve-feature-grid-3",
+  "url": "https://kage.design/component/ai-observability-by-openobserve-feature-grid-3",
+  "name": "Stacked feature showcase by AI Observability by OpenObserve",
+  "description": "A high-contrast, gradient-backed feature section uses repeated white panels to explain a product workflow in scannable stages. Each panel pairs concise benefit-led copy and checkmarked capabilities with a polished product UI preview, creating a strong rhythm between narrative and proof.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ai-observability-by-openobserve/e945d001-9c66-4981-a493-d9cb08ea77ee-1789106506-4.webp",
+  "prompts": [
+    "kage/component--ai-observability-by-openobserve-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=observability",
+    "search?q=product-ui"
+  ],
+  "pageSha256": "daebeaed088856d2692d56d5e0a99eda7db4b00d229720d973d1f32d97cda823"
+}

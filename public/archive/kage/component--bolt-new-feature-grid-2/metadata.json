@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bolt-new-feature-grid-2",
+  "source": "kage",
+  "slug": "component--bolt-new-feature-grid-2",
+  "url": "https://kage.design/component/bolt-new-feature-grid-2",
+  "name": "Dark product capability grid by bolt.new",
+  "description": "A cinematic bento-style feature section uses a centered headline and supporting copy above an asymmetrical grid of bordered cards. Each card pairs concise capability messaging with a restrained blue-glow visual treatment, creating a premium infrastructure-focused feel without overwhelming the hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bolt-new/4e91875d-336e-4c47-bec8-8771acd62040-1789073974-3.webp",
+  "prompts": [
+    "kage/component--bolt-new-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bolt-new-landing-page",
+  "product": "bolt-new",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=bento-layout",
+    "search?q=saas"
+  ],
+  "pageSha256": "49fcec02e2e7fef1c79da42e22ec521534de2d2cacca93f596298c1c70213652"
+}

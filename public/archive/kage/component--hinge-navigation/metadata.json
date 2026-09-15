@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--hinge-navigation",
+  "source": "kage",
+  "slug": "component--hinge-navigation",
+  "url": "https://kage.design/component/hinge-navigation",
+  "name": "Transparent top navigation by hinge.co",
+  "description": "A compact navigation overlays the photographic hero, with left-aligned text links, a centered wordmark, and right-aligned utility links.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hinge-co/fc8d8d16-7276-4f4c-b1c9-567702ba4b3c-1789146937-0.webp",
+  "prompts": [
+    "kage/component--hinge-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hinge-landing-page",
+  "product": "hinge-co",
+  "tags": [
+    "search?q=overlay",
+    "search?q=minimal",
+    "search?q=brand"
+  ],
+  "pageSha256": "86a271c303d809a6fbb0caae3a99da162b563c2a4b914a39db4410540e1677f5"
+}

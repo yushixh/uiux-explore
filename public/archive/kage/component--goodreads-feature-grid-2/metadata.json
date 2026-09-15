@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--goodreads-feature-grid-2",
+  "source": "kage",
+  "slug": "component--goodreads-feature-grid-2",
+  "url": "https://kage.design/component/goodreads-feature-grid-2",
+  "name": "Recommendation examples by goodreads.com",
+  "description": "A pale recommendation panel demonstrates “because you liked this, try this” journeys with two horizontal rows of cover-like tiles and arrows. The visual examples turn an abstract recommendation engine into an immediately understandable experience.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/goodreads-com/0ed04b7a-0db2-4e11-9788-e963511428af-1789146330-3.webp",
+  "prompts": [
+    "kage/component--goodreads-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/goodreads-landing-page",
+  "product": "goodreads-com",
+  "tags": [
+    "search?q=books",
+    "search?q=recommendations",
+    "search?q=visual"
+  ],
+  "pageSha256": "8880498ab7418bdcaffe0fe7b44c7320fa6b0960d829a9d108865bca88e058f4"
+}

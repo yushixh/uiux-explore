@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ramp-testimonials",
+  "source": "kage",
+  "slug": "component--ramp-testimonials",
+  "url": "https://kage.design/component/ramp-testimonials",
+  "name": "Scrolling testimonial wall by ramp.com",
+  "description": "A restrained social-proof section combines a centered proof-oriented heading and CTA with a dense, horizontally scrolling wall of customer quote cards. Repeated card structure, muted metadata, subtle borders, and edge fades make a large volume of testimonials feel credible without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060916-9.webp",
+  "prompts": [
+    "kage/component--ramp-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social-proof",
+    "search?q=cards",
+    "search?q=marquee"
+  ],
+  "pageSha256": "bbbd8c1f6ddb5b63198908e67e03b5d81c79a34545b211191627ce3a80bb9ef2"
+}

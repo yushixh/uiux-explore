@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--eventbrite-landing-page",
+  "source": "kage",
+  "slug": "designs--eventbrite-landing-page",
+  "url": "https://kage.design/designs/eventbrite-landing-page",
+  "name": "Eventbrite event discovery homepage by eventbrite.com",
+  "description": "The page opens with a full-bleed concert photo hero whose headline sits on pink-to-purple highlight blocks, with a small pink eyebrow badge and a single white pill CTA — playful but tightly cropped. Below, rhythm shifts from airy (a white rail of outlined category circles) to functional: a location dropdown and underlined filter tabs feed a 4-column event grid where photos, overlay heart/share icons, urgency badges and blue price links carry all the weight while headings stay small. Down the page imagery fades out deliberately: a scrollable destination photo carousel, then three text-only pill-link clusters ('Popular cities', 'Explore by State', nearby cities) that get denser and cheaper to render, before a deep purple 4-column footer. Colour is disciplined: orange only for the logo and search button, blue only for links and active tabs, letting photos provide the vibrancy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/eventbrite-com/7528d4f6-3311-4de9-a3b5-4d616b4b671a-1789146236909.webp",
+  "prompts": [
+    "kage/designs--eventbrite-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "eventbrite-com",
+  "tags": [
+    "search?q=event-marketplace",
+    "search?q=card-grid",
+    "search?q=category-icons",
+    "search?q=filter-tabs",
+    "search?q=photo-carousel",
+    "search?q=pill-links",
+    "search?q=urgency-badges",
+    "search?q=full-bleed-hero"
+  ],
+  "pageSha256": "f28dc4db6c57150afa419ec2465e74026d247f31ae895765b5ba5758208e059d"
+}

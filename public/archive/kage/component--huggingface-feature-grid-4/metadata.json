@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--huggingface-feature-grid-4",
+  "source": "kage",
+  "slug": "component--huggingface-feature-grid-4",
+  "url": "https://kage.design/component/huggingface-feature-grid-4",
+  "name": "Staggered open-source feature grid by huggingface.co",
+  "description": "A spacious editorial feature section that presents a set of open-source projects as colorful, softly bordered cards in staggered columns. The varied vertical rhythm creates a more human, exploratory feel than a rigid product grid while keeping project names, popularity signals, and descriptions easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/huggingface-co/7a35650e-acfa-4ee6-9c74-f477a83c58e6-1789073963-6.webp",
+  "prompts": [
+    "kage/component--huggingface-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/huggingface-landing-page",
+  "product": "huggingface-co",
+  "tags": [
+    "search?q=feature+grid",
+    "search?q=open+source",
+    "search?q=card+layout",
+    "search?q=community"
+  ],
+  "pageSha256": "759028ebaa44e84a4dfc20226995634f5e6e59555673a7395a3274f53749b916"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--render-feature-grid",
+  "source": "kage",
+  "slug": "component--render-feature-grid",
+  "url": "https://kage.design/component/render-feature-grid",
+  "name": "Three-step feature grid by render.com",
+  "description": "A spacious three-column product explainer that turns a complex workflow into three quick, numbered steps. Large typography, restrained UI previews, and generous whitespace make the path from setup to outcome feel simple and approachable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/render-com/a2f1bfec-cff8-46a3-938e-5c68bed6eccd-1789073949-3.webp",
+  "prompts": [
+    "kage/component--render-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/render-landing-page",
+  "product": "render-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=steps",
+    "search?q=saas",
+    "search?q=minimal"
+  ],
+  "pageSha256": "28866f75191548007a724d3f4faee102d52e93bccffecc60daae14777d255a8c"
+}

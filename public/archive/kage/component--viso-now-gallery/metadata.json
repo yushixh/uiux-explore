@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--viso-now-gallery",
+  "source": "kage",
+  "slug": "component--viso-now-gallery",
+  "url": "https://kage.design/component/viso-now-gallery",
+  "name": "Template discovery gallery by Viso Now",
+  "description": "A spacious, editorial gallery section that pairs a strong heading with a compact browse CTA and a dense grid of image-led template cards. Consistent media proportions, restrained typography, and short descriptions make many options scannable without feeling crowded.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106575-3.webp",
+  "prompts": [
+    "kage/component--viso-now-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/viso-now-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=gallery",
+    "search?q=templates",
+    "search?q=cards",
+    "search?q=showcase"
+  ],
+  "pageSha256": "f19f99608f5be281b2ee999295962b3c0d7bbb118eac1d1ac8e81a6dc1e0c6ee"
+}

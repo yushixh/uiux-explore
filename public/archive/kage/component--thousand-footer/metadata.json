@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--thousand-footer",
+  "source": "kage",
+  "slug": "component--thousand-footer",
+  "url": "https://kage.design/component/thousand-footer",
+  "name": "Minimal split footer by Thousand",
+  "description": "A quiet, low-height footer uses a warm neutral canvas, a bold rounded accent band, and a simple split between copyright information and utility links. Its restraint keeps the page ending clear without competing with the main content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/thousand/cb10af68-535d-4246-97d9-03dbd24306a9-1789106640-10.webp",
+  "prompts": [
+    "kage/component--thousand-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/thousand-landing-page",
+  "product": "thousand",
+  "tags": [
+    "search?q=footer",
+    "search?q=minimal",
+    "search?q=navigation",
+    "search?q=responsive"
+  ],
+  "pageSha256": "4d9dd00eee6219db2a0aaf7674c8277870585cf43ace5f006a8503c0536729ac"
+}

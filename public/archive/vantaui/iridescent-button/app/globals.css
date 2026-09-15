@@ -1,0 +1,262 @@
+@property --iridescent-button-shadow-opacity {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 0;
+}
+
+@property --iridescent-button-shadow-spread {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 0;
+}
+
+@property --iridescent-button-bg-opacity {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 0;
+}
+
+@property --iridescent-button-after-opacity {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 0;
+}
+
+@property --coord-y {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 0;
+}
+
+@property --coord-x {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 0;
+}
+
+.iridescent-button {
+  --iridescent-timing: 0.3s;
+  --iridescent-transitions:
+    --coord-y 0.075s linear,
+    --coord-x 0.075s linear,
+    --iridescent-button-shadow-opacity var(--iridescent-timing) ease,
+    --iridescent-button-shadow-spread var(--iridescent-timing) ease,
+    --iridescent-button-bg-opacity var(--iridescent-timing) ease,
+    --iridescent-button-after-opacity var(--iridescent-timing) ease,
+    opacity var(--iridescent-timing) ease,
+    box-shadow var(--iridescent-timing) ease,
+    background-image var(--iridescent-timing) ease;
+
+  --coord-x: 0;
+  --coord-y: 0;
+  --button-shadow-opacity: var(--iridescent-button-shadow-opacity);
+  --button-shadow-spread: var(--iridescent-button-shadow-spread);
+  --button-bg-opacity: var(--iridescent-button-bg-opacity);
+  --button-after-opacity: var(--iridescent-button-after-opacity);
+  --btn-inner-shadow: 1;
+  --iridescent-item-height: 1.5rem;
+
+  --iridescent-bg-button: hsl(179deg 7% 97%);
+  --iridescent-color-button: hsl(359deg 1% 35%);
+  --btn-border-color: transparent;
+
+  --color-red: color(display-p3 0.95 0.06 0.02 / var(--button-bg-opacity));
+  --color-orange: color(display-p3 0.97 0.61 0.07 / var(--button-bg-opacity));
+  --color-olive: color(display-p3 0.83 0.87 0.04 / var(--button-bg-opacity));
+  --color-lime: color(display-p3 0.31 0.89 0.05 / var(--button-bg-opacity));
+  --color-teal: color(display-p3 0.12 0.88 0.88 / var(--button-bg-opacity));
+  --color-tealer: color(display-p3 0.15 0.8 0.93 / var(--button-bg-opacity));
+  --color-blue: color(display-p3 0.14 0.47 0.99 / var(--button-bg-opacity));
+  --color-purple: color(display-p3 0.38 0.14 0.99 / var(--button-bg-opacity));
+  --color-purpler: color(display-p3 0.73 0.04 0.94 / var(--button-bg-opacity));
+  --color-pink: color(display-p3 0.93 0.03 0.85 / var(--button-bg-opacity));
+
+  all: unset;
+  box-sizing: border-box;
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 0.8em;
+  border: 1px solid var(--btn-border-color);
+  color: var(--iridescent-color-button);
+  background-color: rgb(0 0 0 / 6%);
+  background-image: conic-gradient(
+    from 180deg,
+    var(--color-red) 0%,
+    var(--color-orange) 10%,
+    var(--color-olive) 20%,
+    var(--color-lime) 30%,
+    var(--color-teal) 40%,
+    var(--color-tealer) 50%,
+    var(--color-blue) 60%,
+    var(--color-purple) 70%,
+    var(--color-purpler) 80%,
+    var(--color-pink) 90%,
+    var(--color-red) 100%
+  );
+  background-size: calc(100% + 2px);
+  background-position: -1px -1px;
+  box-shadow: 0 8px calc(var(--button-shadow-spread) * 1px) -8px
+    rgb(0 0 0 / calc(var(--button-shadow-opacity) * 1%));
+  transition: var(--iridescent-transitions);
+}
+
+@supports not (color: color(display-p3 0.93 0.03 0.85)) {
+  .iridescent-button {
+    --color-red: hsl(3 93% 48% / var(--button-bg-opacity));
+    --color-orange: hsl(26 91% 52% / var(--button-bg-opacity));
+    --color-olive: hsl(65 89% 46% / var(--button-bg-opacity));
+    --color-lime: hsl(122 86% 48% / var(--button-bg-opacity));
+    --color-teal: hsl(181 78% 50% / var(--button-bg-opacity));
+    --color-tealer: hsl(193 76% 53% / var(--button-bg-opacity));
+    --color-blue: hsl(219 95% 56% / var(--button-bg-opacity));
+    --color-purple: hsl(269 95% 56% / var(--button-bg-opacity));
+    --color-purpler: hsl(292 93% 47% / var(--button-bg-opacity));
+    --color-pink: hsl(327 96% 47% / var(--button-bg-opacity));
+  }
+}
+
+.iridescent-button::before,
+.iridescent-button::after {
+  pointer-events: none;
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8em;
+  content: "";
+  transition: var(--iridescent-transitions);
+  background-image: conic-gradient(
+    from 180deg,
+    var(--color-red) 0%,
+    var(--color-orange) 10%,
+    var(--color-olive) 20%,
+    var(--color-lime) 30%,
+    var(--color-teal) 40%,
+    var(--color-tealer) 50%,
+    var(--color-blue) 60%,
+    var(--color-purple) 70%,
+    var(--color-purpler) 80%,
+    var(--color-pink) 90%,
+    var(--color-red) 100%
+  );
+}
+
+.iridescent-button::before {
+  z-index: -1;
+  filter: saturate(1.2);
+  display: none;
+}
+
+.iridescent-button::after {
+  width: 180%;
+  height: 180%;
+  filter: saturate(2) blur(5px);
+  opacity: calc(var(--button-after-opacity) / 3);
+  transform: translate(
+    calc(calc(var(--coord-x) / 1.5) * 1px),
+    calc(calc(var(--coord-y) / 1.5) * -1px)
+  );
+}
+
+.iridescent-button-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  border-radius: 0.7em;
+  padding: 0.55em 0.85em;
+  background: var(--iridescent-bg-button);
+  box-shadow:
+    inset 0 calc(var(--btn-inner-shadow) * 2px)
+      calc(var(--btn-inner-shadow) * 1px) rgb(255 255 255 / 90%),
+    inset 0 calc(var(--btn-inner-shadow) * -2px)
+      calc(var(--btn-inner-shadow) * 3px) rgb(0 0 0 / 3%);
+}
+
+.iridescent-button--solo .iridescent-button-inner {
+  justify-content: center;
+  padding: 0.55em 1.15em;
+}
+
+.iridescent-button-label,
+.iridescent-button-shortcut {
+  display: inline-flex;
+  align-items: center;
+  box-sizing: border-box;
+  min-height: var(--iridescent-item-height);
+  white-space: nowrap;
+}
+
+.iridescent-button-label {
+  line-height: 1;
+}
+
+.iridescent-button-shortcut {
+  pointer-events: none;
+  justify-content: center;
+  border-radius: 6px;
+  border: 1px solid rgb(0 0 0 / 10%);
+  padding: 4px 6px;
+  font-size: 0.85em;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.iridescent-button:hover {
+  --iridescent-button-shadow-opacity: 16;
+  --iridescent-button-shadow-spread: 16;
+  --iridescent-button-after-opacity: 0.7;
+  --iridescent-button-bg-opacity: 0.15;
+}
+
+.iridescent-button:active {
+  --iridescent-button-shadow-opacity: 26;
+  --iridescent-button-shadow-spread: 26;
+  --iridescent-button-after-opacity: 0.9;
+  --iridescent-button-bg-opacity: 0.25;
+}
+
+.iridescent-button:not(:hover) {
+  --iridescent-button-shadow-opacity: 0;
+  --iridescent-button-shadow-spread: 0;
+  --coord-x: 0;
+  --coord-y: 0;
+  --iridescent-button-bg-opacity: 0;
+}
+
+.dark .iridescent-button {
+  --iridescent-bg-button: hsl(0deg 0% 10%);
+  --iridescent-color-button: hsl(0deg 0% 66%);
+  --btn-border-color: rgb(255 255 255 / 5%);
+}
+
+.dark .iridescent-button:hover {
+  --iridescent-button-after-opacity: 0.5;
+  --iridescent-button-bg-opacity: 0.18;
+}
+
+.dark .iridescent-button:active {
+  --iridescent-button-after-opacity: 0.75;
+  --iridescent-button-bg-opacity: 0.22;
+}
+
+.dark .iridescent-button-inner {
+  box-shadow:
+    inset 0 calc(var(--btn-inner-shadow) * 2px)
+      calc(var(--btn-inner-shadow) * 3px) rgb(255 255 255 / 1%),
+    inset 0 calc(var(--btn-inner-shadow) * -2px)
+      calc(var(--btn-inner-shadow) * 3px) rgb(0 0 0 / 25%);
+}
+
+.dark .iridescent-button-shortcut {
+  border-color: rgb(255 255 255 / 10%);
+}
+
+.iridescent-button:disabled {
+  pointer-events: none;
+  opacity: 0.5;
+}

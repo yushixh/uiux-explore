@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--ledger-landing-page",
+  "source": "kage",
+  "slug": "designs--ledger-landing-page",
+  "url": "https://kage.design/designs/ledger-landing-page",
+  "name": "Ledger — hardware wallets homepage by ledger.com",
+  "description": "A full-black landing page where pure black fields dominate and only small controlled accents (orange primary buttons, purple gradients behind product shots, colourful crypto logos) carry energy. The hero pairs a compact headline block with a large gradient product render, followed immediately by a slim trust-stat strip. Rhythm alternates between wide cinematic full-width banners (the 'Bitcoin 3D' router banner, the cashback banner), bordered 4-up product comparison cards with corner tick marks, a sparse crypto-logo strip, and text-led sections with generous whitespace. Type scale is steep: very large white section headlines over small gray body copy. The page closes with a testimonial carousel, a two-column FAQ accordion, a huge centered closing statement in purple gradient, and a dense multi-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/ledger-com/abaab959-f9d6-43c3-8f0c-09f584ac8799-1789146798481.webp",
+  "prompts": [
+    "kage/designs--ledger-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/labs-winszn-landing-page",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=hardware-wallet",
+    "search?q=crypto",
+    "search?q=dark-theme",
+    "search?q=product-grid",
+    "search?q=ecommerce-cta",
+    "search?q=faq",
+    "search?q=testimonials"
+  ],
+  "pageSha256": "4d5ef4010e4baebb182c23d00c94ba2d029e8b41716057f1fdc1eb19e03faf94"
+}

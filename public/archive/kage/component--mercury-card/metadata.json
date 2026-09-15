@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-card",
+  "source": "kage",
+  "slug": "component--mercury-card",
+  "url": "https://kage.design/component/mercury-card",
+  "name": "Press and media highlights by mercury.com",
+  "description": "A compact editorial block titled around media coverage contains three publication cards with short headlines and small circular affordances.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141945-9.webp",
+  "prompts": [
+    "kage/component--mercury-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=press",
+    "search?q=cards",
+    "search?q=media"
+  ],
+  "pageSha256": "5b01f8be14c45574b44f5a0bc064010162fcc1ba5a4c6456adb56de23d0c4d62"
+}

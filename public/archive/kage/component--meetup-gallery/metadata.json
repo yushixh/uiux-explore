@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--meetup-gallery",
+  "source": "kage",
+  "slug": "component--meetup-gallery",
+  "url": "https://kage.design/component/meetup-gallery",
+  "name": "Popular places gallery by meetup.com",
+  "description": "A location gallery pairs a short explanatory line with five destination cards. Each image is distinctive and organically clipped, while the city label remains easy to scan beneath it.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/meetup-com/38f9f6c4-75f1-46e9-b1c3-f8b44b19e777-1789146457-6.webp",
+  "prompts": [
+    "kage/component--meetup-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=cities",
+    "search?q=gallery",
+    "search?q=discovery"
+  ],
+  "pageSha256": "d10e928e68b30290fd9e0e92b492f1005647568a2693a7b39c3f0eb284e9481a"
+}

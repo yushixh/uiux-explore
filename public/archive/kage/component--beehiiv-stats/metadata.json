@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--beehiiv-stats",
+  "source": "kage",
+  "slug": "component--beehiiv-stats",
+  "url": "https://kage.design/component/beehiiv-stats",
+  "name": "Editorial stats statement by beehiiv.com",
+  "description": "A dramatic transition into a proof-focused section: generous dark space creates anticipation, while a single oversized all-caps headline gives the statistics a confident editorial arrival. The restrained palette and high contrast keep attention on the message rather than decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067455-7.webp",
+  "prompts": [
+    "kage/component--beehiiv-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=editorial",
+    "search?q=dark-ui",
+    "search?q=typography"
+  ],
+  "pageSha256": "705811de37bce165c08866c81bb1e1a42a809a3200a220d18f04a489b686be68"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "textures",
+  "name": "Textures",
+  "description": "Drop in any image and run it through 25 tactile filters, from Risograph to Cyanotype, then download the result at full resolution. Free, instant, no signup.",
+  "shortInfo": "Tactile image filters in your browser",
+  "url": "https://texture.fayaz.workers.dev/",
+  "handle": "fayazara",
+  "creatorName": "Fayaz Ahmed",
+  "creatorUrl": "https://x.com/fayazara",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Creative Tools",
+  "categories": [
+    "Creative Tools"
+  ],
+  "launchDate": "2026-09-02",
+  "added": "2026-09-02",
+  "sortOrder": 42,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/textures/reviewed-1788762519040-textures-ekNBHfL95WhwH2x244cFh3f1Gj85th.svg",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/authors/fayazara-1788762483199-EvRRxvH6WbeG4YNzjM6sfEYYtwSFNG.jpg",
+  "shot": "/screenshots/textures.png"
+}

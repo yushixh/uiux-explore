@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mmbl-navigation",
+  "source": "kage",
+  "slug": "component--mmbl-navigation",
+  "url": "https://kage.design/component/mmbl-navigation",
+  "name": "Centered links with app-store CTA by mmbl.io",
+  "description": "A compact dark header balances a left-aligned brand mark, a centered navigation cluster, and a high-contrast app-store action on the right. Generous negative space, restrained typography, and a softly rounded light button make the navigation feel calm and premium.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mmbl-io/849f4ec6-ce65-4185-a867-71fbc561b804-1789060566-0.webp",
+  "prompts": [
+    "kage/component--mmbl-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mmbl-landing-page",
+  "product": "mmbl-io",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=dark-mode",
+    "search?q=cta"
+  ],
+  "pageSha256": "5ec80b8e2b0786126d97745aa5ec3ad91e84f953ae6c3f6bf1c65556554801b6"
+}

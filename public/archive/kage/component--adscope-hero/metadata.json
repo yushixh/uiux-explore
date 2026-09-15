@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--adscope-hero",
+  "source": "kage",
+  "slug": "component--adscope-hero",
+  "url": "https://kage.design/component/adscope-hero",
+  "name": "Product-led analytics hero by AdScope",
+  "description": "A restrained, editorial SaaS hero that pairs a high-contrast value proposition with a product preview and a low-friction trial CTA. The asymmetric two-column composition keeps the message readable while the dashboard visual makes the product benefit immediately tangible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/adscope/d628eaa8-0259-4816-ad11-db69e3ce98d4-1789106702-1.webp",
+  "prompts": [
+    "kage/component--adscope-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/adscope-landing-page",
+  "product": "adscope",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=analytics",
+    "search?q=conversion"
+  ],
+  "pageSha256": "946608575267793dde80913f706736141b18ad75b7b9b3da15a5a1b3233fdb07"
+}

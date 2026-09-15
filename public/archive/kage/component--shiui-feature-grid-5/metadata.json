@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--shiui-feature-grid-5",
+  "source": "kage",
+  "slug": "component--shiui-feature-grid-5",
+  "url": "https://kage.design/component/shiui-feature-grid-5",
+  "name": "Navigation patterns inventory by SHIUI",
+  "description": "A catalogue of navigation patterns demonstrates filters, segmented controls, pagination, breadcrumbs, steppers, menus, tabs, and carousel indicators using the same framed specimen-card grammar.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/shiui/3111a107-5e9b-4487-9176-525a4b4c448a-1789365766-6.webp",
+  "prompts": [
+    "kage/component--shiui-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/shiui-navigation",
+  "product": "shiui",
+  "tags": [
+    "search?q=navigation",
+    "search?q=tabs",
+    "search?q=pagination"
+  ],
+  "pageSha256": "368500f73020311d64a8820c8ee0e0a886a3a4038e39846c8ae33b8ef66e37f9"
+}

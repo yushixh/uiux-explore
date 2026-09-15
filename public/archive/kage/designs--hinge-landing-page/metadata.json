@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--hinge-landing-page",
+  "source": "kage",
+  "slug": "designs--hinge-landing-page",
+  "url": "https://kage.design/designs/hinge-landing-page",
+  "name": "Hinge corporate homepage by hinge.co",
+  "description": "A warm editorial corporate page built on a cream canvas where tiny plum eyebrow labels sit above oversized serif headlines in asymmetric two-column compositions. Rhythm comes from alternating bands — cream editorial sections, a near-black testimonial band with a slider, a cream careers section with a photo strip bleeding off the right edge, then a merged dark press band and footer. Documentary-style candid photography, pill buttons, and hand-drawn oval-and-arrow annotations in aubergine give it a human, print-magazine quality rather than a product-marketing feel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/hinge-co/fc8d8d16-7276-4f4c-b1c9-567702ba4b3c-1789146914903.webp",
+  "prompts": [
+    "kage/designs--hinge-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "hinge-co",
+  "tags": [
+    "search?q=serif-headlines",
+    "search?q=hand-drawn-annotations",
+    "search?q=eyebrow-labels",
+    "search?q=full-bleed-photography",
+    "search?q=alternating-bands",
+    "search?q=pill-buttons",
+    "search?q=testimonial-slider",
+    "search?q=cream-canvas"
+  ],
+  "pageSha256": "60e67124b1ed474b1c673e78a366e832a64bbb2e9f3959d040d2715bf870c947"
+}

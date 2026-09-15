@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--phantom-cta",
+  "source": "kage",
+  "slug": "component--phantom-cta",
+  "url": "https://kage.design/component/phantom-cta",
+  "name": "Download conversion call to action by phantom.com",
+  "description": "A large centered conversion block distills the page into one confident invitation and one prominent download button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/phantom-com/df84c488-d9fa-4f45-8b51-bd3e334c55b2-1789146860-5.webp",
+  "prompts": [
+    "kage/component--phantom-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/phantom-landing-page",
+  "product": "phantom-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=download",
+    "search?q=conversion"
+  ],
+  "pageSha256": "1bcc16086609395e517606d4a9bbc20dd9f61dfbfa08b1398ffb64662bdc4209"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--epilude-notetaker-cta",
+  "source": "kage",
+  "slug": "component--epilude-notetaker-cta",
+  "url": "https://kage.design/component/epilude-notetaker-cta",
+  "name": "Final trial call to action by Epilude Notetaker",
+  "description": "A centered conversion block restates the main promise, adds a brief reassurance line, and ends with a prominent trial button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/epilude-notetaker/4c1f6c09-8367-4067-b5eb-19bb83b45625-1789365731-5.webp",
+  "prompts": [
+    "kage/component--epilude-notetaker-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-landing-page",
+  "product": "epilude-notetaker",
+  "tags": [
+    "search?q=conversion",
+    "search?q=centered",
+    "search?q=trial"
+  ],
+  "pageSha256": "5042548a7480e885e9e593f403ac6d3b96863f5d76221d8161dcc7dc6329c4a7"
+}

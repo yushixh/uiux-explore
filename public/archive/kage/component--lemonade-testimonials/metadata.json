@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lemonade-testimonials",
+  "source": "kage",
+  "slug": "component--lemonade-testimonials",
+  "url": "https://kage.design/component/lemonade-testimonials",
+  "name": "Ratings and customer proof by lemonade.com",
+  "description": "A rating headline establishes credibility with oversized star symbols, followed by a horizontally scrolling row of compact customer quote cards. The pink stars and restrained cards create a clear trust signal.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lemonade-com/fec12946-54bf-4cf0-ac52-dcd9bbeb95c9-1789146825-3.webp",
+  "prompts": [
+    "kage/component--lemonade-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lemonade-landing-page",
+  "product": "lemonade-com",
+  "tags": [
+    "search?q=reviews",
+    "search?q=ratings",
+    "search?q=social+proof"
+  ],
+  "pageSha256": "76ec651891b96352338420a371039aad8cb3a933bbe68537265d96f48192a29a"
+}

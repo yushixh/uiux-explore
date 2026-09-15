@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--epilude-notetaker-navigation",
+  "source": "kage",
+  "slug": "component--epilude-notetaker-navigation",
+  "url": "https://kage.design/component/epilude-notetaker-navigation",
+  "name": "Floating site navigation by Epilude Notetaker",
+  "description": "A compact floating navigation bar anchors the page with a wordmark, grouped menu links, and a high-contrast download button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/epilude-notetaker/4c1f6c09-8367-4067-b5eb-19bb83b45625-1789365729-0.webp",
+  "prompts": [
+    "kage/component--epilude-notetaker-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-landing-page",
+  "product": "epilude-notetaker",
+  "tags": [
+    "search?q=dark",
+    "search?q=pill",
+    "search?q=menu"
+  ],
+  "pageSha256": "41005d3dd7c18188599c3dfa6e8676d3d4167eb287b37a2b8036fe27fedb583d"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--basedash-in-espanol-francais-portugues-logo-cloud",
+  "source": "kage",
+  "slug": "component--basedash-in-espanol-francais-portugues-logo-cloud",
+  "url": "https://kage.design/component/basedash-in-espanol-francais-portugues-logo-cloud",
+  "name": "Editorial customer logo cloud by Basedash in Español Français & Português",
+  "description": "A restrained logo-cloud section uses a small uppercase eyebrow, generous whitespace, and a single horizontal rhythm of monochrome customer marks to establish credibility without competing with the rest of the page. The sparse editorial treatment keeps the focus on recognition and trust while leaving room for testimonial content or the next section below.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/basedash-in-espanol-francais-portugues/b3381e01-f9b6-42c9-8798-975c026618b1-1789106701-2.webp",
+  "prompts": [
+    "kage/component--basedash-in-espanol-francais-portugues-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=editorial",
+    "search?q=b2b"
+  ],
+  "pageSha256": "8744103fb248e67732b95d67f442c4fd95df4ffac7d78e9dbf61d33c46ea95d6"
+}

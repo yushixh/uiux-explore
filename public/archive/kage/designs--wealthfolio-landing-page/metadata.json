@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--wealthfolio-landing-page",
+  "source": "kage",
+  "slug": "designs--wealthfolio-landing-page",
+  "url": "https://kage.design/designs/wealthfolio-landing-page",
+  "name": "Wealthfolio personal finance landing page by Wealthfolio",
+  "description": "A warm off-white, editorial landing page pairs large high-contrast serif headlines with compact monospace supporting text and restrained black controls. The page starts with a spacious hero and layered desktop/mobile product mockup, then moves through denser feature cards, local-data diagrams, pricing, community proof, deployment options, add-ons, and a quiet final CTA; pale beige section shifts and thin rules provide rhythm without strong colour blocks.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/wealthfolio/bf50ab71-633d-4b86-816e-5951eb096cd4-1789106442352.webp",
+  "prompts": [
+    "kage/designs--wealthfolio-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "wealthfolio",
+  "tags": [
+    "search?q=local-first",
+    "search?q=serif-headlines",
+    "search?q=monospace-body",
+    "search?q=product-screenshots",
+    "search?q=feature-grid",
+    "search?q=pricing-cards",
+    "search?q=open-source",
+    "search?q=soft-panels"
+  ],
+  "pageSha256": "3f6e9fede3ba0950aefc47a3aad40005db87dbe36618fc36b53b9ef83ed1348c"
+}

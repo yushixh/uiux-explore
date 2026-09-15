@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--loom-cta-3",
+  "source": "kage",
+  "slug": "component--loom-cta-3",
+  "url": "https://kage.design/component/loom-cta-3",
+  "name": "Use-case CTA card grid by loom.com",
+  "description": "A centered section headline introduces a row of colorful, rounded use-case cards, each pairing a compact visual preview with a bold audience label and concise supporting copy. The consistent card structure, generous whitespace, and soft tinted backgrounds make the CTA feel approachable while helping visitors quickly find the path most relevant to them.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060438-6.webp",
+  "prompts": [
+    "kage/component--loom-cta-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=card-grid",
+    "search?q=use-cases",
+    "search?q=responsive"
+  ],
+  "pageSha256": "b78f2919c204c3cf56fca0130cd13292a5081f74f79097d025fabb779e4faf00"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--monarchmoney-cta-2",
+  "source": "kage",
+  "slug": "component--monarchmoney-cta-2",
+  "url": "https://kage.design/component/monarchmoney-cta-2",
+  "name": "Final conversion banner by monarchmoney.com",
+  "description": "A bold orange closing banner uses a centered statement and contrasting pill button to provide a clear final action before the footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146617-11.webp",
+  "prompts": [
+    "kage/component--monarchmoney-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monarchmoney-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=conversion",
+    "search?q=banner",
+    "search?q=cta"
+  ],
+  "pageSha256": "5f9522e82ae72b4a69ae8bb2adf73dd34eba276ad889564c74e2d523a349e3fe"
+}

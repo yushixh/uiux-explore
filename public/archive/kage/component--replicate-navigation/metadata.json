@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--replicate-navigation",
+  "source": "kage",
+  "slug": "component--replicate-navigation",
+  "url": "https://kage.design/component/replicate-navigation",
+  "name": "Announcement bar and gradient navigation by replicate.com",
+  "description": "A compact, high-contrast header that combines a dismissible promotional strip with a spacious navigation row, prominent search field, utility links, and a strong primary action. The soft neon gradient backdrop adds energy while preserving clear alignment and legibility.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/replicate-com/18021eac-ea1d-469d-8210-9b10eacb77c7-1789073921-0.webp",
+  "prompts": [
+    "kage/component--replicate-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/replicate-landing-page",
+  "product": "replicate-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=search",
+    "search?q=gradient"
+  ],
+  "pageSha256": "f1950de7226e26c5457eb2f7c8fcdb757115dc202cc5fbf50b7fd0498e374edb"
+}

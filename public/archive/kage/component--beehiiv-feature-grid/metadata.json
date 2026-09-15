@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--beehiiv-feature-grid",
+  "source": "kage",
+  "slug": "component--beehiiv-feature-grid",
+  "url": "https://kage.design/component/beehiiv-feature-grid",
+  "name": "Dark gradient feature grid by beehiiv.com",
+  "description": "A high-contrast bento grid that presents a product suite as a set of distinct capabilities, using varied card proportions and cropped interface previews to create visual rhythm. The restrained dark canvas, soft luminous gradients, and consistent pink accent make the section feel premium while keeping the feature labels easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067453-3.webp",
+  "prompts": [
+    "kage/component--beehiiv-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=saas",
+    "search?q=bento-layout"
+  ],
+  "pageSha256": "634e7af5347d0d71866cc0f39d155a01a2a4268a433ea6b44606498d8a10bec3"
+}

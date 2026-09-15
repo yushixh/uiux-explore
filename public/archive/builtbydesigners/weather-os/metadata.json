@@ -1,0 +1,22 @@
+{
+  "id": "weather-os",
+  "name": "Weather OS",
+  "description": "An interactive weather simulator for shaping clouds, storms, fog and snow with tactile controls, turning a full-screen sky into a playful study of atmospheric motion.",
+  "shortInfo": "Shape a living sky with tactile controls",
+  "url": "https://sashabalandina.com/weather-os",
+  "handle": "aleksksaa",
+  "creatorName": "Sasha",
+  "creatorUrl": "https://x.com/aleksksaa",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Play",
+  "categories": [
+    "Play"
+  ],
+  "launchDate": "2026-08-30",
+  "added": "2026-08-30",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/weather-os/icon-mtjuf9no-XgBAUSPGT90KsfaKsapwaOeXMVUdKf.png",
+  "avatar": "/backend/avatars/weather-os.jpg",
+  "shot": "/screenshots/weather-os.png"
+}

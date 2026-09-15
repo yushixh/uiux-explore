@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--madebydaedalus-feature-grid-2",
+  "source": "kage",
+  "slug": "component--madebydaedalus-feature-grid-2",
+  "url": "https://kage.design/component/madebydaedalus-feature-grid-2",
+  "name": "Editorial project list feature grid by madebydaedalus.com",
+  "description": "A restrained two-column section pairs an editorial introduction with a compact list of projects. Thin rules, generous whitespace, small metadata, and understated arrow affordances make the work feel curated without overwhelming the content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/madebydaedalus-com/ae0cc407-2597-43fd-9c0f-0722227b2dcc-1789060549-4.webp",
+  "prompts": [
+    "kage/component--madebydaedalus-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/madebydaedalus-landing-page",
+  "product": "madebydaedalus-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=portfolio",
+    "search?q=minimal",
+    "search?q=responsive"
+  ],
+  "pageSha256": "f3bb7efa6c18f935611c8853101ead7429f2495da56d16f50ff19c0570ce3dc6"
+}

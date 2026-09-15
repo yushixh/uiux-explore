@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--mistral-og-image",
+  "source": "kage",
+  "slug": "designs--mistral-og-image",
+  "url": "https://kage.design/designs/mistral-og-image",
+  "name": "Mistral AI Open Graph social card by mistral.ai",
+  "description": "A 1200×630 social card split into two horizontal halves: a quiet white upper field carrying a two-line black grotesque headline flush left and the pixel-gradient wordmark anchored right, and a lower field built from flat horizontal colour bands stepping from orange through red-orange to deep crimson. A tiny pixel-art black cat sits on the left of the red band as a mascot easter egg, and faint bezier guide lines with anchor points are traced in the bands' right side as a subtle drafting motif. Everything is flat — no shadows, photos or gradients outside the logo — so the palette and the scale contrast between headline and bands carry the whole composition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/mistral-ai/6d2127e8-7428-454e-adad-732e1f84cf32-1789073696789.webp",
+  "prompts": [
+    "kage/designs--mistral-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "mistral-ai",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=flat-colour-bands",
+    "search?q=pixel-art",
+    "search?q=wordmark",
+    "search?q=split-canvas",
+    "search?q=mascot",
+    "search?q=grotesque-type"
+  ],
+  "pageSha256": "2c4d5403fa3c8ecad4f1ada5838c4c3bab74d76b0bf27bfa3cd9c2690779916a"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--jackalope-hero",
+  "source": "kage",
+  "slug": "component--jackalope-hero",
+  "url": "https://kage.design/component/jackalope-hero",
+  "name": "Agent workspace hero by Jackalope",
+  "description": "The hero pairs a very large two-line value proposition with concise explanatory copy and a primary/secondary CTA group, balanced by a framed product preview over an abstract lavender background.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/jackalope/0b3edf93-8385-4e4a-8f92-3c01052ad81d-1789193036-1.webp",
+  "prompts": [
+    "kage/component--jackalope-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/jackalope-landing-page",
+  "product": "jackalope",
+  "tags": [
+    "search?q=hero",
+    "search?q=split-layout",
+    "search?q=waitlist"
+  ],
+  "pageSha256": "8eaeff1efd73ca23afbf1cf3d3c6b7b69784b7521fb69cbaa59c6a8c93d5c128"
+}

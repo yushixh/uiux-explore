@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--obsidian-md-feature-grid-2",
+  "source": "kage",
+  "slug": "component--obsidian-md-feature-grid-2",
+  "url": "https://kage.design/component/obsidian-md-feature-grid-2",
+  "name": "Dark visual feature grid by obsidian.md",
+  "description": "This section works through a calm, editorial introduction followed by a two-column grid of feature cards. Each card pairs concise explanatory copy with a distinct product-oriented visual, creating a strong rhythm of text, interface detail, and varied demonstrations without relying on a conventional hero image.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/obsidian-md/18ba00bf-73a3-4c61-9eb0-f66f69cff1b6-1789060833-3.webp",
+  "prompts": [
+    "kage/component--obsidian-md-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/obsidian-md-landing-page",
+  "product": "obsidian-md",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=product-features",
+    "search?q=interactive-cards"
+  ],
+  "pageSha256": "2a98c4d43635c5335f0d8a457dc0b838cbd8c0cca8df6ccfdcd87d7f98a750f9"
+}

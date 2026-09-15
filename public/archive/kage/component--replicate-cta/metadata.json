@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--replicate-cta",
+  "source": "kage",
+  "slug": "component--replicate-cta",
+  "url": "https://kage.design/component/replicate-cta",
+  "name": "Dark enterprise scale CTA by replicate.com",
+  "description": "A high-contrast conversion section combines a concise enterprise message and outlined CTA with social proof, then reinforces the offer through two practical capability cards. The restrained grid, orange accent system, and technical data visuals make the section feel credible, operational, and built for scale.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/replicate-com/18021eac-ea1d-469d-8210-9b10eacb77c7-1789073923-4.webp",
+  "prompts": [
+    "kage/component--replicate-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/replicate-landing-page",
+  "product": "replicate-com",
+  "tags": [
+    "search?q=dark+mode",
+    "search?q=enterprise+cta",
+    "search?q=proof+logos",
+    "search?q=pricing"
+  ],
+  "pageSha256": "1b9e8462b2e95625880381860f38e82e60c54ca8c1f143b1a1c6e088447fbd00"
+}

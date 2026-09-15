@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--pitch-logo-cloud",
+  "source": "kage",
+  "slug": "component--pitch-logo-cloud",
+  "url": "https://kage.design/component/pitch-logo-cloud",
+  "name": "Tabbed audience logo cloud by pitch.com",
+  "description": "A dark, high-contrast social-proof section that pairs a centered positioning statement with audience tabs and a flexible logo-cloud area. The active tab and restrained typography create clear focus while allowing the proof points to change without making the section feel dense.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/pitch-com/6703b162-6073-44e6-a626-e3df0dc35c4b-1789060649-7.webp",
+  "prompts": [
+    "kage/component--pitch-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/pitch-landing-page",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=tabs",
+    "search?q=social+proof",
+    "search?q=brand+grid"
+  ],
+  "pageSha256": "60c777b3077b8b1476ae56238e245be0366fb1ec04b8bae1125a5dda857c210d"
+}

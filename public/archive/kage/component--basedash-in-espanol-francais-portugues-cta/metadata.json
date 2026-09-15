@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--basedash-in-espanol-francais-portugues-cta",
+  "source": "kage",
+  "slug": "component--basedash-in-espanol-francais-portugues-cta",
+  "url": "https://kage.design/component/basedash-in-espanol-francais-portugues-cta",
+  "name": "Editorial multi-column footer by Basedash in Español Français & Português",
+  "description": "A quiet, information-dense footer that balances a compact brand summary with several link columns. Its restrained palette, generous whitespace, and clear typographic grouping make a large navigation set feel calm and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/basedash-in-espanol-francais-portugues/b3381e01-f9b6-42c9-8798-975c026618b1-1789106704-9.webp",
+  "prompts": [
+    "kage/component--basedash-in-espanol-francais-portugues-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=multicolumn",
+    "search?q=localization"
+  ],
+  "pageSha256": "61460707e5fa535ca0f8114495aaf42308ac1021eba3b7e3fa2726cddbdcc8b9"
+}

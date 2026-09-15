@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-hero",
+  "source": "kage",
+  "slug": "component--trigger-hero",
+  "url": "https://kage.design/component/trigger-hero",
+  "name": "Immersive product hero by trigger.dev",
+  "description": "A cinematic, dark SaaS hero pairs a full-bleed product interface backdrop with a strong centered value proposition. High contrast typography, a bright primary CTA, and a lightweight social-proof link create a focused path to action without competing with the visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073774-1.webp",
+  "prompts": [
+    "kage/component--trigger-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark+mode",
+    "search?q=saas",
+    "search?q=cta"
+  ],
+  "pageSha256": "2b9294973d9c00c84ffe581c2d21be3d5040f0e8ca049b53be8f3fbb53ea6191"
+}

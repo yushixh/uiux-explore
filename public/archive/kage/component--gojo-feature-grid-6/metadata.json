@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--gojo-feature-grid-6",
+  "source": "kage",
+  "slug": "component--gojo-feature-grid-6",
+  "url": "https://kage.design/component/gojo-feature-grid-6",
+  "name": "Editorial feature grid by Gojo",
+  "description": "A spacious, alternating feature section pairs compact product UI previews with clear editorial copy. Thin dividers, restrained typography, and a quiet two-column rhythm make each capability feel considered without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106543-7.webp",
+  "prompts": [
+    "kage/component--gojo-feature-grid-6/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=product-ui",
+    "search?q=responsive"
+  ],
+  "pageSha256": "912b200d34bc97fcd62a063b7bcc65b82aee98e5cc5c1c989ecb8cbe5cb22d0d"
+}

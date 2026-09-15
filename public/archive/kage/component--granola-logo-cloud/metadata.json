@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--granola-logo-cloud",
+  "source": "kage",
+  "slug": "component--granola-logo-cloud",
+  "url": "https://kage.design/component/granola-logo-cloud",
+  "name": "Trusted teams logo band by granola.ai",
+  "description": "A dark trust band separates the product story from the next section and presents customer credibility in two orderly logo rows.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789141837-3.webp",
+  "prompts": [
+    "kage/component--granola-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=trust",
+    "search?q=logos",
+    "search?q=dark"
+  ],
+  "pageSha256": "89ca528ab4a582c939ca0c9ecc5f53018af8522206fb1cc4e61527975ad11d2a"
+}

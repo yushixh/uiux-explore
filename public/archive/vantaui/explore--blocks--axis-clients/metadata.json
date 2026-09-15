@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--axis-clients",
+  "source": "vantaui",
+  "slug": "explore--blocks--axis-clients",
+  "url": "https://www.vantaui.com/explore/blocks/axis-clients",
+  "name": "Axis Clients - VantaUI",
+  "description": "Dual-column client list with opposing parallax scroll effects and staggered entrance animations.",
+  "image": "https://vantaui-registry.vercel.app/blocks/axis-clients",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "3294e7002d08a612fd64477bf187598bec2549fbd151a706ba8d97a0781054b5"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-stats",
+  "source": "kage",
+  "slug": "component--fresha-stats",
+  "url": "https://kage.design/component/fresha-stats",
+  "name": "Platform statistics by fresha.com",
+  "description": "Three large numerical proof points are arranged in a centered row with a small introductory label and explanatory captions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146193-8.webp",
+  "prompts": [
+    "kage/component--fresha-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=metrics",
+    "search?q=proof",
+    "search?q=stats"
+  ],
+  "pageSha256": "6e832533cce8a5c30674c53ebed90409a3f4de91bb2dc2abeba09efa49d0895b"
+}

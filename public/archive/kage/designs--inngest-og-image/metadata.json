@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--inngest-og-image",
+  "source": "kage",
+  "slug": "designs--inngest-og-image",
+  "url": "https://kage.design/designs/inngest-og-image",
+  "name": "Inngest OG social card by inngest.com",
+  "description": "A 1200×630 social card built on a single saturated orange field with a fine grain overlay that keeps the flat colour from feeling sterile. The logo lockup sits top-left and a left-aligned two-line headline owns the middle of the frame: the first line is solid white bold sans, the second line repeats at identical size but in hollow outline type — hierarchy achieved through fill treatment rather than scale or a second colour. The bottom third is deliberately empty, letting the type, colour and texture do all the work.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/inngest-com/0f42ec86-79b6-4b53-9ad7-cdd5f83ce160-1789073657435.webp",
+  "prompts": [
+    "kage/designs--inngest-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "inngest-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=solid-colour",
+    "search?q=outline-type",
+    "search?q=noise-texture",
+    "search?q=wordmark",
+    "search?q=left-aligned",
+    "search?q=big-headline"
+  ],
+  "pageSha256": "ab256fe40e62981b8b4e72cec57e166e0a9fbda740884b46161709e82802e22d"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--eventbrite-gallery",
+  "source": "kage",
+  "slug": "component--eventbrite-gallery",
+  "url": "https://kage.design/component/eventbrite-gallery",
+  "name": "Popular destinations carousel by eventbrite.com",
+  "description": "A softly tinted destination module uses large rounded image cards, overlaid city labels, and arrow controls to encourage geographic exploration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/eventbrite-com/7528d4f6-3311-4de9-a3b5-4d616b4b671a-1789146267-5.webp",
+  "prompts": [
+    "kage/component--eventbrite-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-landing-page",
+  "product": "eventbrite-com",
+  "tags": [
+    "search?q=destinations",
+    "search?q=carousel",
+    "search?q=gallery"
+  ],
+  "pageSha256": "99f2e23497672a29259eb3142d564430b05aea47e82b6f28df3250279717c371"
+}

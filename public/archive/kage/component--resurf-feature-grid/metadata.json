@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resurf-feature-grid",
+  "source": "kage",
+  "slug": "component--resurf-feature-grid",
+  "url": "https://kage.design/component/resurf-feature-grid",
+  "name": "Core capabilities grid by Resurf",
+  "description": "A short positioning statement introduces a structured three-column grid of soft cards, each pairing a small visual cue with a practical capability and concise explanation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resurf/ff64fde5-ed9d-4c90-b5a1-3641329afaa7-1789365707-2.webp",
+  "prompts": [
+    "kage/component--resurf-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "resurf",
+  "tags": [
+    "search?q=features",
+    "search?q=cards",
+    "search?q=capabilities"
+  ],
+  "pageSha256": "e5912532bb23b87d227ed77d35decdf156a50c935335e75a9c04467d53da092c"
+}

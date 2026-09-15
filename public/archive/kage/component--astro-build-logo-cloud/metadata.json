@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--astro-build-logo-cloud",
+  "source": "kage",
+  "slug": "component--astro-build-logo-cloud",
+  "url": "https://kage.design/component/astro-build-logo-cloud",
+  "name": "Radiant logo cloud by astro.build",
+  "description": "A centered logo cloud turns customer recognition into a compact trust signal. The restrained monochrome marks, staggered rows, and dark purple atmospheric gradient create visual richness without competing with the logos.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/astro-build/2448cc02-1e48-497c-9333-8941f9d81557-1789073850-2.webp",
+  "prompts": [
+    "kage/component--astro-build-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/astro-build-landing-page",
+  "product": "astro-build",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=gradient",
+    "search?q=dark+mode",
+    "search?q=brand+wall"
+  ],
+  "pageSha256": "e72121f0d402574e4ff43c8905fcc31974835e2fa0e5d416183c3795ff68883a"
+}

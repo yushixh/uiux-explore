@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-footer",
+  "source": "kage",
+  "slug": "component--fresha-footer",
+  "url": "https://kage.design/component/fresha-footer",
+  "name": "Site footer by fresha.com",
+  "description": "A light-gray footer presents the brand and app action, grouped navigation columns, social links, then a separate bottom legal/language strip.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146194-11.webp",
+  "prompts": [
+    "kage/component--fresha-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "4900bf98ed80a4fb17d004054a58eff2203c10bb56ec10a391a1e60605ce3627"
+}

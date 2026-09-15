@@ -1,0 +1,24 @@
+{
+  "dependencies": [
+    "lucide-react"
+  ],
+  "tokens": [
+    "--card",
+    "--font-num",
+    "--font-ui",
+    "--ink",
+    "--ink-3",
+    "--ink-4",
+    "--ink-rgb",
+    "--on-ink",
+    "--on-slab",
+    "--pane",
+    "--pane-edge",
+    "--slab",
+    "--surface-2",
+    "--surface-3"
+  ],
+  "stubs": [
+    "COVER"
+  ]
+}

@@ -1,0 +1,855 @@
+[
+  {
+    "id": "halaska--TextInput",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoFormInputs",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--TextInput.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--TextInput.html"
+  },
+  {
+    "id": "halaska--TextArea",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoFormInputs",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--TextArea.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--TextArea.html"
+  },
+  {
+    "id": "halaska--SearchInput",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoFormInputs",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--SearchInput.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--SearchInput.html"
+  },
+  {
+    "id": "halaska--CopyInput",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoFormInputs",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--CopyInput.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--CopyInput.html"
+  },
+  {
+    "id": "halaska--Select",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoFormInputs",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Select.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Select.html"
+  },
+  {
+    "id": "halaska--Combobox",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoFormInputs",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Combobox.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Combobox.html"
+  },
+  {
+    "id": "halaska--Checkbox",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoTogglesSelections",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Checkbox.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Checkbox.html"
+  },
+  {
+    "id": "halaska--SwitchToggle",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoTogglesSelections",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--SwitchToggle.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--SwitchToggle.html"
+  },
+  {
+    "id": "halaska--RadioGroup",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoTogglesSelections",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--RadioGroup.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--RadioGroup.html"
+  },
+  {
+    "id": "halaska--SegmentedControl",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoTogglesSelections",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--SegmentedControl.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--SegmentedControl.html"
+  },
+  {
+    "id": "halaska--InputOTP",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoFormExtras",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--InputOTP.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--InputOTP.html"
+  },
+  {
+    "id": "halaska--Slider",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoInputsExtended",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Slider.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Slider.html"
+  },
+  {
+    "id": "halaska--SpringSlider",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoInputsExtended",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--SpringSlider.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--SpringSlider.html"
+  },
+  {
+    "id": "halaska--SpringToggle",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoInputsExtended",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--SpringToggle.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--SpringToggle.html"
+  },
+  {
+    "id": "halaska--Toggle",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoInputsExtended",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Toggle.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Toggle.html"
+  },
+  {
+    "id": "halaska--ToggleGroup",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoInputsExtended",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ToggleGroup.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ToggleGroup.html"
+  },
+  {
+    "id": "halaska--Choicebox",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoInputsExtended",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Choicebox.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Choicebox.html"
+  },
+  {
+    "id": "halaska--DatePicker",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoInputsExtended",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--DatePicker.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--DatePicker.html"
+  },
+  {
+    "id": "halaska--Calendar",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoInputsExtended",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Calendar.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Calendar.html"
+  },
+  {
+    "id": "halaska--Rating",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoInputsExtended",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Rating.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Rating.html"
+  },
+  {
+    "id": "halaska--Tabs",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoNavigation",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Tabs.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Tabs.html"
+  },
+  {
+    "id": "halaska--SubtleTabs",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoNavigation",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--SubtleTabs.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--SubtleTabs.html"
+  },
+  {
+    "id": "halaska--Accordion",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoNavigation",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Accordion.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Accordion.html"
+  },
+  {
+    "id": "halaska--Collapsible",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoNavigation",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Collapsible.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Collapsible.html"
+  },
+  {
+    "id": "halaska--ContextMenu",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoNavigation",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ContextMenu.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ContextMenu.html"
+  },
+  {
+    "id": "halaska--Menubar",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoNavigation",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Menubar.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Menubar.html"
+  },
+  {
+    "id": "halaska--CommandPalette",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoNavigation",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--CommandPalette.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--CommandPalette.html"
+  },
+  {
+    "id": "halaska--Pagination",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoTable",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Pagination.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Pagination.html"
+  },
+  {
+    "id": "halaska--DataTable",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoTable",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--DataTable.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--DataTable.html"
+  },
+  {
+    "id": "halaska--Snippet",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoDevSurfaces",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--Snippet.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--Snippet.html"
+  },
+  {
+    "id": "halaska--FileTree",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoDevSurfaces",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--FileTree.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--FileTree.html"
+  },
+  {
+    "id": "halaska--BeforeAfterToggle",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoAIElements",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--BeforeAfterToggle.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--BeforeAfterToggle.html"
+  },
+  {
+    "id": "halaska--ZoomControl",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DemoAIElements",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ZoomControl.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ZoomControl.html"
+  },
+  {
+    "id": "halaska--PromptInputPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "PromptInputPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--PromptInputPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--PromptInputPattern.html"
+  },
+  {
+    "id": "halaska--MessageThreadPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "MessageThreadPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--MessageThreadPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--MessageThreadPattern.html"
+  },
+  {
+    "id": "halaska--StreamingAnswerPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "StreamingAnswerPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--StreamingAnswerPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--StreamingAnswerPattern.html"
+  },
+  {
+    "id": "halaska--AgentChatPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "AgentChatPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--AgentChatPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--AgentChatPattern.html"
+  },
+  {
+    "id": "halaska--CodeBlockPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "CodeBlockPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--CodeBlockPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--CodeBlockPattern.html"
+  },
+  {
+    "id": "halaska--ModelContextPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "ModelContextPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ModelContextPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ModelContextPattern.html"
+  },
+  {
+    "id": "halaska--ThinkingTracePattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "ThinkingTracePattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ThinkingTracePattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ThinkingTracePattern.html"
+  },
+  {
+    "id": "halaska--CitationsPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "CitationsPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--CitationsPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--CitationsPattern.html"
+  },
+  {
+    "id": "halaska--ConfidencePattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "ConfidencePattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ConfidencePattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ConfidencePattern.html"
+  },
+  {
+    "id": "halaska--RecommendationPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "RecommendationPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--RecommendationPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--RecommendationPattern.html"
+  },
+  {
+    "id": "halaska--FeedbackPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "FeedbackPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--FeedbackPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--FeedbackPattern.html"
+  },
+  {
+    "id": "halaska--PlanPreviewPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "PlanPreviewPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--PlanPreviewPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--PlanPreviewPattern.html"
+  },
+  {
+    "id": "halaska--ApprovalCardPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "ApprovalCardPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ApprovalCardPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ApprovalCardPattern.html"
+  },
+  {
+    "id": "halaska--AutonomyPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "AutonomyPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--AutonomyPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--AutonomyPattern.html"
+  },
+  {
+    "id": "halaska--PermissionScopePattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "PermissionScopePattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--PermissionScopePattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--PermissionScopePattern.html"
+  },
+  {
+    "id": "halaska--QueuePattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "QueuePattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--QueuePattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--QueuePattern.html"
+  },
+  {
+    "id": "halaska--AgentStatusPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "AgentStatusPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--AgentStatusPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--AgentStatusPattern.html"
+  },
+  {
+    "id": "halaska--AgentTasksPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "AgentTasksPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--AgentTasksPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--AgentTasksPattern.html"
+  },
+  {
+    "id": "halaska--HandoffPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "HandoffPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--HandoffPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--HandoffPattern.html"
+  },
+  {
+    "id": "halaska--ActionReceiptPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "ActionReceiptPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ActionReceiptPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ActionReceiptPattern.html"
+  },
+  {
+    "id": "halaska--CheckpointPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "CheckpointPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--CheckpointPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--CheckpointPattern.html"
+  },
+  {
+    "id": "halaska--AuditLogPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "AuditLogPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--AuditLogPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--AuditLogPattern.html"
+  },
+  {
+    "id": "halaska--ErrorRepairPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "ErrorRepairPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ErrorRepairPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ErrorRepairPattern.html"
+  },
+  {
+    "id": "halaska--ArtifactPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "ArtifactPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ArtifactPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ArtifactPattern.html"
+  },
+  {
+    "id": "halaska--DiffViewPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DiffViewPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--DiffViewPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--DiffViewPattern.html"
+  },
+  {
+    "id": "halaska--DiffTablePattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DiffTablePattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--DiffTablePattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--DiffTablePattern.html"
+  },
+  {
+    "id": "halaska--StructuredDataPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "StructuredDataPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--StructuredDataPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--StructuredDataPattern.html"
+  },
+  {
+    "id": "halaska--InsightCardsPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "InsightCardsPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--InsightCardsPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--InsightCardsPattern.html"
+  },
+  {
+    "id": "halaska--ComparisonPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "ComparisonPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--ComparisonPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--ComparisonPattern.html"
+  },
+  {
+    "id": "halaska--InlineAssistPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "InlineAssistPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--InlineAssistPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--InlineAssistPattern.html"
+  },
+  {
+    "id": "halaska--NudgePattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "NudgePattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--NudgePattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--NudgePattern.html"
+  },
+  {
+    "id": "halaska--DigestPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "DigestPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--DigestPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--DigestPattern.html"
+  },
+  {
+    "id": "halaska--NotificationCenterPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "NotificationCenterPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--NotificationCenterPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--NotificationCenterPattern.html"
+  },
+  {
+    "id": "halaska--CommandSearchPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "CommandSearchPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--CommandSearchPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--CommandSearchPattern.html"
+  },
+  {
+    "id": "halaska--AgentSetupPattern",
+    "sourceFile": "halaska/halaska-kit.jsx",
+    "demo": "AgentSetupPattern",
+    "origin": "upstream-source",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/halaska--AgentSetupPattern.original.html",
+    "localPreviewUrl": "/archive/previews/halaska--AgentSetupPattern.html"
+  },
+  {
+    "id": "bencho--magnet-select",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--magnet-select.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--magnet-select.html"
+  },
+  {
+    "id": "bencho--slide-confirm",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--slide-confirm.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--slide-confirm.html"
+  },
+  {
+    "id": "bencho--picker",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--picker.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--picker.html"
+  },
+  {
+    "id": "bencho--checklist",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--checklist.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--checklist.html"
+  },
+  {
+    "id": "bencho--carousel",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--carousel.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--carousel.html"
+  },
+  {
+    "id": "bencho--palette",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--palette.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--palette.html"
+  },
+  {
+    "id": "bencho--aspect",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--aspect.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--aspect.html"
+  },
+  {
+    "id": "bencho--tilt",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--tilt.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--tilt.html"
+  },
+  {
+    "id": "bencho--sound",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--sound.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--sound.html"
+  },
+  {
+    "id": "bencho--drag-ball",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--drag-ball.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--drag-ball.html"
+  },
+  {
+    "id": "bencho--seek",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--seek.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--seek.html"
+  },
+  {
+    "id": "bencho--pull",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--pull.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--pull.html"
+  },
+  {
+    "id": "bencho--escape",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--escape.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--escape.html"
+  },
+  {
+    "id": "bencho--slosh",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--slosh.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--slosh.html"
+  },
+  {
+    "id": "bencho--liq-create",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--liq-create.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--liq-create.html"
+  },
+  {
+    "id": "bencho--liq-arrange",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--liq-arrange.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--liq-arrange.html"
+  },
+  {
+    "id": "bencho--toolbar",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--toolbar.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--toolbar.html"
+  },
+  {
+    "id": "bencho--radial",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--radial.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--radial.html"
+  },
+  {
+    "id": "bencho--stepper",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--stepper.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--stepper.html"
+  },
+  {
+    "id": "bencho--confirm",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--confirm.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--confirm.html"
+  },
+  {
+    "id": "bencho--toasts",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--toasts.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--toasts.html"
+  },
+  {
+    "id": "bencho--icon-bar",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--icon-bar.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--icon-bar.html"
+  },
+  {
+    "id": "bencho--dock",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--dock.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--dock.html"
+  },
+  {
+    "id": "bencho--progress",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--progress.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--progress.html"
+  },
+  {
+    "id": "bencho--humidity",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--humidity.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--humidity.html"
+  },
+  {
+    "id": "bencho--command",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--command.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--command.html"
+  },
+  {
+    "id": "bencho--roster",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--roster.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--roster.html"
+  },
+  {
+    "id": "bencho--sleep",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--sleep.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--sleep.html"
+  },
+  {
+    "id": "bencho--liq-toggle",
+    "origin": "upstream-bundle",
+    "sourceFile": "bencho/runtime/components.js",
+    "interaction": true,
+    "originalPreviewUrl": "/archive/previews/bencho--liq-toggle.original.html",
+    "localPreviewUrl": "/archive/previews/bencho--liq-toggle.html"
+  },
+  {
+    "id": "torph--react",
+    "originalPreviewUrl": "/archive/previews/torph--react.original.html",
+    "localPreviewUrl": "/archive/previews/torph--react.html",
+    "origin": "upstream-source",
+    "interaction": true,
+    "sourceFile": "torph/upstream/site/src/surfaces/demos/control.tsx",
+    "demo": "Spring"
+  }
+]

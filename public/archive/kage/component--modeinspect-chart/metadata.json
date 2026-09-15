@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--modeinspect-chart",
+  "source": "kage",
+  "slug": "component--modeinspect-chart",
+  "url": "https://kage.design/component/modeinspect-chart",
+  "name": "Old way vs live-product workflow comparison chart by Modeinspect",
+  "description": "This section works by making a complex workflow contrast instantly scannable: two matched cards, a strong time metric, and opposing status bullets create a clear before-and-after story. The restrained dark palette and lime accent focus attention on the faster path without turning the chart into a dashboard.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/modeinspect/f4214789-eaef-4abd-8d9d-34964c707234-1789106493-8.webp",
+  "prompts": [
+    "kage/component--modeinspect-chart/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "modeinspect",
+  "tags": [
+    "search?q=comparison",
+    "search?q=metrics",
+    "search?q=dark-mode",
+    "search?q=conversion"
+  ],
+  "pageSha256": "44b5ce4420e86e06c199dc729f1da5ef0c04fa1961724d2cdeb13721a5ecbc55"
+}

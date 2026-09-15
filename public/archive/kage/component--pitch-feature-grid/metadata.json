@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--pitch-feature-grid",
+  "source": "kage",
+  "slug": "component--pitch-feature-grid",
+  "url": "https://kage.design/component/pitch-feature-grid",
+  "name": "Layered feature card grid by pitch.com",
+  "description": "A playful three-card feature grid combines concise product storytelling with miniature interface scenes. Varied card sizes, soft lavender surfaces, deep purple contrast, and oversized rounded corners create a memorable editorial rhythm while keeping each feature easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/pitch-com/6703b162-6073-44e6-a626-e3df0dc35c4b-1789060648-6.webp",
+  "prompts": [
+    "kage/component--pitch-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/pitch-landing-page",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=product-ui",
+    "search?q=editorial",
+    "search?q=responsive"
+  ],
+  "pageSha256": "b91d8c8959b4219230e0b6f491b31c66e94b5c0ad499b21e1a3247d23ae25650"
+}

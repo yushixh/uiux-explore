@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--v0-gallery",
+  "source": "kage",
+  "slug": "component--v0-gallery",
+  "url": "https://kage.design/component/v0-gallery",
+  "name": "Template discovery gallery by v0.dev",
+  "description": "This section works through a compact discovery header, pill-shaped category filters, and a three-column grid of preview-led template cards. Consistent card proportions, restrained metadata, and generous whitespace make a large collection feel easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/v0-dev/99e42d3b-29f6-491c-8f06-cd6295e0d986-1789073271-2.webp",
+  "prompts": [
+    "kage/component--v0-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/v0-empty-state",
+  "product": "v0-dev",
+  "tags": [
+    "search?q=gallery",
+    "search?q=templates",
+    "search?q=filters",
+    "search?q=cards"
+  ],
+  "pageSha256": "4c0fcf7b2f7ab3b1474497ade2efa7d6aa756bc809cefa2ea66215fcdce8232d"
+}

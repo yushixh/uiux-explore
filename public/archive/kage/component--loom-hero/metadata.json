@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--loom-hero",
+  "source": "kage",
+  "slug": "component--loom-hero",
+  "url": "https://kage.design/component/loom-hero",
+  "name": "Centered video product hero by loom.com",
+  "description": "A spacious, conversion-focused SaaS hero that combines a minimal navigation bar, bold centered value proposition, paired CTAs, and a large rounded video preview. Strong hierarchy and a single high-contrast primary action make the section immediately understandable while the video creates an inviting path to explore.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060436-1.webp",
+  "prompts": [
+    "kage/component--loom-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=video",
+    "search?q=saas",
+    "search?q=cta",
+    "search?q=navbar"
+  ],
+  "pageSha256": "d811d88a217bea1f2d20eaa525eb9dd35711b299ef1588c1afb7d29931d9cc01"
+}

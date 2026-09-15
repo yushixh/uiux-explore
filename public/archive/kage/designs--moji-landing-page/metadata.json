@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--moji-landing-page",
+  "source": "kage",
+  "slug": "designs--moji-landing-page",
+  "url": "https://kage.design/designs/moji-landing-page",
+  "name": "Moji — Markdown reader landing page by Moji",
+  "description": "A desktop-app landing page built on an editorial, Japanese-inflected design language: large serif headlines, seal-stamp kanji badges sectioning the page, and a warm paper-beige base that alternates with near-black sections for rhythm. Product proof comes from dark app-window screenshots with small floating labels, and the palette is almost entirely monochrome with a single crimson accent reserved for underlines, seal stamps and CTAs. Density stays low — one idea per band — until the download section compresses into three platform cards.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/moji/682da163-2f11-4698-8415-78d5458fc05f-1789192947115.webp",
+  "prompts": [
+    "kage/designs--moji-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "moji",
+  "tags": [
+    "search?q=japanese-kanji-motifs",
+    "search?q=serif-headlines",
+    "search?q=alternating-light-dark-sections",
+    "search?q=app-screenshots",
+    "search?q=feature-cards",
+    "search?q=editorial-typography",
+    "search?q=open-source"
+  ],
+  "pageSha256": "0547fc0d68d0d16788adbaee761e0d9590ebad3d5245ec46f62d62d2e91b3585"
+}

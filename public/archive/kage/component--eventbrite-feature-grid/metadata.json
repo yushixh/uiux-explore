@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--eventbrite-feature-grid",
+  "source": "kage",
+  "slug": "component--eventbrite-feature-grid",
+  "url": "https://kage.design/component/eventbrite-feature-grid",
+  "name": "Event category shortcuts by eventbrite.com",
+  "description": "A horizontal row of eight circular icon shortcuts makes broad event categories scannable before users browse listings.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/eventbrite-com/7528d4f6-3311-4de9-a3b5-4d616b4b671a-1789146266-2.webp",
+  "prompts": [
+    "kage/component--eventbrite-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-landing-page",
+  "product": "eventbrite-com",
+  "tags": [
+    "search?q=categories",
+    "search?q=icons",
+    "search?q=shortcuts"
+  ],
+  "pageSha256": "90d59bce01c408f206b863c4d7a050d8d52283e645554051477e249b9e33489f"
+}

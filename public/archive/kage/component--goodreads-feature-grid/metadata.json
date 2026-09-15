@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--goodreads-feature-grid",
+  "source": "kage",
+  "slug": "component--goodreads-feature-grid",
+  "url": "https://kage.design/component/goodreads-feature-grid",
+  "name": "Personalized discovery pathways by goodreads.com",
+  "description": "Two concise side-by-side value propositions explain different ways the service helps users find their next book. Short headings and practical supporting copy make the benefits scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/goodreads-com/0ed04b7a-0db2-4e11-9788-e963511428af-1789146330-2.webp",
+  "prompts": [
+    "kage/component--goodreads-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/goodreads-landing-page",
+  "product": "goodreads-com",
+  "tags": [
+    "search?q=discovery",
+    "search?q=recommendations",
+    "search?q=columns"
+  ],
+  "pageSha256": "e948c793e4960e37e808d67b559aa19d5be7e99b3c89dc9547b83d00fa368f04"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ynab-testimonials",
+  "source": "kage",
+  "slug": "component--ynab-testimonials",
+  "url": "https://kage.design/component/ynab-testimonials",
+  "name": "Customer story cards by ynab.com",
+  "description": "Three side-by-side customer stories use short outcome-led quotes, descriptive body copy, circular portraits, names, and colorful curved card footers to make social proof feel personal.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ynab-com/e7a182c7-b158-445f-80c9-594412562788-1789146616-6.webp",
+  "prompts": [
+    "kage/component--ynab-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ynab-landing-page",
+  "product": "ynab-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=stories",
+    "search?q=customers"
+  ],
+  "pageSha256": "e41abfcaa9ff8af5bb22f187a55247264f95ce47adb56b052278982e0f29e6db"
+}

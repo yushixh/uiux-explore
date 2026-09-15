@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stowdrop-feature-grid-6",
+  "source": "kage",
+  "slug": "component--stowdrop-feature-grid-6",
+  "url": "https://kage.design/component/stowdrop-feature-grid-6",
+  "name": "Dark accordion FAQ list by stowdrop.app",
+  "description": "A focused FAQ section built as a tall, narrow list of bordered accordion rows. Strong typographic hierarchy, generous vertical rhythm, and a single warm accent for the active control keep a large amount of support content calm and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067826-11.webp",
+  "prompts": [
+    "kage/component--stowdrop-feature-grid-6/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=dark+mode",
+    "search?q=support"
+  ],
+  "pageSha256": "129927b76494865bbdbe8f0286f4a8ec96dff0b0b8a24c99b8796c26cf7eefea"
+}

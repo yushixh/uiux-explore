@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--kinetics-colorion-landing-page",
+  "source": "kage",
+  "slug": "designs--kinetics-colorion-landing-page",
+  "url": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "name": "Kinetics — spring physics animation library by kinetics.colorion.co",
+  "description": "A near-black catalogue of 111 spring-driven interface effects organised as three dense demo grids — Interaction & Input, Feedback & State, Surface & Motion — each introduced by a letterspaced uppercase header with a monospace counter. The hero buys contrast through sparseness: an animated spring waveform, a huge condensed uppercase headline where one word flips to saturated orange, and a floating card previewing the CSS/React/AI-prompt handoff. Below, every card repeats one disciplined template (demo stage → monospace physics parameters → name → one-line description → View code link), so the single orange accent and the monospace meta layer carry the whole identity.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/kinetics-colorion-co/61078688-965b-4221-9177-b73292c8438b-1789374921408.webp",
+  "prompts": [
+    "kage/designs--kinetics-colorion-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cortex-landing-page",
+  "product": "kinetics-colorion-co",
+  "tags": [
+    "search?q=spring-physics",
+    "search?q=animation-library",
+    "search?q=demo-grid",
+    "search?q=monospace-meta",
+    "search?q=orange-accent",
+    "search?q=code-snippets",
+    "search?q=search",
+    "search?q=dark-ui"
+  ],
+  "pageSha256": "cb5500fa35eb110a13a78bd8aba493965e8d582054a6559fcf161d1bd1bf0cd7"
+}

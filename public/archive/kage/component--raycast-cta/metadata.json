@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--raycast-cta",
+  "source": "kage",
+  "slug": "component--raycast-cta",
+  "url": "https://kage.design/component/raycast-cta",
+  "name": "Editorial Grid CTA Panel by raycast.com",
+  "description": "A high-contrast, grid-based call-to-action section that pairs concise product messaging with technical visual panels and a restrained footer action. It works through asymmetric composition, monospace metadata, subtle blueprint-style detailing, and a single clear conversion path.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067519-10.webp",
+  "prompts": [
+    "kage/component--raycast-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=dark-mode",
+    "search?q=grid",
+    "search?q=editorial"
+  ],
+  "pageSha256": "1290a038c9220eed57eeba32d0a106272e10469b0da484bb251c8621975c9ea4"
+}

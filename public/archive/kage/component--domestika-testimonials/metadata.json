@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--domestika-testimonials",
+  "source": "kage",
+  "slug": "component--domestika-testimonials",
+  "url": "https://kage.design/component/domestika-testimonials",
+  "name": "Featured teachers carousel by domestika.org",
+  "description": "A light, spacious teacher showcase uses compact profile cards, portraits, credentials, and carousel controls to add human credibility without interrupting browsing.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/domestika-org/a1bec580-5d19-4289-a277-048dcd6cb3c6-1789146411-4.webp",
+  "prompts": [
+    "kage/component--domestika-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/domestika-landing-page",
+  "product": "domestika-org",
+  "tags": [
+    "search?q=teachers",
+    "search?q=profiles",
+    "search?q=carousel"
+  ],
+  "pageSha256": "2de42e9d0ba17000bb12bf92ef711b429e0a0d5e24c4c919fe2f69ebe1289304"
+}

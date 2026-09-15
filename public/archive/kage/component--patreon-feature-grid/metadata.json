@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--patreon-feature-grid",
+  "source": "kage",
+  "slug": "component--patreon-feature-grid",
+  "url": "https://kage.design/component/patreon-feature-grid",
+  "name": "Creativity powered by fandom by patreon.com",
+  "description": "A pastel editorial collage of creator images supports an oversized typographic statement, with a short explanatory paragraph grounding the abstract message in a concrete benefit.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/patreon-com/f09b5697-c1c9-4600-81d4-e7bb56a9df3f-1789146381-2.webp",
+  "prompts": [
+    "kage/component--patreon-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/patreon-landing-page",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=collage",
+    "search?q=creators",
+    "search?q=editorial",
+    "search?q=community"
+  ],
+  "pageSha256": "06414019ec2b9a4139eb2cee08ede51cea6273b099ffce2126e69792b8f03b49"
+}

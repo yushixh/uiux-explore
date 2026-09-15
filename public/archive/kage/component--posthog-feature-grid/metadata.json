@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--posthog-feature-grid",
+  "source": "kage",
+  "slug": "component--posthog-feature-grid",
+  "url": "https://kage.design/component/posthog-feature-grid",
+  "name": "Editorial feature proof points by posthog.com",
+  "description": "A spacious, editorial feature section that combines a strong heading, short introductory statement, scannable bullet proof points, and a single supporting visual. It works through clear typographic hierarchy, bold lead-ins, restrained links, and an informal visual counterweight rather than a dense card grid.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/posthog-com/73877279-c1a4-4217-acde-d4b5e92c7eb5-1789060472-4.webp",
+  "prompts": [
+    "kage/component--posthog-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/posthog-landing-page",
+  "product": "posthog-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=proof-points",
+    "search?q=brand-story"
+  ],
+  "pageSha256": "34e5267d36f1d36e60df6b3633d028aa60f9ee19b7bc8fed50aed24e00165716"
+}

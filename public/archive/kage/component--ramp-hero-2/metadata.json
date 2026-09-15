@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ramp-hero-2",
+  "source": "kage",
+  "slug": "component--ramp-hero-2",
+  "url": "https://kage.design/component/ramp-hero-2",
+  "name": "Split editorial product hero by ramp.com",
+  "description": "A restrained two-column hero pairs a concise editorial message and understated text link with a large, softly rounded visual panel. Strong whitespace, oversized typography, and a small high-contrast accent button create a premium, confident introduction without relying on dense UI.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060915-6.webp",
+  "prompts": [
+    "kage/component--ramp-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=split-layout",
+    "search?q=editorial",
+    "search?q=saas"
+  ],
+  "pageSha256": "a33e65aee297505de6964d8f6f88890ff0b722db1274ba332576370bd726c846"
+}

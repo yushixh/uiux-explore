@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fly-feature-grid-3",
+  "source": "kage",
+  "slug": "component--fly-feature-grid-3",
+  "url": "https://kage.design/component/fly-feature-grid-3",
+  "name": "Soft-gradient feature card grid by fly.io",
+  "description": "A spacious three-column feature section uses a luminous pastel gradient, fine card outlines, and playful visual panels to make operational benefits feel approachable. The strong typographic header and consistent card anatomy keep the visual richness organized and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fly-io/55088b40-21c4-4b5b-a67c-8a1494f33e2d-1789073898-4.webp",
+  "prompts": [
+    "kage/component--fly-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fly-landing-page",
+  "product": "fly-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=gradient",
+    "search?q=editorial",
+    "search?q=illustration"
+  ],
+  "pageSha256": "cb5dd303fc77532151088369c3bdb5bdf49e5e5f50209429814e1664964904c1"
+}

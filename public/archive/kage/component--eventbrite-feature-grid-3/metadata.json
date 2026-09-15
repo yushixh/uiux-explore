@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--eventbrite-feature-grid-3",
+  "source": "kage",
+  "slug": "component--eventbrite-feature-grid-3",
+  "url": "https://kage.design/component/eventbrite-feature-grid-3",
+  "name": "Regional discovery link groups by eventbrite.com",
+  "description": "Three stacked discovery groups turn popular cities, states, and nearby places into compact pill-like text links with arrow affordances.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/eventbrite-com/7528d4f6-3311-4de9-a3b5-4d616b4b671a-1789146267-6.webp",
+  "prompts": [
+    "kage/component--eventbrite-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-landing-page",
+  "product": "eventbrite-com",
+  "tags": [
+    "search?q=links",
+    "search?q=regions",
+    "search?q=discovery"
+  ],
+  "pageSha256": "56ba8847271237308ec6675c2927c31ce113a7887f31c521ffe8f36fef796a34"
+}

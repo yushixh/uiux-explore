@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--masterclass-form",
+  "source": "kage",
+  "slug": "component--masterclass-form",
+  "url": "https://kage.design/component/masterclass-form",
+  "name": "Email class sampler signup by masterclass.com",
+  "description": "A low-friction email capture strip promises sample content, pairing a short explanation with a single email field, consent checkbox, and submit button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146212-9.webp",
+  "prompts": [
+    "kage/component--masterclass-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/masterclass-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=email",
+    "search?q=signup",
+    "search?q=form"
+  ],
+  "pageSha256": "164ef7fac5779edef32d5e5eeebeb4f27670e05bd00715db10d4f5c702de038a"
+}

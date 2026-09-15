@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--frigade-assist-api-logo-cloud",
+  "source": "kage",
+  "slug": "component--frigade-assist-api-logo-cloud",
+  "url": "https://kage.design/component/frigade-assist-api-logo-cloud",
+  "name": "Monochrome logo marquee by Frigade Assist API",
+  "description": "A restrained horizontal logo cloud uses evenly spaced, monochrome partner marks as a quiet trust signal above the next content section. The clipped edge treatment and low-contrast styling keep the logos supportive rather than competing with the page’s primary headline.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/frigade-assist-api/d96f9c4b-8236-4442-b795-92795f229d4a-1789106743-2.webp",
+  "prompts": [
+    "kage/component--frigade-assist-api-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/frigade-assist-api-landing-page",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=marquee",
+    "search?q=minimal"
+  ],
+  "pageSha256": "507701f22a3dcd2b1317faf278bb17dd85bba1a08735a0258672155a05ab6115"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--cron-navigation",
+  "source": "kage",
+  "slug": "component--cron-navigation",
+  "url": "https://kage.design/component/cron-navigation",
+  "name": "Minimal dark navigation bar by cron.com",
+  "description": "A restrained, high-contrast header that balances a compact brand mark on the left with low-friction text navigation and one warm, rounded primary action on the right. Generous horizontal breathing room, subtle hierarchy, and a nearly black surface make the navigation feel premium without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cron-com/13c2d880-1e0a-4e61-bc53-4a819d6c2d36-1789060776-0.webp",
+  "prompts": [
+    "kage/component--cron-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cron-landing-page",
+  "product": "cron-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=dark-mode",
+    "search?q=saas",
+    "search?q=header"
+  ],
+  "pageSha256": "3fb7684eff64a48552fb485c5f40a91cc618895f6b87a55d53ac04e9393f5ccb"
+}

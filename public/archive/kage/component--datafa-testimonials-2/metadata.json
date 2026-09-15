@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--datafa-testimonials-2",
+  "source": "kage",
+  "slug": "component--datafa-testimonials-2",
+  "url": "https://kage.design/component/datafa-testimonials-2",
+  "name": "Centered social-proof testimonial panel by datafa.st",
+  "description": "A quiet, high-trust testimonial treatment that combines a focused value proposition, a single prominent call to action, and a compact row of customer avatars with a user count. The generous whitespace, restrained border treatment, and centered alignment keep attention on the proof and conversion action without making the section feel sales-heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789067844-11.webp",
+  "prompts": [
+    "kage/component--datafa-testimonials-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/datafa-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social+proof",
+    "search?q=saas",
+    "search?q=conversion"
+  ],
+  "pageSha256": "2715de25740efd45bc76ccb921983b6edf181ec3107f69132e8fc2f653f7167c"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--lovable-logo-cloud",
+  "source": "kage",
+  "slug": "component--lovable-logo-cloud",
+  "url": "https://kage.design/component/lovable-logo-cloud",
+  "name": "Production proof logo cloud by lovable.dev",
+  "description": "A restrained social-proof section that pairs a strong centered headline with supporting copy and a spacious, grid-based field of customer logos. Thin dividers and generous whitespace make the logos feel credible without turning the section into a dense testimonial wall.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lovable-dev/7426a651-2b1e-4dbe-b0d8-bb8a847d2e81-1789060910-4.webp",
+  "prompts": [
+    "kage/component--lovable-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lovable-landing-page",
+  "product": "lovable-dev",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=editorial",
+    "search?q=b2b"
+  ],
+  "pageSha256": "932242d8e0f228d83b38c69b03d7dedf8b69c7a9c945c084292fcb3a4a1ce3ae"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--labs-winszn-og-image",
+  "source": "kage",
+  "slug": "designs--labs-winszn-og-image",
+  "url": "https://kage.design/designs/labs-winszn-og-image",
+  "name": "winszn labs — dark Swiss OG card with orange slab by labs.winszn.xyz",
+  "description": "A near-black 1200×630 card built on Swiss poster grammar: a tracked uppercase wordmark lockup top-left, a huge white grotesque headline left-of-centre as the single focal point, and a flat orange slab bleeding off the top-right edge with a tonal near-black square overlapping it for depth without any shadow or gradient. A thin hairline rule separates a quiet footer of letterspaced micro-labels, including literal hex swatches (#EB4604, #99A57D) printed as content — a self-referential designer's footnote. Hierarchy comes almost entirely from type scale (roughly 6:1 between headline and labels) and one hot accent against monochrome ground.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/labs-winszn-xyz/6ad37686-f9b4-4b5c-8ea7-3a5a769d110e-1789097587229.webp",
+  "prompts": [
+    "kage/designs--labs-winszn-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/phantom-og-image",
+  "product": "labs-winszn-xyz",
+  "tags": [
+    "search?q=social-card",
+    "search?q=swiss-grid",
+    "search?q=color-block",
+    "search?q=off-edge-bleed",
+    "search?q=tracked-micro-type",
+    "search?q=hairline-rule",
+    "search?q=hex-swatch-footer",
+    "search?q=tonal-overlap"
+  ],
+  "pageSha256": "0f2a06d3e351ad61a04f5d93bc0e338e05fd02f70b8410a3bf06de767edf5f14"
+}

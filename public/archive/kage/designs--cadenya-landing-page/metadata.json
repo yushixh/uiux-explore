@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--cadenya-landing-page",
+  "source": "kage",
+  "slug": "designs--cadenya-landing-page",
+  "url": "https://kage.design/designs/cadenya-landing-page",
+  "name": "Cadenya agentic runtime landing page by Cadenya",
+  "description": "The page runs a two-typeface system — a light uppercase display serif against small monospace labels — and threads a technical-drawing motif of 1px crop-mark corner brackets through every framed panel, diagram and photo. Rhythm comes from full-bleed background swaps down the page: off-white hero with a surreal floating bonsai island, a macro root photograph carrying two frosted-glass cards, deep forest-green panels with numbered node diagrams and an accordion/product-UI split, then a pale lime zone for FAQ before returning to white for the closing CTA and footer. The bonsai-on-island image recurs three times as a brand anchor, and a single lime accent (#D9E965-ish) marks focal diagram nodes, the highlighted phrase in the oversized statement, and interactive states.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192830062.webp",
+  "prompts": [
+    "kage/designs--cadenya-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=serif",
+    "search?q=monospace",
+    "search?q=corner-brackets",
+    "search?q=frosted-glass",
+    "search?q=node-diagrams",
+    "search?q=accordion",
+    "search?q=bonsai-metaphor",
+    "search?q=technical-drawing"
+  ],
+  "pageSha256": "8d65b73f064c9a5721c338717024cc93475a4187c521712b69e3aefc8cdb78f5"
+}

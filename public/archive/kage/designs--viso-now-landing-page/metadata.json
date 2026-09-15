@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--viso-now-landing-page",
+  "source": "kage",
+  "slug": "designs--viso-now-landing-page",
+  "url": "https://kage.design/designs/viso-now-landing-page",
+  "name": "Viso AI landing page by Viso Now",
+  "description": "A computer-vision platform page that opens with a full-bleed dark aerial photo and a glassmorphic prompt-to-build input, then settles into an airy white editorial rhythm: pink-dot uppercase eyebrows, oversized grotesque headings, and photo-led card grids for templates and stories. The accent system is disciplined — one magenta for dots, checks and CTAs, one purple reserved for the enterprise tier — while hierarchy swings between dense 4-column photo grids, a white-vs-black dual product split, and giant 54%/24/7/10×/90% numerals. The page closes dark: a purple-gradient CTA panel and a black multi-column footer with certification badges.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106531894.webp",
+  "prompts": [
+    "kage/designs--viso-now-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=glass-hero-input",
+    "search?q=pink-accent",
+    "search?q=eyebrow-labels",
+    "search?q=template-gallery",
+    "search?q=dual-product-cards",
+    "search?q=stat-grid",
+    "search?q=photo-cards",
+    "search?q=dark-footer"
+  ],
+  "pageSha256": "5edbf5c6305d86ea7c905986c299bc4d41565eb1969c7458c80c7b0a642b8397"
+}

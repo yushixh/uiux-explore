@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--draggable-parallax",
+  "source": "vantaui",
+  "slug": "explore--components--draggable-parallax",
+  "url": "https://www.vantaui.com/explore/components/draggable-parallax",
+  "name": "Draggable Parallax - VantaUI",
+  "description": "Draggable slider with image parallax effects",
+  "image": "https://vantaui-registry.vercel.app/components/draggable-parallax",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "cd38dbc2162042a0dd2a43a35b03604a0ea625433e0cc8f81a63182e6cd729ce"
+}

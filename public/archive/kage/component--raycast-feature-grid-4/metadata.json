@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--raycast-feature-grid-4",
+  "source": "kage",
+  "slug": "component--raycast-feature-grid-4",
+  "url": "https://kage.design/component/raycast-feature-grid-4",
+  "name": "Dark AI feature showcase grid by raycast.com",
+  "description": "A cinematic, dark-mode feature section pairs a centered product-introduction header with an oversized primary demo card and smaller supporting cards below. Soft borders, restrained typography, and subtle luminous accents make the interface feel premium while keeping the product workflow as the visual focus.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067516-4.webp",
+  "prompts": [
+    "kage/component--raycast-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=ai-product",
+    "search?q=card-layout"
+  ],
+  "pageSha256": "f5ba301b6b8af5a2b81b13546c938113151cb7ce4a6ead7bd865818180899aa1"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nostalgic-snacks",
+  "name": "Nostalgic Snacks",
+  "description": "A draggable, explorable museum of Malaysia's most nostalgic snacks, from White Rabbit Candy to Haw Flakes, with photos, details, and a \"where's mine?\" submission flow.",
+  "shortInfo": "An interactive museum of nostalgic snacks",
+  "url": "https://nostalgicsnacks.com/",
+  "handle": "rachelhxw",
+  "creatorName": "Rachel How",
+  "creatorUrl": "https://x.com/rachelhxw",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Collections",
+  "categories": [
+    "Collections"
+  ],
+  "launchDate": "2026-09-02",
+  "added": "2026-09-02",
+  "sortOrder": 38,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/nostalgic-snacks/reviewed-1788762501992-nostalgic-snacks-SZpFdvpMm8HzC3L93mBre4Cc2bDHPA.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/authors/rachelhxw-1788762481035-po7u6ENWj2gy6NkMSIw9ch8ODDH4WD.jpg",
+  "shot": "/screenshots/nostalgic-snacks.png"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--monzo-hero",
+  "source": "kage",
+  "slug": "component--monzo-hero",
+  "url": "https://kage.design/component/monzo-hero",
+  "name": "Lifestyle-first image hero by monzo.com",
+  "description": "A bold, image-led hero combines a compact global header with high-contrast messaging, a single primary action, and a dark scrim that keeps text legible without obscuring the visual. Its oversized rounded container and restrained controls make the section feel friendly, premium, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monzo-com/b864c421-0184-411c-901f-a4ffc676dbcc-1789060818-1.webp",
+  "prompts": [
+    "kage/component--monzo-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monzo-landing-page",
+  "product": "monzo-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=overlay",
+    "search?q=navigation",
+    "search?q=responsive",
+    "search?q=cta"
+  ],
+  "pageSha256": "b05b700fdb5dba273608680840d7fa3478c7dff89a5ab7eeb035c504ab37f865"
+}

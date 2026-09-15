@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--vanish-text",
+  "source": "vantaui",
+  "slug": "explore--components--vanish-text",
+  "url": "https://www.vantaui.com/explore/components/vanish-text",
+  "name": "Vanish Text - VantaUI",
+  "description": "Main headline with vanishing sub-text",
+  "image": "https://vantaui-registry.vercel.app/components/vanish-text",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "1a6ea6c226303fbe4fe0a7b9ea13e85074310577a1c76e0c96ab8f4635cdb576"
+}

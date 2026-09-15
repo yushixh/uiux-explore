@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--frigade-assist-api-navigation",
+  "source": "kage",
+  "slug": "component--frigade-assist-api-navigation",
+  "url": "https://kage.design/component/frigade-assist-api-navigation",
+  "name": "Announcement Bar and Primary Navigation by Frigade Assist API",
+  "description": "A compact two-tier site header pairs a full-width announcement strip with a clean, centered navigation row. The component works through restrained spacing, clear hierarchy, and a strongly contrasting primary CTA that remains easy to find without overpowering the navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/frigade-assist-api/d96f9c4b-8236-4442-b795-92795f229d4a-1789106742-0.webp",
+  "prompts": [
+    "kage/component--frigade-assist-api-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/frigade-assist-api-landing-page",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=header",
+    "search?q=saas"
+  ],
+  "pageSha256": "0bef7668575e3a327d73e4069ec337a053c0b3f42c9c59a613b665c2873eaba8"
+}

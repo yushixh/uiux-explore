@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--railway-feature-grid-4",
+  "source": "kage",
+  "slug": "component--railway-feature-grid-4",
+  "url": "https://kage.design/component/railway-feature-grid-4",
+  "name": "Collaborative development workflow by railway.com",
+  "description": "This section closes the product story with development environments shown as layered production, staging, and development canvases plus three supporting benefits.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/railway-com/2043945d-689d-427f-b51d-92aa383b8c92-1789060664-6.webp",
+  "prompts": [
+    "kage/component--railway-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/railway-landing-page",
+  "product": "railway-com",
+  "tags": [
+    "search?q=collaboration",
+    "search?q=preview",
+    "search?q=workflow"
+  ],
+  "pageSha256": "c6473ca1fc0cd5d13219ad138ae53850e8c32a99495dc92b954b92a851f1a2e2"
+}

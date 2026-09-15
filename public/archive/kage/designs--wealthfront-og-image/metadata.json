@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--wealthfront-og-image",
+  "source": "kage",
+  "slug": "designs--wealthfront-og-image",
+  "url": "https://kage.design/designs/wealthfront-og-image",
+  "name": "Wealthfront OG social card — \"Money works better here.\" by wealthfront.com",
+  "description": "A 1200×630 social card built on a single deep violet field with a radial bloom behind the headline and one large curved sweep crossing the lower third for depth. Hierarchy is strict: small white wordmark top-left, a dominant two-line headline mixing an ultra-bold grotesque (\"Money works\") with a high-contrast italic serif (\"better here.\"), and a phone mockup tilted ~8° on the right whose white dashboard UI — balance figure, area chart, account list — is the only fine detail on the card. Everything else is negative space, with no CTA or supporting copy, which keeps the card legible at thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/wealthfront-com/f6aa53aa-f7fe-43a8-962e-3012dce442a0-1789146503250.webp",
+  "prompts": [
+    "kage/designs--wealthfront-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=phone-mockup",
+    "search?q=serif-italic",
+    "search?q=bold-sans",
+    "search?q=gradient",
+    "search?q=product-ui",
+    "search?q=fintech"
+  ],
+  "pageSha256": "f7134472aab50bf286000376d5d144196ecd15cd66ab8847b15940024b18a401"
+}

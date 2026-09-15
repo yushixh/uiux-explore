@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--framer-og-image",
+  "source": "kage",
+  "slug": "designs--framer-og-image",
+  "url": "https://kage.design/designs/framer-og-image",
+  "name": "Framer OG social card — site-gallery mosaic with centre logomark by framer.com",
+  "description": "A 1200×630 social card built as a full-bleed mosaic: four-to-five uneven columns of saturated site thumbnails (red, orange, lime, pink, violet) separated by thin black gutters, with edge tiles cropped mid-frame. A black vertical column and horizontal band cross at the centre, forming a plus-shaped field of calm where the white logomark sits as the only focal element — there is no headline at all. The density and colour riot of the gallery does the persuading while the solid-black cross and lone white mark anchor the brand.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/framer-com/d652d23a-d8d4-4103-8014-794a8c98541c-1789066880200.webp",
+  "prompts": [
+    "kage/designs--framer-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-og-image",
+  "product": "framer-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=collage",
+    "search?q=mosaic",
+    "search?q=grid",
+    "search?q=logomark",
+    "search?q=brand-card",
+    "search?q=vibrant",
+    "search?q=gallery"
+  ],
+  "pageSha256": "cb0d1b84069878aefd569551c1744663c8e53ff8f40ca9a39d29a42504183997"
+}

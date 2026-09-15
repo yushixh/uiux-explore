@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chime-footer",
+  "source": "kage",
+  "slug": "component--chime-footer",
+  "url": "https://kage.design/component/chime-footer",
+  "name": "Multi-column legal and company footer by chime.com",
+  "description": "The footer begins with several link columns and contact/app-download actions, then transitions into a dense legal disclosure area separated by a rule. The dark background preserves continuity with the brand palette.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146544-9.webp",
+  "prompts": [
+    "kage/component--chime-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chime-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "e90383e49bca4897d6dff6f4488b5475a92815c6812bef399e454bffce12f487"
+}

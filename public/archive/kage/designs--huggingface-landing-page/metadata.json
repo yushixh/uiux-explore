@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--huggingface-landing-page",
+  "source": "kage",
+  "slug": "designs--huggingface-landing-page",
+  "url": "https://kage.design/designs/huggingface-landing-page",
+  "name": "Hugging Face homepage by huggingface.co",
+  "description": "A white page anchored by two near-black rounded cards — the hero with a live product screenshot bleeding off its right edge, and the Team & Enterprise band mid-page with floating 3D shapes — bookending airy centered sections. Density alternates deliberately: dense three-column trending lists with tiny stat metadata, a bento grid of feature cards embedding real UI mocks (activity feed, code snippet, modality grid, profile), then an airy masonry of open-source library cards carrying star counts as social proof. The yellow mascot is the only saturated accent on an otherwise black/white/gray system, reappearing as a full emoji pile above the footer to close the page playfully.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/huggingface-co/7a35650e-acfa-4ee6-9c74-f477a83c58e6-1789073694409.webp",
+  "prompts": [
+    "kage/designs--huggingface-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "huggingface-co",
+  "tags": [
+    "search?q=dark-hero-card",
+    "search?q=trending-lists",
+    "search?q=bento-grid",
+    "search?q=dense-metadata",
+    "search?q=emoji-brand",
+    "search?q=masonry-grid",
+    "search?q=pill-buttons",
+    "search?q=footer-illustration"
+  ],
+  "pageSha256": "c550f79686520b7ad808098144797c2b6706392132bcdfeb4f9fd7c369edc82b"
+}

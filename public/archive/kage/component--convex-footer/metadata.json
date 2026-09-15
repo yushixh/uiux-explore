@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--convex-footer",
+  "source": "kage",
+  "slug": "component--convex-footer",
+  "url": "https://kage.design/component/convex-footer",
+  "name": "Multi-column dark footer by convex.dev",
+  "description": "A spacious, utility-first footer that organizes a large sitemap into clearly aligned columns, balancing dense navigation with a distinct social and trust area. The restrained palette, compact type, and generous negative space make the component feel technical, credible, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789074852-9.webp",
+  "prompts": [
+    "kage/component--convex-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/convex-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=footer",
+    "search?q=dark+mode",
+    "search?q=navigation",
+    "search?q=compliance"
+  ],
+  "pageSha256": "4236f1b6d63e262f2fdb45af737079ceda44c5e243ccc480e3bc69e0b2cd423b"
+}

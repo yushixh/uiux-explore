@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-cta",
+  "source": "kage",
+  "slug": "component--mercury-cta",
+  "url": "https://kage.design/component/mercury-cta",
+  "name": "Business and personal closing CTA by mercury.com",
+  "description": "A centered closing headline with two actions is followed by side-by-side cards for two audience paths, making the final conversion decision explicit.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141946-10.webp",
+  "prompts": [
+    "kage/component--mercury-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=conversion",
+    "search?q=split"
+  ],
+  "pageSha256": "aee8ce5aa118ab342bf58be6262c0752acc75ac31b5958f0a140c3853af3b3be"
+}

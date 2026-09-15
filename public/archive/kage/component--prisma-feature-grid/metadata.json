@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--prisma-feature-grid",
+  "source": "kage",
+  "slug": "component--prisma-feature-grid",
+  "url": "https://kage.design/component/prisma-feature-grid",
+  "name": "Before-and-after feature comparison by prisma.io",
+  "description": "This section works by making a complex product promise concrete: a muted “before” state shows fragmented work, while a larger, brighter “after” panel presents the integrated outcome with a clear visual hierarchy and scannable proof points. The asymmetric composition creates a strong narrative from friction to resolution without relying on decorative imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073818-3.webp",
+  "prompts": [
+    "kage/component--prisma-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=comparison",
+    "search?q=saas",
+    "search?q=conversion"
+  ],
+  "pageSha256": "9cf65f862df1ac3f28e1350abf54354a252b3dd820baa2b8ed7c8b47068a7cfa"
+}

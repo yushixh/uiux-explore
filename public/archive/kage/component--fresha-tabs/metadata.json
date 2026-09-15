@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--fresha-tabs",
+  "source": "kage",
+  "slug": "component--fresha-tabs",
+  "url": "https://kage.design/component/fresha-tabs",
+  "name": "Browse by city directory by fresha.com",
+  "description": "A directory section combines a heading, horizontally scrolling location pills, multiple link columns, and a second category-pill row for SEO-oriented browsing.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fresha-com/a0edb032-1288-4233-aedd-1c2eb6d6db18-1789146194-10.webp",
+  "prompts": [
+    "kage/component--fresha-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fresha-landing-page",
+  "product": "fresha-com",
+  "tags": [
+    "search?q=tabs",
+    "search?q=directory",
+    "search?q=location"
+  ],
+  "pageSha256": "09c93290d007ef4420f80c871dfbbb4885c02b79f3b8ae6df00df73cba94c509"
+}

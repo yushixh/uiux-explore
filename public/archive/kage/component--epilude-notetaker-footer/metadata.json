@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--epilude-notetaker-footer",
+  "source": "kage",
+  "slug": "component--epilude-notetaker-footer",
+  "url": "https://kage.design/component/epilude-notetaker-footer",
+  "name": "Multi-column site footer by Epilude Notetaker",
+  "description": "The footer organizes product, solution, comparison, resource, and company navigation into compact columns and ends with a small operational-status indicator.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/epilude-notetaker/4c1f6c09-8367-4067-b5eb-19bb83b45625-1789365731-6.webp",
+  "prompts": [
+    "kage/component--epilude-notetaker-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-landing-page",
+  "product": "epilude-notetaker",
+  "tags": [
+    "search?q=links",
+    "search?q=columns",
+    "search?q=status"
+  ],
+  "pageSha256": "239eccc6c1067f49b6810ccba3c874571a6562a74190dc664865ae7c205fa46a"
+}

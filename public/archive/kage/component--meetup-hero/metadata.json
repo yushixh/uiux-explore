@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--meetup-hero",
+  "source": "kage",
+  "slug": "component--meetup-hero",
+  "url": "https://kage.design/component/meetup-hero",
+  "name": "Interest-led community hero by meetup.com",
+  "description": "A centered, high-contrast headline and short explanatory paragraph establish the platform promise, with a single dark CTA. Playful cutout-style people and activity imagery frame the content on both sides while preserving a calm central reading path.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/meetup-com/38f9f6c4-75f1-46e9-b1c3-f8b44b19e777-1789146456-1.webp",
+  "prompts": [
+    "kage/component--meetup-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=headline",
+    "search?q=community",
+    "search?q=signup"
+  ],
+  "pageSha256": "a9abdf72313ba20600e472dc197f5a582c0ea52526b9fb731fb480b257112cd3"
+}

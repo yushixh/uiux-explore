@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--meetup-cta",
+  "source": "kage",
+  "slug": "component--meetup-cta",
+  "url": "https://kage.design/component/meetup-cta",
+  "name": "Membership signup call to action by meetup.com",
+  "description": "A centered signup panel interrupts the content flow with a simple value proposition and one action. Small circular community portraits and playful corner decorations make the panel feel human without overwhelming its message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/meetup-com/38f9f6c4-75f1-46e9-b1c3-f8b44b19e777-1789146456-4.webp",
+  "prompts": [
+    "kage/component--meetup-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=signup",
+    "search?q=membership",
+    "search?q=social"
+  ],
+  "pageSha256": "87f89598e2350bad6976e4baa3b2397b94f7d3a3be12e74e80a40dcd1a77c0ab"
+}

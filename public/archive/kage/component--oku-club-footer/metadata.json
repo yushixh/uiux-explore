@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--oku-club-footer",
+  "source": "kage",
+  "slug": "component--oku-club-footer",
+  "url": "https://kage.design/component/oku-club-footer",
+  "name": "Site footer by oku.club",
+  "description": "A compact footer places utility links along the left and a small copyright notice on the right, maintaining the page's restrained editorial tone.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/oku-club/e710a983-c1d6-4177-b014-2738acd07d09-1789146245-10.webp",
+  "prompts": [
+    "kage/component--oku-club-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/oku-club-landing-page",
+  "product": "oku-club",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=copyright"
+  ],
+  "pageSha256": "301658fcd0965ca038a02c0087096a6545b77bf8a7ba20f500b81e3244d35a44"
+}

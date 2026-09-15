@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--cosmic-app-download-button",
+  "source": "vantaui",
+  "slug": "explore--components--cosmic-app-download-button",
+  "url": "https://www.vantaui.com/explore/components/cosmic-app-download-button",
+  "name": "Cosmic App Download Button - VantaUI",
+  "description": "Download from app and play store button with cosmic animation",
+  "image": "https://vantaui-registry.vercel.app/components/cosmic-app-download-button",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "64e850be90d931c8c4435b6b7aedd2aaa1dc0059797910632d40d8de163d3a0e"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--strawberrybrowser-footer",
+  "source": "kage",
+  "slug": "component--strawberrybrowser-footer",
+  "url": "https://kage.design/component/strawberrybrowser-footer",
+  "name": "Minimal FAQ transition footer by strawberrybrowser.com",
+  "description": "A spacious, editorial transition into an FAQ section, using a soft neutral canvas, subtle technical grid texture, and a two-column question prompt. The hierarchy creates a calm pause before support content while keeping the first question immediately discoverable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/strawberrybrowser-com/0a6dd4bb-409f-4c45-aa48-6abac7e2076e-1789060564-11.webp",
+  "prompts": [
+    "kage/component--strawberrybrowser-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/strawberrybrowser-landing-page",
+  "product": "strawberrybrowser-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=faq",
+    "search?q=minimal",
+    "search?q=responsive"
+  ],
+  "pageSha256": "98a3e177680c2fc7c20468b9e3ff59083bb16403e601d065dab8f7fbb3501b24"
+}

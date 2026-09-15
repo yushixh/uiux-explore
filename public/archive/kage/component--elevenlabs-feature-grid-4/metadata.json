@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--elevenlabs-feature-grid-4",
+  "source": "kage",
+  "slug": "component--elevenlabs-feature-grid-4",
+  "url": "https://kage.design/component/elevenlabs-feature-grid-4",
+  "name": "Latest updates feature grid by elevenlabs.io",
+  "description": "A restrained editorial grid that pairs a spacious section header with a compact action and three visual update cards. It works through strong alignment, generous whitespace, consistent media ratios, and understated metadata rather than heavy decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060954-9.webp",
+  "prompts": [
+    "kage/component--elevenlabs-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=content-cards",
+    "search?q=editorial",
+    "search?q=responsive"
+  ],
+  "pageSha256": "8ecd003383fb3887b5b63837e6c3e5e1d63c01db12ef714f21288c439685a1bd"
+}

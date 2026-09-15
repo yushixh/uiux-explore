@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--slide-preloader",
+  "source": "vantaui",
+  "slug": "explore--components--slide-preloader",
+  "url": "https://www.vantaui.com/explore/components/slide-preloader",
+  "name": "Slide Preloader - VantaUI",
+  "description": "A left sliding minimal preloader animation.",
+  "image": "https://vantaui-registry.vercel.app/components/slide-preloader",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "fe105feb4adcfc2e2acd496c0776e9d8ca6d666ccdcda8fe08dadeb59552ea0d"
+}

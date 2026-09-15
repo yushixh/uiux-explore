@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--resend-empty-state",
+  "source": "kage",
+  "slug": "designs--resend-empty-state",
+  "url": "https://kage.design/designs/resend-empty-state",
+  "name": "Resend developer email platform landing page by resend.com",
+  "description": "A near-black developer landing page built on a repeating chapter rhythm: each product claim is introduced by a glossy 3D icon and a centred serif heading with an italic orange accent phrase, then immediately proven with a real artifact — a tabbed code window, a code/live-preview split, or an actual product screenshot. Hierarchy comes from a high-contrast serif display face (roman and italic mixed at ~90px) over a small muted grotesque body, with density swinging between airy section intros and dense utilitarian blocks: a 13-icon SDK row, a 3×3 deliverability grid, and bordered cards containing mock-UI states. Colour discipline holds the page together — #0a0a0a canvas, white headlines, #a1a1aa body, orange #ff5a1f reserved for accent italics, green and red confined to semantic statuses — flowing through a monochrome logo wall, a single anchor testimonial, a three-card quote grid, and a five-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/resend-com/a5fe426a-0829-45e6-9969-dd938a799528-1789059992654.webp",
+  "prompts": [
+    "kage/designs--resend-empty-state/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/liveblocks-empty-state",
+  "product": "resend-com",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=serif-display",
+    "search?q=code-samples",
+    "search?q=logo-wall",
+    "search?q=feature-grid",
+    "search?q=3d-icons",
+    "search?q=testimonials",
+    "search?q=split-preview"
+  ],
+  "pageSha256": "5cc9f2403b77a5ac0787ec13250d50b693fb59d95ecd82a01ff239429db2a0bc"
+}

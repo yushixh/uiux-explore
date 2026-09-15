@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tailwindcss-footer",
+  "source": "kage",
+  "slug": "component--tailwindcss-footer",
+  "url": "https://kage.design/component/tailwindcss-footer",
+  "name": "Editorial link-grid footer by tailwindcss.com",
+  "description": "A spacious, editorial footer that uses a large visual lead-in followed by an evenly divided navigation grid and a quiet utility bar. Thin rules, generous whitespace, and restrained typography make the footer feel like a natural continuation of a design-led product site.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tailwindcss-com/8ea80760-a5bd-4198-8781-a7bb4737c216-1789073869-6.webp",
+  "prompts": [
+    "kage/component--tailwindcss-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tailwindcss-landing-page",
+  "product": "tailwindcss-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=link-grid",
+    "search?q=minimal",
+    "search?q=responsive"
+  ],
+  "pageSha256": "15c24b54a5bdc8d2847bf4f5d5c41df9a42029615f32e36a9879657e48e1fac4"
+}

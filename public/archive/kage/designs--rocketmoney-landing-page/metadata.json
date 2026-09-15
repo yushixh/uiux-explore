@@ -1,0 +1,28 @@
+{
+  "id": "kage--designs--rocketmoney-landing-page",
+  "source": "kage",
+  "slug": "designs--rocketmoney-landing-page",
+  "url": "https://kage.design/designs/rocketmoney-landing-page",
+  "name": "Rocket Money fintech landing page by rocketmoney.com",
+  "description": "A consumer fintech landing page built on a white canvas with large light-gray rounded panels that break the rhythm into distinct acts: hero, social proof, three alternating feature stories, a free-vs-premium comparison, a 2×2 feature grid, and a masonry review wall. Hierarchy is carried by a single rounded geometric sans scaled dramatically down the page (hero ≈64px → section heads ≈40px → 16px body), while CTA weight steps down from a black pill in the hero to outlined pills beside each feature to plain underlined links in the grid. Warm lifestyle photography with floating white UI cards (subscriptions, alerts, savings goals) sits against the flat panels, and a single crimson red is rationed for icons, stars, progress bars and the app header, keeping the page feeling calm, editorial and trustworthy despite its density.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/rocketmoney-com/33d2822e-a753-4b7c-bf3f-3f514d417ce5-1789146522630.webp",
+  "prompts": [
+    "kage/designs--rocketmoney-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "rocketmoney-com",
+  "tags": [
+    "search?q=hero-phone-mockup",
+    "search?q=qr-code",
+    "search?q=floating-ui-cards",
+    "search?q=alternating-feature-blocks",
+    "search?q=comparison-panel",
+    "search?q=polaroid-social-proof",
+    "search?q=masonry-testimonials",
+    "search?q=pill-buttons",
+    "search?q=dark-footer"
+  ],
+  "pageSha256": "9261958ad8c96edd8efc8e884395decf1329a2dfe908bfa151aeb73691442c00"
+}

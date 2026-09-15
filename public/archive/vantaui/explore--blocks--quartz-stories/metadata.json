@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--quartz-stories",
+  "source": "vantaui",
+  "slug": "explore--blocks--quartz-stories",
+  "url": "https://www.vantaui.com/explore/blocks/quartz-stories",
+  "name": "Quartz Stories - VantaUI",
+  "description": "A sleek testimonial block for high-impact social proof.",
+  "image": "https://vantaui-registry.vercel.app/blocks/quartz-stories",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "53b13c1acde358c10ef17f9fb43f4ce88026304a5690968badd9793f05e80397"
+}

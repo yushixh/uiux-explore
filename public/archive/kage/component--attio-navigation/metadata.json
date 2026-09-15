@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--attio-navigation",
+  "source": "kage",
+  "slug": "component--attio-navigation",
+  "url": "https://kage.design/component/attio-navigation",
+  "name": "Announcement Bar + Minimal SaaS Navigation by attio.com",
+  "description": "A slim, high-contrast announcement strip sits above a restrained navigation row, creating a clear hierarchy between timely messaging and core product navigation. The spacious header uses lightweight borders, compact controls, and a strong primary action without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060456-0.webp",
+  "prompts": [
+    "kage/component--attio-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=saas",
+    "search?q=header"
+  ],
+  "pageSha256": "a81962b1a2134487f351eb08a86167c0f646dd041e5b5119a2810f72b6fa93bb"
+}

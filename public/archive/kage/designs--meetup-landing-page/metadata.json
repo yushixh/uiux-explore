@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--meetup-landing-page",
+  "source": "kage",
+  "slug": "designs--meetup-landing-page",
+  "url": "https://kage.design/designs/meetup-landing-page",
+  "name": "Meetup homepage — social events discovery landing by meetup.com",
+  "description": "A consumer social landing built around repeating event-card grids set against airy, illustrated interludes. Warm candid photography is masked into organic blobs with handwritten labels and doodles, while the functional layers — dual search bar, card grids, category tiles, city tiles — stay disciplined: white canvas, near-black type, charcoal pill CTAs, hot-pink brand accent and purple text links. Rhythm alternates dense four-column card sections with wide-spaced centered panels (join CTA, how-it-works, editorial strip), ending in a dark rounded footer with four link columns and app badges.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/meetup-com/38f9f6c4-75f1-46e9-b1c3-f8b44b19e777-1789146405733.webp",
+  "prompts": [
+    "kage/designs--meetup-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/patreon-landing-page",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=event-cards",
+    "search?q=photo-blobs",
+    "search?q=handwritten-annotations",
+    "search?q=pill-buttons",
+    "search?q=category-tiles",
+    "search?q=doodles",
+    "search?q=dark-footer",
+    "search?q=community"
+  ],
+  "pageSha256": "57efd85ebc9fc02768ee6389bf4442cf7f679b53ae9cb6e566a907b63accd92b"
+}

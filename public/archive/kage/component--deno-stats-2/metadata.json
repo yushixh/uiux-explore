@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--deno-stats-2",
+  "source": "kage",
+  "slug": "component--deno-stats-2",
+  "url": "https://kage.design/component/deno-stats-2",
+  "name": "Production proof stats cards by deno.com",
+  "description": "A compact pair of metric cards turns trust signals into an immediate visual proof point. Strong numerals, quiet labels, mint icon badges, and restrained borders keep the component credible, scannable, and easy to adapt to another product.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073869-11.webp",
+  "prompts": [
+    "kage/component--deno-stats-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/deno-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=social-proof",
+    "search?q=cards",
+    "search?q=metrics"
+  ],
+  "pageSha256": "ee501dd0e5346ec67d274cb6e2b41551ce496a6447f853230ededdd56a77b686"
+}

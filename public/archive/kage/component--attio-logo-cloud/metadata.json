@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--attio-logo-cloud",
+  "source": "kage",
+  "slug": "component--attio-logo-cloud",
+  "url": "https://kage.design/component/attio-logo-cloud",
+  "name": "Editorial logo grid by attio.com",
+  "description": "A restrained, editorial logo cloud uses a precise five-column grid, faint dividers, generous whitespace, and monochrome wordmarks to create credible social proof without competing with the main page narrative. Small corner arrows add a subtle sense of linked, interactive references while preserving the quiet visual rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060457-2.webp",
+  "prompts": [
+    "kage/component--attio-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=brand+grid",
+    "search?q=social+proof",
+    "search?q=editorial"
+  ],
+  "pageSha256": "bc71415b52c0b3014856b4d58d32e9b1395850484888f9a14c9a8da579cbc5a3"
+}

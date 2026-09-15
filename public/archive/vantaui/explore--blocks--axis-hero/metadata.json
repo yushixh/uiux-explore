@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--axis-hero",
+  "source": "vantaui",
+  "slug": "explore--blocks--axis-hero",
+  "url": "https://www.vantaui.com/explore/blocks/axis-hero",
+  "name": "Axis Hero - VantaUI",
+  "description": "Bold hero section with animated stacked cards",
+  "image": "https://vantaui-registry.vercel.app/blocks/axis-hero",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "c2c0375fcb8de2ae3828be9faca01b0116f8c898facf92cb62233959ba6f32d7"
+}

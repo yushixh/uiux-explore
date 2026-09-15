@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--inngest-testimonials",
+  "source": "kage",
+  "slug": "component--inngest-testimonials",
+  "url": "https://kage.design/component/inngest-testimonials",
+  "name": "High-contrast testimonial feature by inngest.com",
+  "description": "A cinematic testimonial section that combines a bold editorial heading, subdued customer marks, a portrait-led quote, and clear case-study actions. The asymmetrical layout creates a premium, proof-driven moment while keeping the testimonial easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/inngest-com/085d18d8-47d3-43b1-92ae-d8bd045a677d-1789074883-7.webp",
+  "prompts": [
+    "kage/component--inngest-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/inngest-landing-page",
+  "product": "inngest-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=dark-mode",
+    "search?q=social-proof",
+    "search?q=case-study"
+  ],
+  "pageSha256": "eb8b9804db50c33a6b6348f7a5c1190f27d1f379e7d1d2fb3147ba724e8f5921"
+}

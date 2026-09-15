@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--lorikeetcx-landing-page",
+  "source": "kage",
+  "slug": "designs--lorikeetcx-landing-page",
+  "url": "https://kage.design/designs/lorikeetcx-landing-page",
+  "name": "Lorikeet AI customer concierge landing page by lorikeetcx.ai",
+  "description": "A cream-canvas landing page that pairs a large editorial serif with small airy sans copy and recurring black pill CTAs. Proof is carried by an asymmetric bento — photo-quote testimonial cards and stat cards whose oversized serif numerals (97%, 60%, 99%) sit on mint, sky and butter gradient washes — followed by a two-row monochrome logo wall. Below the hero the rhythm loosens: a failure-vs-success comparison with embedded grey and mint UI mockups plus a gradient scenario progress bar, then airy centred statement sections (channel icons, a glowing app tile ringed by workflow chips, a curved magenta-to-orange integration diagram, a single voice-resolution card), a three-card stories carousel, an oversized serif closer, and a footer that blooms into a blurred magenta-green gradient field.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/lorikeetcx-ai/66a45b6c-3f5c-4089-bde2-7a0aa025402f-1789141715501.webp",
+  "prompts": [
+    "kage/designs--lorikeetcx-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/typewise-nova-landing-page",
+  "product": "lorikeetcx-ai",
+  "tags": [
+    "search?q=ai-agent",
+    "search?q=bento-testimonials",
+    "search?q=serif-headlines",
+    "search?q=gradient-washes",
+    "search?q=logo-wall",
+    "search?q=comparison-split",
+    "search?q=carousel",
+    "search?q=integration-diagram"
+  ],
+  "pageSha256": "035e3d31c1f6434ff6744d640f06ba63e0699de4d5d62169e5ca9e57b9e18d87"
+}

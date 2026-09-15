@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--notion-landing-page",
+  "source": "kage",
+  "slug": "designs--notion-landing-page",
+  "url": "https://kage.design/designs/notion-landing-page",
+  "name": "Notion homepage — hero with product collage by notion.com",
+  "description": "The page opens with an enormous, tightly-tracked two-line headline where one word sits in a pale-blue highlight pill, then immediately drops into a layered collage of real product mockups with hand-drawn ink doodles peeking over the edges. Rhythm below alternates between airy left-aligned statement headlines and dense UI cards: a two-up feature grid with live mockups, a five-card use-case row, then duotone photo testimonials washed in saturated red, blue and amber. A grey logo wall, an icon-led stats marquee, a beige CTA band and a quote-bearing footer close the page; Notion blue is the only strong accent against an otherwise black-on-white editorial system.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/notion-com/9e072824-4b09-4216-9cff-06c643793f91-1789060006739.webp",
+  "prompts": [
+    "kage/designs--notion-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "notion-com",
+  "tags": [
+    "search?q=oversized-hero-type",
+    "search?q=text-highlight-pill",
+    "search?q=product-mockup-collage",
+    "search?q=hand-drawn-doodles",
+    "search?q=logo-wall",
+    "search?q=duotone-testimonials",
+    "search?q=marquee-stats",
+    "search?q=beige-cta-band"
+  ],
+  "pageSha256": "9edbbd385682032cdfa0c48fef4661f62ce87537be5a92fbd3a16f5e24589321"
+}

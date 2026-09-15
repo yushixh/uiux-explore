@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--datafa-cta",
+  "source": "kage",
+  "slug": "component--datafa-cta",
+  "url": "https://kage.design/component/datafa-cta",
+  "name": "AI agent integration CTA by datafa.st",
+  "description": "A centered, high-intent CTA pairs a concise integration message with one vivid primary action, a quieter secondary path, and a large dark product preview that makes the promise tangible. The light, spacious canvas and restrained decorative accents keep attention on the workflow rather than competing with it.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789067842-6.webp",
+  "prompts": [
+    "kage/component--datafa-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/datafa-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=cta",
+    "search?q=ai+agents",
+    "search?q=integration",
+    "search?q=product-led"
+  ],
+  "pageSha256": "85d68cc7791bc19d676bf2df29fe327bfea0e77ef03ecfa0d8efd71335b4478a"
+}

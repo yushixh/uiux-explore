@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--peerspace-hero",
+  "source": "kage",
+  "slug": "component--peerspace-hero",
+  "url": "https://kage.design/component/peerspace-hero",
+  "name": "Search-led hero by peerspace.com",
+  "description": "A full-width lifestyle image, prominent search form, and oversized two-line statement establish the marketplace proposition immediately; a black lower panel gives the headline strong contrast.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146240-1.webp",
+  "prompts": [
+    "kage/component--peerspace-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/peerspace-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=search",
+    "search?q=image",
+    "search?q=headline"
+  ],
+  "pageSha256": "4b81a58d8ea8a2bccd2b55f274420f02407876359507390e7bcebff8aa2d2d6b"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--glass-button",
+  "source": "vantaui",
+  "slug": "explore--components--glass-button",
+  "url": "https://www.vantaui.com/explore/components/glass-button",
+  "name": "Glass Button - VantaUI",
+  "description": "Frosted glass pill button with a soft gradient glow variant and a solid variant",
+  "image": "https://vantaui-registry.vercel.app/components/glass-button",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "e2cc0c78e84b6f418a49af8c712194be691fc88e21a872c74133df2d8eb89ede"
+}

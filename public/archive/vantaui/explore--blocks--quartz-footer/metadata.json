@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--quartz-footer",
+  "source": "vantaui",
+  "slug": "explore--blocks--quartz-footer",
+  "url": "https://www.vantaui.com/explore/blocks/quartz-footer",
+  "name": "Quartz Footer - VantaUI",
+  "description": "Minimal footer with glowing bar and theme switcher",
+  "image": "https://vantaui-registry.vercel.app/blocks/quartz-footer",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "3e17ecaeb8f527b5d0ba7348c76f9d2d092985ebc6dfff203f9e2290fe668c5e"
+}

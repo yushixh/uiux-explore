@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--bento-reviews",
+  "source": "vantaui",
+  "slug": "explore--blocks--bento-reviews",
+  "url": "https://www.vantaui.com/explore/blocks/bento-reviews",
+  "name": "Bento Reviews - VantaUI",
+  "description": "Modular bento-style grid with multi-colored testimonial cards.",
+  "image": "https://vantaui-registry.vercel.app/blocks/bento-reviews",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "aa8615dde200691f3bad321db188a1780abb4fd18d7482dd8522f598b3036608"
+}

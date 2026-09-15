@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tally-feature-grid-5",
+  "source": "kage",
+  "slug": "component--tally-feature-grid-5",
+  "url": "https://kage.design/component/tally-feature-grid-5",
+  "name": "Playful feature-grid showcase by tally.so",
+  "description": "A spacious SaaS feature section that pairs a strong editorial heading with an asymmetric grid of bordered cards. The large feature card carries the visual story, while compact supporting cards use simple product previews, vivid accent details, and generous whitespace to make each capability easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060953-6.webp",
+  "prompts": [
+    "kage/component--tally-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=saas",
+    "search?q=hand-drawn"
+  ],
+  "pageSha256": "cf4dc4b3009ee34ca2e17c08f8c26ff30f65762076e120369a40d25471379453"
+}

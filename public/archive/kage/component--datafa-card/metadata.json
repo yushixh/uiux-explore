@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--datafa-card",
+  "source": "kage",
+  "slug": "component--datafa-card",
+  "url": "https://kage.design/component/datafa-card",
+  "name": "Analytics dashboard product card by datafa.st",
+  "description": "A polished analytics product showcase that pairs a compact dashboard preview with a floating playback affordance and a testimonial-led conversion section. It works through generous whitespace, crisp metric hierarchy, restrained chart styling, and a warm, highly visible pricing CTA treatment.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789067843-8.webp",
+  "prompts": [
+    "kage/component--datafa-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/datafa-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=dashboard",
+    "search?q=analytics",
+    "search?q=saas",
+    "search?q=data-visualization"
+  ],
+  "pageSha256": "ace62c5e64f8159881915bca6a92369b5c34ba4623f236a6087017c821d6473e"
+}

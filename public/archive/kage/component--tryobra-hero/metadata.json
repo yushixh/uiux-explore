@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--tryobra-hero",
+  "source": "kage",
+  "slug": "component--tryobra-hero",
+  "url": "https://kage.design/component/tryobra-hero",
+  "name": "Bold money-tracking hero by tryobra.com",
+  "description": "The hero combines oversized typographic contrast, a short explanatory paragraph, AI-service callouts, and paired calls to action above a ticker-like divider.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tryobra-com/5ed8a808-d125-4341-bc8a-0a69442cb995-1789152083-1.webp",
+  "prompts": [
+    "kage/component--tryobra-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "tryobra-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark",
+    "search?q=conversion"
+  ],
+  "pageSha256": "d72d030fbcee7d775d0dc1ccdded706d7e6a2a94aa8fa3f47707fe8c48b4e877"
+}

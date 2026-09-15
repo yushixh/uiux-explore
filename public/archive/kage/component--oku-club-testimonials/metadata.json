@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--oku-club-testimonials",
+  "source": "kage",
+  "slug": "component--oku-club-testimonials",
+  "url": "https://kage.design/component/oku-club-testimonials",
+  "name": "Community proof by oku.club",
+  "description": "A white social-proof section balances a large editorial statement on the left with two stacked testimonial cards on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/oku-club/e710a983-c1d6-4177-b014-2738acd07d09-1789146243-5.webp",
+  "prompts": [
+    "kage/component--oku-club-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/oku-club-landing-page",
+  "product": "oku-club",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=social-proof",
+    "search?q=tweets"
+  ],
+  "pageSha256": "4314d90fe12db4318799a548a5c4e649f2c8a841873dd1e69548c656de7861ff"
+}

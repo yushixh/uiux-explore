@@ -1,0 +1,59 @@
+/* THE PART THAT MATTERS: the commitment happens at a
+   DISTANCE, not on release. Crossing the threshold is what
+   arms the refresh, so you know it will happen while your
+   finger is still down — let go after that and it goes, and
+   you knew. A version that decides on release has hidden the
+   only information the gesture carries. */
+
+/* Rubber, not a rail. A linear pull reaches the threshold at
+   exactly the threshold and tells you nothing on the way;
+   this saturates, so the last twenty pixels cost more than
+   the first twenty and RESISTANCE is what you feel rather
+   than distance. */
+const R     = 700 - (resistance / 100) * 380;
+const drawn = (R * raw) / (R + raw);
+const p     = clamp(at / threshold, 0, 1);
+
+/* THE GOO IS THE COMMITMENT, not a decoration on it. Five
+   droplets sit scattered at rest and are drawn together as
+   you pull; crossing the threshold is the moment they touch
+   and fuse into one body. That fusion is legible at a glance
+   and at a distance, which is exactly what this gesture has
+   to communicate before you let go. One number does it: */
+--spread: 20 - p * 17.5;     /* px from the centre, each drop */
+transform: rotate(calc(var(--a) + var(--turn)))
+           translateY(calc(var(--spread) * -1px));
+
+/* The ring turns as a WHOLE while it works — the animation is
+   on the group box, not on the droplets — so the DOM and the
+   liquid silhouette rotate together and the library never
+   re-measures a moving rect. */
+.bal[data-phase="work"] .bal-goo { animation: bal-spin var(--rpm) linear infinite; }
+
+/* ONE ARRAY IS THE WHOLE TRUTH. The balance is the last
+   point, the change is last minus first, the percentage is
+   that over the first, and the scrub just moves the index.
+   They were three hand-written figures beside a decorative
+   line — three things that can disagree with each other and
+   with the chart above them. */
+const value  = series[scrub ?? series.length - 1];
+const change = value - series[0];
+
+/* The scrub reads a FRACTION of the plot's own box, so it
+   needs no zoom correction: both sides of the division are
+   screen pixels and the ratio holds at any scale. It snaps to
+   a real reading rather than interpolating between two and
+   presenting the result as a measurement. */
+const t = clamp((e.clientX - r.left) / r.width, 0, 1);
+setScrub(Math.round(t * last));
+
+/* NO MONO. tabular-nums is the only thing the monospaced face
+   was providing — same advance for every digit, so nothing
+   shifts as the number changes under the pointer — and Inter
+   has it. */
+font-variant-numeric: tabular-nums;
+
+/* Tracking the finger is instant, because it IS the finger.
+   The spring is only ever the journey home — elasticity is
+   feedback, never latency. */
+useSpring(target, 58, /* instant while */ dragging);

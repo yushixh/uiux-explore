@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--monarchmoney-hero",
+  "source": "kage",
+  "slug": "component--monarchmoney-hero",
+  "url": "https://kage.design/component/monarchmoney-hero",
+  "name": "Financial clarity hero by monarchmoney.com",
+  "description": "A full-bleed lifestyle image introduces the product, with translucent financial UI overlays and a white content card anchoring the main promise and CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146614-1.webp",
+  "prompts": [
+    "kage/component--monarchmoney-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monarchmoney-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=dashboard",
+    "search?q=cta"
+  ],
+  "pageSha256": "6b7d51460761b3f1e0ecddd7ab9804cd27adf21d15572a192f49daa5cf8c2616"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--duolingo-tabs",
+  "source": "kage",
+  "slug": "component--duolingo-tabs",
+  "url": "https://kage.design/component/duolingo-tabs",
+  "name": "Subject selection strip by duolingo.com",
+  "description": "A slim horizontal selector provides quick access to several learning categories, with colorful icon chips and arrows indicating horizontal navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/duolingo-com/3a8c78c9-bd82-49c8-8251-8e9f7b022530-1789146268-2.webp",
+  "prompts": [
+    "kage/component--duolingo-tabs/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/duolingo-landing-page",
+  "product": "duolingo-com",
+  "tags": [
+    "search?q=tabs",
+    "search?q=subjects",
+    "search?q=filter"
+  ],
+  "pageSha256": "e7365f0f8bfaa588d36e31d7569d358b4b9ec8ad6bcd4f678a65675001224bb4"
+}

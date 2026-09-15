@@ -10,6 +10,9 @@ test-results/
 *.tsbuildinfo
 *.log
 
+# Resumable public-page crawl cache; normalized sources and prompts are tracked.
+archive/evidence/
+
 # Local configuration and credentials
 .env
 .env.*

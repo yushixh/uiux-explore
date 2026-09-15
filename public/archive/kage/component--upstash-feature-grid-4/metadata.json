@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--upstash-feature-grid-4",
+  "source": "kage",
+  "slug": "component--upstash-feature-grid-4",
+  "url": "https://kage.design/component/upstash-feature-grid-4",
+  "name": "Community and resources feature grid by upstash.com",
+  "description": "A calm four-column grid of resource cards uses consistent alignment, generous whitespace, and compact mint call-to-action buttons to present secondary destinations without competing with the main page content. Rounded white cards and restrained typography make the section feel approachable, scannable, and easy to adapt to any product ecosystem.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/upstash-com/210669b2-56ab-47a0-9be6-e94255ecbd31-1789073748-7.webp",
+  "prompts": [
+    "kage/component--upstash-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/upstash-landing-page",
+  "product": "upstash-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=resource-cards",
+    "search?q=community",
+    "search?q=footer"
+  ],
+  "pageSha256": "c4c708fc76d73805325a2d234e0e07d013fe98b8880ca1cf00ff95cbb9f88cfc"
+}

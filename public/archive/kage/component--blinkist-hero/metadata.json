@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--blinkist-hero",
+  "source": "kage",
+  "slug": "component--blinkist-hero",
+  "url": "https://kage.design/component/blinkist-hero",
+  "name": "Learning app hero by blinkist.com",
+  "description": "The split hero pairs a large editorial headline and short value proposition with a layered product visual, ending in a prominent signup button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/blinkist-com/923d3302-3f7c-4bf2-9567-691903266cb3-1789146452-1.webp",
+  "prompts": [
+    "kage/component--blinkist-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/blinkist-landing-page",
+  "product": "blinkist-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=app",
+    "search?q=cta"
+  ],
+  "pageSha256": "dedd66d686a169582cb458aae208bc5a0cf07a3a8160b7e3fa741a8ec8373670"
+}

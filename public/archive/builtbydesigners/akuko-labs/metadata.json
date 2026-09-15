@@ -1,0 +1,22 @@
+{
+  "id": "akuko-labs",
+  "name": "Akuko Labs",
+  "description": "An independent keyboard studio developing complete mechanical keyboards and keycap sets shaped by Bauhaus, photography and playful color, with projects ranging from Gestalt to Motif65.",
+  "shortInfo": "Thoughtfully designed keyboard projects",
+  "url": "https://akukolabs.com/",
+  "handle": "timothyachumba",
+  "creatorName": "Timothy",
+  "creatorUrl": "https://x.com/timothyachumba",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Lifestyle",
+  "categories": [
+    "Lifestyle"
+  ],
+  "launchDate": "2024-04-10",
+  "added": "2026-08-18",
+  "sortOrder": 25,
+  "icon": "/backend/icons/akuko-labs.svg",
+  "avatar": "/backend/avatars/akuko-labs.jpg",
+  "shot": "/screenshots/akuko-labs.jpg"
+}

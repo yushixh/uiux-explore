@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--beehiiv-pricing-table",
+  "source": "kage",
+  "slug": "component--beehiiv-pricing-table",
+  "url": "https://kage.design/component/beehiiv-pricing-table",
+  "name": "Dark tiered pricing comparison by beehiiv.com",
+  "description": "A dark, high-contrast pricing section combines a strong editorial heading with billing and audience controls above a four-column plan comparison. Clear dividers, compact feature checklists, and differentiated primary actions make the intended upgrade path easy to scan without overwhelming the user.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/beehiiv-com/23eb8ac3-d7aa-449f-95ad-92bcd925810d-1789067454-5.webp",
+  "prompts": [
+    "kage/component--beehiiv-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/beehiiv-landing-page",
+  "product": "beehiiv-com",
+  "tags": [
+    "search?q=pricing",
+    "search?q=tiers",
+    "search?q=toggle",
+    "search?q=comparison"
+  ],
+  "pageSha256": "555b86f1174023efc351a754d74e786db0921f05700a2d21773159c0cda1f70b"
+}

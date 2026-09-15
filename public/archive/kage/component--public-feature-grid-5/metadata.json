@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--public-feature-grid-5",
+  "source": "kage",
+  "slug": "component--public-feature-grid-5",
+  "url": "https://kage.design/component/public-feature-grid-5",
+  "name": "Trust and security commitments by public.com",
+  "description": "A dark trust section combines a large two-line statement and abstract visual with a six-item grid of compliance and reliability assurances.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/public-com/cb41c975-325f-4844-b439-84e9d28bd7b7-1789146537-8.webp",
+  "prompts": [
+    "kage/component--public-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/public-landing-page",
+  "product": "public-com",
+  "tags": [
+    "search?q=security",
+    "search?q=trust",
+    "search?q=compliance"
+  ],
+  "pageSha256": "ae0af12c3a5e102bb0f8551479ed2472f52f75fbcaa61ac30e7886b8ddfec328"
+}

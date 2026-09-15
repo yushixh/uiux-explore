@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bolt-new-cta",
+  "source": "kage",
+  "slug": "component--bolt-new-cta",
+  "url": "https://kage.design/component/bolt-new-cta",
+  "name": "Build-ready split CTA by bolt.new",
+  "description": "A high-contrast, dark-mode closing CTA that pairs a bold motivational headline with an interactive prompt composer. Generous negative space, restrained borders, and a large rounded input make the next action feel immediate without relying on decorative imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bolt-new/4e91875d-336e-4c47-bec8-8771acd62040-1789073975-5.webp",
+  "prompts": [
+    "kage/component--bolt-new-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bolt-new-landing-page",
+  "product": "bolt-new",
+  "tags": [
+    "search?q=cta",
+    "search?q=dark-mode",
+    "search?q=prompt-input",
+    "search?q=conversion"
+  ],
+  "pageSha256": "f461a6c3f1eaa0631cc58c0d61cedf9183dbcceac3648804a036736b84c8f972"
+}

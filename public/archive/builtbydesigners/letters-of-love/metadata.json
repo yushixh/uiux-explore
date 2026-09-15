@@ -1,0 +1,23 @@
+{
+  "id": "letters-of-love",
+  "name": "Letters of Love",
+  "description": "A weekend project reviving the art of the love letter: a small, beautifully typeset collection of notes across time, made to inspire writing to your beloved.",
+  "shortInfo": "Collection of love letters across time",
+  "url": "https://joshpuckett.me/letters-of-love",
+  "handle": "joshpuckett",
+  "creatorName": "Josh Puckett",
+  "creatorUrl": "https://x.com/joshpuckett",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Collections",
+  "categories": [
+    "Collections"
+  ],
+  "launchDate": "2026-08-23",
+  "added": "2026-09-05",
+  "sortOrder": 0,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/letters-of-love/icon-mtrbd0ns-1UC81lpUJTtFBqzkfLvyFpiaGJIrqa.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/letters-of-love/avatar-mto7giui-Pb0bmNl9WRYxVSRU3GDmF3Xn2Es414.jpg",
+  "shot": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/letters-of-love/shot-mto7i8f4-n7yt1x4E5jUYztULQs5iA7WJMgkfrC.png",
+  "shot2x": ""
+}

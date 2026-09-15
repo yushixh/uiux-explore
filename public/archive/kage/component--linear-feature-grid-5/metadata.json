@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--linear-feature-grid-5",
+  "source": "kage",
+  "slug": "component--linear-feature-grid-5",
+  "url": "https://kage.design/component/linear-feature-grid-5",
+  "name": "Dark split feature-grid section by linear.app",
+  "description": "A restrained dark product-marketing section combines a compact feature index with a large editorial message and an anchored interface preview. The strong two-column hierarchy, generous whitespace, and low-contrast UI chrome make the product story feel premium without overwhelming the supporting visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789060208-7.webp",
+  "prompts": [
+    "kage/component--linear-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/linear-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=feature-grid",
+    "search?q=product-marketing",
+    "search?q=editorial-layout"
+  ],
+  "pageSha256": "1356fdc2cfc2dd4e32702134191c4029fd3905ee42e74bdfc9f4ff826710b9a7"
+}

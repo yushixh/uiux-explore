@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--wealthfolio-navigation",
+  "source": "kage",
+  "slug": "component--wealthfolio-navigation",
+  "url": "https://kage.design/component/wealthfolio-navigation",
+  "name": "Minimal finance SaaS navigation bar by Wealthfolio",
+  "description": "A calm, editorial header balances a compact brand lockup, centered primary navigation, and utility actions on the right. Generous whitespace, warm neutrals, restrained typography, and a single dark pill CTA make the navigation feel premium without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfolio/bf50ab71-633d-4b86-816e-5951eb096cd4-1789106471-0.webp",
+  "prompts": [
+    "kage/component--wealthfolio-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfolio-landing-page",
+  "product": "wealthfolio",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=saas",
+    "search?q=minimal"
+  ],
+  "pageSha256": "df26a8c1b3b1e36b226727e173fa281b26b89576ef965f8e1338466df641d05a"
+}

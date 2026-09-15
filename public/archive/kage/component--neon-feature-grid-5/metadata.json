@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neon-feature-grid-5",
+  "source": "kage",
+  "slug": "component--neon-feature-grid-5",
+  "url": "https://kage.design/component/neon-feature-grid-5",
+  "name": "Enterprise capabilities grid by neon.tech",
+  "description": "A dark enterprise section presents a concise positioning headline followed by six capabilities in a clean three-column by two-row grid with icons and muted detail.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neon-tech/ec270806-81ac-4f67-8b23-bd56e790768f-1789141962-7.webp",
+  "prompts": [
+    "kage/component--neon-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neon-empty-state",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=security",
+    "search?q=enterprise",
+    "search?q=grid"
+  ],
+  "pageSha256": "f53fed14f3e700f2ec81f38d2f567463178daa718e6c3b9b0e5347d7b9ae59a2"
+}

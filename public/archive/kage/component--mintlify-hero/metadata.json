@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mintlify-hero",
+  "source": "kage",
+  "slug": "component--mintlify-hero",
+  "url": "https://kage.design/component/mintlify-hero",
+  "name": "Agent-focused split hero by mintlify.com",
+  "description": "This hero works through a strong left-aligned value proposition paired with a large, partially cropped product preview that gives the page an immediate sense of the product. A restrained white canvas, soft mint accents, lightweight metric badge, and dual CTA treatment balance editorial typography with a credible product-led visual.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mintlify-com/71224961-d985-451b-9e35-e02eddcee178-1789060643-1.webp",
+  "prompts": [
+    "kage/component--mintlify-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mintlify-landing-page",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=b2b",
+    "search?q=documentation"
+  ],
+  "pageSha256": "16ab1c64de8b5b3c0faf1ee0cbf5acbf658616d76ee61a0d99a3c1bac8e15e6a"
+}

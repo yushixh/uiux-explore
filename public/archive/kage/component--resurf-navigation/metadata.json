@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resurf-navigation",
+  "source": "kage",
+  "slug": "component--resurf-navigation",
+  "url": "https://kage.design/component/resurf-navigation",
+  "name": "Minimal product navigation by Resurf",
+  "description": "A slim, airy navigation bar keeps secondary links centered and makes the primary download action easy to spot at the far right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resurf/ff64fde5-ed9d-4c90-b5a1-3641329afaa7-1789365706-0.webp",
+  "prompts": [
+    "kage/component--resurf-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "resurf",
+  "tags": [
+    "search?q=minimal",
+    "search?q=centered",
+    "search?q=download"
+  ],
+  "pageSha256": "ba4afb43617ff2c0f784d2c8298b7f0ed732668df48b558fd6a0bc6e1caccc5e"
+}

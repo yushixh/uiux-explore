@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neon-stats",
+  "source": "kage",
+  "slug": "component--neon-stats",
+  "url": "https://kage.design/component/neon-stats",
+  "name": "Postgres credibility and proof by neon.tech",
+  "description": "A pale proof section combines a founder/platform narrative, two large supporting statistics, and a testimonial-style quote in a split editorial layout.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neon-tech/ec270806-81ac-4f67-8b23-bd56e790768f-1789141963-8.webp",
+  "prompts": [
+    "kage/component--neon-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neon-empty-state",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=stats",
+    "search?q=testimonial",
+    "search?q=credibility"
+  ],
+  "pageSha256": "5e04565e92647d00bf40e4a7690316512b487f44af868af984a130dfd2f90295"
+}

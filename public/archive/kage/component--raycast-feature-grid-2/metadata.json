@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--raycast-feature-grid-2",
+  "source": "kage",
+  "slug": "component--raycast-feature-grid-2",
+  "url": "https://kage.design/component/raycast-feature-grid-2",
+  "name": "Immersive product feature showcase by raycast.com",
+  "description": "This section works by pairing a concise value proposition with a large, atmospheric product interface preview. Deep contrast, subtle ambient glow, and restrained supporting copy make the UI feel premium while keeping attention on the demonstrated workflow.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067515-2.webp",
+  "prompts": [
+    "kage/component--raycast-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=dark+mode",
+    "search?q=feature+showcase",
+    "search?q=product+ui",
+    "search?q=cinematic"
+  ],
+  "pageSha256": "f9e3a88e13e106af72964c4e9959d6f6b730c7c92e216928a4db088c7a931172"
+}

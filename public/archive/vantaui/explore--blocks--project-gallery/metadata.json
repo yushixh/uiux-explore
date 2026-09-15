@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--project-gallery",
+  "source": "vantaui",
+  "slug": "explore--blocks--project-gallery",
+  "url": "https://www.vantaui.com/explore/blocks/project-gallery",
+  "name": "Project Gallery - VantaUI",
+  "description": "A card perspective effect, hover over the card to elevate card elements.",
+  "image": "https://vantaui-registry.vercel.app/blocks/project-gallery",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "a3cf60821403de1e44f099c3557ffa8ab728c26a4903692c41b08d210fa75a1d"
+}

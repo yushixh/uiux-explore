@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--ollio-pricing",
+  "source": "vantaui",
+  "slug": "explore--blocks--ollio-pricing",
+  "url": "https://www.vantaui.com/explore/blocks/ollio-pricing",
+  "name": "Ollio Pricing - VantaUI",
+  "description": "A two-plan pricing section with letter-swapping headlines, looping gradient orbs, and a desktop-only cursor-following crosshair.",
+  "image": "https://vantaui-registry.vercel.app/blocks/ollio-pricing",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "af55cc36beecaedfae763f5b25d3e61f3410400cf98bb6f15bb8ecc592ea12db"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--convex-banner",
+  "source": "kage",
+  "slug": "component--convex-banner",
+  "url": "https://kage.design/component/convex-banner",
+  "name": "Enterprise readiness banner by convex.dev",
+  "description": "A compact, high-contrast enterprise announcement strip that combines a small status eyebrow with a segmented capability message and a dark, action-oriented CTA. The restrained palette, capsule geometry, and centered composition make the banner feel premium without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789074852-7.webp",
+  "prompts": [
+    "kage/component--convex-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/convex-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=banner",
+    "search?q=enterprise",
+    "search?q=announcement",
+    "search?q=cta"
+  ],
+  "pageSha256": "753d6ae60cc7e1ea0f45ca942db0efeabcf3d5d0ad5590a1155300160292a778"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--v0-gallery-2",
+  "source": "kage",
+  "slug": "component--v0-gallery-2",
+  "url": "https://kage.design/component/v0-gallery-2",
+  "name": "Featured project gallery rail by v0.dev",
+  "description": "A horizontally scrolling showcase that combines a strong section heading with an unobtrusive browse action and tall visual project cards. Partial next-card visibility creates momentum, while compact metadata beneath each card makes the gallery feel browsable and social without competing with the previews.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/v0-dev/99e42d3b-29f6-491c-8f06-cd6295e0d986-1789073272-5.webp",
+  "prompts": [
+    "kage/component--v0-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/v0-empty-state",
+  "product": "v0-dev",
+  "tags": [
+    "search?q=gallery",
+    "search?q=carousel",
+    "search?q=projects",
+    "search?q=discovery"
+  ],
+  "pageSha256": "c74c4b0abc77e5ec154adc1d0e6a5766c5b4563f6a1b0239738d86ca8eefb242"
+}

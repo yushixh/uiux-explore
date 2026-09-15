@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--moji-feature-grid",
+  "source": "kage",
+  "slug": "component--moji-feature-grid",
+  "url": "https://kage.design/component/moji-feature-grid",
+  "name": "Why the product exists by Moji",
+  "description": "A dark, editorial brand-story section combines an oversized symbolic panel with a founder-style narrative, pull quote, and supporting paragraphs. The asymmetry gives the product a point of view instead of presenting only feature claims.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/moji/682da163-2f11-4698-8415-78d5458fc05f-1789193060-2.webp",
+  "prompts": [
+    "kage/component--moji-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/moji-landing-page",
+  "product": "moji",
+  "tags": [
+    "search?q=story",
+    "search?q=split-layout",
+    "search?q=dark"
+  ],
+  "pageSha256": "a30689b3c41d94b3f1fbfccf89e2929d709fdc7e217f6e37a529cd21d8403101"
+}

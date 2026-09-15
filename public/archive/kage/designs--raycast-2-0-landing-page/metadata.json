@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--raycast-2-0-landing-page",
+  "source": "kage",
+  "slug": "designs--raycast-2-0-landing-page",
+  "url": "https://kage.design/designs/raycast-2-0-landing-page",
+  "name": "Raycast 2.0 launch page by Raycast 2.0",
+  "description": "The page runs on a near-black canvas where white display type and pill-shaped CTA buttons are the only high-contrast elements; all product UI is shown as tilted 3D renders that dissolve into the background via gradient masks. Rhythm alternates between oversized centered statements, a quiet numbered 01–03 row that sets upgrade expectations, and a mid-page bento grid of dark UI cards with captions pinned bottom-left. It closes by mirroring the hero ('The launcher, relaunched.') and then opens into a six-column footer on a slightly lighter surface with a newsletter bar.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/raycast-2-0/585c4674-841f-40bf-a211-e6fd2d8f71e9-1789192844289.webp",
+  "prompts": [
+    "kage/designs--raycast-2-0-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "raycast-2-0",
+  "tags": [
+    "search?q=dark-theme",
+    "search?q=command-palette",
+    "search?q=bento-grid",
+    "search?q=monospace",
+    "search?q=product-launch",
+    "search?q=3d-render",
+    "search?q=accordion-faq",
+    "search?q=mega-footer"
+  ],
+  "pageSha256": "66183fb67fe95eefdd70671241a32993af5d444cf73edbfa7c6d294768607d49"
+}

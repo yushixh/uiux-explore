@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--pitch-og-image",
+  "source": "kage",
+  "slug": "designs--pitch-og-image",
+  "url": "https://kage.design/designs/pitch-og-image",
+  "name": "Pitch purple social card by pitch.com",
+  "description": "A 1200×630 social card uses a full-bleed violet-to-blue gradient with a subtle darker center, leaving generous negative space around a centered white wordmark. The compact brand mark sits directly left of the large rounded sans-serif name, creating one strong horizontal focal unit with no supporting copy, imagery, borders, or interface chrome.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/pitch-com/8882e84c-6ddd-4755-86f5-074be21394c0-1789060077312.webp",
+  "prompts": [
+    "kage/designs--pitch-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-og-image",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=gradient-background",
+    "search?q=centered-wordmark",
+    "search?q=high-contrast-type",
+    "search?q=minimal-composition",
+    "search?q=wide-canvas"
+  ],
+  "pageSha256": "fd06107dab65b2ff35d87723cf837c7dcf0b4b68ab7c18c116335f8f815b5bc2"
+}

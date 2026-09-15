@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--peerspace-sidebar",
+  "source": "kage",
+  "slug": "component--peerspace-sidebar",
+  "url": "https://kage.design/component/peerspace-sidebar",
+  "name": "City directory by peerspace.com",
+  "description": "A dark directory section presents a short statement and a vertically ruled list of major cities, with country codes and a low-friction view-all action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146241-5.webp",
+  "prompts": [
+    "kage/component--peerspace-sidebar/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/peerspace-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=locations",
+    "search?q=directory",
+    "search?q=navigation"
+  ],
+  "pageSha256": "ea663bdb46820c923369de26e960977db7847cf14c30cc255d3f996e93d440ef"
+}

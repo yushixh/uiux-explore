@@ -1,0 +1,2 @@
+npx shadcn@latest add https://vantaui-registry.vercel.app/r/inverse-scale-button.json
+npm install motion

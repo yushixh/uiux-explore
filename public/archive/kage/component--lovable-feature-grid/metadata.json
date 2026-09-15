@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--lovable-feature-grid",
+  "source": "kage",
+  "slug": "component--lovable-feature-grid",
+  "url": "https://kage.design/component/lovable-feature-grid",
+  "name": "Dark infrastructure feature showcase by lovable.dev",
+  "description": "A focused, vertically stacked feature showcase that pairs concise product-benefit copy with large atmospheric visual panels. It works through strong contrast, generous pacing, restrained borders, and abstract visual metaphors that make infrastructure capabilities feel tangible without overwhelming the content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lovable-dev/7426a651-2b1e-4dbe-b0d8-bb8a847d2e81-1789060909-3.webp",
+  "prompts": [
+    "kage/component--lovable-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lovable-landing-page",
+  "product": "lovable-dev",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=saas",
+    "search?q=enterprise"
+  ],
+  "pageSha256": "70c816d4a0a414cde4cb7b99ba787d852cde3e945f2b860fce0ad6783beb911b"
+}

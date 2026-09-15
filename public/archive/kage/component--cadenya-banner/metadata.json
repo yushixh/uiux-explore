@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cadenya-banner",
+  "source": "kage",
+  "slug": "component--cadenya-banner",
+  "url": "https://kage.design/component/cadenya-banner",
+  "name": "Growth statement banner by Cadenya",
+  "description": "A large typographic interlude turns the product promise into a memorable rhythm, using a highlighted inline phrase and ample dark-green space rather than another dense content block.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cadenya/d064e83b-00ab-4d52-aab7-77367964ea32-1789192867-4.webp",
+  "prompts": [
+    "kage/component--cadenya-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cadenya-landing-page",
+  "product": "cadenya",
+  "tags": [
+    "search?q=statement",
+    "search?q=typography",
+    "search?q=banner"
+  ],
+  "pageSha256": "ccda94a6782def6382adbcfadfb463ed51e130c53a33d38f4af0c60d4c1b6e74"
+}

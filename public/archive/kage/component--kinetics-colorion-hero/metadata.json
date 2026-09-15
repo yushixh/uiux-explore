@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--kinetics-colorion-hero",
+  "source": "kage",
+  "slug": "component--kinetics-colorion-hero",
+  "url": "https://kage.design/component/kinetics-colorion-hero",
+  "name": "Motion-focused hero introduction by kinetics.colorion.co",
+  "description": "The hero pairs a small technical eyebrow with an oversized two-line statement, highlighted accent words, supporting explanation, primary and secondary actions, a search field, and a compact explanatory note.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/kinetics-colorion-co/61078688-965b-4221-9177-b73292c8438b-1789374950-1.webp",
+  "prompts": [
+    "kage/component--kinetics-colorion-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "kinetics-colorion-co",
+  "tags": [
+    "search?q=dark",
+    "search?q=headline",
+    "search?q=search"
+  ],
+  "pageSha256": "c9964b8c4baf9909483c0b94277f9112a48ce1db9832e13ecc29d0f07e881d59"
+}

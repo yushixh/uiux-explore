@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--public-cta-2",
+  "source": "kage",
+  "slug": "component--public-cta-2",
+  "url": "https://kage.design/component/public-cta-2",
+  "name": "Premium account concierge CTA by public.com",
+  "description": "A black split layout targets high-value customers with a direct qualification headline on the left and a compact checklist plus action card on the right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/public-com/cb41c975-325f-4844-b439-84e9d28bd7b7-1789146537-7.webp",
+  "prompts": [
+    "kage/component--public-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/public-landing-page",
+  "product": "public-com",
+  "tags": [
+    "search?q=concierge",
+    "search?q=premium",
+    "search?q=conversion"
+  ],
+  "pageSha256": "9c40bdb3293e5c7ef540306eb47efc32ab05cf84f792eccdcac5175b99a318b1"
+}

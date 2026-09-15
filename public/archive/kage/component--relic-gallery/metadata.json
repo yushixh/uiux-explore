@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--relic-gallery",
+  "source": "kage",
+  "slug": "component--relic-gallery",
+  "url": "https://kage.design/component/relic-gallery",
+  "name": "Cross-device capture by Relic",
+  "description": "The section shifts to a broad statement about instant access and uses a large bright-framed browser mockup as the visual anchor.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/relic/11197dbe-e39c-44cc-b0a1-5cdca0c05213-1789279380-4.webp",
+  "prompts": [
+    "kage/component--relic-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/relic-landing-page",
+  "product": "relic",
+  "tags": [
+    "search?q=device",
+    "search?q=visual",
+    "search?q=capture"
+  ],
+  "pageSha256": "e8a4df5a13f38e5f148e35a535cf248dd48130d5e67ffeaac2f9ffbae894fead"
+}

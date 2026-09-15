@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--resend-feature-grid-2",
+  "source": "kage",
+  "slug": "component--resend-feature-grid-2",
+  "url": "https://kage.design/component/resend-feature-grid-2",
+  "name": "Developer experience features by resend.com",
+  "description": "A left-aligned section introduction leads into two large feature cards, each pairing a product UI glimpse with a concise explanation and learn-more link.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/resend-com/a5fe426a-0829-45e6-9969-dd938a799528-1789141642-4.webp",
+  "prompts": [
+    "kage/component--resend-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resend-empty-state",
+  "product": "resend-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=cards",
+    "search?q=developer"
+  ],
+  "pageSha256": "81c15522dc75c3f9bb06c2c41728c13fd7da6ce64cc32eff1957238297a16d5a"
+}

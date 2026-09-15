@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--deno-stats",
+  "source": "kage",
+  "slug": "component--deno-stats",
+  "url": "https://kage.design/component/deno-stats",
+  "name": "Three-layer feature cards by deno.com",
+  "description": "A dark, editorial stats-style section that turns three related proof points into equal-height cards with numbered markers, compact metadata rows, and code-like value treatments. The centered heading and restrained neon accent create a technical, high-trust presentation without relying on imagery.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073867-6.webp",
+  "prompts": [
+    "kage/component--deno-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/deno-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=security"
+  ],
+  "pageSha256": "2ef8d0293d61ac1c3a0c656220eed73382de3339e5b7d9c915db4b27abac020c"
+}

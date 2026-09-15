@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--teenage-engineering-hero",
+  "source": "kage",
+  "slug": "component--teenage-engineering-hero",
+  "url": "https://kage.design/component/teenage-engineering-hero",
+  "name": "Editorial illustration hero by teenage.engineering",
+  "description": "A bold, poster-like hero combines oversized condensed typography with a hand-drawn editorial illustration, creating an energetic focal point while a sparse utility navigation keeps the page usable. The composition is intentionally asymmetrical, with a high-contrast promotional overlay demonstrating how a temporary consent or notification surface can sit above the artwork without losing hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/teenage-engineering/02d63820-361c-4c31-b791-8f2d75691669-1789060820-1.webp",
+  "prompts": [
+    "kage/component--teenage-engineering-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/teenage-engineering-landing-page",
+  "product": "teenage-engineering",
+  "tags": [
+    "search?q=editorial",
+    "search?q=illustration",
+    "search?q=typography",
+    "search?q=asymmetry"
+  ],
+  "pageSha256": "0b1a120c7ad95801a8f9c3ad6484d35978af22e7a5fa2d9e7a499eeb352827c6"
+}

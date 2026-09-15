@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--blinkist-feature-grid",
+  "source": "kage",
+  "slug": "component--blinkist-feature-grid",
+  "url": "https://kage.design/component/blinkist-feature-grid",
+  "name": "Three ways to learn by blinkist.com",
+  "description": "A centered promise headline introduces three benefit statements on the left and a large product video panel on the right, followed by a repeated CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/blinkist-com/923d3302-3f7c-4bf2-9567-691903266cb3-1789146452-2.webp",
+  "prompts": [
+    "kage/component--blinkist-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/blinkist-landing-page",
+  "product": "blinkist-com",
+  "tags": [
+    "search?q=features",
+    "search?q=video",
+    "search?q=benefits"
+  ],
+  "pageSha256": "b2e5db454a5b36503df623cf8ce487e6c6e6ab63fe9ec13b7818fd7f4d0c492c"
+}

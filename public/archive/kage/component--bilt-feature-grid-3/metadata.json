@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bilt-feature-grid-3",
+  "source": "kage",
+  "slug": "component--bilt-feature-grid-3",
+  "url": "https://kage.design/component/bilt-feature-grid-3",
+  "name": "Flexible redemption categories by bilt.com",
+  "description": "A dense editorial section explains multiple ways to redeem value, pairing left-side descriptions and CTAs with right-side horizontal partner-card carousels across several categories.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146825-6.webp",
+  "prompts": [
+    "kage/component--bilt-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bilt-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=redemption",
+    "search?q=tabs",
+    "search?q=partners"
+  ],
+  "pageSha256": "1ff8a861122ef83c3e5a33390c5aaddf831b952ddc3372823915b67e1f6b21af"
+}

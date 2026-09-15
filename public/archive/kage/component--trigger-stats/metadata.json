@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-stats",
+  "source": "kage",
+  "slug": "component--trigger-stats",
+  "url": "https://kage.design/component/trigger-stats",
+  "name": "Staggered customer proof grid by trigger.dev",
+  "description": "A dark, editorial proof section that turns customer outcomes into a dense masonry grid of quote cards. The varied card heights, restrained dividers, muted typography, and compact author rows create a credible stats-and-testimonials rhythm without feeling like a conventional logo wall.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073778-9.webp",
+  "prompts": [
+    "kage/component--trigger-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=stats",
+    "search?q=testimonials",
+    "search?q=dark-ui",
+    "search?q=masonry"
+  ],
+  "pageSha256": "f6c1feb0b9109574de43aef5210379c3b99587e8461a136a42bb7d87d4514bdc"
+}

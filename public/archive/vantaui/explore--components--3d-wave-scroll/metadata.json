@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--3d-wave-scroll",
+  "source": "vantaui",
+  "slug": "explore--components--3d-wave-scroll",
+  "url": "https://www.vantaui.com/explore/components/3d-wave-scroll",
+  "name": "3D Wave Scroll - VantaUI",
+  "description": "A textured plane waves like a flag, then grows to fill the viewport as you scroll while the wave flattens.",
+  "image": "https://vantaui-registry.vercel.app/components/3d-wave-scroll",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "9cefabf148b3a3a0f724c13e8a7a50397f8baa060d26078cb77a5893ca3f2e3b"
+}

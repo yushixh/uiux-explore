@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ledger-testimonials",
+  "source": "kage",
+  "slug": "component--ledger-testimonials",
+  "url": "https://kage.design/component/ledger-testimonials",
+  "name": "Customer testimonial carousel by ledger.com",
+  "description": "A large editorial heading introduces multiple bordered quote cards with identities and compact navigation controls. The horizontal treatment supports browsing while keeping several voices visible at once.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ledger-com/abaab959-f9d6-43c3-8f0c-09f584ac8799-1789146872-8.webp",
+  "prompts": [
+    "kage/component--ledger-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ledger-landing-page",
+  "product": "ledger-com",
+  "tags": [
+    "search?q=testimonials",
+    "search?q=carousel",
+    "search?q=social-proof"
+  ],
+  "pageSha256": "31ee74c0882a579640ea17ea7923bb4ad8279554b51cbabd687e0447a054e7bd"
+}

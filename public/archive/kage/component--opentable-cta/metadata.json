@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-cta",
+  "source": "kage",
+  "slug": "component--opentable-cta",
+  "url": "https://kage.design/component/opentable-cta",
+  "name": "Personalized discovery prompt by opentable.com",
+  "description": "A softly tinted horizontal callout turns an open-ended search into a guided discovery interaction, pairing a concise heading with several suggested question chips.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146315-2.webp",
+  "prompts": [
+    "kage/component--opentable-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=assistant",
+    "search?q=discovery",
+    "search?q=prompt"
+  ],
+  "pageSha256": "f635c5ce48d89553e7933873d6828d0507c097425cb454bd2793e8a39c04baf0"
+}

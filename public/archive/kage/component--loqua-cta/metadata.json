@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--loqua-cta",
+  "source": "kage",
+  "slug": "component--loqua-cta",
+  "url": "https://kage.design/component/loqua-cta",
+  "name": "Founder perspective and developer CTA by Loqua",
+  "description": "A quiet editorial note after the dark proof section explains the product philosophy, then transitions into a compact developer-oriented call to action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loqua/e5cf041a-edc7-487a-b4b8-8f4d563da4de-1789192875-8.webp",
+  "prompts": [
+    "kage/component--loqua-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loqua-landing-page",
+  "product": "loqua",
+  "tags": [
+    "search?q=manifesto",
+    "search?q=developer",
+    "search?q=cta"
+  ],
+  "pageSha256": "940410edf3d35da11212791203ba5c9b176a5c6bb8a2dc45784dc737e64e9d6e"
+}

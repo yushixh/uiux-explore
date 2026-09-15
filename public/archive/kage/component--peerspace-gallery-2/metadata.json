@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--peerspace-gallery-2",
+  "source": "kage",
+  "slug": "component--peerspace-gallery-2",
+  "url": "https://kage.design/component/peerspace-gallery-2",
+  "name": "Blog/article carousel by peerspace.com",
+  "description": "A white editorial module introduces the blog with a title and view-all action, then presents a horizontal row of image-led article cards with arrows.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146242-8.webp",
+  "prompts": [
+    "kage/component--peerspace-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/peerspace-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=blog",
+    "search?q=articles",
+    "search?q=carousel"
+  ],
+  "pageSha256": "383efaa5066c9aa409a0f02978efc173d1cd50f48e16cb185a2869832aebea8b"
+}

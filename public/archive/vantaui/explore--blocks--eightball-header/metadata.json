@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--eightball-header",
+  "source": "vantaui",
+  "slug": "explore--blocks--eightball-header",
+  "url": "https://www.vantaui.com/explore/blocks/eightball-header",
+  "name": "Eightball Header - VantaUI",
+  "description": "Expandable floating header with scramble CTAs, a product/explore menu, social links, a featured members panel, and a showcase marquee.",
+  "image": "https://vantaui-registry.vercel.app/blocks/eightball-header",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "7923d3d58be98a3dc12339393f77ae76da442a3491a1648c78e10680303a91f1"
+}

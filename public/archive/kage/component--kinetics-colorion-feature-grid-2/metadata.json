@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--kinetics-colorion-feature-grid-2",
+  "source": "kage",
+  "slug": "component--kinetics-colorion-feature-grid-2",
+  "url": "https://kage.design/component/kinetics-colorion-feature-grid-2",
+  "name": "Feedback and state pattern library by kinetics.colorion.co",
+  "description": "A second catalog band shifts from input mechanics to feedback, loading, status, progress, and system-state patterns while retaining the same three-column card grammar.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/kinetics-colorion-co/61078688-965b-4221-9177-b73292c8438b-1789374951-3.webp",
+  "prompts": [
+    "kage/component--kinetics-colorion-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "kinetics-colorion-co",
+  "tags": [
+    "search?q=grid",
+    "search?q=feedback",
+    "search?q=states"
+  ],
+  "pageSha256": "c11afe9d4a78853bc05ac9165e7804888c97ab65ed2b56998209f53fcf480ecd"
+}

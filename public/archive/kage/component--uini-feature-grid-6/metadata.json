@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--uini-feature-grid-6",
+  "source": "kage",
+  "slug": "component--uini-feature-grid-6",
+  "url": "https://kage.design/component/uini-feature-grid-6",
+  "name": "Rule-based audience targeting feature section by uini.io",
+  "description": "A calm split feature section pairs a concise, benefit-led narrative with a realistic product interface that demonstrates audience rules in context. The contrast between editorial copy and a lightly elevated workflow card makes a complex capability feel precise, approachable, and immediately understandable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uini-io/ef5b466a-1fe9-4cb6-9300-79049ee31244-1789059861-3.webp",
+  "prompts": [
+    "kage/component--uini-feature-grid-6/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uini-landing-page",
+  "product": "uini-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=b2b-saas",
+    "search?q=product-ui",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "8e710ee5f47c12a4c44c9d667f4f5bbf8f1ffa78a8223f26e9e2cbd1ae9027a9"
+}

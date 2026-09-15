@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--obsidian-md-og-image",
+  "source": "kage",
+  "slug": "designs--obsidian-md-og-image",
+  "url": "https://kage.design/designs/obsidian-md-og-image",
+  "name": "Obsidian Open Graph social card by obsidian.md",
+  "description": "A 1200×630 social card built on a near-black canvas with one horizontal lockup placed left of centre: a dark rounded-square app icon holding a faceted purple gem, a large white bold wordmark, and a lavender-purple tagline beneath it. Hierarchy comes purely from scale and colour — the white display type reads first, the purple subline second, the gem icon anchors the left edge. The right third is left as empty, faintly textured darkness, so the mark stays legible even at tiny share sizes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/obsidian-md/91fb2998-f7fa-49ad-9740-c23f99f05743-1789060136570.webp",
+  "prompts": [
+    "kage/designs--obsidian-md-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/epilude-notetaker-og-image",
+  "product": "obsidian-md",
+  "tags": [
+    "search?q=social-card",
+    "search?q=app-icon",
+    "search?q=wordmark",
+    "search?q=tagline",
+    "search?q=negative-space",
+    "search?q=gem-logo",
+    "search?q=left-aligned-lockup",
+    "search?q=dark-canvas"
+  ],
+  "pageSha256": "6bab9163b94585d32a708e9fb8a027fb9b1548d9c94e9564f7e1649669114250"
+}

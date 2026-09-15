@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--thousand-feature-grid",
+  "source": "kage",
+  "slug": "component--thousand-feature-grid",
+  "url": "https://kage.design/component/thousand-feature-grid",
+  "name": "Editorial feature grid by Thousand",
+  "description": "A spacious editorial feature grid pairs a dominant full-width feature with two supporting cards, balancing concise product storytelling and lightweight interface diagrams. The restrained palette, soft borders, and generous whitespace make the section feel calm, tactile, and highly legible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/thousand/cb10af68-535d-4246-97d9-03dbd24306a9-1789106638-3.webp",
+  "prompts": [
+    "kage/component--thousand-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/thousand-landing-page",
+  "product": "thousand",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=bento-layout",
+    "search?q=product-story"
+  ],
+  "pageSha256": "c6194ff51dcce8283ebfa234c97040533b0b8277e4bb55bc53b608348cce1532"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--gooey-search",
+  "source": "vantaui",
+  "slug": "explore--components--gooey-search",
+  "url": "https://www.vantaui.com/explore/components/gooey-search",
+  "name": "Gooey Search - VantaUI",
+  "description": "Search bar that morphs open with a gooey effect and drips animated results.",
+  "image": "https://vantaui-registry.vercel.app/components/gooey-search",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "40631b54acb0fe076cf8c0d20804ecccfb1579f7622d6d2f5aa5698f0813c076"
+}

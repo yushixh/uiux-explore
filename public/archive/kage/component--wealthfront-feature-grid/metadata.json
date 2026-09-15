@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--wealthfront-feature-grid",
+  "source": "kage",
+  "slug": "component--wealthfront-feature-grid",
+  "url": "https://kage.design/component/wealthfront-feature-grid",
+  "name": "Managed and self-directed investing options by wealthfront.com",
+  "description": "Two equal product cards compare managed investing with self-directed investing. Each combines a visual panel, title, bullet benefits, CTAs, disclosures, and related links.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/wealthfront-com/3e3be85e-7bdd-4e6a-8630-f389b2c5e8da-1789146564-3.webp",
+  "prompts": [
+    "kage/component--wealthfront-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/wealthfront-landing-page",
+  "product": "wealthfront-com",
+  "tags": [
+    "search?q=features",
+    "search?q=accounts",
+    "search?q=comparison"
+  ],
+  "pageSha256": "fa8889edbdda78b280f7f515de7362b0ae3047169bd9d56dd4b7115bc268c576"
+}

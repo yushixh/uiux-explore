@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--madebydaedalus-feature-grid",
+  "source": "kage",
+  "slug": "component--madebydaedalus-feature-grid",
+  "url": "https://kage.design/component/madebydaedalus-feature-grid",
+  "name": "Two-sided feature statement by madebydaedalus.com",
+  "description": "A spacious studio-introduction grid that balances a small visual marker and eyebrow with a dominant statement and two supporting text columns. Its restrained typography, generous whitespace, and quiet divider make the section feel thoughtful, premium, and human without relying on heavy decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/madebydaedalus-com/ae0cc407-2597-43fd-9c0f-0722227b2dcc-1789060549-2.webp",
+  "prompts": [
+    "kage/component--madebydaedalus-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/madebydaedalus-landing-page",
+  "product": "madebydaedalus-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=studio",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "9304c007d876569ea2338b2ad0aa34624b02d0a7ff67c5396381d552a5be0fad"
+}

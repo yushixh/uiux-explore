@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--datafa-faq",
+  "source": "kage",
+  "slug": "component--datafa-faq",
+  "url": "https://kage.design/component/datafa-faq",
+  "name": "Minimal stacked FAQ accordion by datafa.st",
+  "description": "A narrow, centered FAQ list uses generous whitespace, soft borders, rounded rows, and understated plus controls to make a long set of questions feel calm and scannable. The component is intentionally lightweight, with emphasis on clear alignment and predictable expansion behaviour.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789067844-10.webp",
+  "prompts": [
+    "kage/component--datafa-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/datafa-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=saas",
+    "search?q=minimal",
+    "search?q=responsive"
+  ],
+  "pageSha256": "df8c448a9246e48bd247069a7c0f3b1e3264203763159d2111d8bfb47f9c9a1f"
+}

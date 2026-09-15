@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--supabase-cta-2",
+  "source": "kage",
+  "slug": "component--supabase-cta-2",
+  "url": "https://kage.design/component/supabase-cta-2",
+  "name": "Newsletter signup footer by supabase.com",
+  "description": "This footer CTA works by pairing a compact newsletter signup and social links with clearly separated, multi-column navigation. Strong column alignment, restrained typography, and generous whitespace make a dense set of destinations feel calm and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/supabase-com/b03f69f9-4b47-487d-8f2b-17d7cd19e877-1789060354-9.webp",
+  "prompts": [
+    "kage/component--supabase-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/supabase-landing-page",
+  "product": "supabase-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=newsletter",
+    "search?q=navigation",
+    "search?q=social"
+  ],
+  "pageSha256": "d90aad4144a64ee0651a367235ea9c6ec1222ae2a82ef96403c8543cbcfe3d99"
+}

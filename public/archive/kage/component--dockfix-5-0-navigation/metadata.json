@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--dockfix-5-0-navigation",
+  "source": "kage",
+  "slug": "component--dockfix-5-0-navigation",
+  "url": "https://kage.design/component/dockfix-5-0-navigation",
+  "name": "Announcement bar and primary navigation by DockFix 5.0",
+  "description": "A slim dark release announcement sits above a transparent, minimal navigation over the hero. The navigation balances a small product mark, centered links, price, and a compact download button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/dockfix-5-0/2c092be4-cae6-431a-8bc7-3fef5352fd95-1789279441-0.webp",
+  "prompts": [
+    "kage/component--dockfix-5-0-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-landing-page",
+  "product": "dockfix-5-0",
+  "tags": [
+    "search?q=header",
+    "search?q=nav",
+    "search?q=download"
+  ],
+  "pageSha256": "5802de7002edd95cefc9581aa30e2f6d95f5f800b242bd1e7abcb1308d78ac1f"
+}

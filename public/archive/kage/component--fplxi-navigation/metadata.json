@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fplxi-navigation",
+  "source": "kage",
+  "slug": "component--fplxi-navigation",
+  "url": "https://kage.design/component/fplxi-navigation",
+  "name": "Pill-shaped fantasy football navigation bar by fplxi.com",
+  "description": "A compact dark navigation capsule uses strong horizontal grouping, muted text, a live-status pill, and a vivid primary CTA to create a clear path from browsing to sign-up. The soft page background and generous outer radius make the header feel like a floating product control rather than a full-width utility bar.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fplxi-com/54b8421e-1a9f-4884-bebf-8d70ddcd8ef8-1789073156-0.webp",
+  "prompts": [
+    "kage/component--fplxi-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fplxi-landing-page",
+  "product": "fplxi-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=navbar",
+    "search?q=pill",
+    "search?q=saas"
+  ],
+  "pageSha256": "b812a249ffe9cc79df0ec62bfc7300d82005c4b2bab4027189d661d57fbb8b48"
+}

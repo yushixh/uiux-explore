@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--zola-feature-grid-2",
+  "source": "kage",
+  "slug": "component--zola-feature-grid-2",
+  "url": "https://kage.design/component/zola-feature-grid-2",
+  "name": "Integrated wedding tools by zola.com",
+  "description": "A long deep-teal feature narrative alternates image-led product moments with large editorial headings, descriptions, and CTAs for websites, guests, vendors, stationery, and registries.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/zola-com/ad1936e8-70c2-47e9-b9d5-59869832f93f-1789146310-4.webp",
+  "prompts": [
+    "kage/component--zola-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/zola-landing-page",
+  "product": "zola-com",
+  "tags": [
+    "search?q=feature-story",
+    "search?q=alternating",
+    "search?q=product"
+  ],
+  "pageSha256": "2651ade76f86ab80204a98aab444f49f7b1efadeec22c877036e6b4e091ab7d8"
+}

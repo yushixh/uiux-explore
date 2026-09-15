@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--raycast-navigation",
+  "source": "kage",
+  "slug": "component--raycast-navigation",
+  "url": "https://kage.design/component/raycast-navigation",
+  "name": "Dark floating product navigation bar by raycast.com",
+  "description": "A restrained, pill-shaped desktop header combines strong brand anchoring, evenly spaced navigation, and a high-contrast action button. The generous horizontal padding, subtle border, and low-contrast surface make the navigation feel elevated without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/raycast-com/85f2a082-cb21-4e6a-8485-365ffb9d735a-1789067515-0.webp",
+  "prompts": [
+    "kage/component--raycast-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-landing-page",
+  "product": "raycast-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=dark-mode",
+    "search?q=navbar",
+    "search?q=saas"
+  ],
+  "pageSha256": "ec0295799c2c0f75b3e47095ce17d19b0c88b1b596ec578b98ec4a53b0caeb67"
+}

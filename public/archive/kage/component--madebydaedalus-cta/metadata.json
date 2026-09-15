@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--madebydaedalus-cta",
+  "source": "kage",
+  "slug": "component--madebydaedalus-cta",
+  "url": "https://kage.design/component/madebydaedalus-cta",
+  "name": "Playful split-layout contact CTA by madebydaedalus.com",
+  "description": "A spacious, lightly whimsical contact section pairs an oversized question-led headline with a compact supporting message, email utility, and a strong right-aligned action. The pale lavender surface, expressive punctuation, and asymmetric composition make the invitation feel personal rather than transactional.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/madebydaedalus-com/ae0cc407-2597-43fd-9c0f-0722227b2dcc-1789060549-5.webp",
+  "prompts": [
+    "kage/component--madebydaedalus-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/madebydaedalus-landing-page",
+  "product": "madebydaedalus-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=contact",
+    "search?q=playful",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "1f58d6e18b95a891fa104fdf160a9a9dcff0d5d79ce9427dbc27008f3871e2f3"
+}

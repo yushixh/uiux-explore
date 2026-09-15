@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cognitions-swe-2-chart",
+  "source": "kage",
+  "slug": "component--cognitions-swe-2-chart",
+  "url": "https://kage.design/component/cognitions-swe-2-chart",
+  "name": "Benchmark score and cost charts by Cognition's SWE-2",
+  "description": "A results section combines explanatory copy, segmented controls, a benchmark bar chart, and a cost-versus-score plot so readers can compare models and trade-offs.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cognitions-swe-2/e9966f12-655e-494e-9580-e5330b0ddc92-1789365705-2.webp",
+  "prompts": [
+    "kage/component--cognitions-swe-2-chart/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-blog",
+  "product": "cognitions-swe-2",
+  "tags": [
+    "search?q=benchmark",
+    "search?q=bar-chart",
+    "search?q=comparison"
+  ],
+  "pageSha256": "d24c271b8b9d8cdefd5496f937f484132cbcc6313a058fc3ce1d097ac269e01d"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bilt-feature-grid-2",
+  "source": "kage",
+  "slug": "component--bilt-feature-grid-2",
+  "url": "https://kage.design/component/bilt-feature-grid-2",
+  "name": "Three core benefit cards by bilt.com",
+  "description": "The section introduces three related benefits with a strong heading, supporting paragraph, and three equal image-led cards. The repeated structure makes the product's value easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146824-3.webp",
+  "prompts": [
+    "kage/component--bilt-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bilt-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=benefits",
+    "search?q=cards",
+    "search?q=responsive"
+  ],
+  "pageSha256": "86e26099d7d310d144183fcca9c2d81b550f1ce6dc298992c84f6727c4046b7b"
+}

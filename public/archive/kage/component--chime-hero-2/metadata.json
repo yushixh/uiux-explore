@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chime-hero-2",
+  "source": "kage",
+  "slug": "component--chime-hero-2",
+  "url": "https://kage.design/component/chime-hero-2",
+  "name": "Mission and community image section by chime.com",
+  "description": "A dark brand section uses a large community photograph above a centered mission statement, creating an emotional brand close before the dense footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146543-8.webp",
+  "prompts": [
+    "kage/component--chime-hero-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chime-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=mission",
+    "search?q=community",
+    "search?q=image"
+  ],
+  "pageSha256": "dea2622103801411a43ea9e2b9a76708e2867dfb63adf0eafa9367d77cf7525f"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--anthropic-feature-grid",
+  "source": "kage",
+  "slug": "component--anthropic-feature-grid",
+  "url": "https://kage.design/component/anthropic-feature-grid",
+  "name": "Editorial release card grid by anthropic.com",
+  "description": "A calm, editorial three-card grid makes each release easy to scan while giving every item enough vertical structure for metadata and a clear action. The restrained palette, generous whitespace, and consistent card anatomy balance premium brand expression with practical navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/anthropic-com/9400eeef-f6ac-4bf6-a324-e094b3c8d068-1789060505-3.webp",
+  "prompts": [
+    "kage/component--anthropic-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/anthropic-landing-page",
+  "product": "anthropic-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=release-cards",
+    "search?q=editorial",
+    "search?q=responsive"
+  ],
+  "pageSha256": "d20320b62a8bfd99075f28990c6e8e43aac23247e6c717b6918b05d265731d1e"
+}

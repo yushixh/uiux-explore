@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--runwayml-footer",
+  "source": "kage",
+  "slug": "component--runwayml-footer",
+  "url": "https://kage.design/component/runwayml-footer",
+  "name": "Dark multi-column navigation footer by runwayml.com",
+  "description": "This footer works through a quiet, information-dense grid: related links are grouped into clearly labeled columns, while a low-profile legal and social row anchors the bottom. High contrast text, restrained spacing, and a nearly black surface make a large navigation system feel orderly rather than promotional.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/runwayml-com/e724fd81-b6a6-43a2-b9ac-10cfe806f6fa-1789074883-7.webp",
+  "prompts": [
+    "kage/component--runwayml-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/runwayml-landing-page",
+  "product": "runwayml-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=dark+mode",
+    "search?q=responsive"
+  ],
+  "pageSha256": "ed2e0fdc3d51c4fd893a7b69f74268499056ba4cb4dbf2315cba9142f1c4823a"
+}

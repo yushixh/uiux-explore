@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--descript-cta",
+  "source": "kage",
+  "slug": "component--descript-cta",
+  "url": "https://kage.design/component/descript-cta",
+  "name": "Final conversion banner by descript.com",
+  "description": "The final dark CTA restates the broad value proposition, offers two contrasting actions, and closes with a row of varied media tiles that makes the product feel tangible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/descript-com/c210b18a-1678-4bef-91b5-c444a8589f04-1789146912-8.webp",
+  "prompts": [
+    "kage/component--descript-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/descript-landing-page",
+  "product": "descript-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=conversion",
+    "search?q=gallery"
+  ],
+  "pageSha256": "0fab0ad40632b165de1c0199d3ccc65cfa5d7251b4bbc768b2f5f144407f44d9"
+}

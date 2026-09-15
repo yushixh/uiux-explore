@@ -1,0 +1,22 @@
+{
+  "id": "cafe-pomodoro",
+  "name": "Cafe Pomodoro",
+  "description": "Order a drink, settle in, and focus: a pomodoro timer dressed up as a cozy café, complete with ambient sound.",
+  "shortInfo": "A cozy café pomodoro timer",
+  "url": "https://cafe.pauwee.com/",
+  "handle": "pauline_makes",
+  "creatorName": "Pauline Wee",
+  "creatorUrl": "https://x.com/pauline_makes",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Productivity",
+  "categories": [
+    "Productivity"
+  ],
+  "launchDate": "2026-09-02",
+  "added": "2026-09-02",
+  "sortOrder": 33,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/cafe-pomodoro/reviewed-1788762488586-cafe-pomodoro-6tGc2ApaiAt0MTnFDPRAgF3eHb01JO.png",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/world-time-bestie/avatar-mtq3ackp-U8EsKM2l5JI5Cnwyk8EPjODto63ZIt.jpg",
+  "shot": "/screenshots/cafe-pomodoro.jpg"
+}

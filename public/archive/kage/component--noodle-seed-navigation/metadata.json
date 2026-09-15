@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--noodle-seed-navigation",
+  "source": "kage",
+  "slug": "component--noodle-seed-navigation",
+  "url": "https://kage.design/component/noodle-seed-navigation",
+  "name": "Announcement bar and dark navigation header by Noodle Seed",
+  "description": "A compact two-level header pairs a low-contrast promotional strip with a spacious, centered navigation row. The restrained monochrome palette, subtle amber glow, clear CTA, and generous horizontal alignment make the primary action feel premium without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/noodle-seed/892ab390-1bf9-4a7d-a1b3-8cebe5820ba8-1789106716-0.webp",
+  "prompts": [
+    "kage/component--noodle-seed-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/noodle-seed-landing-page",
+  "product": "noodle-seed",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=dark-ui",
+    "search?q=header"
+  ],
+  "pageSha256": "e2e4cda856c8f732aa60d47f69b1eef19694c0babee7ef0ad652c77c5080e32c"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bun-logo-cloud",
+  "source": "kage",
+  "slug": "component--bun-logo-cloud",
+  "url": "https://kage.design/component/bun-logo-cloud",
+  "name": "Monochrome logo cloud by bun.sh",
+  "description": "A restrained logo-cloud section that uses an editorial, high-contrast layout to turn customer or ecosystem names into a quiet trust signal. The emphasis is on generous whitespace, subdued monochrome marks, and a clear relationship between the supporting message and the logo field.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073822-2.webp",
+  "prompts": [
+    "kage/component--bun-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=editorial",
+    "search?q=monochrome"
+  ],
+  "pageSha256": "52ea4c0e51f4bd5ef1f5f8111e11e595b14b2e6afd47775e10461f0f9aa25a73"
+}

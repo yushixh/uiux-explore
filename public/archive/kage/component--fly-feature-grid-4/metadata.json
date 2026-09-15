@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fly-feature-grid-4",
+  "source": "kage",
+  "slug": "component--fly-feature-grid-4",
+  "url": "https://kage.design/component/fly-feature-grid-4",
+  "name": "Pastel feature-card grid by fly.io",
+  "description": "A playful three-column feature section uses oversized editorial illustrations, restrained card borders, and a soft cyan–lilac–pink atmospheric background to make technical benefits feel approachable. Short descriptions and a single centered CTA create a clear path from scanning to action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fly-io/55088b40-21c4-4b5b-a67c-8a1494f33e2d-1789073899-7.webp",
+  "prompts": [
+    "kage/component--fly-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fly-landing-page",
+  "product": "fly-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=pastel",
+    "search?q=illustration",
+    "search?q=cta"
+  ],
+  "pageSha256": "c311b63a56eabb7d2a8c575f72382df4c7674a912f1cea8227bc6f8b8fad5d0f"
+}

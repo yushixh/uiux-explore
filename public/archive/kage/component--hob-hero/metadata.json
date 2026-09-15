@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--hob-hero",
+  "source": "kage",
+  "slug": "component--hob-hero",
+  "url": "https://kage.design/component/hob-hero",
+  "name": "Centered product hero with app preview by hob",
+  "description": "A spacious, centered SaaS hero that pairs a high-impact two-line headline with restrained supporting copy, dual CTAs, and a large product interface preview. The strong vertical rhythm and soft, polished UI frame make the product feel immediately understandable and credible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106502-1.webp",
+  "prompts": [
+    "kage/component--hob-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/hob-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=product+preview",
+    "search?q=cta"
+  ],
+  "pageSha256": "8998b1ff7623c11e6a2a329910adf2b088374c4504eddf6c18ea28cfc8a2fcaa"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--linear-feature-grid-4",
+  "source": "kage",
+  "slug": "component--linear-feature-grid-4",
+  "url": "https://kage.design/component/linear-feature-grid-4",
+  "name": "AI automation feature grid by linear.app",
+  "description": "A restrained dark feature section pairs a large category heading with concise explanatory copy and a low, horizontally cropped row of product-workflow cards. Strong whitespace, subtle dividers, and partial card reveals create a premium, editorial rhythm while communicating breadth and activity.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789060208-6.webp",
+  "prompts": [
+    "kage/component--linear-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/linear-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=ai-workflows",
+    "search?q=productivity"
+  ],
+  "pageSha256": "2d5fa68ecac641241ca7713c8e42c18ae0c891abeac1b46cf32852888cbbba71"
+}

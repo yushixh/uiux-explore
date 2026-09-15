@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--shiui-feature-grid-8",
+  "source": "kage",
+  "slug": "component--shiui-feature-grid-8",
+  "url": "https://kage.design/component/shiui-feature-grid-8",
+  "name": "Overlays and promotional patterns by SHIUI",
+  "description": "The overlay section demonstrates dialogs, cart summaries, sort menus, notes, popovers, command menus, cookie notices, and small promotional cards without leaving the catalogue framework.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/shiui/3111a107-5e9b-4487-9176-525a4b4c448a-1789365768-9.webp",
+  "prompts": [
+    "kage/component--shiui-feature-grid-8/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/shiui-navigation",
+  "product": "shiui",
+  "tags": [
+    "search?q=overlays",
+    "search?q=modals",
+    "search?q=promo"
+  ],
+  "pageSha256": "9f026b947f59ba001ca95ded94bfdbb31a8174118c4907718241bc99c0f77aea"
+}

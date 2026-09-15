@@ -1,0 +1,21 @@
+{
+  "id": "use-shelf",
+  "name": "Use Shelf",
+  "description": "A browser extension that sends links and selected text from Chrome or Safari to a private Telegram bot chat in one click, keeping saved references where you already collect them.",
+  "shortInfo": "Save links without losing context",
+  "url": "https://useshelf.dev/",
+  "handle": "shedsgns",
+  "creatorName": "Juliette",
+  "creatorUrl": "https://x.com/shedsgns",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Productivity",
+  "categories": [
+    "Productivity"
+  ],
+  "launchDate": "2026-06-01",
+  "added": "2026-06-01",
+  "icon": "/icons/shelf.svg",
+  "avatar": "/backend/avatars/curator-shedsgns.jpg",
+  "shot": "/screenshots/use-shelf.webp"
+}

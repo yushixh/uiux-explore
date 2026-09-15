@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--loom-feature-grid",
+  "source": "kage",
+  "slug": "component--loom-feature-grid",
+  "url": "https://kage.design/component/loom-feature-grid",
+  "name": "Split feature showcase by loom.com",
+  "description": "A spacious, editorial feature section pairs a concise benefit statement and action with a warm, product-led visual. Strong asymmetry, generous whitespace, and a single accent colour make the feature feel clear, approachable, and conversion-focused.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060437-4.webp",
+  "prompts": [
+    "kage/component--loom-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=split-layout",
+    "search?q=product-benefit",
+    "search?q=cta"
+  ],
+  "pageSha256": "a4a1cc64d85bfb609d9b29609955abbfeb0c2f3d145e1e05ed300140f930abf5"
+}

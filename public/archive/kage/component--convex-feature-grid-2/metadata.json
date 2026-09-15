@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--convex-feature-grid-2",
+  "source": "kage",
+  "slug": "component--convex-feature-grid-2",
+  "url": "https://kage.design/component/convex-feature-grid-2",
+  "name": "Dark component feature grid by convex.dev",
+  "description": "This section works by combining a strong editorial heading with a compact row of product cards, each pairing a clear capability statement with an actionable install command. A restrained dark palette, subtle technical details, and a separate integration strip make the component feel both developer-focused and extensible.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789074851-4.webp",
+  "prompts": [
+    "kage/component--convex-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/convex-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=developer-tools",
+    "search?q=integration-cards"
+  ],
+  "pageSha256": "44f290ecdce7c4c43364ef2032a1a1c606056ebfdff08440fb94df2f23721439"
+}

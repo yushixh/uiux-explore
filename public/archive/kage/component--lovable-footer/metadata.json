@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--lovable-footer",
+  "source": "kage",
+  "slug": "component--lovable-footer",
+  "url": "https://kage.design/component/lovable-footer",
+  "name": "Gradient canvas footer by lovable.dev",
+  "description": "A spacious, high-contrast footer panel floats over a vivid blurred gradient background. Its restrained cream surface, dense link taxonomy, generous whitespace, and compact locale selector make a large navigation system feel organized rather than overwhelming.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lovable-dev/7426a651-2b1e-4dbe-b0d8-bb8a847d2e81-1789060911-8.webp",
+  "prompts": [
+    "kage/component--lovable-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lovable-landing-page",
+  "product": "lovable-dev",
+  "tags": [
+    "search?q=footer",
+    "search?q=multi-column",
+    "search?q=gradient",
+    "search?q=navigation"
+  ],
+  "pageSha256": "46a80a1ffd0711451729b0f553555ac346f5bd4eee00470e143aa0d522837cdf"
+}

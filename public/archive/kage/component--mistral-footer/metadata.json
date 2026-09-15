@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mistral-footer",
+  "source": "kage",
+  "slug": "component--mistral-footer",
+  "url": "https://kage.design/component/mistral-footer",
+  "name": "Minimal split footer with centered emblem by mistral.ai",
+  "description": "A restrained footer uses a wide horizontal canvas, a centered oversized geometric brand mark as the visual anchor, legal text on the left, and compact utility controls on the right. The asymmetric balance creates a memorable closing section without adding clutter.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mistral-ai/b4bd1aa3-e31c-42a6-8066-6d42fc3e7f45-1789073965-8.webp",
+  "prompts": [
+    "kage/component--mistral-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mistral-landing-page",
+  "product": "mistral-ai",
+  "tags": [
+    "search?q=footer",
+    "search?q=minimal",
+    "search?q=controls",
+    "search?q=branding"
+  ],
+  "pageSha256": "3783311a55a0903b6a5faa76d28cd7db426e6b2c9a76ade5484521eff255e1be"
+}

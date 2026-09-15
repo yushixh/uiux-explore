@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fly-feature-grid",
+  "source": "kage",
+  "slug": "component--fly-feature-grid",
+  "url": "https://kage.design/component/fly-feature-grid",
+  "name": "Gradient feature-grid showcase by fly.io",
+  "description": "A high-impact feature section pairs a soft, atmospheric gradient hero with clear messaging, a primary CTA, and navigation controls above a structured three-column benefit grid. Editorial typography, restrained borders, and generous illustration space make each capability feel distinct while keeping the whole component cohesive.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fly-io/55088b40-21c4-4b5b-a67c-8a1494f33e2d-1789073897-2.webp",
+  "prompts": [
+    "kage/component--fly-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fly-landing-page",
+  "product": "fly-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=gradient",
+    "search?q=carousel",
+    "search?q=illustration"
+  ],
+  "pageSha256": "2a69a55c11473c8c8977962e89744c1cacb5a3bcd693b456851e900ee86f4bad"
+}

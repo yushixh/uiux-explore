@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--oku-club-og-image",
+  "source": "kage",
+  "slug": "designs--oku-club-og-image",
+  "url": "https://kage.design/designs/oku-club-og-image",
+  "name": "Oku reading app social card by oku.club",
+  "description": "A monochrome ink-on-paper social card built on an asymmetric split: a small serif lockup and a two-line serif headline (~72–80px) anchor the left half, while a grainy hand-inked illustration of a lounging reader and an open book bleeds off the right edge. Only two values are used — warm off-white paper and near-black ink — and there is no chrome, gradient or footer, so the card reads like a page from a book and stays legible at chat-preview thumbnail sizes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/oku-club/edcd3c62-2bab-45a9-aa48-9fee66be9b47-1789146207947.webp",
+  "prompts": [
+    "kage/designs--oku-club-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-og-image",
+  "product": "oku-club",
+  "tags": [
+    "search?q=serif",
+    "search?q=monochrome",
+    "search?q=hand-drawn-illustration",
+    "search?q=literary",
+    "search?q=whitespace",
+    "search?q=asymmetric",
+    "search?q=social-card",
+    "search?q=wordmark"
+  ],
+  "pageSha256": "d4282fe03f6115bfc81de63e8b5bda11d4fc74a22249045514894c23126dcc24"
+}

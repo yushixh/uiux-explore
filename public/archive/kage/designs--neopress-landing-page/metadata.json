@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--neopress-landing-page",
+  "source": "kage",
+  "slug": "designs--neopress-landing-page",
+  "url": "https://kage.design/designs/neopress-landing-page",
+  "name": "Neopress AI website builder landing page by Neopress",
+  "description": "A long-form editorial landing page uses oversized high-contrast serif headlines with restrained sans-serif body copy and generous white space. The hero establishes the product through a large browser mockup, then the page alternates between template galleries, service cards, founder-led editorial content, product workflows, SEO explanations, tool grids, and pricing; soft beige sections and pastel image backdrops create rhythm without adding saturated brand colour. Thin gray borders, mostly square cards, minimal shadows, and black CTA buttons keep the interface precise while the increasingly information-dense lower sections communicate product depth.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/neopress/126c1916-850c-4473-b9b4-49923d5d31e2-1789365672325.webp",
+  "prompts": [
+    "kage/designs--neopress-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "neopress",
+  "tags": [
+    "search?q=serif-headlines",
+    "search?q=warm-neutral-palette",
+    "search?q=product-screenshots",
+    "search?q=alternating-layouts",
+    "search?q=feature-grids",
+    "search?q=pricing-cards",
+    "search?q=thin-borders"
+  ],
+  "pageSha256": "e24cd33fcfd80277ea86714d2d3b079cb32f78da003a17d80a96b649b06b4fb5"
+}

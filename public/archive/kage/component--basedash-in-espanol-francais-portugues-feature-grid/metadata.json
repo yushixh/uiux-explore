@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--basedash-in-espanol-francais-portugues-feature-grid",
+  "source": "kage",
+  "slug": "component--basedash-in-espanol-francais-portugues-feature-grid",
+  "url": "https://kage.design/component/basedash-in-espanol-francais-portugues-feature-grid",
+  "name": "Prompt-led analytics dashboard grid by Basedash in Español Français & Português",
+  "description": "This section works by pairing a clear, centered promise with a believable dashboard preview that feels like a product interface rather than a decorative illustration. The asymmetric card grid, restrained palette, and overlaid prompt field communicate both data depth and effortless AI configuration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/basedash-in-espanol-francais-portugues/b3381e01-f9b6-42c9-8798-975c026618b1-1789106702-3.webp",
+  "prompts": [
+    "kage/component--basedash-in-espanol-francais-portugues-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=feature+grid",
+    "search?q=dashboard",
+    "search?q=saas",
+    "search?q=analytics"
+  ],
+  "pageSha256": "c9b222554de98f714ec51317f8303792e70ec1a7ce12b3b048cdcf92647d583f"
+}

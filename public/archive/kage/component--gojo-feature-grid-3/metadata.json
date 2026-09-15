@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--gojo-feature-grid-3",
+  "source": "kage",
+  "slug": "component--gojo-feature-grid-3",
+  "url": "https://kage.design/component/gojo-feature-grid-3",
+  "name": "Split feature row with media preview by Gojo",
+  "description": "This section works because it pairs a concise, editorial feature explanation with a large product preview, using generous whitespace and understated dividers to make the interface feel calm and premium. The small category label, strong headline, supporting copy, and compact benefit rows create a clear reading hierarchy beside the visual demo.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106543-4.webp",
+  "prompts": [
+    "kage/component--gojo-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=split-layout",
+    "search?q=product-ui",
+    "search?q=media-preview"
+  ],
+  "pageSha256": "3dd6abe58709e84a873529b07b8e99ad59f1fd894fcf881741c0ee14687d0814"
+}

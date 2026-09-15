@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--jackalope-gallery",
+  "source": "kage",
+  "slug": "component--jackalope-gallery",
+  "url": "https://kage.design/component/jackalope-gallery",
+  "name": "Workspace product preview by Jackalope",
+  "description": "A tinted showcase band presents a large application preview with a small side navigation and a prominent preview frame, clearly demonstrating the product in use.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/jackalope/0b3edf93-8385-4e4a-8f92-3c01052ad81d-1789193037-5.webp",
+  "prompts": [
+    "kage/component--jackalope-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/jackalope-landing-page",
+  "product": "jackalope",
+  "tags": [
+    "search?q=gallery",
+    "search?q=product-preview",
+    "search?q=demo"
+  ],
+  "pageSha256": "aca31b2ae58982cba38d64635fe70129d66af846a83c6a1cd85892ef97bfcbf2"
+}

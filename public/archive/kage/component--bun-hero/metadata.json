@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--bun-hero",
+  "source": "kage",
+  "slug": "component--bun-hero",
+  "url": "https://kage.design/component/bun-hero",
+  "name": "Split hero with benchmark panel by bun.sh",
+  "description": "A developer-focused hero pairs a high-impact typographic statement and install action with a live-looking benchmark panel. Strong black-and-white structure, a single vivid accent, and dense technical details make the product feel fast, credible, and immediately usable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073822-1.webp",
+  "prompts": [
+    "kage/component--bun-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=hero",
+    "search?q=developer",
+    "search?q=terminal",
+    "search?q=benchmark"
+  ],
+  "pageSha256": "275cda3cb3bb0f76a50d1414a5981aaa2049aa087aea54b21e237f3fb5873e54"
+}

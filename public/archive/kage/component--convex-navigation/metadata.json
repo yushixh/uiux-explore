@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--convex-navigation",
+  "source": "kage",
+  "slug": "component--convex-navigation",
+  "url": "https://kage.design/component/convex-navigation",
+  "name": "Dark developer product navigation bar by convex.dev",
+  "description": "A compact, high-contrast header that balances brand presence, primary navigation, and right-aligned trust and account actions. Its restrained palette, pill-shaped utility controls, and generous horizontal spacing make a technical product feel polished without becoming visually busy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789074850-0.webp",
+  "prompts": [
+    "kage/component--convex-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/convex-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=navigation",
+    "search?q=dark-mode",
+    "search?q=developer-tools",
+    "search?q=header"
+  ],
+  "pageSha256": "48a5eeb7d02631e3679c5da0b31983e80dd7ec49fa0ae5cb983621bb1a97ff0c"
+}

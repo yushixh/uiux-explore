@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chime-cta",
+  "source": "kage",
+  "slug": "component--chime-cta",
+  "url": "https://kage.design/component/chime-cta",
+  "name": "Open-account app download CTA by chime.com",
+  "description": "A large rounded deep-green CTA panel combines a short account-opening message, app-store download badges, and a prominent angled device visual. The composition gives the page a strong conversion moment before the FAQ.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146543-6.webp",
+  "prompts": [
+    "kage/component--chime-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chime-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=app",
+    "search?q=download"
+  ],
+  "pageSha256": "fd14af827e6f7599479a448f257468028e860c214c2fc918d730d4746342b408"
+}

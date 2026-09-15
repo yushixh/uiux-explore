@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--granola-cta-2",
+  "source": "kage",
+  "slug": "component--granola-cta-2",
+  "url": "https://kage.design/component/granola-cta-2",
+  "name": "Unlimited notes conversion panel by granola.ai",
+  "description": "A centered elevated panel presents a final free-use proposition with supporting copy and paired primary/secondary actions.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789141840-9.webp",
+  "prompts": [
+    "kage/component--granola-cta-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=conversion",
+    "search?q=pricing",
+    "search?q=cta"
+  ],
+  "pageSha256": "50eb342bfbbbd5a115890f40f17603917361a0858378cf738bd4cf49672ecb89"
+}

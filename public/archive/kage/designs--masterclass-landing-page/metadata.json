@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--masterclass-landing-page",
+  "source": "kage",
+  "slug": "designs--masterclass-landing-page",
+  "url": "https://kage.design/designs/masterclass-landing-page",
+  "name": "MasterClass education landing page by masterclass.com",
+  "description": "A fully dark education landing page that treats cinematic instructor photography and video stills as the entire visual system, set on near-black surfaces so the imagery glows. Type runs on three voices — an ultra-condensed uppercase display for campaign statements, a neutral bold sans for UI and section headers, and a high-contrast serif reserved for class titles — while a single crimson CTA repeats down the page and one chartreuse accent marks the certificates cross-sell. Rhythm alternates dense utility sections (onboarding quiz, icon benefit list, FAQ accordions) with sparse full-bleed cinematic spotlights and paired carousels, keeping conversion CTAs visible at every register change.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146166996.webp",
+  "prompts": [
+    "kage/designs--masterclass-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/domestika-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=cinematic-photography",
+    "search?q=serif-class-titles",
+    "search?q=condensed-display-type",
+    "search?q=category-pills",
+    "search?q=carousel",
+    "search?q=onboarding-quiz",
+    "search?q=faq-accordion"
+  ],
+  "pageSha256": "4fa28237271e157bb021151752ba81de89f32fe11d0a46d1f1d35e5ef435f467"
+}

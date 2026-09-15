@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-feature-grid-3",
+  "source": "kage",
+  "slug": "component--trigger-feature-grid-3",
+  "url": "https://kage.design/component/trigger-feature-grid-3",
+  "name": "Dark developer feature-grid sections by trigger.dev",
+  "description": "A modular, editorial feature area that combines full-width section headings with bordered product-story rows and compact three-column capability cards. Dark surfaces, restrained typography, fine rules, and small neon accents make technical concepts feel tangible without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073776-5.webp",
+  "prompts": [
+    "kage/component--trigger-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=feature+grid",
+    "search?q=developer+tools",
+    "search?q=data+viz"
+  ],
+  "pageSha256": "c24377f604bd6791c03097a64569340282e3ff6f1c456f78a74368febef15f16"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--bilt-landing-page",
+  "source": "kage",
+  "slug": "designs--bilt-landing-page",
+  "url": "https://kage.design/designs/bilt-landing-page",
+  "name": "Bilt — Rent rewards landing page by bilt.com",
+  "description": "Bilt's landing page is a long, cinematic dark page in near-black navy with a faint map-grid texture behind the hero, where left-aligned white serif headline text sits beside floating glassmorphic notification chips (\"Ride with Lyft\", \"Dine out at Tucci\") scattered over an aerial city. Below, a full-width night photograph of an apartment building hosts pill tab tabs (Rent/Neighborhood/Rewards) and a dark rent-summary card overlay. The page then develops in alternating rhythms: a 3-card feature row with photography and glass UI overlays (credit-score gauge, Rent Day card), a \"Neighborhood Benefits\" section with scattered photo tiles, category filter pills, and full-bleed dining photography columns with caption overlays; then a redemption section pairing left-aligned headings with logo-card carousels (airlines, hotels, Amazon, Walmart, Airbnb) under small horizontal rules; press-quote cards; a centered final CTA; and a minimal footer. Type is a light, wide sans-serif with generous letter spacing on huge headings; small caps labels, thin dividers, and pale-blue pill buttons provide the only color accents against the monochrome dark palette. Density is low with lots of negative space; every section breathes and the accent color is used sparingly for CTAs only.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146762471.webp",
+  "prompts": [
+    "kage/designs--bilt-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=dark-landing",
+    "search?q=rewards",
+    "search?q=rent",
+    "search?q=hero",
+    "search?q=partner-logos",
+    "search?q=photography",
+    "search?q=night-mode"
+  ],
+  "pageSha256": "c2463398513bf4a3c9d40c79fc1b8a3f78e450b20811f90290980dada6de8d15"
+}

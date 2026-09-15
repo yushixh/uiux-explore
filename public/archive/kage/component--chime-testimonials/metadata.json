@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chime-testimonials",
+  "source": "kage",
+  "slug": "component--chime-testimonials",
+  "url": "https://kage.design/component/chime-testimonials",
+  "name": "Member testimonial cards by chime.com",
+  "description": "A centered heading introduces three white review cards with star ratings, short quotes, reviewer names, and platform labels. The cards use staggered heights and soft shadows to create a light editorial rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chime-com/8a783617-6b1d-44ef-a500-84b69ae63fa0-1789146542-5.webp",
+  "prompts": [
+    "kage/component--chime-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chime-landing-page",
+  "product": "chime-com",
+  "tags": [
+    "search?q=reviews",
+    "search?q=trust",
+    "search?q=carousel"
+  ],
+  "pageSha256": "b922f9aab37d60db2bc486df746c4cf8406cfb7de200357ebca8b7c51a43b5f2"
+}

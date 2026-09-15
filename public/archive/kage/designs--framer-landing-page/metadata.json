@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--framer-landing-page",
+  "source": "kage",
+  "slug": "designs--framer-landing-page",
+  "url": "https://kage.design/designs/framer-landing-page",
+  "name": "Framer landing page — AI design agent by framer.com",
+  "description": "A near-black, cinematic product landing page that leads with a short statement headline and an embedded product demo, then alternates generous dark feature sections (each pairing a product screenshot with a small text block and CTA) before settling into a dense bento grid of platform capabilities. Colour is almost entirely black and white with blue/purple gradients reserved for product UI and one accent stat (\"99.99% uptime\"); full-colour photography only appears in the \"Shipped with Framer\" gallery, which creates strong rhythm through contrast. Typography is a single rounded geometric sans at very large scale for headings with small, low-contrast supporting copy, and the page ends with a functional chat-style input plus a compact multi-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/framer-com/fbc97830-061d-4fdf-8e20-ea2d86299263-1789060009597.webp",
+  "prompts": [
+    "kage/designs--framer-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/modeinspect-landing-page",
+  "product": "framer-com",
+  "tags": [
+    "search?q=ai",
+    "search?q=hero-video",
+    "search?q=bento-grid",
+    "search?q=logo-wall",
+    "search?q=showcase-gallery",
+    "search?q=community",
+    "search?q=chat-input",
+    "search?q=product-tour"
+  ],
+  "pageSha256": "a1e2b79a34216367819894b765c65b41c40a127a40d4075d978be93d23e6f6f0"
+}

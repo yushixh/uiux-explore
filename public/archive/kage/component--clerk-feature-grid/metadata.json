@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--clerk-feature-grid",
+  "source": "kage",
+  "slug": "component--clerk-feature-grid",
+  "url": "https://kage.design/component/clerk-feature-grid",
+  "name": "Dark authentication feature mosaic by clerk.com",
+  "description": "A cinematic dark feature section combines a centered product message with an uneven bento grid of capability cards. Large atmospheric card visuals, restrained typography, soft borders, and varied spans create a premium technical feel while keeping each feature scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/clerk-com/b0a171ff-4b4c-415f-ac9b-4885f02b49d0-1789060782-4.webp",
+  "prompts": [
+    "kage/component--clerk-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/clerk-landing-page",
+  "product": "clerk-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=bento-layout",
+    "search?q=security"
+  ],
+  "pageSha256": "d82e89cf637fe1b0de9c964a867c21ab7a8e50a56e9e7a313bd9bd5be23066e2"
+}

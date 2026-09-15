@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--jackalope-cta",
+  "source": "kage",
+  "slug": "component--jackalope-cta",
+  "url": "https://kage.design/component/jackalope-cta",
+  "name": "Early-access signup by Jackalope",
+  "description": "A high-contrast indigo conversion band uses a short promise, a clear email field, and a direct submit button while retaining a spacious branded composition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/jackalope/0b3edf93-8385-4e4a-8f92-3c01052ad81d-1789193038-8.webp",
+  "prompts": [
+    "kage/component--jackalope-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/jackalope-landing-page",
+  "product": "jackalope",
+  "tags": [
+    "search?q=cta",
+    "search?q=signup",
+    "search?q=email-form"
+  ],
+  "pageSha256": "d53566233eac10e11242552a72fb258ea324bb2f24ddaa4097507ec130f71989"
+}

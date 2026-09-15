@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--strawberrybrowser-feature-grid-5",
+  "source": "kage",
+  "slug": "component--strawberrybrowser-feature-grid-5",
+  "url": "https://kage.design/component/strawberrybrowser-feature-grid-5",
+  "name": "Soft-focus feature showcase by strawberrybrowser.com",
+  "description": "A warm, editorial feature section that uses oversized product UI previews, generous whitespace, and a grounded testimonial row to turn complex capabilities into an approachable story. The blurred interface treatment creates visual focus while keeping the product feeling tangible and premium.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/strawberrybrowser-com/0a6dd4bb-409f-4c45-aa48-6abac7e2076e-1789060563-8.webp",
+  "prompts": [
+    "kage/component--strawberrybrowser-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/strawberrybrowser-landing-page",
+  "product": "strawberrybrowser-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=editorial",
+    "search?q=bento"
+  ],
+  "pageSha256": "e04f93062591632420dcb57936ff605bcc0a8cb1776a0b42d72e43fbe6fca2ba"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--venmo-landing-page",
+  "source": "kage",
+  "slug": "designs--venmo-landing-page",
+  "url": "https://kage.design/designs/venmo-landing-page",
+  "name": "Venmo consumer homepage by venmo.com",
+  "description": "Venmo's consumer landing page alternates airy, typography-led white sections with saturated full-bleed colour bands — a rounded sky-blue hero card, an indigo rewards band, an orange-to-yellow gradient business card, and a blue app-download band — each carrying exactly one message. Hierarchy is driven by an oversized bold grotesque with tight tracking, pill-shaped CTAs that flip from black-on-white to white-on-colour, and huge vertical padding between the two-column Debit/Credit/Checkout rows. Superscript footnote markers thread through the marketing copy and balloon into a dense regulatory footer, a signature fintech pattern; ghosted statement headlines ('Send. Split. Gift.', 'Purchase crypto') act as scroll-paced interstitials between the colour bands.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/venmo-com/e421e2ca-b11c-49c9-b106-d3994196da77-1789146464021.webp",
+  "prompts": [
+    "kage/designs--venmo-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ynab-landing-page",
+  "product": "venmo-com",
+  "tags": [
+    "search?q=pill-ctas",
+    "search?q=color-bands",
+    "search?q=big-type",
+    "search?q=hero-video",
+    "search?q=qr-code",
+    "search?q=scroll-interstitials",
+    "search?q=legal-footnotes",
+    "search?q=rounded-media"
+  ],
+  "pageSha256": "8ad81c853425c5cddb6c117760301a6f34d7d59cd60e6f131d7b77d904da9b94"
+}

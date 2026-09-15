@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--lovable-feature-grid-2",
+  "source": "kage",
+  "slug": "component--lovable-feature-grid-2",
+  "url": "https://kage.design/component/lovable-feature-grid-2",
+  "name": "Three-card product capabilities grid by lovable.dev",
+  "description": "A spacious editorial feature section uses a concise left-aligned introduction above three equal cards. Each card pairs a softly lit product-workflow visual with a clear benefit statement, creating a polished way to explain a platform’s idea-to-delivery journey without overwhelming the reader.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lovable-dev/7426a651-2b1e-4dbe-b0d8-bb8a847d2e81-1789060909-2.webp",
+  "prompts": [
+    "kage/component--lovable-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lovable-landing-page",
+  "product": "lovable-dev",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=product-tour",
+    "search?q=saas",
+    "search?q=cards"
+  ],
+  "pageSha256": "bcb619a45dd40954125bb5b3d7fc7341059e80aaa33e9d3d9d94cb9cf001d20b"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--opentable-footer",
+  "source": "kage",
+  "slug": "component--opentable-footer",
+  "url": "https://kage.design/component/opentable-footer",
+  "name": "Multi-column site footer by opentable.com",
+  "description": "A dark footer organizes many destinations into labeled columns, followed by social controls, legal links, copyright, and a parent-company endorsement row.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146317-11.webp",
+  "prompts": [
+    "kage/component--opentable-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/opentable-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "db6d1aeb73e2488683dcb4baaebbc31bab8224fe548b4ec00e245dac1323a414"
+}

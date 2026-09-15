@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--lemonade-landing-page",
+  "source": "kage",
+  "slug": "designs--lemonade-landing-page",
+  "url": "https://kage.design/designs/lemonade-landing-page",
+  "name": "Lemonade insurance landing page by lemonade.com",
+  "description": "A single-accent, centered composition: a serif display headline sits over a panorama of grayscale hand-drawn line illustrations, and one hot pink (~#FF0083) carries every CTA, star, inline highlight and the single filled illustration element. The page moves down in alternating white and pale-gray bands — bundle-pricing cards with checkboxes, oversized pink stars above tweet-style testimonial cards, annotated phone mockups, a soft-gray bubble chart of switcher stats, an illustrated donut explainer and three stamp-like trust badges — before a dense black multi-column footer with long legal fine print. Hierarchy comes almost entirely from a strict two-typeface scale and the scarcity of the accent, which keeps a chatty consumer story readable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/lemonade-com/fec12946-54bf-4cf0-ac52-dcd9bbeb95c9-1789146793064.webp",
+  "prompts": [
+    "kage/designs--lemonade-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ynab-landing-page",
+  "product": "lemonade-com",
+  "tags": [
+    "search?q=hand-drawn-illustrations",
+    "search?q=pink-cta",
+    "search?q=serif-headlines",
+    "search?q=pricing-cards",
+    "search?q=testimonial-cards",
+    "search?q=bubble-chart",
+    "search?q=dark-footer",
+    "search?q=centered-layout"
+  ],
+  "pageSha256": "4885d5b7f72f0818d483a2aab1a3d3caab13bba3ab2df0aeb42de7a0aec3c0d9"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--gojo-hero",
+  "source": "kage",
+  "slug": "component--gojo-hero",
+  "url": "https://kage.design/component/gojo-hero",
+  "name": "Immersive product hero with floating preview by Gojo",
+  "description": "This hero works by combining a full-bleed atmospheric backdrop with a compact navigation layer, a sharply focused centered message, and a tangible product preview that overlaps the lower fold. The restrained white interface, strong contrast, and low-friction CTA make the product feel immediate without overwhelming the visual mood.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106542-1.webp",
+  "prompts": [
+    "kage/component--gojo-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark",
+    "search?q=product-preview",
+    "search?q=gradient",
+    "search?q=cta"
+  ],
+  "pageSha256": "e246479dee82a86fb3564a9af44fa7ae9a4f312baff8192bfc93470d9bdd8bef"
+}

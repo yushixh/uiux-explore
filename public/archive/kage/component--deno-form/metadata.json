@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--deno-form",
+  "source": "kage",
+  "slug": "component--deno-form",
+  "url": "https://kage.design/component/deno-form",
+  "name": "Tabbed command install form by deno.com",
+  "description": "This developer-focused install form pairs a compact platform switcher with a high-contrast command block and one-click copy action. A second agent-oriented command block extends the same pattern for an alternate setup path, making the section useful without adding visual complexity.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073864-2.webp",
+  "prompts": [
+    "kage/component--deno-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/deno-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=terminal",
+    "search?q=tabs",
+    "search?q=copyable",
+    "search?q=developer"
+  ],
+  "pageSha256": "dc2f9b3185ccf4c7de79af40244f872b3ec127b186365b400dd12e36d478fc68"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--huggingface-navigation",
+  "source": "kage",
+  "slug": "component--huggingface-navigation",
+  "url": "https://kage.design/component/huggingface-navigation",
+  "name": "Utility-first product navigation bar by huggingface.co",
+  "description": "A compact desktop header balances strong product identity, a prominent global search field, and a dense row of primary destinations. Small status badges and restrained separators add hierarchy without making the navigation feel heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/huggingface-co/7a35650e-acfa-4ee6-9c74-f477a83c58e6-1789073961-0.webp",
+  "prompts": [
+    "kage/component--huggingface-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/huggingface-landing-page",
+  "product": "huggingface-co",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=search",
+    "search?q=saas"
+  ],
+  "pageSha256": "46df3e18666aeea2441296f9c0b9840dc42cda30b3655bba69181eb0d9544e52"
+}

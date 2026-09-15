@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--gojo-feature-grid",
+  "source": "kage",
+  "slug": "component--gojo-feature-grid",
+  "url": "https://kage.design/component/gojo-feature-grid",
+  "name": "Replacement stack feature grid by Gojo",
+  "description": "A clear two-column comparison section that frames a product as one unified workspace replacing a collection of smaller utilities. The strongest element is the visual flow from several compact app cards into one larger, calm destination card, supported by restrained explanatory copy and a small disclaimer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/gojo/109391a8-f454-43af-b6cd-05815ad35e3c-1789106542-2.webp",
+  "prompts": [
+    "kage/component--gojo-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/gojo-landing-page",
+  "product": "gojo",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=comparison",
+    "search?q=bento-layout",
+    "search?q=product-positioning"
+  ],
+  "pageSha256": "97e9b1e67ec8d848daf5ce3b5fa097cfec17ca76d9895f4de56059b5f7b20217"
+}

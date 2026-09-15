@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--anthropic-table",
+  "source": "kage",
+  "slug": "component--anthropic-table",
+  "url": "https://kage.design/component/anthropic-table",
+  "name": "Editorial resource index table by anthropic.com",
+  "description": "A quiet, editorial two-column index pairs a strong introductory statement with a compact list of linked resources and right-aligned categories. Thin dividers, generous whitespace, and restrained contrast make the table feel calm, legible, and institutional without relying on visual decoration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/anthropic-com/9400eeef-f6ac-4bf6-a324-e094b3c8d068-1789060506-4.webp",
+  "prompts": [
+    "kage/component--anthropic-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/anthropic-landing-page",
+  "product": "anthropic-com",
+  "tags": [
+    "search?q=table",
+    "search?q=editorial",
+    "search?q=resource-index",
+    "search?q=responsive"
+  ],
+  "pageSha256": "30e72ede677f604909f2aa87e811fd31c1ee580afb20434522dba98949073073"
+}

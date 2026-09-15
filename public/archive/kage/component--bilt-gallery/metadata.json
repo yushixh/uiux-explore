@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bilt-gallery",
+  "source": "kage",
+  "slug": "component--bilt-gallery",
+  "url": "https://kage.design/component/bilt-gallery",
+  "name": "Neighborhood benefits network by bilt.com",
+  "description": "A map-textured section presents scattered merchant/activity cards around a central category selector, communicating breadth and local discovery through spatial composition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146825-4.webp",
+  "prompts": [
+    "kage/component--bilt-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bilt-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=map",
+    "search?q=network",
+    "search?q=gallery"
+  ],
+  "pageSha256": "5996b1ff8a964dea54e5d7038b9768fcce85e74a224322eadfc7ad0b2b3a116b"
+}

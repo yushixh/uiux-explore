@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cortex-feature-grid-3",
+  "source": "kage",
+  "slug": "component--cortex-feature-grid-3",
+  "url": "https://kage.design/component/cortex-feature-grid-3",
+  "name": "API surface capability cards by Cortex",
+  "description": "An editorial heading and short explanation lead into a dense asymmetric grid of five capability cards with individual visual treatments.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cortex/48e48c32-4544-4e71-94d3-849a84be1bb9-1789279410-6.webp",
+  "prompts": [
+    "kage/component--cortex-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cortex-landing-page",
+  "product": "cortex",
+  "tags": [
+    "search?q=features",
+    "search?q=cards",
+    "search?q=api"
+  ],
+  "pageSha256": "62e43431aacec766017b491e33c4eba6fc07a26ee770aec4d8cd9756edef594d"
+}

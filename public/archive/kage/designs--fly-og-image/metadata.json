@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--fly-og-image",
+  "source": "kage",
+  "slug": "designs--fly-og-image",
+  "url": "https://kage.design/designs/fly-og-image",
+  "name": "Fly.io OG social card — 'Computers for agents' by fly.io",
+  "description": "The card splits its 1200×630 canvas asymmetrically: a quiet left half carries a two-line charcoal serif headline over a soft powder-blue-to-peach sky gradient, while the right half holds a dense hand-drawn cluster of winged, bird-faced servers led by a large purple tower that bleeds off the top and right edges. Wavy ribbon trails in teal, magenta and blue sweep diagonally from the lower left through the illustration, visually stitching the typographic and pictorial halves together and lending a static image a sense of flight. Contrast does the hierarchy work — the darkest element is the type, so it reads first even at thumbnail size — while the pastel palette and textured, bold-outlined illustration give the brand a warm, storybook feel unusual for infrastructure.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/fly-io/db93fd12-4100-40b6-bdb9-993ad06900e9-1789073681174.webp",
+  "prompts": [
+    "kage/designs--fly-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-og-image",
+  "product": "fly-io",
+  "tags": [
+    "search?q=social-card",
+    "search?q=hand-drawn",
+    "search?q=pastel-gradient",
+    "search?q=serif-headline",
+    "search?q=mascot-illustration",
+    "search?q=asymmetric-split",
+    "search?q=ribbon-trails"
+  ],
+  "pageSha256": "e11c720a19b2371fd578b354ec0952ac4afb949dbf2010fc0a87a306537bab84"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--viso-now-gallery-2",
+  "source": "kage",
+  "slug": "component--viso-now-gallery-2",
+  "url": "https://kage.design/component/viso-now-gallery-2",
+  "name": "Editorial resource card gallery by Viso Now",
+  "description": "This section works through a strong editorial heading paired with a compact utility CTA, followed by a clean grid of image-led resource cards. Consistent card anatomy, restrained borders, generous whitespace, and varied dark-gradient artwork make the collection feel premium while keeping each item easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106576-6.webp",
+  "prompts": [
+    "kage/component--viso-now-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/viso-now-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=resource-grid",
+    "search?q=editorial",
+    "search?q=cards",
+    "search?q=responsive"
+  ],
+  "pageSha256": "febaed758051f22a6f57518682577a05e58e460b00df5ad11e88a71f622994b8"
+}

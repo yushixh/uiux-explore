@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--text-repetition",
+  "source": "vantaui",
+  "slug": "explore--components--text-repetition",
+  "url": "https://www.vantaui.com/explore/components/text-repetition",
+  "name": "Text Repetition - VantaUI",
+  "description": "Scroll-driven headlines that stack copies of a word and peels them apart as the title crosses the viewport.",
+  "image": "https://vantaui-registry.vercel.app/components/text-repetition",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "24b1943e8a67551c3166927997aef280ace8882d8ddeaf96544182764f0452ba"
+}

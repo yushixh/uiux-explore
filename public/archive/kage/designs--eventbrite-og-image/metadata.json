@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--eventbrite-og-image",
+  "source": "kage",
+  "slug": "designs--eventbrite-og-image",
+  "url": "https://kage.design/designs/eventbrite-og-image",
+  "name": "Eventbrite logo-only Open Graph card by eventbrite.com",
+  "description": "A 1200×630 social card reduced to a single gesture: a flat white canvas with the lowercase \"eventbrite\" wordmark in warm coral-orange, optically centered and floated slightly above the vertical midpoint. There is no tagline, URL or imagery — the geometric rounded sans, with its tilted \"t\" ascender and round tittle, does all the recognition work, while roughly 60% negative space keeps the mark crisp even at thumbnail scale. Hierarchy is achieved purely through one saturated hue against one neutral, with no shadows, gradients or borders.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/eventbrite-com/0b3b94f5-e8df-4288-997c-6bb1235428ab-1789146238143.webp",
+  "prompts": [
+    "kage/designs--eventbrite-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/dockfix-5-0-og-image",
+  "product": "eventbrite-com",
+  "tags": [
+    "search?q=og-card",
+    "search?q=wordmark",
+    "search?q=logo-only",
+    "search?q=centered-composition",
+    "search?q=flat",
+    "search?q=negative-space",
+    "search?q=social-share"
+  ],
+  "pageSha256": "94dc3fde180fa7dd8c62b6646088026585e727dc0b3fcc0acca70cccb434a3e3"
+}

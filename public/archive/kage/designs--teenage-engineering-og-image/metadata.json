@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--teenage-engineering-og-image",
+  "source": "kage",
+  "slug": "designs--teenage-engineering-og-image",
+  "url": "https://kage.design/designs/teenage-engineering-og-image",
+  "name": "teenage.engineering product lineup OG card by teenage.engineering",
+  "description": "A near-black 1200×630 social card where hierarchy is built entirely with light instead of type: a wide instrument sits front and centre as the focal point, three smaller devices are staggered behind it for depth, and the outer third of the frame is pure darkness. There is no headline or wordmark anywhere — the only text is tiny model designations engraved on the hardware, which does the branding work. The palette is strictly monochrome (matte black bodies, white and silver details) with a single micro red LED accent, and a soft overhead spotlight with heavy vignetting gives the whole card a studio-stage mood.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/teenage-engineering/49dbe3f0-eeae-4ad5-8928-b93375116318-1789060163053.webp",
+  "prompts": [
+    "kage/designs--teenage-engineering-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/airpods-5-og-image",
+  "product": "teenage-engineering",
+  "tags": [
+    "search?q=og-image",
+    "search?q=product-hero",
+    "search?q=low-key",
+    "search?q=spotlight",
+    "search?q=monochrome",
+    "search?q=negative-space",
+    "search?q=studio-photography",
+    "search?q=hardware"
+  ],
+  "pageSha256": "b955ef53db8e5f68bdd2842a73feaa792b17294c4040dfe28caa66a8386e1648"
+}

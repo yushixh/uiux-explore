@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--betterment-og-image",
+  "source": "kage",
+  "slug": "designs--betterment-og-image",
+  "url": "https://kage.design/designs/betterment-og-image",
+  "name": "Betterment OG social card — centered wordmark lockup on blue gradient by betterment.com",
+  "description": "A single-purpose social card built around one centered lockup: a yellow arch mark with a notched base sits left of the white 'Betterment' wordmark, both sized to fill the middle band of a 1200×630 canvas. The full-bleed background is a vertical blue gradient that darkens toward the bottom, giving depth without adding elements, and all remaining space is deliberately empty so the brand reads instantly at thumbnail size. Hierarchy comes purely from scale and contrast — the mark matches the wordmark's cap height, and the warm yellow-to-white pairing pops against the cool ground.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/betterment-com/cc9edb83-a940-4a63-965f-035fd7e2253d-1789146501192.webp",
+  "prompts": [
+    "kage/designs--betterment-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-og-image",
+  "product": "betterment-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=logo-lockup",
+    "search?q=centered-composition",
+    "search?q=wordmark",
+    "search?q=gradient-background",
+    "search?q=negative-space",
+    "search?q=social-card"
+  ],
+  "pageSha256": "264e2ad470a432899fd234b47acf97ca48c59cbfca49caff9e836498c9ee34da"
+}

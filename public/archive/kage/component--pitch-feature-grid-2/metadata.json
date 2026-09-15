@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--pitch-feature-grid-2",
+  "source": "kage",
+  "slug": "component--pitch-feature-grid-2",
+  "url": "https://kage.design/component/pitch-feature-grid-2",
+  "name": "Editorial Feature Spotlight by pitch.com",
+  "description": "This section works by pairing a strong editorial introduction with a focused feature story: concise copy and a vivid product visual share the same horizontal rhythm, while generous whitespace keeps the message premium and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/pitch-com/6703b162-6073-44e6-a626-e3df0dc35c4b-1789060646-2.webp",
+  "prompts": [
+    "kage/component--pitch-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/pitch-landing-page",
+  "product": "pitch-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=saas",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "ad9388f653e7570d76049cddc1ec42df1c6075e962f4d32704cfa085ae9ddc24"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--cloudflare-navigation",
+  "source": "kage",
+  "slug": "component--cloudflare-navigation",
+  "url": "https://kage.design/component/cloudflare-navigation",
+  "name": "Global navigation by cloudflare.com",
+  "description": "A compact white global header balances the Cloudflare wordmark, primary product links, utility actions, and search without competing with the hero.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/cloudflare-com/1ca6ff30-a094-43e2-8124-fd26c9356e55-1789213790-0.webp",
+  "prompts": [
+    "kage/component--cloudflare-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cloudflare-landing-page",
+  "product": "cloudflare-com",
+  "tags": [
+    "search?q=header",
+    "search?q=navigation",
+    "search?q=utility"
+  ],
+  "pageSha256": "84e254bf2a1d91f95db88f65ebcc4d85a811a88295199801c89841ee06624638"
+}

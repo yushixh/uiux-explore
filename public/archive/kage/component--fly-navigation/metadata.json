@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fly-navigation",
+  "source": "kage",
+  "slug": "component--fly-navigation",
+  "url": "https://kage.design/component/fly-navigation",
+  "name": "Aviation-inspired SaaS navigation bar by fly.io",
+  "description": "This header works through a clean horizontal rhythm: a distinctive brand mark anchors the left, restrained utility links occupy the middle, and high-contrast account actions create a clear endpoint on the right. Soft lavender surfaces and a subtle lower visual reveal give the otherwise minimal navigation a memorable technical-product character.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fly-io/55088b40-21c4-4b5b-a67c-8a1494f33e2d-1789073896-0.webp",
+  "prompts": [
+    "kage/component--fly-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fly-landing-page",
+  "product": "fly-io",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=saas",
+    "search?q=cta"
+  ],
+  "pageSha256": "19b7193644b59a46e4fc86a18fe34eb77ce2b9d8733f4781fe2b4fe658751ef5"
+}

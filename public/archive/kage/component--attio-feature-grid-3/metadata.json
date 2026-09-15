@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--attio-feature-grid-3",
+  "source": "kage",
+  "slug": "component--attio-feature-grid-3",
+  "url": "https://kage.design/component/attio-feature-grid-3",
+  "name": "Minimal newsletter signup band by attio.com",
+  "description": "A restrained, editorial signup section that pairs a two-line value proposition with a compact email form. Fine grid lines, generous whitespace, and a high-contrast action keep the component feeling precise and premium without visual clutter.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/attio-com/853806da-b35e-493c-a2ae-f3b42d8e3fbb-1789060461-9.webp",
+  "prompts": [
+    "kage/component--attio-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/attio-landing-page",
+  "product": "attio-com",
+  "tags": [
+    "search?q=newsletter",
+    "search?q=signup",
+    "search?q=footer",
+    "search?q=minimal"
+  ],
+  "pageSha256": "ef1e55019bbba5f074b5598f00d2af16539af54e36027aac0689fccd7c712154"
+}

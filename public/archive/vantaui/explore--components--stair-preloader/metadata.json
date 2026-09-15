@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--stair-preloader",
+  "source": "vantaui",
+  "slug": "explore--components--stair-preloader",
+  "url": "https://www.vantaui.com/explore/components/stair-preloader",
+  "name": "Stair Preloader - VantaUI",
+  "description": "A sliding stairs preloader animation.",
+  "image": "https://vantaui-registry.vercel.app/components/stair-preloader",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "bd383ce195748d27b7c421c89b4184bfd785fe0894286a11eae6ce4537e4a06f"
+}

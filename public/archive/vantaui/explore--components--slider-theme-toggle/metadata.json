@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--slider-theme-toggle",
+  "source": "vantaui",
+  "slug": "explore--components--slider-theme-toggle",
+  "url": "https://www.vantaui.com/explore/components/slider-theme-toggle",
+  "name": "Slider Theme Toggle - VantaUI",
+  "description": "Sliding toggle between dark and light mode",
+  "image": "https://vantaui-registry.vercel.app/components/slider-theme-toggle",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "dd277d79396120982fa6d5c9afa11226b96ab163186689c3eaa30036eb7ed6da"
+}

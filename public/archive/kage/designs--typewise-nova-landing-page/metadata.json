@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--typewise-nova-landing-page",
+  "source": "kage",
+  "slug": "designs--typewise-nova-landing-page",
+  "url": "https://kage.design/designs/typewise-nova-landing-page",
+  "name": "Typewise Nova AI customer experience platform landing page by Typewise Nova",
+  "description": "A long-form dark SaaS landing page uses a near-black canvas, cool blue-violet glows, and large centered typography to establish the product promise before progressively introducing proof, workflows, product UI, comparison content, audience paths, testimonials, FAQs, and conversion points. The rhythm alternates between spacious centered headlines and dense bordered interface panels, with blue reserved for emphasis and actions while muted gray text and thin outlines keep the page controlled.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/typewise-nova/b4948f23-79f3-4392-9236-ca27a7b6b602-1789106441033.webp",
+  "prompts": [
+    "kage/designs--typewise-nova-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lorikeetcx-landing-page",
+  "product": "typewise-nova",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=blue-gradient",
+    "search?q=product-ui",
+    "search?q=social-proof",
+    "search?q=comparison-table",
+    "search?q=faq-accordion",
+    "search?q=conversion-cta",
+    "search?q=bento-cards"
+  ],
+  "pageSha256": "6433ed56de8fbd42a9342cc793038a16bd0a2bd97719fecb26a5f82ec1bf04fa"
+}

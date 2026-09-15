@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--kinetics-colorion-feature-grid",
+  "source": "kage",
+  "slug": "component--kinetics-colorion-feature-grid",
+  "url": "https://kage.design/component/kinetics-colorion-feature-grid",
+  "name": "Interaction and input pattern library by kinetics.colorion.co",
+  "description": "A long catalog section organizes many interactive UI experiments into repeated three-column cards, with a clear section heading and consistent labels, demos, descriptions, and view-code affordances.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/kinetics-colorion-co/61078688-965b-4221-9177-b73292c8438b-1789374950-2.webp",
+  "prompts": [
+    "kage/component--kinetics-colorion-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "kinetics-colorion-co",
+  "tags": [
+    "search?q=grid",
+    "search?q=interactions",
+    "search?q=cards"
+  ],
+  "pageSha256": "1a04e1b4b0012960a879557fe1d7fca38bfcb4ed2ce0efcfd2ca4eb1b10092ed"
+}

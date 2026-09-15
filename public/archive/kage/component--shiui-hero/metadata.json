@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--shiui-hero",
+  "source": "kage",
+  "slug": "component--shiui-hero",
+  "url": "https://kage.design/component/shiui-hero",
+  "name": "Editorial introduction hero by SHIUI",
+  "description": "The hero combines a large serif statement, short explanatory copy, two actions, compact metrics, and a bold color specimen so the visual language is understood immediately.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/shiui/3111a107-5e9b-4487-9176-525a4b4c448a-1789365764-1.webp",
+  "prompts": [
+    "kage/component--shiui-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/shiui-navigation",
+  "product": "shiui",
+  "tags": [
+    "search?q=intro",
+    "search?q=editorial",
+    "search?q=stats"
+  ],
+  "pageSha256": "03d827ac31cd1d6f6241273553a5e0415cfa043ebd97c9cfe877a477dc62750e"
+}

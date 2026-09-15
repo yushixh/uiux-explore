@@ -1,0 +1,28 @@
+{
+  "id": "kage--designs--linear-landing-page",
+  "source": "kage",
+  "slug": "designs--linear-landing-page",
+  "url": "https://kage.design/designs/linear-landing-page",
+  "name": "Linear landing page by linear.app",
+  "description": "A near-black canvas with almost no colour until two saturated testimonial cards (lavender gradient and chartreuse) break the monochrome near the end. Hierarchy is built from an oversized tight-tracked grotesque headline, small-caps meta labels, and dense product mockups that carry all the visual complexity; separation comes from hairline borders and faint glows rather than shadows. The page runs a strict repeating template below the hero — left-aligned two-line heading, right-column paragraph, full-width UI composite, then a four-column 'Features' index — which creates rhythm while the changelog columns and testimonial duo change the pacing before a centered CTA and a five-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789059981195.webp",
+  "prompts": [
+    "kage/designs--linear-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=app-mockups",
+    "search?q=hairline-borders",
+    "search?q=glow-gradient",
+    "search?q=logo-cloud",
+    "search?q=feature-index",
+    "search?q=changelog",
+    "search?q=testimonial-cards",
+    "search?q=small-caps-labels"
+  ],
+  "pageSha256": "f52f8b093dfc86c2395dc35b58e82bb4c805fd36bb0ce35841574e4af9b583f0"
+}

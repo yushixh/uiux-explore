@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--framer-hero",
+  "source": "kage",
+  "slug": "component--framer-hero",
+  "url": "https://kage.design/component/framer-hero",
+  "name": "AI Product Showcase Hero by framer.com",
+  "description": "A high-contrast product hero that pairs a concise, oversized value proposition with two clear actions and a large bordered product-demo stage. The dark, cinematic interface preview creates immediate product context while the play control gives the visual an obvious interactive entry point.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/framer-com/fbc97830-061d-4fdf-8e20-ea2d86299263-1789060389-1.webp",
+  "prompts": [
+    "kage/component--framer-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/framer-landing-page",
+  "product": "framer-com",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=hero",
+    "search?q=video",
+    "search?q=saas",
+    "search?q=ai"
+  ],
+  "pageSha256": "bfa292b041969df8372e34f77bc34f38a730fb77ed0071f9354ed8b242aba8dd"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--basedash-in-espanol-francais-portugues-faq",
+  "source": "kage",
+  "slug": "component--basedash-in-espanol-francais-portugues-faq",
+  "url": "https://kage.design/component/basedash-in-espanol-francais-portugues-faq",
+  "name": "Centered FAQ accordion by Basedash in Español Français & Português",
+  "description": "A calm, centered FAQ section that uses generous whitespace, restrained typography, and thin dividers to make a dense set of questions feel easy to scan. Expandable rows keep answers hidden until needed while preserving a clear path toward conversion.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/basedash-in-espanol-francais-portugues/b3381e01-f9b6-42c9-8798-975c026618b1-1789106703-8.webp",
+  "prompts": [
+    "kage/component--basedash-in-espanol-francais-portugues-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=minimal",
+    "search?q=conversion"
+  ],
+  "pageSha256": "6073c94ef4568417e896ff99d815a5984d87b8c0acfeb4f6e883592c14f3db5d"
+}

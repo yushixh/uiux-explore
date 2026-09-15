@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--obsidian-md-landing-page",
+  "source": "kage",
+  "slug": "designs--obsidian-md-landing-page",
+  "url": "https://kage.design/designs/obsidian-md-landing-page",
+  "name": "Obsidian marketing homepage by obsidian.md",
+  "description": "A near-black page carried almost entirely by product vignettes: the hero, the bento grid, the sync card and the docs mock are all real-looking UI built in DOM, so the app itself is the imagery. Hierarchy comes from a strict type scale (oversized headline with terminal period → 40px section heads → 15px gray body) and hairline rgba-white borders on #1a1a1f cards; the single purple accent is rationed to buttons, links, toggles and one gradient-framed sync panel. Rhythm alternates alignment section by section — left-aligned hero, split claim-stack, centered bento, text/mock splits, a centered CTA — before closing on a dense five-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/obsidian-md/18ba00bf-73a3-4c61-9eb0-f66f69cff1b6-1789060135707.webp",
+  "prompts": [
+    "kage/designs--obsidian-md-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/resurf-landing-page",
+  "product": "obsidian-md",
+  "tags": [
+    "search?q=dark-theme",
+    "search?q=purple-accent",
+    "search?q=product-mockups",
+    "search?q=bento-grid",
+    "search?q=feature-cards",
+    "search?q=knowledge-management",
+    "search?q=docs-showcase",
+    "search?q=community-footer"
+  ],
+  "pageSha256": "705f661dff93050044bfc642fac13eef14fa82fd916a344f07e208655568f37b"
+}

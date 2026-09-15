@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--ravio-landing-page",
+  "source": "kage",
+  "slug": "designs--ravio-landing-page",
+  "url": "https://kage.design/designs/ravio-landing-page",
+  "name": "Ravio compensation benchmarking landing page by Ravio",
+  "description": "An editorial landing page on a warm cream canvas where a high-contrast serif carries the hero, section headings and oversized stat numerals, while a quiet sans handles nav, body and UI labels. Rhythm alternates between airy centred-text sections and dense data moments — a tabbed product screenshot on tinted panels, a hairline-divided stats band, a testimonial triptych with portrait photography, and a two-card bento explainer — before a near-black footer flips the palette. Colour stays disciplined (cream, ink black, one blue accent plus pink/yellow chart tints), and faint spreadsheet-style hairlines serve as both background texture and section dividers.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/ravio/21fc8fab-2ae9-4a70-87c8-10ebee6c9a8e-1789141803180.webp",
+  "prompts": [
+    "kage/designs--ravio-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workid-landing-page",
+  "product": "ravio",
+  "tags": [
+    "search?q=serif-headlines",
+    "search?q=cream-canvas",
+    "search?q=product-screenshots",
+    "search?q=stats-band",
+    "search?q=testimonial-triptych",
+    "search?q=hairline-grid",
+    "search?q=dark-footer",
+    "search?q=pill-buttons"
+  ],
+  "pageSha256": "d6db0c2d4f34d6093252445b1cbc5ba959cdc875df518eeb3e9c87924fb062ae"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--madebydaedalus-navigation",
+  "source": "kage",
+  "slug": "component--madebydaedalus-navigation",
+  "url": "https://kage.design/component/madebydaedalus-navigation",
+  "name": "Minimal studio navigation bar by madebydaedalus.com",
+  "description": "A restrained, editorial header that balances a compact brand mark on the left with low-noise navigation and a clearly bordered enquiry CTA on the right. Generous whitespace, a fine divider, and a small diagonal-arrow affordance give the section a polished creative-studio feel without visual clutter.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/madebydaedalus-com/ae0cc407-2597-43fd-9c0f-0722227b2dcc-1789060548-0.webp",
+  "prompts": [
+    "kage/component--madebydaedalus-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/madebydaedalus-landing-page",
+  "product": "madebydaedalus-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=minimal",
+    "search?q=studio",
+    "search?q=header"
+  ],
+  "pageSha256": "31f8c262b5e474ab0893e50da1890c1686a1511a16dc096a132d8f9257bb99f7"
+}

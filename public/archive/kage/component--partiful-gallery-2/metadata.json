@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--partiful-gallery-2",
+  "source": "kage",
+  "slug": "component--partiful-gallery-2",
+  "url": "https://kage.design/component/partiful-gallery-2",
+  "name": "Community photo collage by partiful.com",
+  "description": "A full-width horizontal collage of candid event photos creates an emotional, image-led transition between proof and the final conversion area.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/partiful-com/97ae038c-0277-4e29-93fa-45b4a481f7ba-1789146246-11.webp",
+  "prompts": [
+    "kage/component--partiful-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/partiful-landing-page",
+  "product": "partiful-com",
+  "tags": [
+    "search?q=community",
+    "search?q=photos",
+    "search?q=gallery"
+  ],
+  "pageSha256": "f7cfcb18da84febc623918bf234d30c3084698b3aab027e54d1e08bfe9bd74c9"
+}

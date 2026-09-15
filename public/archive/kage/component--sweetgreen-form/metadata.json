@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--sweetgreen-form",
+  "source": "kage",
+  "slug": "component--sweetgreen-form",
+  "url": "https://kage.design/component/sweetgreen-form",
+  "name": "Newsletter and app download panel by sweetgreen.com",
+  "description": "A two-column utility band combines a clear email signup field on the left with simple platform download links on the right, separated by a thin vertical rule.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/sweetgreen-com/33a74ca8-f609-4778-a60f-a45f3e4cc9aa-1789146473-5.webp",
+  "prompts": [
+    "kage/component--sweetgreen-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sweetgreen-landing-page",
+  "product": "sweetgreen-com",
+  "tags": [
+    "search?q=newsletter",
+    "search?q=email",
+    "search?q=app"
+  ],
+  "pageSha256": "1bdbd6d5313f252673a2ed7ae92afa061c6a655d0e304ca4e43c83db76cd3841"
+}

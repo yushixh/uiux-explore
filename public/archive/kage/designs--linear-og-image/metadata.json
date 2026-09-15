@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--linear-og-image",
+  "source": "kage",
+  "slug": "designs--linear-og-image",
+  "url": "https://kage.design/designs/linear-og-image",
+  "name": "Linear social card — minimal wordmark lockup on dark gradient by linear.app",
+  "description": "A 1200×630 social card that is essentially pure brand: a single centered lockup of a white circular mark with diagonal slits next to a bold white wordmark, floating on a near-black canvas that lightens into a soft grey glow toward the bottom. No headline, tagline or imagery — the restraint and the ambient vertical gradient do all the work, making the logo read instantly at small share sizes.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/linear-app/9f47e6b7-4cd6-4afe-b816-f704e8d07015-1789059984137.webp",
+  "prompts": [
+    "kage/designs--linear-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "linear-app",
+  "tags": [
+    "search?q=og-image",
+    "search?q=wordmark",
+    "search?q=dark-gradient",
+    "search?q=brand-lockup",
+    "search?q=centered-composition",
+    "search?q=social-card"
+  ],
+  "pageSha256": "e665b900cb2667fea2e19f1ac76e859f604eb2a2a12fd9c4e10d902aa3d9d12d"
+}

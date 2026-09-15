@@ -1,0 +1,2 @@
+npx shadcn@latest add https://vantaui-registry.vercel.app/r/logo-cloud.json
+npm install motion

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--frigade-assist-api-cta",
+  "source": "kage",
+  "slug": "component--frigade-assist-api-cta",
+  "url": "https://kage.design/component/frigade-assist-api-cta",
+  "name": "Mega-footer navigation by Frigade Assist API",
+  "description": "A spacious, multi-column footer that turns a large sitemap into an easy-to-scan set of link groups, then transitions into a dark utility band with status and legal links. The restrained typography, generous whitespace, and subtle alignment rails make a dense footer feel calm and premium.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/frigade-assist-api/d96f9c4b-8236-4442-b795-92795f229d4a-1789106745-9.webp",
+  "prompts": [
+    "kage/component--frigade-assist-api-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/frigade-assist-api-landing-page",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=sitemap",
+    "search?q=dark-mode"
+  ],
+  "pageSha256": "2cb41591aee376e16a112ab18e376953685bdc6507bf1dc2523b41eb4675355e"
+}

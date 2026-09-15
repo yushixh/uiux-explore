@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--domestika-footer",
+  "source": "kage",
+  "slug": "component--domestika-footer",
+  "url": "https://kage.design/component/domestika-footer",
+  "name": "Directory and utility footer by domestika.org",
+  "description": "The large footer organizes a dense directory into category columns, followed by utility links, language selection, app-store badges, legal text, and social icons.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/domestika-org/a1bec580-5d19-4289-a277-048dcd6cb3c6-1789146412-6.webp",
+  "prompts": [
+    "kage/component--domestika-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/domestika-landing-page",
+  "product": "domestika-org",
+  "tags": [
+    "search?q=footer",
+    "search?q=directory",
+    "search?q=app-links"
+  ],
+  "pageSha256": "2e22a3795e4931c782d198382613c985f8f73946c3e4f72f47ec8047a635437f"
+}

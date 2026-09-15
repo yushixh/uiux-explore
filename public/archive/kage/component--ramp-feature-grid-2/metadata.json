@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ramp-feature-grid-2",
+  "source": "kage",
+  "slug": "component--ramp-feature-grid-2",
+  "url": "https://kage.design/component/ramp-feature-grid-2",
+  "name": "Editorial feature grid with automation cards by ramp.com",
+  "description": "A spacious, editorial feature section pairs a centered two-line value proposition with large, softly rounded product cards. The restrained monochrome system, subtle technical visuals, and generous whitespace make complex capabilities feel clear while preserving a premium enterprise tone.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060916-8.webp",
+  "prompts": [
+    "kage/component--ramp-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=automation",
+    "search?q=bento"
+  ],
+  "pageSha256": "1df18ef524282c8ba8f0e85621957d762165838a80b8464c5f701cb180b22de7"
+}

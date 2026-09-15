@@ -1,0 +1,4 @@
+npx shadcn@latest add https://vantaui-registry.vercel.app/r/tearing-paper-photo.json
+npm install gsap
+npm install three
+npm install -D @types/three

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--framer-feature-grid-2",
+  "source": "kage",
+  "slug": "component--framer-feature-grid-2",
+  "url": "https://kage.design/component/framer-feature-grid-2",
+  "name": "Dark Product Capability Grid by framer.com",
+  "description": "A cinematic, editorial feature grid that turns a broad product platform into a set of tangible capabilities. Large asymmetric tiles, restrained borders, and dimmed interface previews create visual depth while bottom-aligned labels keep the navigation clear and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/framer-com/fbc97830-061d-4fdf-8e20-ea2d86299263-1789060390-4.webp",
+  "prompts": [
+    "kage/component--framer-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/framer-landing-page",
+  "product": "framer-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=saas",
+    "search?q=dashboard"
+  ],
+  "pageSha256": "0acf1ad1935cb4681a80a5ad6db5d84d7e23e9117573d0c4ee75968961313694"
+}

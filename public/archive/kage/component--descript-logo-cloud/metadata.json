@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--descript-logo-cloud",
+  "source": "kage",
+  "slug": "component--descript-logo-cloud",
+  "url": "https://kage.design/component/descript-logo-cloud",
+  "name": "Trust logos and customer quotes by descript.com",
+  "description": "A short credibility statement leads into a row of recognizable customer marks and three compact quote cards, turning early interest into social proof.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/descript-com/c210b18a-1678-4bef-91b5-c444a8589f04-1789146910-2.webp",
+  "prompts": [
+    "kage/component--descript-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/descript-landing-page",
+  "product": "descript-com",
+  "tags": [
+    "search?q=logos",
+    "search?q=trust",
+    "search?q=testimonials"
+  ],
+  "pageSha256": "8632d2a537860bd6981e59664c075c1344a50bec8129928cbeb39162c421d498"
+}

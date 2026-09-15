@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--chathop-og-image",
+  "source": "kage",
+  "slug": "designs--chathop-og-image",
+  "url": "https://kage.design/designs/chathop-og-image",
+  "name": "ChatHop OG card — mascot surfing an arrow on black by ChatHop",
+  "description": "A text-free social card where a pure black canvas lets one saturated chartreuse accent carry the entire composition. The focal point is a plump 3D blob mascot — oversized two-tone eyes, buck-tooth grin, black tube arms with white cartoon gloves — surfing a thick tapering lime arrow that sweeps diagonally from lower-left to upper-right, while two small speech-bubble puffs with typing dots anchor the upper corners. Hierarchy is built purely through scale and saturation rather than type, and the generous black negative space keeps the scene legible even at thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/chathop/94c3e4dc-05cc-4eef-9ada-ae64f25dbfd1-1789192973622.webp",
+  "prompts": [
+    "kage/designs--chathop-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "chathop",
+  "tags": [
+    "search?q=og-image",
+    "search?q=3d-mascot",
+    "search?q=black-canvas",
+    "search?q=lime-green",
+    "search?q=speech-bubbles",
+    "search?q=single-accent",
+    "search?q=diagonal-motion"
+  ],
+  "pageSha256": "cbe08cddbca4cdd2e3b6bc234162e8a51b2570166dfec23ffbe5e256851467fa"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--viso-now-og-image",
+  "source": "kage",
+  "slug": "designs--viso-now-og-image",
+  "url": "https://kage.design/designs/viso-now-og-image",
+  "name": "Viso Now announcement social card by Viso Now",
+  "description": "A 1200×630 announcement card built as a split canvas: the left half is a white typographic column (letterspaced eyebrow with a pink dot, a two-tone headline whose second line flips to pink, a gray two-line subline, and the wordmark pinned bottom-left), while the right half is a pale gray stage holding one dark floating prompt card. Hierarchy comes entirely from weight and colour — a single geometric sans steps from ~20px letterspaced caps to a ~68px bold headline — and the pink accent is rationed to four points (eyebrow dot, headline phrase, text caret, submit button) so the mock prompt card reads as product proof rather than decoration. The card's 24px radius and soft shadow lift it off the flat panels without any gradient or illustration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/viso-now/eabb5c90-7b5b-4e40-969c-ee12179a11d2-1789106535170.webp",
+  "prompts": [
+    "kage/designs--viso-now-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "viso-now",
+  "tags": [
+    "search?q=social-card",
+    "search?q=split-canvas",
+    "search?q=two-tone-headline",
+    "search?q=floating-ui-card",
+    "search?q=prompt-input",
+    "search?q=pink-accent",
+    "search?q=geometric-sans"
+  ],
+  "pageSha256": "d5ae946241e70372e215e3a4419dc2fdf5af3bdc37f86b943111dba7f0549da0"
+}

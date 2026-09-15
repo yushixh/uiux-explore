@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--warp-landing-page",
+  "source": "kage",
+  "slug": "designs--warp-landing-page",
+  "url": "https://kage.design/designs/warp-landing-page",
+  "name": "Warp cloud software factories landing page by warp.dev",
+  "description": "A full-length developer-platform landing page uses a strict column grid, faint vertical rules, compact monospace typography, and mostly white space to make dense technical content feel organized. The hero establishes the system with a large typewriter-style headline and pale terminal mockup, then the page alternates feature lists, data dashboards, case studies, enterprise cards, layered diagrams, product tiles, and FAQ rows; saturated electric blue-purple appears mainly as a high-contrast case-study band and selected diagram states.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789059994711.webp",
+  "prompts": [
+    "kage/designs--warp-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=grid-background",
+    "search?q=terminal-panels",
+    "search?q=monospace-type",
+    "search?q=technical-diagrams",
+    "search?q=accordion-faq",
+    "search?q=case-study",
+    "search?q=enterprise-social-proof"
+  ],
+  "pageSha256": "a7d6da9e5e4e5607fd3cdfa84ace56ce2bdba3cd3917273b0e9ff66123e0a4cc"
+}

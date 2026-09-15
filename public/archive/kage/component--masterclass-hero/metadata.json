@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--masterclass-hero",
+  "source": "kage",
+  "slug": "component--masterclass-hero",
+  "url": "https://kage.design/component/masterclass-hero",
+  "name": "Membership hero with preference quiz by masterclass.com",
+  "description": "The hero pairs a strong value proposition and stacked CTAs with a preference-selection form on the left and a portrait collage on the right, making the membership offer feel both personal and cinematic.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146209-1.webp",
+  "prompts": [
+    "kage/component--masterclass-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/masterclass-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=quiz",
+    "search?q=membership"
+  ],
+  "pageSha256": "eaed00eab92f120504e016288c40da5ca675387ee50131d4a9cfa2048c5e16c9"
+}

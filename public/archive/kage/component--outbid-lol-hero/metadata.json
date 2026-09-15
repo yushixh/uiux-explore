@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--outbid-lol-hero",
+  "source": "kage",
+  "slug": "component--outbid-lol-hero",
+  "url": "https://kage.design/component/outbid-lol-hero",
+  "name": "Rank-claim hero and submission form by outbid.lol",
+  "description": "The hero uses a simple time toggle, a large claim-oriented headline, and a single inline form for URL/handle, category, and ranking submission. Its compact height gets users to the leaderboard quickly while the coral action remains visually dominant.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/outbid-lol/7d6cde02-1b78-43c8-adde-d87a2555099d-1789142023-1.webp",
+  "prompts": [
+    "kage/component--outbid-lol-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/outbid-lol-landing-page",
+  "product": "outbid-lol",
+  "tags": [
+    "search?q=headline",
+    "search?q=search",
+    "search?q=cta"
+  ],
+  "pageSha256": "d660a153f6713e48edb50f0ac48cde408d494451e9f4a85668c51ae8bfaeba43"
+}

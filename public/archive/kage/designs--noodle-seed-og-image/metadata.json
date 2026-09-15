@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--noodle-seed-og-image",
+  "source": "kage",
+  "slug": "designs--noodle-seed-og-image",
+  "url": "https://kage.design/designs/noodle-seed-og-image",
+  "name": "Noodle Seed OG social card by Noodle Seed",
+  "description": "A 1200×630 social card on a near-black canvas, with a dramatic plume of orange-to-red light streaks curving up from the bottom edges like wings, framing a fully centered text block. Hierarchy is strict: small wordmark with a leaf/seed glyph, then a two-line headline in large white rounded sans, then a two-line muted gray subhead. The dark void in the middle gives the copy total legibility while the warm swirls supply all the colour and energy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/noodle-seed/13ba7fd0-d51c-43dd-825b-73df660bf06c-1789106639114.webp",
+  "prompts": [
+    "kage/designs--noodle-seed-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "noodle-seed",
+  "tags": [
+    "search?q=social-card",
+    "search?q=og-image",
+    "search?q=wordmark",
+    "search?q=glow",
+    "search?q=centered-hierarchy",
+    "search?q=swirls"
+  ],
+  "pageSha256": "97a86a2fcc2224dc75258b970b4ea15ae6929fdbee1882ec661ea9ecc942207e"
+}

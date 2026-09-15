@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--turso-feature-grid-2",
+  "source": "kage",
+  "slug": "component--turso-feature-grid-2",
+  "url": "https://kage.design/component/turso-feature-grid-2",
+  "name": "Five-card principles grid by turso.tech",
+  "description": "A dark, editorial feature grid that presents a small set of foundational product principles as equal-weight cards. Strong numbering, restrained typography, thin borders, and bottom-aligned links make dense strategic content easy to scan without feeling like a conventional feature checklist.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/turso-tech/a01fe972-4603-42df-a7fd-1b66e57f2913-1789073739-4.webp",
+  "prompts": [
+    "kage/component--turso-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/turso-landing-page",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=editorial",
+    "search?q=saas"
+  ],
+  "pageSha256": "59b251c24e44ca6572f12d1ce83bb2c658a0b7ca4eddc85c9dc9ac462a746d02"
+}

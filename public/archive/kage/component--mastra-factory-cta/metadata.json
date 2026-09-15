@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mastra-factory-cta",
+  "source": "kage",
+  "slug": "component--mastra-factory-cta",
+  "url": "https://kage.design/component/mastra-factory-cta",
+  "name": "Dark developer CTA with newsletter footer by Mastra Factory",
+  "description": "This section works by pairing a high-contrast, centered activation prompt with a restrained set of actions, then transitioning into a spacious dark footer. A compact newsletter signup and evenly distributed link columns create a practical, product-led finish without competing with the primary CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mastra-factory/e98dc23c-cafd-4086-ae60-932f10b41f0f-1789106665-7.webp",
+  "prompts": [
+    "kage/component--mastra-factory-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mastra-factory-landing-page",
+  "product": "mastra-factory",
+  "tags": [
+    "search?q=dark",
+    "search?q=developer",
+    "search?q=cta",
+    "search?q=newsletter"
+  ],
+  "pageSha256": "a6d3d92d9768d70602cb467486f00c3f444b0c5fc6c10dc9628f972fba1c10ce"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "clocks",
+  "name": "Clocks",
+  "description": "A customizable time and weather display for iPhone and iPad, pairing 13 clock styles with 28+ animated backgrounds as a daytime alternative to Apple’s StandBy mode.",
+  "shortInfo": "A more fun standby mode",
+  "url": "https://apps.apple.com/us/app/clocks-a-fun-standby-mode/id6742508073",
+  "handle": "daniel__designs",
+  "creatorName": "Daniel",
+  "creatorUrl": "https://x.com/daniel__designs",
+  "creatorVerified": true,
+  "platform": "Mobile",
+  "categoryLabel": "Lifestyle",
+  "categories": [
+    "Lifestyle"
+  ],
+  "launchDate": "2025-04-24",
+  "added": "2026-08-18",
+  "sortOrder": 1,
+  "icon": "/backend/icons/clocks.png",
+  "avatar": "/backend/avatars/clocks.jpg",
+  "shot": "/screenshots/clocks.jpg"
+}

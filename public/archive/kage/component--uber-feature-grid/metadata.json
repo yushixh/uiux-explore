@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--uber-feature-grid",
+  "source": "kage",
+  "slug": "component--uber-feature-grid",
+  "url": "https://kage.design/component/uber-feature-grid",
+  "name": "Explore services grid by uber.com",
+  "description": "A section heading introduces six evenly sized service cards, each with a short description, lightweight illustration, and detail affordance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uber-com/6fbdb16b-1d65-42c3-b533-0bc1468316af-1789146364-2.webp",
+  "prompts": [
+    "kage/component--uber-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uber-landing-page",
+  "product": "uber-com",
+  "tags": [
+    "search?q=services",
+    "search?q=cards",
+    "search?q=grid"
+  ],
+  "pageSha256": "145cb6a7a806dfe5393d83a91a934774ee5032d6549e2a9e4c15a0ddab5a0212"
+}

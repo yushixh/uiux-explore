@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bilt-cta",
+  "source": "kage",
+  "slug": "component--bilt-cta",
+  "url": "https://kage.design/component/bilt-cta",
+  "name": "Reward-focused closing CTA by bilt.com",
+  "description": "A wide rounded panel closes the marketing flow with a centered headline, supporting sentence, and a single bright action over a subtle network texture.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bilt-com/b723ca8c-1652-4a12-a0a7-d6e12612eb4d-1789146826-8.webp",
+  "prompts": [
+    "kage/component--bilt-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bilt-landing-page",
+  "product": "bilt-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=conversion",
+    "search?q=banner"
+  ],
+  "pageSha256": "9c4e406f282305969a04e6bf4bc2d70d516f108cdadf2bca4322cb589d43b82b"
+}

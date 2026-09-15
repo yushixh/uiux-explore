@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--oku-club-feature-grid",
+  "source": "kage",
+  "slug": "component--oku-club-feature-grid",
+  "url": "https://kage.design/component/oku-club-feature-grid",
+  "name": "Product feature showcase by oku.club",
+  "description": "A pale-gray feature area uses a large introductory product screenshot followed by offset two-column cards that explain discovery and reading habits.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/oku-club/e710a983-c1d6-4177-b014-2738acd07d09-1789146242-2.webp",
+  "prompts": [
+    "kage/component--oku-club-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/oku-club-landing-page",
+  "product": "oku-club",
+  "tags": [
+    "search?q=features",
+    "search?q=screenshots",
+    "search?q=grid"
+  ],
+  "pageSha256": "45748af44f8cccbc961eb973c31198b08c6e1afa9f14c961010b966751c0b235"
+}

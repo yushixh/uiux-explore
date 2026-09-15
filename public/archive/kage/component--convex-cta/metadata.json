@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--convex-cta",
+  "source": "kage",
+  "slug": "component--convex-cta",
+  "url": "https://kage.design/component/convex-cta",
+  "name": "Agent-ready split CTA panel by convex.dev",
+  "description": "A high-contrast developer CTA that combines a confident headline, compact command-oriented setup panel, and two clear actions. The grid backdrop, restrained retro-tech decoration, and terminal-like controls make the section feel tactile and immediately usable without overwhelming the conversion path.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789074852-8.webp",
+  "prompts": [
+    "kage/component--convex-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/convex-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=cta",
+    "search?q=dark-ui",
+    "search?q=developer",
+    "search?q=command-bar"
+  ],
+  "pageSha256": "a57be226fe7ce15b0e8592e68eba5d1c0c5b6a1ff5c5bba7c3e5c363600269e7"
+}

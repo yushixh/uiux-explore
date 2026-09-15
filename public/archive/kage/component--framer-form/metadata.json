@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--framer-form",
+  "source": "kage",
+  "slug": "component--framer-form",
+  "url": "https://kage.design/component/framer-form",
+  "name": "Dark social feed sidebar form by framer.com",
+  "description": "A compact dark-mode social discovery panel that combines a trending content list with a suggested-people follow form. Strong grouping, thumbnail-led rows, and clear follow states make dense content easy to scan without competing with the main feed.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/framer-com/fbc97830-061d-4fdf-8e20-ea2d86299263-1789060392-8.webp",
+  "prompts": [
+    "kage/component--framer-form/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/framer-landing-page",
+  "product": "framer-com",
+  "tags": [
+    "search?q=dark+ui",
+    "search?q=social+feed",
+    "search?q=sidebar",
+    "search?q=form"
+  ],
+  "pageSha256": "d28e8d33e6428995b4605139f50ec4fdb508296582fab36c0394d8f9c2588e30"
+}

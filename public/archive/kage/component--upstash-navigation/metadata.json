@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--upstash-navigation",
+  "source": "kage",
+  "slug": "component--upstash-navigation",
+  "url": "https://kage.design/component/upstash-navigation",
+  "name": "Announcement Bar + Minimal SaaS Navigation by upstash.com",
+  "description": "A calm, lightweight header pairs a full-width announcement strip with a spacious navigation row, keeping the primary links centered and the account action visually distinct without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/upstash-com/210669b2-56ab-47a0-9be6-e94255ecbd31-1789073746-0.webp",
+  "prompts": [
+    "kage/component--upstash-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/upstash-landing-page",
+  "product": "upstash-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=announcement",
+    "search?q=saas",
+    "search?q=header"
+  ],
+  "pageSha256": "29d4224a7170d8e1b48adefedb318d5c9abcd01226f2f93423730a78cf7f7f8e"
+}

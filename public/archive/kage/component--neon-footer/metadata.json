@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neon-footer",
+  "source": "kage",
+  "slug": "component--neon-footer",
+  "url": "https://kage.design/component/neon-footer",
+  "name": "Multi-column site footer by neon.tech",
+  "description": "The footer closes with a brand/legal block and several compact navigation columns for company, resources, community, and compliance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neon-tech/ec270806-81ac-4f67-8b23-bd56e790768f-1789141963-10.webp",
+  "prompts": [
+    "kage/component--neon-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neon-empty-state",
+  "product": "neon-tech",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=legal"
+  ],
+  "pageSha256": "fba52a95da2fcb92985a5da53415af31f68d471dd5f7173332949f4871b8078f"
+}

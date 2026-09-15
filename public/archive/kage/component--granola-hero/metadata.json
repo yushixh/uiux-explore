@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--granola-hero",
+  "source": "kage",
+  "slug": "component--granola-hero",
+  "url": "https://kage.design/component/granola-hero",
+  "name": "AI meeting notepad hero by granola.ai",
+  "description": "The hero pairs an oversized editorial serif headline and compact supporting copy with a bright product UI visual, creating an immediate product promise and clear download CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789141836-1.webp",
+  "prompts": [
+    "kage/component--granola-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=headline",
+    "search?q=cta",
+    "search?q=product"
+  ],
+  "pageSha256": "0907dd49a89282aa20a33f856bbd36b84eaa1e21e2f4ef3d2dfd3525d2c97bc8"
+}

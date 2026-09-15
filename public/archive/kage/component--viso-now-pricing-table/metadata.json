@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--viso-now-pricing-table",
+  "source": "kage",
+  "slug": "component--viso-now-pricing-table",
+  "url": "https://kage.design/component/viso-now-pricing-table",
+  "name": "Two-path product pricing cards by Viso Now",
+  "description": "A clear two-column pricing comparison that frames two different customer paths without forcing a feature-by-feature matrix. The contrast between a light self-serve card and a dark enterprise card creates hierarchy, while concise benefits and distinct calls to action make the next step obvious.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/viso-now/0aea1f2c-e643-44c4-ac70-db26df0b3931-1789106576-4.webp",
+  "prompts": [
+    "kage/component--viso-now-pricing-table/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/viso-now-landing-page",
+  "product": "viso-now",
+  "tags": [
+    "search?q=pricing",
+    "search?q=comparison",
+    "search?q=cards",
+    "search?q=conversion"
+  ],
+  "pageSha256": "7b17080494166ae3d63b76b2f7031bffae330ee792a465c0379f8a24a62fe6b9"
+}

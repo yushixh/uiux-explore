@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--deno-hero",
+  "source": "kage",
+  "slug": "component--deno-hero",
+  "url": "https://kage.design/component/deno-hero",
+  "name": "Dark runtime hero with animated capability field by deno.com",
+  "description": "A high-contrast developer-tool hero pairs a concise product promise and primary actions with a subtle, ambient capability visualization. The restrained navigation and announcement bar keep attention on the split hero while the highlighted item in the right-side list adds a sense of live product activity.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/deno-com/32c2f827-c733-4746-82ec-fc83a363518f-1789073864-1.webp",
+  "prompts": [
+    "kage/component--deno-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/deno-landing-page",
+  "product": "deno-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark-mode",
+    "search?q=developer",
+    "search?q=animated"
+  ],
+  "pageSha256": "02be70b84243a8a9674081809e63ae562f2647af45908dd135199218c3045641"
+}

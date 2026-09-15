@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--mintlify-landing-page",
+  "source": "kage",
+  "slug": "designs--mintlify-landing-page",
+  "url": "https://kage.design/designs/mintlify-landing-page",
+  "name": "Mintlify marketing homepage by mintlify.com",
+  "description": "The page runs on a warm cream canvas with hairline-bordered bento cards and a signature mixed-type headline that pairs a transitional serif with a neutral sans, the second line dropped to grey. Rhythm alternates deliberately down the page: a dense live-metrics ticker with green tabular numerals, an airy feature bento, full-bleed tinted customer-story carousels with oversized stats, a calm 2×3 testimonial grid, then editorial blog cards. Thin gradient thread-lines sweep behind the hero, the scale section, and the pre-footer CTA, tying the whole page together without competing with the black-and-green type system.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/mintlify-com/71224961-d985-451b-9e35-e02eddcee178-1789060076586.webp",
+  "prompts": [
+    "kage/designs--mintlify-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=bento-grid",
+    "search?q=serif-sans-headline",
+    "search?q=logo-wall",
+    "search?q=live-stats-ticker",
+    "search?q=customer-carousel",
+    "search?q=testimonials",
+    "search?q=hairline-borders",
+    "search?q=docs"
+  ],
+  "pageSha256": "c2baaf38ef28ac121fd0eff9f3399c8de9959ec85fa7f5b6419b8be9f230be23"
+}

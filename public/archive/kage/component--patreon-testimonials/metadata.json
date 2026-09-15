@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--patreon-testimonials",
+  "source": "kage",
+  "slug": "component--patreon-testimonials",
+  "url": "https://kage.design/component/patreon-testimonials",
+  "name": "Creator testimonial by patreon.com",
+  "description": "A full-width portrait creates emotional authority while a large quote and speaker name sit low in the frame, keeping the testimonial immersive rather than card-like.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/patreon-com/f09b5697-c1c9-4600-81d4-e7bb56a9df3f-1789146381-3.webp",
+  "prompts": [
+    "kage/component--patreon-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/patreon-landing-page",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=testimonial",
+    "search?q=portrait",
+    "search?q=quote",
+    "search?q=proof"
+  ],
+  "pageSha256": "7a2115c3ee6e1c3c4584638093029a0049bd6495e95c6b96d7ee7f2a6220afee"
+}

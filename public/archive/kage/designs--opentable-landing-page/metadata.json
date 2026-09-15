@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--opentable-landing-page",
+  "source": "kage",
+  "slug": "designs--opentable-landing-page",
+  "url": "https://kage.design/designs/opentable-landing-page",
+  "name": "OpenTable homepage — restaurant reservation hub by opentable.com",
+  "description": "A utility-first reservation homepage that leads with a pill-shaped search bar (date, time, party size, location) and a red CTA, then settles into image-led card carousels where every card repeats the same anatomy: photo, bookmark, name, star rating, cuisine/price/neighborhood meta line, social proof, and an outlined 'find next available' button. Red (#DA3743) is the only saturated colour on white until the page's chapter breaks — a soft mint-to-peach AI prompt banner mid-page and a saturated orange-red-purple gradient banner for restaurateurs near the end. Density is high in the card rows, opens up through the illustrated FAQ and three-column city-link grid, and the page closes with a dark navy five-column footer, giving the scroll a clear card-row → editorial → utility → footer rhythm.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/opentable-com/dad68d84-d5d0-4fa5-a1c8-84465fc5fc04-1789146249598.webp",
+  "prompts": [
+    "kage/designs--opentable-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/sweetgreen-landing-page",
+  "product": "opentable-com",
+  "tags": [
+    "search?q=search-bar",
+    "search?q=carousel",
+    "search?q=card-grid",
+    "search?q=reviews",
+    "search?q=faq-accordion",
+    "search?q=gradient-banner",
+    "search?q=red-accent",
+    "search?q=restaurant-marketplace"
+  ],
+  "pageSha256": "ce556bf8f919780a64b738a96aae70493a25ecfa552ce898cbc24edd09d04c1f"
+}

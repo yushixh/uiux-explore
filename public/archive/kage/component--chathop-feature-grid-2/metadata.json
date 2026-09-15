@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--chathop-feature-grid-2",
+  "source": "kage",
+  "slug": "component--chathop-feature-grid-2",
+  "url": "https://kage.design/component/chathop-feature-grid-2",
+  "name": "Privacy principles grid by ChatHop",
+  "description": "Four short trust principles are presented as equal white cards, making privacy claims scannable without overwhelming the closing area.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/chathop/788ba903-59f3-47ff-b1c8-618bf4f4ae3c-1789193010-7.webp",
+  "prompts": [
+    "kage/component--chathop-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/chathop-landing-page",
+  "product": "chathop",
+  "tags": [
+    "search?q=privacy",
+    "search?q=cards",
+    "search?q=trust"
+  ],
+  "pageSha256": "9e0e9c27f8c9a5ed754ac4ebc6869515448e389fc3b97ca2cc304e810d23eff5"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--loqua-og-image",
+  "source": "kage",
+  "slug": "designs--loqua-og-image",
+  "url": "https://kage.design/designs/loqua-og-image",
+  "name": "Loqua icon-only OG card by Loqua",
+  "description": "An icon-only social card that commits to a single focal point: a flat teal field (~#00A78F) carrying one white rounded-square tile near centre, which holds a near-black mark of three tapered vertical bars that read simultaneously as a letterform and a voice waveform. There is no headline, wordmark or URL — hierarchy comes entirely from scale (the tile spans roughly 45% of the canvas height) and the saturated field against the white tile. The very large squircle radius on both tile and mark terminals keeps every edge soft, so the composition stays unmistakable even at thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/loqua/664d54c6-e6ec-4c03-b779-4de7d1f10bd5-1789192837366.webp",
+  "prompts": [
+    "kage/designs--loqua-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/cognitions-swe-2-og-image",
+  "product": "loqua",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=app-icon",
+    "search?q=flat-color",
+    "search?q=centered-composition",
+    "search?q=negative-space",
+    "search?q=voice-ai"
+  ],
+  "pageSha256": "e9ac27aeb4dcb66616220ea75146ec3654de5cd2ae1b34db2372378434b58487"
+}

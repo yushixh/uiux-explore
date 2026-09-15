@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--circle-magnet-button",
+  "source": "vantaui",
+  "slug": "explore--components--circle-magnet-button",
+  "url": "https://www.vantaui.com/explore/components/circle-magnet-button",
+  "name": "Circle Magnet Button - VantaUI",
+  "description": "Circular button that is attracted to mouse pointer",
+  "image": "https://vantaui-registry.vercel.app/components/circle-magnet-button",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "7d600446e2eb7badf4661d86a465e9ba91d46f05df5457a3b9d44d20297e2ce5"
+}

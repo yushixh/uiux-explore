@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--workos-card",
+  "source": "kage",
+  "slug": "component--workos-card",
+  "url": "https://kage.design/component/workos-card",
+  "name": "Feature benefits grid by workos.com",
+  "description": "A quiet, spacious benefits section pairs a soft product-interface vignette with a compact two-column list of practical outcomes. The restrained palette, lightweight icons, and generous whitespace make complex enterprise functionality feel approachable without competing with the main message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workos-com/c1ef5d6b-8620-4482-aad7-47f439cf35f9-1789073892-7.webp",
+  "prompts": [
+    "kage/component--workos-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-landing-page",
+  "product": "workos-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=saas",
+    "search?q=icon-list"
+  ],
+  "pageSha256": "b542e4f33ee31013c5d29e114b424a42fa4b809b89a54e94a462d9f2e53c8812"
+}

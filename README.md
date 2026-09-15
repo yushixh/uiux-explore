@@ -1,5 +1,31 @@
 # Daylight UI
 
+## 资源库
+
+[本地资源库](http://127.0.0.1:5173/#archive) 聚合七个来源、1,976 个归档条目。左侧独立区分 **组件（98）／设计参考（1,692）／源码与资料（186）**，各区按用途与来源筛选。
+
+组件使用卡片画廊，每张卡片直接操作，并可切换 **原始版／本项目版**；两个版本均在本地运行，切换保留各自状态。源码和 Prompt 从卡片打开，支持复制与下载。原始版使用归档时的原站实现、样式、默认参数和素材；本项目版保留本地演示与适配。Context、静态排版、仅自动播放的示例及尚未接入运行的源码不计入组件。
+
+源码与 Prompt 保存在 `public/archive/`。明确区分完整源码、片段、设计参考和未获取的 Plus 内容。完整范围、缺口、来源与复建方式见 [归档说明](archive/README.md)，检查结果见 [资源库验收](docs/qa-archive.md)。
+
+### 原网页与原作者
+
+以下保留全部七个归档来源的原网页与原站署名（Bencho 的重复输入合并为一项）。站点作者、目录策展人与被收录产品的作者分别记录。
+
+| 来源原网页 | 原作者／团队 | 署名依据与原仓库 |
+| --- | --- | --- |
+| [Halaska](https://ui.halaska.com/) | [Halaska Studio](https://halaska.com/) | [官方仓库与 LICENSE](https://github.com/Halaska-Studio/ui) |
+| [Bencho](https://bencho.dev/) | [Lorenzo Cabra](https://x.com/cabralorenzo) | [原站署名与许可](https://bencho.dev/licence) |
+| [Built by Designers](https://builtbydesigners.com/) | 策展：[Juliette / @shedsgns](https://x.com/shedsgns)、[Phil / @PhilHedayatnia](https://x.com/PhilHedayatnia) | 原站 About / Curated by；77 个产品各自的作者见逐项清单 |
+| [Torph](https://torph.lochie.me/) | [Lochie Axon](https://twitter.com/lochieaxon) | [官方仓库与 LICENSE](https://github.com/lochie/torph) |
+| [Typehug](https://typehug.aliszu.com/) | [aliszu / alexszczurek](https://github.com/alexszczurek) | [官方仓库](https://github.com/alexszczurek/typehug)、包内 LICENSE 署名 aliszu |
+| [VantaUI](https://www.vantaui.com/) | [Arete / @theahruhte](https://x.com/theahruhte)、[Zel / @imdenze_l](https://x.com/imdenze_l) | 原站页脚 Created by |
+| [Kage](https://kage.design/) | [Chris Gregori](https://kage.design/terms) | 原站 Terms 的运营者署名；被分析的设计归对应产品所有 |
+
+全部 **1,976 个条目的原页面、可核实署名及原产品链接**见 [逐项来源与作者清单](archive/ATTRIBUTION.md)。无法核实的个人设计师明确标注，不以站点运营者代替原设计作者。上游 LICENSE 和版权声明保留原样。
+
+原工作台的五项动态组件来自 [Libraries.dev](https://libraries.dev/)，作者为 [Jakub Antalik](https://github.com/Jakubantalik)；各包原仓库与版权声明见 [第三方说明](THIRD_PARTY_NOTICES.md)。
+
 TypeScript + Tailwind CSS 组件工作区，包含天气、输入框，以及接入 Libraries.dev 的 Border Beam、Thinking Orbs、Gooey、Metal、Image 五项动态组件。
 
 ## 快速开始

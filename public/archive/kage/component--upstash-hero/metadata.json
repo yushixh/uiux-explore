@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--upstash-hero",
+  "source": "kage",
+  "slug": "component--upstash-hero",
+  "url": "https://kage.design/component/upstash-hero",
+  "name": "Gradient SaaS product hero by upstash.com",
+  "description": "A spacious, centered hero pairs a restrained announcement bar and utility navigation with oversized gradient typography, a concise supporting statement, and two contrasting calls to action. The soft mint-to-white atmosphere and partially visible product tiles below create depth without competing with the primary conversion moment.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/upstash-com/210669b2-56ab-47a0-9be6-e94255ecbd31-1789073747-1.webp",
+  "prompts": [
+    "kage/component--upstash-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/upstash-landing-page",
+  "product": "upstash-com",
+  "tags": [
+    "search?q=hero",
+    "search?q=gradient",
+    "search?q=navigation",
+    "search?q=saas"
+  ],
+  "pageSha256": "a9328866128a657d8f5bad0b43fa88181a4db7c3ea9fc5ce9819c12b7962ebd3"
+}

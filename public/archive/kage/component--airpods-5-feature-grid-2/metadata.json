@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--airpods-5-feature-grid-2",
+  "source": "kage",
+  "slug": "component--airpods-5-feature-grid-2",
+  "url": "https://kage.design/component/airpods-5-feature-grid-2",
+  "name": "Editorial feature grid by AirPods 5",
+  "description": "This section works by pairing a cinematic, full-bleed feature statement with a quiet explanatory area and a concise three-column benefits grid. Strong contrast, generous whitespace, and small monochrome icons make the product story feel premium while keeping supporting information easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/airpods-5/0db86e09-94cf-4830-8c9a-1751c9bb478c-1789106644-4.webp",
+  "prompts": [
+    "kage/component--airpods-5-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/airpods-5-landing-page",
+  "product": "airpods-5",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=product",
+    "search?q=editorial",
+    "search?q=responsive"
+  ],
+  "pageSha256": "14e24567a9deeda83e4a2eb78e331d2c434badd42c815e007257df9a7700320b"
+}

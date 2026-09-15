@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-navigation",
+  "source": "kage",
+  "slug": "component--trigger-navigation",
+  "url": "https://kage.design/component/trigger-navigation",
+  "name": "Dark developer-tool navigation bar by trigger.dev",
+  "description": "A compact, single-row header balances brand recognition, utility links, community proof, authentication, and one high-contrast CTA. The near-black surface, restrained dividers, muted text, and vivid accent button make the primary action easy to find without overpowering the navigation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073774-0.webp",
+  "prompts": [
+    "kage/component--trigger-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=navigation",
+    "search?q=dark-mode",
+    "search?q=saas",
+    "search?q=header"
+  ],
+  "pageSha256": "944a7cc595a63b6185f2f08a8ee5154225ce435993525ad92edeb9a7ae7bbb90"
+}

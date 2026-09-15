@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--inngest-logo-cloud",
+  "source": "kage",
+  "slug": "component--inngest-logo-cloud",
+  "url": "https://kage.design/component/inngest-logo-cloud",
+  "name": "Monochrome customer logo cloud by inngest.com",
+  "description": "A restrained horizontal logo strip uses low-contrast monochrome marks, generous spacing, and a subtle textured dark surface to communicate social proof without competing with the page’s primary message. Small warm accent points add visual rhythm while keeping the logos calm and editorial.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/inngest-com/085d18d8-47d3-43b1-92ae-d8bd045a677d-1789074881-2.webp",
+  "prompts": [
+    "kage/component--inngest-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/inngest-landing-page",
+  "product": "inngest-com",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=social-proof",
+    "search?q=dark-ui",
+    "search?q=brand-grid"
+  ],
+  "pageSha256": "3322fe87fefba7863d092ee9699561d7dc9ba0e8449b3ec089a62a998658dae8"
+}

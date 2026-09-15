@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--warp-cta",
+  "source": "kage",
+  "slug": "component--warp-cta",
+  "url": "https://kage.design/component/warp-cta",
+  "name": "Case study CTA with benchmark preview by warp.dev",
+  "description": "This CTA works by pairing a concise, outcome-led case study pitch with a large visual proof point. The vivid patterned backdrop, restrained monospace typography, and high-contrast button make the section feel technical, credible, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/warp-dev/0d3838c7-307f-484a-8c23-3188eaa6f6f5-1789060389-5.webp",
+  "prompts": [
+    "kage/component--warp-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/warp-landing-page",
+  "product": "warp-dev",
+  "tags": [
+    "search?q=case+study",
+    "search?q=cta",
+    "search?q=split+layout",
+    "search?q=data+preview"
+  ],
+  "pageSha256": "cb86c120be1a8104dae21f675ca8c479f58a8c38109325da9c6d0764d3d70173"
+}

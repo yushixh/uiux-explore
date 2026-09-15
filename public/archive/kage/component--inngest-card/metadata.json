@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--inngest-card",
+  "source": "kage",
+  "slug": "component--inngest-card",
+  "url": "https://kage.design/component/inngest-card",
+  "name": "Dark testimonial carousel with comparison panel by inngest.com",
+  "description": "A cinematic, editorial card section that combines a customer testimonial control bar with a large visual before/after comparison panel. It works through strong contrast, generous negative space, restrained borders, and a clear two-level interaction pattern: navigation for stories and a draggable comparison control.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/inngest-com/085d18d8-47d3-43b1-92ae-d8bd045a677d-1789074884-8.webp",
+  "prompts": [
+    "kage/component--inngest-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/inngest-landing-page",
+  "product": "inngest-com",
+  "tags": [
+    "search?q=dark-mode",
+    "search?q=testimonial",
+    "search?q=carousel",
+    "search?q=comparison"
+  ],
+  "pageSha256": "7a75fd470e14cb11346fae7fb42973b1981a56d0d575fff13174efc153f24f5b"
+}

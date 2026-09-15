@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--linear-hero",
+  "source": "kage",
+  "slug": "component--linear-hero",
+  "url": "https://kage.design/component/linear-hero",
+  "name": "Dark product system hero by linear.app",
+  "description": "A restrained, high-contrast SaaS hero pairs a precise two-line value proposition with a quiet supporting statement and a large, partially cropped product interface. The oversized interface preview creates product credibility and visual depth while the generous negative space keeps the message primary.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/linear-app/3b71fb78-773e-45c4-803c-426bf7f1ae53-1789060206-1.webp",
+  "prompts": [
+    "kage/component--linear-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/linear-landing-page",
+  "product": "linear-app",
+  "tags": [
+    "search?q=hero",
+    "search?q=dark+ui",
+    "search?q=saas",
+    "search?q=productivity"
+  ],
+  "pageSha256": "d578b45830e07b9af9ef596af6924530ca02c6daaee9d67d7b667f63fa76afb4"
+}

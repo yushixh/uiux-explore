@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--desert-ant-labs-hero",
+  "source": "kage",
+  "slug": "component--desert-ant-labs-hero",
+  "url": "https://kage.design/component/desert-ant-labs-hero",
+  "name": "Textural product hero by Desert Ant Labs",
+  "description": "A spacious, editorial hero that pairs an oversized headline with a grainy display treatment and a restrained supporting line. The warm off-white canvas, compact top navigation, and colourful card fragments at the fold create a distinctive product-led introduction without relying on a conventional hero image.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/desert-ant-labs/9afde706-8b4f-4c5f-a9d8-7a634f78e07d-1789106569-1.webp",
+  "prompts": [
+    "kage/component--desert-ant-labs-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/desert-ant-labs-landing-page",
+  "product": "desert-ant-labs",
+  "tags": [
+    "search?q=hero",
+    "search?q=typography",
+    "search?q=editorial",
+    "search?q=navigation"
+  ],
+  "pageSha256": "a9e9657f8cfb5fa5eeb5001a584dc8137aa4dd22a3c2096edddaf5d77de0ddb4"
+}

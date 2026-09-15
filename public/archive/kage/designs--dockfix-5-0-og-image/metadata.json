@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--dockfix-5-0-og-image",
+  "source": "kage",
+  "slug": "designs--dockfix-5-0-og-image",
+  "url": "https://kage.design/designs/dockfix-5-0-og-image",
+  "name": "DockFix 5.0 Open Graph social card by DockFix 5.0",
+  "description": "A 1200×630 social card built like an Apple keynote slide: a muted terracotta hillside under a pale blue sky, with a giant black wordmark layered so the horizon ridge slightly occludes its lower edge, giving flat type real depth. The product itself is rendered in place — a glassmorphic macOS-style dock with placeholder-sized icons and widgets sits on the bottom edge like a stage prop. Hierarchy is handled by extreme scale contrast (display wordmark vs. a tiny tracked-out red 'OUT NOW · €14.99' eyebrow) and by confining everything to three strict horizontal bands: metadata, headline, product.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/dockfix-5-0/10cc0a55-d8ec-4b37-97a0-1b4560c29af9-1789279361566.webp",
+  "prompts": [
+    "kage/designs--dockfix-5-0-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/eventbrite-og-image",
+  "product": "dockfix-5-0",
+  "tags": [
+    "search?q=og-card",
+    "search?q=landscape-hero",
+    "search?q=depth-typography",
+    "search?q=glassmorphic-dock",
+    "search?q=product-render",
+    "search?q=letter-spaced-eyebrow",
+    "search?q=terracotta",
+    "search?q=apple-style"
+  ],
+  "pageSha256": "156a19dd484907bf7f576976bf0908fdc899f7be55222aa9476528258f72790d"
+}

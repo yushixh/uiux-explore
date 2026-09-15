@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--neopress-logo-cloud",
+  "source": "kage",
+  "slug": "component--neopress-logo-cloud",
+  "url": "https://kage.design/component/neopress-logo-cloud",
+  "name": "Backed-by credibility strip by Neopress",
+  "description": "A quiet credibility band separates the hero demo from the gallery, using restrained attribution and partner marks without competing with the main message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/neopress/126c1916-850c-4473-b9b4-49923d5d31e2-1789365753-3.webp",
+  "prompts": [
+    "kage/component--neopress-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/neopress-landing-page",
+  "product": "neopress",
+  "tags": [
+    "search?q=trust",
+    "search?q=logos",
+    "search?q=social-proof"
+  ],
+  "pageSha256": "deced56caab531b0953ceebc0dee0de8f9a8360466cc525e7a9651c8b05f572d"
+}

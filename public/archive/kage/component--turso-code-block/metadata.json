@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--turso-code-block",
+  "source": "kage",
+  "slug": "component--turso-code-block",
+  "url": "https://kage.design/component/turso-code-block",
+  "name": "Tabbed code showcase by turso.tech",
+  "description": "A split hero section pairs a concise product value proposition and CTA with a large, dark syntax-highlighted code panel. Lightweight tabs make the example feel interactive while preserving a calm, technical visual hierarchy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/turso-tech/a01fe972-4603-42df-a7fd-1b66e57f2913-1789073739-5.webp",
+  "prompts": [
+    "kage/component--turso-code-block/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/turso-landing-page",
+  "product": "turso-tech",
+  "tags": [
+    "search?q=code",
+    "search?q=tabs",
+    "search?q=dark-ui",
+    "search?q=developer"
+  ],
+  "pageSha256": "9686e98f39416cd63b7c8d706abfd3246443e157fbfbc84ab38675f4277d52ac"
+}

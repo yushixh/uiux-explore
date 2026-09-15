@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--noodle-seed-faq",
+  "source": "kage",
+  "slug": "component--noodle-seed-faq",
+  "url": "https://kage.design/component/noodle-seed-faq",
+  "name": "Minimal dark FAQ accordion by Noodle Seed",
+  "description": "A restrained FAQ section that uses generous vertical spacing, hairline dividers, and right-aligned plus controls to make a long list feel calm and scannable. Its strongest feature is the high-contrast typography paired with an almost-black canvas and a clear transition into the next CTA section.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/noodle-seed/892ab390-1bf9-4a7d-a1b3-8cebe5820ba8-1789106719-10.webp",
+  "prompts": [
+    "kage/component--noodle-seed-faq/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/noodle-seed-landing-page",
+  "product": "noodle-seed",
+  "tags": [
+    "search?q=faq",
+    "search?q=accordion",
+    "search?q=dark-mode",
+    "search?q=minimal",
+    "search?q=saas"
+  ],
+  "pageSha256": "ed87537e459fbffce0e1b9efc53a2f63842c2e4c20bd8df1c0ca209f204a308a"
+}

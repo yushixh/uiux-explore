@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--blocks--quote-rail",
+  "source": "vantaui",
+  "slug": "explore--blocks--quote-rail",
+  "url": "https://www.vantaui.com/explore/blocks/quote-rail",
+  "name": "Quote Rail - VantaUI",
+  "description": "A sleek carousel for rotating customer quotes with brand context.",
+  "image": "https://vantaui-registry.vercel.app/blocks/quote-rail",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "0d9797773f7445d8eb6e8678ec4499c53374f881c167bddfb1008aec3d24b0e0"
+}

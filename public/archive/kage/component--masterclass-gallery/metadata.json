@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--masterclass-gallery",
+  "source": "kage",
+  "slug": "component--masterclass-gallery",
+  "url": "https://kage.design/component/masterclass-gallery",
+  "name": "Featured class spotlight by masterclass.com",
+  "description": "A centered editorial statement leads into one large cinematic class feature, with overlaid title metadata and a trailer action that lets the imagery carry the emotional weight.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/masterclass-com/5ec25cd5-decc-406e-8087-269a3e7b0a10-1789146210-3.webp",
+  "prompts": [
+    "kage/component--masterclass-gallery/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/masterclass-landing-page",
+  "product": "masterclass-com",
+  "tags": [
+    "search?q=spotlight",
+    "search?q=video",
+    "search?q=editorial"
+  ],
+  "pageSha256": "b827900fc5cb61d0d209c85b3cfc4bfa44c77d60eb53969dcdcae2262a143c24"
+}

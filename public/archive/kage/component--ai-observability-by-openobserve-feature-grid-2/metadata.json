@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ai-observability-by-openobserve-feature-grid-2",
+  "source": "kage",
+  "slug": "component--ai-observability-by-openobserve-feature-grid-2",
+  "url": "https://kage.design/component/ai-observability-by-openobserve-feature-grid-2",
+  "name": "Instrument ecosystem feature grid by AI Observability by OpenObserve",
+  "description": "A calm, high-density integration directory that pairs a centered section intro with a responsive three-column grid of scannable cards. Consistent card anatomy, restrained shadows, category pills, and small outbound affordances make a large ecosystem feel organized without overwhelming the reader.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ai-observability-by-openobserve/e945d001-9c66-4981-a493-d9cb08ea77ee-1789106506-3.webp",
+  "prompts": [
+    "kage/component--ai-observability-by-openobserve-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-landing-page",
+  "product": "ai-observability-by-openobserve",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=integration-cards",
+    "search?q=saas",
+    "search?q=b2b"
+  ],
+  "pageSha256": "dea1024414be7f8a284a4daedbb843ef40745f859adafbe4621ef868ac06afdb"
+}

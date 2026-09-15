@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--bun-banner",
+  "source": "kage",
+  "slug": "component--bun-banner",
+  "url": "https://kage.design/component/bun-banner",
+  "name": "Framework showcase feature banner by bun.sh",
+  "description": "A split editorial banner pairs a video testimonial with a framework-focused content panel, using a compact label, oversized headline, readable body copy, code preview, and strong link hierarchy. The monochrome structure with one vivid accent makes a technically dense section feel clear and actionable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/bun-sh/5fab2b15-2f70-4d99-a79d-411d5e236c09-1789073823-5.webp",
+  "prompts": [
+    "kage/component--bun-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/bun-landing-page",
+  "product": "bun-sh",
+  "tags": [
+    "search?q=feature",
+    "search?q=video",
+    "search?q=code"
+  ],
+  "pageSha256": "4b7761f9666839247a6a41e64fddda913110e93e10234d8f411ad73bc2c9915f"
+}

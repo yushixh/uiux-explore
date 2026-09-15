@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--phantom-banner",
+  "source": "kage",
+  "slug": "component--phantom-banner",
+  "url": "https://kage.design/component/phantom-banner",
+  "name": "Regulatory disclosure by phantom.com",
+  "description": "A quiet legal disclosure separates the marketing content from the site footer and uses centered italic text at a readable but subdued scale.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/phantom-com/df84c488-d9fa-4f45-8b51-bd3e334c55b2-1789146860-6.webp",
+  "prompts": [
+    "kage/component--phantom-banner/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/phantom-landing-page",
+  "product": "phantom-com",
+  "tags": [
+    "search?q=legal",
+    "search?q=disclosure",
+    "search?q=compliance"
+  ],
+  "pageSha256": "2bce92c217279adec7cd6669a0927c5b5c21655be03bdd9cec3c9a2490e9095b"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--lu-ma-feature-grid-3",
+  "source": "kage",
+  "slug": "component--lu-ma-feature-grid-3",
+  "url": "https://kage.design/component/lu-ma-feature-grid-3",
+  "name": "Browse by category by lu.ma",
+  "description": "A regular tile matrix organizes discovery by topic, with generous whitespace, tiny colorful line icons, and short labels that are easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/lu-ma/a4be0bf4-46ad-4066-8582-e9890f24d9e0-1789146185-4.webp",
+  "prompts": [
+    "kage/component--lu-ma-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/lu-ma-landing-page",
+  "product": "lu-ma",
+  "tags": [
+    "search?q=categories",
+    "search?q=tiles",
+    "search?q=discovery"
+  ],
+  "pageSha256": "6ed2577c6a8fdda4a611c2b4792ce66f10b4787dfd1d791bece059cbc9713726"
+}

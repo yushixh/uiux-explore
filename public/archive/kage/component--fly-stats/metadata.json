@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--fly-stats",
+  "source": "kage",
+  "slug": "component--fly-stats",
+  "url": "https://kage.design/component/fly-stats",
+  "name": "Editorial stats grid by fly.io",
+  "description": "A restrained, editorial statistics block pairs a narrative introduction with a compact two-column metric grid. Fine vertical rules, generous whitespace, and high-contrast accent numerals make the proof points feel precise without turning the section into a dashboard.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/fly-io/55088b40-21c4-4b5b-a67c-8a1494f33e2d-1789073898-6.webp",
+  "prompts": [
+    "kage/component--fly-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/fly-landing-page",
+  "product": "fly-io",
+  "tags": [
+    "search?q=stats",
+    "search?q=metrics",
+    "search?q=editorial",
+    "search?q=grid"
+  ],
+  "pageSha256": "8475233c2a77ba9e1803216193e18c54a117ccd97d960eabc80954abf5ce5050"
+}

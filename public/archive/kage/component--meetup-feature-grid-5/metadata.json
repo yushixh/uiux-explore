@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--meetup-feature-grid-5",
+  "source": "kage",
+  "slug": "component--meetup-feature-grid-5",
+  "url": "https://kage.design/component/meetup-feature-grid-5",
+  "name": "Community stories by meetup.com",
+  "description": "An editorial section leads with a two-column introduction and then presents three story cards. Rounded image thumbnails and strong headlines give the page a human, magazine-like finish before the footer CTA.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/meetup-com/38f9f6c4-75f1-46e9-b1c3-f8b44b19e777-1789146458-8.webp",
+  "prompts": [
+    "kage/component--meetup-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/meetup-landing-page",
+  "product": "meetup-com",
+  "tags": [
+    "search?q=stories",
+    "search?q=editorial",
+    "search?q=community"
+  ],
+  "pageSha256": "1c0f7ca2189fa3618e759e61ad3f8879078db8935d6f5532d14b8f8bc33c7f67"
+}

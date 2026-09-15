@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--outbid-lol-navigation",
+  "source": "kage",
+  "slug": "component--outbid-lol-navigation",
+  "url": "https://kage.design/component/outbid-lol-navigation",
+  "name": "Compact leaderboard navigation by outbid.lol",
+  "description": "A restrained top bar combines the outbid.lol mark, online/status metadata, primary links, utility icons, and a second pill-shaped category filter row. The two-tier structure keeps discovery controls visible without making the header feel heavy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/outbid-lol/7d6cde02-1b78-43c8-adde-d87a2555099d-1789142023-0.webp",
+  "prompts": [
+    "kage/component--outbid-lol-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/outbid-lol-landing-page",
+  "product": "outbid-lol",
+  "tags": [
+    "search?q=compact",
+    "search?q=categories",
+    "search?q=utility"
+  ],
+  "pageSha256": "b54de36e6b87e409d493e14cec7d69785453e965f0d171503bb097fc185edd32"
+}

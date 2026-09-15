@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--adscope-footer",
+  "source": "kage",
+  "slug": "component--adscope-footer",
+  "url": "https://kage.design/component/adscope-footer",
+  "name": "CTA and utility footer by AdScope",
+  "description": "A high-contrast conversion band flows into a quiet, spacious footer, balancing a centered trial CTA with compact brand, social, and legal navigation. The oversized decorative background motif adds energy without competing with the action or footer content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/adscope/d628eaa8-0259-4816-ad11-db69e3ce98d4-1789106705-9.webp",
+  "prompts": [
+    "kage/component--adscope-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/adscope-landing-page",
+  "product": "adscope",
+  "tags": [
+    "search?q=footer",
+    "search?q=cta",
+    "search?q=responsive",
+    "search?q=navigation"
+  ],
+  "pageSha256": "7af85a11e2fe429805bbb4bdf3adfefff6a7c33a1f021d6bd4511c1b79794542"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--posthog-landing-page",
+  "source": "kage",
+  "slug": "designs--posthog-landing-page",
+  "url": "https://kage.design/designs/posthog-landing-page",
+  "name": "PostHog homepage — playful analytics landing page by posthog.com",
+  "description": "The page runs on a single cream canvas with one narrow centred text column, alternating short copy blocks with right-aligned ink-drawn hedgehog illustrations so every section reads as text-plus-character. Hierarchy comes from oversized black sans headings that each carry exactly one blue keyword, yellow highlighter marks behind key phrases, and 1px-bordered white cards (logo wall, pricing table, parody shop) that spike the density against otherwise airy sections. The hero and footer bookend the page with retro-game touches — an illustrated grass-world navigation rail with chalkboard icon shortcuts, a blue-framed tabbed product demo, and a self-aware fake e-commerce card that closes the page on a joke.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/posthog-com/73877279-c1a4-4217-acde-d4b5e92c7eb5-1789060007466.webp",
+  "prompts": [
+    "kage/designs--posthog-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "posthog-com",
+  "tags": [
+    "search?q=tabbed-product-demo",
+    "search?q=logo-wall",
+    "search?q=pricing-table",
+    "search?q=highlighted-copy",
+    "search?q=mascot-illustration",
+    "search?q=retro-game-nav",
+    "search?q=parody-commerce",
+    "search?q=cream-canvas"
+  ],
+  "pageSha256": "abd42bf3331d02b0e04acc9613c3eb00a1d16f907b9478165027d753eff33a5b"
+}

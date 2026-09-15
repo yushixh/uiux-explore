@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--partiful-feature-grid-3",
+  "source": "kage",
+  "slug": "component--partiful-feature-grid-3",
+  "url": "https://kage.design/component/partiful-feature-grid-3",
+  "name": "Powerful features card grid by partiful.com",
+  "description": "A centered heading introduces three equal feature cards, each with an image header, title, description, and low-emphasis Try it action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/partiful-com/97ae038c-0277-4e29-93fa-45b4a481f7ba-1789146244-8.webp",
+  "prompts": [
+    "kage/component--partiful-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/partiful-landing-page",
+  "product": "partiful-com",
+  "tags": [
+    "search?q=cards",
+    "search?q=features",
+    "search?q=product"
+  ],
+  "pageSha256": "42e5db438b81a0fd7e94d23e61086128d0f731ff8c4b861439e1b8aa89b4eedf"
+}

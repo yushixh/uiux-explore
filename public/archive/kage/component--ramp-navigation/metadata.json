@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--ramp-navigation",
+  "source": "kage",
+  "slug": "component--ramp-navigation",
+  "url": "https://kage.design/component/ramp-navigation",
+  "name": "Announcement bar and utility navigation by ramp.com",
+  "description": "A compact two-tier header pairs a high-contrast announcement strip with a restrained, highly scannable navigation row. The asymmetric action grouping makes the primary conversion button prominent while keeping sign-in and secondary actions easy to find.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ramp-com/ad2900d9-6fba-4f32-a572-3ba7a6ce9831-1789060912-0.webp",
+  "prompts": [
+    "kage/component--ramp-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ramp-landing-page",
+  "product": "ramp-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=announcement",
+    "search?q=cta"
+  ],
+  "pageSha256": "2e6b74eb09ed2b5e5036e5119dd952ccfa4eb6b69709148e2063228c9e513ff6"
+}

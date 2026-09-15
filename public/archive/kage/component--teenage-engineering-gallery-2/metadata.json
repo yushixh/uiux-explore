@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--teenage-engineering-gallery-2",
+  "source": "kage",
+  "slug": "component--teenage-engineering-gallery-2",
+  "url": "https://kage.design/component/teenage-engineering-gallery-2",
+  "name": "Editorial product gallery by teenage.engineering",
+  "description": "A cinematic hero product image anchors a restrained commerce gallery, followed by evenly divided supporting product cards. The contrast between dark immersive presentation and bright, precise merchandising makes the section feel both premium and highly functional.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/teenage-engineering/02d63820-361c-4c31-b791-8f2d75691669-1789060821-3.webp",
+  "prompts": [
+    "kage/component--teenage-engineering-gallery-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/teenage-engineering-landing-page",
+  "product": "teenage-engineering",
+  "tags": [
+    "search?q=gallery",
+    "search?q=commerce",
+    "search?q=product-grid",
+    "search?q=editorial"
+  ],
+  "pageSha256": "7f7a414f82a27848ca7fe7a51c8fea3546e2e081c9de2548933e3883e4d37775"
+}

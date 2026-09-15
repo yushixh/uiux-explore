@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mastra-factory-card",
+  "source": "kage",
+  "slug": "component--mastra-factory-card",
+  "url": "https://kage.design/component/mastra-factory-card",
+  "name": "Configurable workflow board card by Mastra Factory",
+  "description": "A dark, enterprise-style workflow board card that communicates configurability through staged columns, compact issue cards, and dense operational metadata. The restrained palette, subtle dividers, and carefully nested controls make a complex process feel structured without becoming visually loud.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mastra-factory/e98dc23c-cafd-4086-ae60-932f10b41f0f-1789106663-2.webp",
+  "prompts": [
+    "kage/component--mastra-factory-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mastra-factory-landing-page",
+  "product": "mastra-factory",
+  "tags": [
+    "search?q=workflow",
+    "search?q=kanban",
+    "search?q=dark+ui",
+    "search?q=agent-powered"
+  ],
+  "pageSha256": "7c2c35ed2e7fb4270b546f53a005feba4fd6a876cea51cdb46b3744cd0c51191"
+}

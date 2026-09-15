@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--kinetics-colorion-navigation",
+  "source": "kage",
+  "slug": "component--kinetics-colorion-navigation",
+  "url": "https://kage.design/component/kinetics-colorion-navigation",
+  "name": "Minimal utility navigation by kinetics.colorion.co",
+  "description": "A very compact black navigation bar anchors the page with a small accent brand mark, sparse center links, and a restrained right-side utility link.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/kinetics-colorion-co/61078688-965b-4221-9177-b73292c8438b-1789374949-0.webp",
+  "prompts": [
+    "kage/component--kinetics-colorion-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "kinetics-colorion-co",
+  "tags": [
+    "search?q=dark",
+    "search?q=utility",
+    "search?q=brand"
+  ],
+  "pageSha256": "c909f568990ec7a7a52159d13e3f052fe66424327c551b1e9174d02990b53824"
+}

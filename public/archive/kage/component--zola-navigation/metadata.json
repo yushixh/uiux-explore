@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--zola-navigation",
+  "source": "kage",
+  "slug": "component--zola-navigation",
+  "url": "https://kage.design/component/zola-navigation",
+  "name": "Primary navigation by zola.com",
+  "description": "A compact white header establishes the brand at left and keeps account access plus the primary conversion action visible at right.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/zola-com/ad1936e8-70c2-47e9-b9d5-59869832f93f-1789146309-0.webp",
+  "prompts": [
+    "kage/component--zola-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/zola-landing-page",
+  "product": "zola-com",
+  "tags": [
+    "search?q=header",
+    "search?q=account",
+    "search?q=cta"
+  ],
+  "pageSha256": "e7dcbff0272c3ca2a532ebfc15966699f11266c9564fc27a9c0d8ec805a085fb"
+}

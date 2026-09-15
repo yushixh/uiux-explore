@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--public-footer",
+  "source": "kage",
+  "slug": "component--public-footer",
+  "url": "https://kage.design/component/public-footer",
+  "name": "Site navigation and legal footer by public.com",
+  "description": "The footer transitions to white, exposes multiple link columns and contact/app information, then continues into a pale legal disclosure area with dense regulatory text.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/public-com/cb41c975-325f-4844-b439-84e9d28bd7b7-1789146538-10.webp",
+  "prompts": [
+    "kage/component--public-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/public-landing-page",
+  "product": "public-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=site+links",
+    "search?q=legal"
+  ],
+  "pageSha256": "7a7ee457d8043d77b33d8b07e995d922ac36e149afe5fd4e7ca1dc660f893abd"
+}

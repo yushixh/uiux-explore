@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--inngest-feature-grid-2",
+  "source": "kage",
+  "slug": "component--inngest-feature-grid-2",
+  "url": "https://kage.design/component/inngest-feature-grid-2",
+  "name": "Dark six-card feature grid by inngest.com",
+  "description": "A restrained, editorial feature section pairs a large all-caps statement with a compact supporting paragraph and six evenly aligned capability cards. Fine-line abstract glyphs, muted body text, generous spacing, and repeated text links create a technical, premium feel without relying on heavy card containers.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/inngest-com/085d18d8-47d3-43b1-92ae-d8bd045a677d-1789074883-6.webp",
+  "prompts": [
+    "kage/component--inngest-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/inngest-landing-page",
+  "product": "inngest-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=b2b",
+    "search?q=developer-tools"
+  ],
+  "pageSha256": "360f661a2b7aff4085ccf3cde94c466ee1e7fd2a70b2f6b6aa6a6ef9f3847a69"
+}

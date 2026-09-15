@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--stowdrop-feature-grid-4",
+  "source": "kage",
+  "slug": "component--stowdrop-feature-grid-4",
+  "url": "https://kage.design/component/stowdrop-feature-grid-4",
+  "name": "Editorial feature card grid by stowdrop.app",
+  "description": "A restrained editorial feature section pairs a strong left-hand introduction with a compact two-by-two card grid. Muted surfaces, fine rules, orange utility accents, and generous vertical space make a dense set of product capabilities feel calm and premium.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/stowdrop-app/2ca5946d-e8e0-4e0c-8652-e4352b3d8fe1-1789067824-8.webp",
+  "prompts": [
+    "kage/component--stowdrop-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/stowdrop-landing-page",
+  "product": "stowdrop-app",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-mode",
+    "search?q=bento-layout",
+    "search?q=saas"
+  ],
+  "pageSha256": "f6ba0be6ef3ef9b9bbd13de6ae5761a10f480410cbe0fa103ab5aa239bc75866"
+}

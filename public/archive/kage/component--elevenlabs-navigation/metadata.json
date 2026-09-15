@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--elevenlabs-navigation",
+  "source": "kage",
+  "slug": "component--elevenlabs-navigation",
+  "url": "https://kage.design/component/elevenlabs-navigation",
+  "name": "Minimal SaaS header navigation by elevenlabs.io",
+  "description": "A restrained, high-clarity header balances a compact brand mark, evenly spaced primary links, and low-friction authentication actions. Strong whitespace, subtle button contrast, and a thin bottom divider make the navigation feel premium without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060950-0.webp",
+  "prompts": [
+    "kage/component--elevenlabs-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=saas",
+    "search?q=responsive"
+  ],
+  "pageSha256": "29df72889b2ef31610cd3c0eef45988e38d5a568cca63e5037b0bbdcb6912680"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--prisma-landing-page",
+  "source": "kage",
+  "slug": "designs--prisma-landing-page",
+  "url": "https://kage.design/designs/prisma-landing-page",
+  "name": "Prisma homepage — TypeScript ORM, Postgres & hosting by prisma.io",
+  "description": "A white canvas with near-black display type, black pill CTAs and soft pastel gradient washes (mint-to-pink) that frame the hero, product mockups and closing CTA, punctuated by Prisma's cyan/yellow/coral ribbon motif. The page alternates rhythm down its length: a centered hero with a console mockup, a grayscale logo band, a before/after comparison pair, three tinted step cards, alternating product rows linked by file-chip connectors, a tabbed cost-comparison card, a testimonial grid, a FAQ accordion, and a gradient CTA card before a light footer that ends in a giant cropped wordmark. Hierarchy is carried almost entirely by type scale and hairline-bordered white cards, keeping dense product information airy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073656522.webp",
+  "prompts": [
+    "kage/designs--prisma-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=app-mockup",
+    "search?q=pastel-gradient",
+    "search?q=before-after",
+    "search?q=pricing-comparison",
+    "search?q=testimonials",
+    "search?q=faq",
+    "search?q=ribbon-accents",
+    "search?q=giant-footer-wordmark"
+  ],
+  "pageSha256": "4160cbebbfce910117430614dfc4d4a7661ff3f5bcf5b0fc9f5dfc20a60d7aac"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--encrypt-button",
+  "source": "vantaui",
+  "slug": "explore--components--encrypt-button",
+  "url": "https://www.vantaui.com/explore/components/encrypt-button",
+  "name": "Encrypt Button - VantaUI",
+  "description": "Button with scan and encrypt animation",
+  "image": "https://vantaui-registry.vercel.app/components/encrypt-button",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "b32ae8ce2af1362893694abd54be432959c90130b215236db27512cc6a376ef3"
+}

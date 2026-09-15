@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--oku-club-feature-grid-2",
+  "source": "kage",
+  "slug": "component--oku-club-feature-grid-2",
+  "url": "https://kage.design/component/oku-club-feature-grid-2",
+  "name": "Collections and community reviews by oku.club",
+  "description": "Two equal feature cards sit side by side, each combining a centered outcome-oriented heading with a tall mobile interface preview.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/oku-club/e710a983-c1d6-4177-b014-2738acd07d09-1789146243-4.webp",
+  "prompts": [
+    "kage/component--oku-club-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/oku-club-landing-page",
+  "product": "oku-club",
+  "tags": [
+    "search?q=collections",
+    "search?q=reviews",
+    "search?q=mobile"
+  ],
+  "pageSha256": "9e81eb26fd02c9d8d16dab7786efb12b3fd57819c44387c20e7643e7abb2dc2d"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--public-feature-grid-2",
+  "source": "kage",
+  "slug": "component--public-feature-grid-2",
+  "url": "https://kage.design/component/public-feature-grid-2",
+  "name": "AI investing capabilities by public.com",
+  "description": "A long editorial feature section introduces AI for investors, then alternates a full-width lead capability with two-column supporting demos, creating hierarchy without excessive chrome.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/public-com/cb41c975-325f-4844-b439-84e9d28bd7b7-1789146535-3.webp",
+  "prompts": [
+    "kage/component--public-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/public-landing-page",
+  "product": "public-com",
+  "tags": [
+    "search?q=ai",
+    "search?q=feature+grid",
+    "search?q=product+demos"
+  ],
+  "pageSha256": "97d709a81a294d7a516f8a45899ba5cbd86b0de83484d25394f253a9b02c0790"
+}

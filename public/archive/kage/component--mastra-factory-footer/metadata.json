@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mastra-factory-footer",
+  "source": "kage",
+  "slug": "component--mastra-factory-footer",
+  "url": "https://kage.design/component/mastra-factory-footer",
+  "name": "Dark multi-column footer by Mastra Factory",
+  "description": "A restrained, developer-oriented footer that uses a wide multi-column link grid, a compact legal row, and small operational status indicators to make a large product site feel organized and trustworthy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mastra-factory/e98dc23c-cafd-4086-ae60-932f10b41f0f-1789106665-8.webp",
+  "prompts": [
+    "kage/component--mastra-factory-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mastra-factory-landing-page",
+  "product": "mastra-factory",
+  "tags": [
+    "search?q=footer",
+    "search?q=dark+ui",
+    "search?q=navigation",
+    "search?q=status"
+  ],
+  "pageSha256": "404b90a34c30148b9a1a5710dd14bb02d8db14267efb4bb4d98e5e1fd8b13fb3"
+}

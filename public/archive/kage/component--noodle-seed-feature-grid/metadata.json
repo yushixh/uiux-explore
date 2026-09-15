@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--noodle-seed-feature-grid",
+  "source": "kage",
+  "slug": "component--noodle-seed-feature-grid",
+  "url": "https://kage.design/component/noodle-seed-feature-grid",
+  "name": "Interactive use-case showcase by Noodle Seed",
+  "description": "A high-contrast feature section that pairs a strong editorial heading with switchable use-case tabs and a large product preview. It works because the compact navigation makes several scenarios feel browsable while the oversized preview, supporting actions, and expandable secondary examples keep the section focused and conversion-oriented.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/noodle-seed/892ab390-1bf9-4a7d-a1b3-8cebe5820ba8-1789106717-4.webp",
+  "prompts": [
+    "kage/component--noodle-seed-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/noodle-seed-landing-page",
+  "product": "noodle-seed",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=interactive-tabs",
+    "search?q=product-showcase"
+  ],
+  "pageSha256": "b8d43a4af8c2449f0772841fb9c62583bb6ce904a800f92d21eca8b42d42c74a"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--basedash-in-espanol-francais-portugues-og-image",
+  "source": "kage",
+  "slug": "designs--basedash-in-espanol-francais-portugues-og-image",
+  "url": "https://kage.design/designs/basedash-in-espanol-francais-portugues-og-image",
+  "name": "Basedash OG social card — dark headline + dashboard mockup by Basedash in Español Français & Português",
+  "description": "A 1200×630 social card split asymmetrically: a huge three-line white headline with a full stop anchors the left half, while a floating revenue-dashboard mockup card carries the proof on the right. Hierarchy is driven almost entirely by type scale and weight on a near-black ground, with violet and blue reserved exclusively for the chart lines and delta chips. The mockup is the only dense element — rounded corners, hairline border, faint warm wash at the top and two glowing data series — so the card reads as a single statement-plus-artifact composition at thumbnail size.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/basedash-in-espanol-francais-portugues/68761dd8-a22e-4d6c-a800-f44116d67cd4-1789106654361.webp",
+  "prompts": [
+    "kage/designs--basedash-in-espanol-francais-portugues-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ai-observability-by-openobserve-og-image",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=dark-theme",
+    "search?q=bold-headline",
+    "search?q=product-mockup",
+    "search?q=line-chart",
+    "search?q=glow",
+    "search?q=asymmetric-split"
+  ],
+  "pageSha256": "5849d4f06cc28892311c8f4ede04657416237d02357460c15867d44f5ea787ac"
+}

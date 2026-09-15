@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tally-navigation",
+  "source": "kage",
+  "slug": "component--tally-navigation",
+  "url": "https://kage.design/component/tally-navigation",
+  "name": "Minimal SaaS navigation bar by tally.so",
+  "description": "A restrained, high-clarity header that pairs a distinctive wordmark area with low-emphasis utility links and one saturated primary action. Its generous whitespace, compact alignment, and strong CTA hierarchy make the navigation feel calm while keeping conversion close at hand.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tally-so/8873d519-e012-4a77-bd60-f7e8803b75a7-1789060950-0.webp",
+  "prompts": [
+    "kage/component--tally-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tally-landing-page",
+  "product": "tally-so",
+  "tags": [
+    "search?q=navbar",
+    "search?q=saas",
+    "search?q=minimal",
+    "search?q=responsive"
+  ],
+  "pageSha256": "167c3a3e44b2b49991338ae5eea0c7da6a583c069da52f0c4ec7ac84f92c74fa"
+}

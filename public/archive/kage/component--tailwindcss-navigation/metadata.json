@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--tailwindcss-navigation",
+  "source": "kage",
+  "slug": "component--tailwindcss-navigation",
+  "url": "https://kage.design/component/tailwindcss-navigation",
+  "name": "Minimal developer documentation navbar by tailwindcss.com",
+  "description": "A compact, high-clarity documentation header that combines brand identity, version context, primary navigation, search access, and a low-emphasis utility link. Its restrained spacing, subtle dividers, and lightweight controls keep a dense information architecture feeling calm and scannable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/tailwindcss-com/8ea80760-a5bd-4198-8781-a7bb4737c216-1789073866-0.webp",
+  "prompts": [
+    "kage/component--tailwindcss-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tailwindcss-landing-page",
+  "product": "tailwindcss-com",
+  "tags": [
+    "search?q=navbar",
+    "search?q=docs",
+    "search?q=developer",
+    "search?q=responsive"
+  ],
+  "pageSha256": "7dec5747f08864062e9f775d529066f2ba4903819b947fe9a1c4a181b4a0eb69"
+}

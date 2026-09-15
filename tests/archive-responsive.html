@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>资源库响应式检查</title>
+<style>body{margin:16px;background:#e9eef2;font:14px system-ui}label{display:block;margin-bottom:12px}iframe{display:block;border:1px solid #b7c7d1;background:white;width:390px;height:844px}select{padding:6px}</style></head>
+<body><label>检查宽度 <select id="size"><option value="390">390 × 844</option><option value="360">360 × 800</option><option value="1280">1280 × 720</option></select></label><output id="metrics" style="display:block;margin-bottom:10px"></output>
+<iframe title="资源库响应式预览" id="responsive" src="/#archive?source=bencho&amp;id=bencho--magnet-select"></iframe>
+<script>const frame=document.querySelector('iframe');document.querySelector('select').addEventListener('change',e=>{frame.style.width=e.target.value+'px';frame.style.height=(e.target.value==='1280'?720:e.target.value==='360'?800:844)+'px';});
+setInterval(()=>{const doc=frame.contentDocument;if(!doc?.querySelector('.archive-grid'))return;const columns=frame.contentWindow.getComputedStyle(doc.querySelector('.archive-grid')).gridTemplateColumns;document.querySelector('output').textContent=`视口 ${frame.contentWindow.innerWidth} · 内容 ${doc.documentElement.scrollWidth}/${doc.documentElement.clientWidth} · 卡片列 ${columns}`;},400);
+</script></body></html>

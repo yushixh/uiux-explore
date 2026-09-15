@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--partiful-feature-grid",
+  "source": "kage",
+  "slug": "component--partiful-feature-grid",
+  "url": "https://kage.design/component/partiful-feature-grid",
+  "name": "Invite customization showcase by partiful.com",
+  "description": "A pastel section introduces customizable invites with a centered heading, pill-like category tabs, and a large invite preview card.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/partiful-com/97ae038c-0277-4e29-93fa-45b4a481f7ba-1789146242-2.webp",
+  "prompts": [
+    "kage/component--partiful-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/partiful-landing-page",
+  "product": "partiful-com",
+  "tags": [
+    "search?q=customization",
+    "search?q=tabs",
+    "search?q=showcase"
+  ],
+  "pageSha256": "3b485da59529dddfac08027f94dad502f15c3f3dc01454814d804aaec92f563f"
+}

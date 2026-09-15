@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--upstash-feature-grid",
+  "source": "kage",
+  "slug": "component--upstash-feature-grid",
+  "url": "https://kage.design/component/upstash-feature-grid",
+  "name": "Tabbed product feature grid by upstash.com",
+  "description": "This section combines a compact product switcher, a focused feature headline, three scannable benefit cards, and an interactive code-example panel. The soft card surfaces, restrained green accents, and strong horizontal structure make a complex developer product feel approachable while preserving a clear path from value proposition to implementation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/upstash-com/210669b2-56ab-47a0-9be6-e94255ecbd31-1789073747-2.webp",
+  "prompts": [
+    "kage/component--upstash-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/upstash-landing-page",
+  "product": "upstash-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=tabs",
+    "search?q=code-preview",
+    "search?q=saas"
+  ],
+  "pageSha256": "85bec72ec48fc276927d96ab2a3330ea715b5b6ae04e9f141492ad31c3a66de2"
+}

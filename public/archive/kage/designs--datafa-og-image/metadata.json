@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--datafa-og-image",
+  "source": "kage",
+  "slug": "designs--datafa-og-image",
+  "url": "https://kage.design/designs/datafa-og-image",
+  "name": "Datafast OG social card — headline + chart card by datafa.st",
+  "description": "A 1200×630 social card built on a warm cream canvas with a single centred vertical stack: five golden stars, a one-line bold benefit headline, and a large white chart card that bleeds off the bottom edge. The chart does the branding work — organic, uneven coral bars with rounded tops sit under a wavy sky-blue area line, and a stat row ('5.4k visitors • $2,325 revenue') pairs bold dark numbers with gray labels. Hierarchy comes purely from scale and weight contrast on neutrals; three soft accents (coral, sky blue, gold) carry all the colour, and the off-white background makes the white card read as a floating product screenshot.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/datafa-st/d659778a-580e-475b-af95-802699bf73ca-1789060070972.webp",
+  "prompts": [
+    "kage/designs--datafa-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-og-image",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=og-card",
+    "search?q=stars",
+    "search?q=bar-chart",
+    "search?q=line-chart",
+    "search?q=rounded-corners",
+    "search?q=warm-neutral",
+    "search?q=centered-stack",
+    "search?q=stat-row"
+  ],
+  "pageSha256": "fd5b5fcb25822bf2ad735976800e2aa95d8bff9d48d94c8e6b1541bc50165466"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--frigade-assist-api-hero",
+  "source": "kage",
+  "slug": "component--frigade-assist-api-hero",
+  "url": "https://kage.design/component/frigade-assist-api-hero",
+  "name": "Agent product-expertise hero by Frigade Assist API",
+  "description": "A centered, high-contrast SaaS hero that combines a concise product promise with a small product selector, dual CTAs, and a large code-plus-product walkthrough visual. The restrained blue accent, soft radial background, and layered browser panels make a technical integration feel approachable and immediately actionable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/frigade-assist-api/d96f9c4b-8236-4442-b795-92795f229d4a-1789106742-1.webp",
+  "prompts": [
+    "kage/component--frigade-assist-api-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/frigade-assist-api-landing-page",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=developer",
+    "search?q=code",
+    "search?q=gradient"
+  ],
+  "pageSha256": "bcfa646beb37390e753ec90f63e3cbc28f7a8ededd80a81976fdf630f06f73fe"
+}

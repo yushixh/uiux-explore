@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mistral-feature-grid",
+  "source": "kage",
+  "slug": "component--mistral-feature-grid",
+  "url": "https://kage.design/component/mistral-feature-grid",
+  "name": "Modular capability feature grid by mistral.ai",
+  "description": "This section works through an asymmetric bento grid that turns a broad product suite into distinct, scannable capabilities. Large whitespace, restrained borders, varied tile proportions, and small colour accents create a premium editorial rhythm while keeping each feature easy to identify.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mistral-ai/b4bd1aa3-e31c-42a6-8066-6d42fc3e7f45-1789073963-4.webp",
+  "prompts": [
+    "kage/component--mistral-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mistral-landing-page",
+  "product": "mistral-ai",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=editorial",
+    "search?q=ai-platform"
+  ],
+  "pageSha256": "f837f64b6876a63409b3cc9548dd4b2c507d05c19f4616d1704ab64bf8d8f577"
+}

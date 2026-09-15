@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--peerspace-footer",
+  "source": "kage",
+  "slug": "component--peerspace-footer",
+  "url": "https://kage.design/component/peerspace-footer",
+  "name": "Multi-column footer by peerspace.com",
+  "description": "A black footer organizes brand presence, multiple navigation columns, legal/language controls, copyright, and social icons with a thin divider.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/peerspace-com/2a6d29c3-21bf-4d34-8c1e-93824205de9d-1789146243-11.webp",
+  "prompts": [
+    "kage/component--peerspace-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/peerspace-landing-page",
+  "product": "peerspace-com",
+  "tags": [
+    "search?q=footer",
+    "search?q=links",
+    "search?q=social"
+  ],
+  "pageSha256": "a30f364400a629b073f4a90e5e08f759e9c9dda742b397d22f4a93e896df36d5"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--monarchmoney-feature-grid-3",
+  "source": "kage",
+  "slug": "component--monarchmoney-feature-grid-3",
+  "url": "https://kage.design/component/monarchmoney-feature-grid-3",
+  "name": "Apps and data connectivity by monarchmoney.com",
+  "description": "A split panel pairs a concise connectivity message with a vivid partner-icon field, communicating broad integration coverage at a glance.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146615-6.webp",
+  "prompts": [
+    "kage/component--monarchmoney-feature-grid-3/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/monarchmoney-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=integrations",
+    "search?q=apps",
+    "search?q=connectivity"
+  ],
+  "pageSha256": "ff39449e4aa557a6d2004ea1462bd933d2f71a2269ee6d8e8a0e1df9fea4e343"
+}

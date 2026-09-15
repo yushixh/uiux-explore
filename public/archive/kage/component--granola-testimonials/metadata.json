@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--granola-testimonials",
+  "source": "kage",
+  "slug": "component--granola-testimonials",
+  "url": "https://kage.design/component/granola-testimonials",
+  "name": "Customer testimonial cards by granola.ai",
+  "description": "A charcoal testimonial section centers a large heading above bordered quote cards, combining editorial typography with customer attribution.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789141839-6.webp",
+  "prompts": [
+    "kage/component--granola-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=quotes",
+    "search?q=social-proof",
+    "search?q=dark"
+  ],
+  "pageSha256": "bed1c34eadf55ac9e40ba9a4a7ed83a678a9c258ce46b5221afa555da69b5fa7"
+}

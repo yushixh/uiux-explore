@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--mintlify-logo-cloud",
+  "source": "kage",
+  "slug": "component--mintlify-logo-cloud",
+  "url": "https://kage.design/component/mintlify-logo-cloud",
+  "name": "Split-panel customer logo cloud by mintlify.com",
+  "description": "A restrained customer-proof section pairs a strong statement and CTA with a balanced grid of recognizable customer marks. The split layout makes the trust signal scannable while the soft cards and generous whitespace keep the section feeling premium rather than promotional.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mintlify-com/71224961-d985-451b-9e35-e02eddcee178-1789060644-2.webp",
+  "prompts": [
+    "kage/component--mintlify-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mintlify-landing-page",
+  "product": "mintlify-com",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=customer+proof",
+    "search?q=grid+layout"
+  ],
+  "pageSha256": "2947932e384bf5d25ca247b40d15cc88456d603bc4c0b561f7279ead0a2f7c63"
+}

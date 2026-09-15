@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--uini-feature-grid-5",
+  "source": "kage",
+  "slug": "component--uini-feature-grid-5",
+  "url": "https://kage.design/component/uini-feature-grid-5",
+  "name": "Three-column feature pathway grid by uini.io",
+  "description": "A spacious, editorial feature grid uses a strong two-part heading, a quiet supporting paragraph, and three evenly weighted steps to explain a product journey. Small terracotta numerals, restrained typography, generous whitespace, and understated arrow links make the section feel thoughtful and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/uini-io/ef5b466a-1fe9-4cb6-9300-79049ee31244-1789059861-2.webp",
+  "prompts": [
+    "kage/component--uini-feature-grid-5/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/uini-landing-page",
+  "product": "uini-io",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=editorial",
+    "search?q=saas",
+    "search?q=three-column"
+  ],
+  "pageSha256": "d1aa0930f505951707cea2706304d240c28335f4f9357ff3e4bde6a3a87e66a5"
+}

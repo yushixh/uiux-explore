@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--frigade-assist-api-footer",
+  "source": "kage",
+  "slug": "component--frigade-assist-api-footer",
+  "url": "https://kage.design/component/frigade-assist-api-footer",
+  "name": "Subtle dark footer close by Frigade Assist API",
+  "description": "A restrained dark footer treatment that closes the page with a quiet branded atmosphere rather than a dense navigation block. Faint vertical framing lines, a barely visible centered mark, and sparse tonal details create depth while keeping attention on the content above.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/frigade-assist-api/d96f9c4b-8236-4442-b795-92795f229d4a-1789106746-10.webp",
+  "prompts": [
+    "kage/component--frigade-assist-api-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/frigade-assist-api-landing-page",
+  "product": "frigade-assist-api",
+  "tags": [
+    "search?q=footer",
+    "search?q=dark-mode",
+    "search?q=minimal",
+    "search?q=brand",
+    "search?q=ambient"
+  ],
+  "pageSha256": "790a549469b3a5d9457d2fd98830ac004c08c5013067130e8ceaf273c4523df9"
+}

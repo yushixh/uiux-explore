@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--arc-hero",
+  "source": "kage",
+  "slug": "component--arc-hero",
+  "url": "https://kage.design/component/arc-hero",
+  "name": "Soft-tech product launch hero by arc.net",
+  "description": "A centered product-launch hero that pairs a bold editorial headline and concise supporting copy with a high-contrast CTA and an oversized, softly framed product preview. The playful blue navigation band and scalloped transition add personality while the pale gradient background keeps attention on the message and interface.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/arc-net/a4b44bb4-fce3-4305-950f-d12af4bc9a59-1789060397-1.webp",
+  "prompts": [
+    "kage/component--arc-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/arc-landing-page",
+  "product": "arc-net",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=gradient",
+    "search?q=product"
+  ],
+  "pageSha256": "3755107c7b5610d33a51d6d41aebc3137083a431a39e828f332af893124a2367"
+}

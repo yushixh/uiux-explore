@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--granola-cta",
+  "source": "kage",
+  "slug": "component--granola-cta",
+  "url": "https://kage.design/component/granola-cta",
+  "name": "Meeting memory product CTA by granola.ai",
+  "description": "A vivid lime panel introduces a memorable product moment with an oversized serif message and a large white interface card, creating a strong visual transition.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789141838-5.webp",
+  "prompts": [
+    "kage/component--granola-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=cta",
+    "search?q=accent",
+    "search?q=input"
+  ],
+  "pageSha256": "330bc9301fce1ce9c69273a4c79dc3c084f4ff1ef887aa280d3d21ce2bdaa57f"
+}

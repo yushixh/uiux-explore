@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--deno-og-image",
+  "source": "kage",
+  "slug": "designs--deno-og-image",
+  "url": "https://kage.design/designs/deno-og-image",
+  "name": "Deno OG social card — 'is your JavaScript runtime' by deno.com",
+  "description": "A 1200×630 social card built as one continuous sentence: a bold lowercase wordmark plus 'is your' anchors the left column at vertical centre, while the right column stacks ten capability terms in heavy grotesque type. Selection is communicated purely through opacity — terms fade to near-white toward the top and bottom edges like a carousel frozen mid-scroll — and the chosen term 'JavaScript runtime' sits on a full-bleed mint-green highlight bar in near-black type, making it the single focal point. The background is a quiet white-to-pale-blue vertical gradient with no decoration, letting the typographic contrast and one saturated accent carry the whole message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/deno-com/70192788-83e0-4de0-9957-fbc7dbb97674-1789073667462.webp",
+  "prompts": [
+    "kage/designs--deno-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "deno-com",
+  "tags": [
+    "search?q=social-card",
+    "search?q=typographic-stack",
+    "search?q=highlight-bar",
+    "search?q=opacity-fade",
+    "search?q=gradient-background",
+    "search?q=single-sentence",
+    "search?q=heavy-sans"
+  ],
+  "pageSha256": "07a1ff469a27d2d7d5bcfd1d6e7603c937465a94e47ba4dd6bd9478298199967"
+}

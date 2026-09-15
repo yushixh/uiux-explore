@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--granola-feature-grid",
+  "source": "kage",
+  "slug": "component--granola-feature-grid",
+  "url": "https://kage.design/component/granola-feature-grid",
+  "name": "Instantly enhanced notes benefits by granola.ai",
+  "description": "A sparse benefit section uses a large serif statement followed by separated icon-and-copy rows, making functional advantages easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/granola-ai/8b8980af-a0f4-4fc3-9371-ab7645007c40-1789141837-2.webp",
+  "prompts": [
+    "kage/component--granola-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/granola-empty-state",
+  "product": "granola-ai",
+  "tags": [
+    "search?q=benefits",
+    "search?q=rows",
+    "search?q=audio"
+  ],
+  "pageSha256": "114c017589f5bd3e6fd215a169bdb7bfcf96ab3098c185ab767a0981a0574c51"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kage--designs--airpods-5-og-image",
+  "source": "kage",
+  "slug": "designs--airpods-5-og-image",
+  "url": "https://kage.design/designs/airpods-5-og-image",
+  "name": "AirPods 5 social card by AirPods 5",
+  "description": "A 1200×630 Open Graph card built on a single floating studio photograph: two white earbuds rendered large in the centre with soft diffuse shadows, against a flat near-white (#f5f5f7) field. There is no text baked into the image — hierarchy is created entirely by the oversized centred product at roughly 55% of canvas height, letting the link preview supply the headline. The treatment relies on luminous whites, subtle grey gradients on the product, and tiny dark accents (the black mesh grilles and \"R\" marking) providing contrast; the mood is clinical, calm and premium through pure whitespace.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/airpods-5/505646fd-fe47-4d0f-bf4c-63bc3dd03018-1789106583403.webp",
+  "prompts": [
+    "kage/designs--airpods-5-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/teenage-engineering-og-image",
+  "product": "airpods-5",
+  "tags": [
+    "search?q=product-hero",
+    "search?q=open-graph",
+    "search?q=monochrome",
+    "search?q=centered-composition",
+    "search?q=soft-shadows",
+    "search?q=studio-photo"
+  ],
+  "pageSha256": "567b4fc1e8819e1e4999885d145d05e118bb2864bde1e7e6a2e2b6d76621d736"
+}

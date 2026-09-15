@@ -1,0 +1,16 @@
+{
+  "id": "vantaui--explore--components--glowing-cube-button",
+  "source": "vantaui",
+  "slug": "explore--components--glowing-cube-button",
+  "url": "https://www.vantaui.com/explore/components/glowing-cube-button",
+  "name": "Glowing Cube Button - VantaUI",
+  "description": "A futuristic 3D button constructed from CSS-transformed planes to form a cube.",
+  "image": "https://vantaui-registry.vercel.app/components/glowing-cube-button",
+  "prompts": [],
+  "files": [],
+  "kind": "component",
+  "parentUrl": "",
+  "product": "",
+  "tags": [],
+  "pageSha256": "77ad997ca5a266d24ad8ad38aa36993dbb99a0cd162aaa9e4d58da82c6a95d26"
+}

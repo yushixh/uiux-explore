@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--hob-landing-page",
+  "source": "kage",
+  "slug": "designs--hob-landing-page",
+  "url": "https://kage.design/designs/hob-landing-page",
+  "name": "Hob agent workspace landing page by hob",
+  "description": "A very light, spacious product page uses oversized black sans-serif headlines, restrained gray body copy, thin dividers, and softly bordered interface mockups to establish a calm professional tone. The page moves from a centered hero and large app screenshot into alternating screenshot-led feature sections, a dense practical feature grid, testimonials, FAQ rows, and a compact orange CTA before ending with a quiet multi-column footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/hob/bb3af585-7542-45f5-8db1-3e25168b9aff-1789106470289.webp",
+  "prompts": [
+    "kage/designs--hob-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-landing-page",
+  "product": "hob",
+  "tags": [
+    "search?q=agent-workspace",
+    "search?q=product-screenshots",
+    "search?q=feature-grid",
+    "search?q=faq-accordion",
+    "search?q=testimonial-cards",
+    "search?q=orange-cta",
+    "search?q=editorial-spacing"
+  ],
+  "pageSha256": "3bc0474ed2218969fb4689d688e9747f9866e30e31a2320965186f0bc586d66f"
+}

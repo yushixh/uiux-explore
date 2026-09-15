@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--datafa-navigation",
+  "source": "kage",
+  "slug": "component--datafa-navigation",
+  "url": "https://kage.design/component/datafa-navigation",
+  "name": "Minimal product navigation bar by datafa.st",
+  "description": "A quiet, highly legible header that balances brand recognition on the left, a small set of centered utility links, and a low-emphasis account action on the right. Generous whitespace, a fine divider, and restrained typography make it feel polished without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/datafa-st/3396b937-0925-4898-ae76-13fd2ccd1a9f-1789067839-0.webp",
+  "prompts": [
+    "kage/component--datafa-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/datafa-landing-page",
+  "product": "datafa-st",
+  "tags": [
+    "search?q=navigation",
+    "search?q=header",
+    "search?q=saas",
+    "search?q=minimal"
+  ],
+  "pageSha256": "7d7797a2b40b51082c9a3ab31dddc9ec2f64d48938a779dfe79d389b2b0272d4"
+}

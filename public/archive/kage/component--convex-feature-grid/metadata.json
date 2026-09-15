@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--convex-feature-grid",
+  "source": "kage",
+  "slug": "component--convex-feature-grid",
+  "url": "https://kage.design/component/convex-feature-grid",
+  "name": "Proof-led feature checklist by convex.dev",
+  "description": "A confident split-layout feature section pairs a dense, scannable checklist with a quiet technical visualization. Strong typographic contrast, ruled surfaces, and one decisive CTA make complex infrastructure benefits feel concrete without overwhelming the reader.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/convex-dev/1b90134a-1727-4d68-9c37-d8b1750ddf17-1789074851-3.webp",
+  "prompts": [
+    "kage/component--convex-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/convex-landing-page",
+  "product": "convex-dev",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=bento-layout",
+    "search?q=saas",
+    "search?q=dark-ui"
+  ],
+  "pageSha256": "4b8024ecec0232e0cd5321271de8cbaa27a38e14ef5df461aa1f2f97de266d43"
+}

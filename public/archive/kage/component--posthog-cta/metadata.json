@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--posthog-cta",
+  "source": "kage",
+  "slug": "component--posthog-cta",
+  "url": "https://kage.design/component/posthog-cta",
+  "name": "Playful product checkout CTA by posthog.com",
+  "description": "A humorous, ecommerce-inspired CTA that turns a product offer into a compact checkout moment. It works through a strong two-column hierarchy, an attention-grabbing status banner, clear option selection, price emphasis, and a confident primary action.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/posthog-com/73877279-c1a4-4217-acde-d4b5e92c7eb5-1789060473-6.webp",
+  "prompts": [
+    "kage/component--posthog-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/posthog-landing-page",
+  "product": "posthog-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=checkout",
+    "search?q=product-card",
+    "search?q=playful"
+  ],
+  "pageSha256": "45a6d832cc98d7354f44274d5550ef356a681049e6e155e73844abfeebf758c7"
+}

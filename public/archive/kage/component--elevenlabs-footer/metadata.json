@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--elevenlabs-footer",
+  "source": "kage",
+  "slug": "component--elevenlabs-footer",
+  "url": "https://kage.design/component/elevenlabs-footer",
+  "name": "Minimal multi-column link footer by elevenlabs.io",
+  "description": "A restrained footer that uses generous whitespace, compact link columns, and a quiet utility treatment to keep secondary navigation easy to scan without competing with the page content.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/elevenlabs-io/25703c4f-1ec9-434f-a8f0-8548c2191604-1789060955-11.webp",
+  "prompts": [
+    "kage/component--elevenlabs-footer/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/elevenlabs-landing-page",
+  "product": "elevenlabs-io",
+  "tags": [
+    "search?q=footer",
+    "search?q=navigation",
+    "search?q=minimal",
+    "search?q=responsive"
+  ],
+  "pageSha256": "69cf9966a644d4e90c08e42fc3b0cb755d95dc5baf4bee8703258c56853b5627"
+}

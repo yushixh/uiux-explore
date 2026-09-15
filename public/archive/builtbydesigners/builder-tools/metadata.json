@@ -1,0 +1,22 @@
+{
+  "id": "builder-tools",
+  "name": "BuilderTools",
+  "description": "A curated showcase of experimental tools for designers and developers, documenting what each tool makes, the controls it offers and the independent builder behind it.",
+  "shortInfo": "Free browser tools for design assets",
+  "url": "https://www.buildertools.sh/",
+  "handle": "marcelokunze",
+  "creatorName": "Marcelo",
+  "creatorUrl": "https://x.com/marcelokunze",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Discovery",
+  "categories": [
+    "Discovery"
+  ],
+  "launchDate": "2026-04-18",
+  "added": "2026-08-18",
+  "sortOrder": 7,
+  "icon": "/backend/icons/builder-tools.png",
+  "avatar": "/backend/avatars/builder-tools.jpg",
+  "shot": "/screenshots/builder-tools.jpg"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kage--designs--monarchmoney-landing-page",
+  "source": "kage",
+  "slug": "designs--monarchmoney-landing-page",
+  "url": "https://kage.design/designs/monarchmoney-landing-page",
+  "name": "Monarch personal finance landing page by monarchmoney.com",
+  "description": "A long-form fintech landing page pairs large editorial serif headlines with restrained sans-serif body copy and a mostly warm-white canvas. The hero uses a lifestyle video/image backdrop, translucent data overlays, and a floating white CTA card; below it, the rhythm shifts through credibility logos, centered product explanation, a feature grid, alternating screenshot-and-copy rows, testimonials, press proof, community resources, pricing, and a high-contrast orange closing CTA. Orange is reserved for promotion bars, labels, buttons, progress accents, and the final conversion block, while product screenshots and lightly bordered cards provide most of the visual detail.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/monarchmoney-com/635efc73-78c7-4e34-907f-7c8ed3a65d95-1789146543288.webp",
+  "prompts": [
+    "kage/designs--monarchmoney-landing-page/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/tryobra-landing-page",
+  "product": "monarchmoney-com",
+  "tags": [
+    "search?q=serif-headlines",
+    "search?q=orange-cta",
+    "search?q=feature-showcase",
+    "search?q=product-screenshots",
+    "search?q=testimonial-grid",
+    "search?q=editorial-layout",
+    "search?q=soft-cards",
+    "search?q=long-form"
+  ],
+  "pageSha256": "68eb275e4d211757c5db16867f81cd8588f1f354a6cb3ea98a6645c9bc7f41f0"
+}

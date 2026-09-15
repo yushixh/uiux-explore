@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--posthog-feature-grid-2",
+  "source": "kage",
+  "slug": "component--posthog-feature-grid-2",
+  "url": "https://kage.design/component/posthog-feature-grid-2",
+  "name": "Contextual feature grid by posthog.com",
+  "description": "A strong feature section pairs a clear, benefit-led headline with explanatory copy, scannable supporting bullets, and a compact capability summary. The asymmetric grid creates hierarchy while a single text link provides a focused next step without making the section feel like a sales card wall.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/posthog-com/73877279-c1a4-4217-acde-d4b5e92c7eb5-1789060472-2.webp",
+  "prompts": [
+    "kage/component--posthog-feature-grid-2/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/posthog-landing-page",
+  "product": "posthog-com",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=b2b",
+    "search?q=data-platform",
+    "search?q=product-tour"
+  ],
+  "pageSha256": "a1207f0114d09af80b8e263d9db3eac02c1eb73987840ac6cd26d75349ea26ff"
+}

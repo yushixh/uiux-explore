@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--workos-logo-cloud",
+  "source": "kage",
+  "slug": "component--workos-logo-cloud",
+  "url": "https://kage.design/component/workos-logo-cloud",
+  "name": "Muted customer logo grid by workos.com",
+  "description": "A restrained, high-density customer logo cloud uses a small uppercase eyebrow, evenly sized tiles, and monochrome marks to create credibility without competing with the page’s primary message. The centered follow-up link gives the grid a clear continuation point while preserving a quiet, editorial feel.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/workos-com/c1ef5d6b-8620-4482-aad7-47f439cf35f9-1789073890-2.webp",
+  "prompts": [
+    "kage/component--workos-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/workos-landing-page",
+  "product": "workos-com",
+  "tags": [
+    "search?q=logo+cloud",
+    "search?q=social+proof",
+    "search?q=customer+grid",
+    "search?q=b2b"
+  ],
+  "pageSha256": "220c086ba1b35f885e2fb7ea73e49f0961d148d1df1b71cdfa436c9a7f459dfd"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--workos-og-image",
+  "source": "kage",
+  "slug": "designs--workos-og-image",
+  "url": "https://kage.design/designs/workos-og-image",
+  "name": "WorkOS 'Your app, Enterprise Ready.' social card by workos.com",
+  "description": "A 1200×630 share card built almost entirely from typography. The near-white canvas carries a faint diagonal diamond lattice that fades out on the left, keeping the text zone clean while adding texture to the empty right half. Hierarchy is handled by a two-line, left-aligned headline in a heavy grotesque: line one sits in solid near-black, line two runs purple-to-teal in a horizontal gradient, so the colour shift — not a size or weight change — marks the emphasis. A small logo-plus-wordmark lockup anchors the bottom-left like a signature, and the rest is deliberate negative space with no tagline, URL, or imagery competing for attention.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/workos-com/947834e0-bd2f-4379-bf5b-565962ed66c7-1789073676081.webp",
+  "prompts": [
+    "kage/designs--workos-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/clerk-og-image",
+  "product": "workos-com",
+  "tags": [
+    "search?q=og-image",
+    "search?q=social-card",
+    "search?q=gradient-headline",
+    "search?q=wordmark",
+    "search?q=diagonal-grid-texture",
+    "search?q=left-aligned",
+    "search?q=negative-space"
+  ],
+  "pageSha256": "b00090a0aafe1dd86d7de357726767efbf2cde83483d1d72a5ec2b05cb1b95a3"
+}

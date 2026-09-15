@@ -1,0 +1,22 @@
+{
+  "id": "deskslope",
+  "name": "DeskSlope",
+  "description": "A webcam-controlled 3D snowboarding game with a global leaderboard: lean to steer, crouch to brake, or play with arrow keys.",
+  "shortInfo": "Snowboard with your webcam",
+  "url": "https://www.rachelhow.com/deskslope",
+  "handle": "rachelhxw",
+  "creatorName": "Rachel How",
+  "creatorUrl": "https://x.com/rachelhxw",
+  "creatorVerified": true,
+  "platform": "Website",
+  "categoryLabel": "Play",
+  "categories": [
+    "Play"
+  ],
+  "launchDate": "2026-09-02",
+  "added": "2026-09-02",
+  "sortOrder": 30,
+  "icon": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/deskslope/icon-mtrbcir4-xh7mTZ1E7SnZBZyAArqTFLfjnFJHyd.svg",
+  "avatar": "https://ctylzgtd1lxbnmmk.public.blob.vercel-storage.com/cms/media/authors/rachelhxw-1788762481035-po7u6ENWj2gy6NkMSIw9ch8ODDH4WD.jpg",
+  "shot": "/screenshots/deskslope.png"
+}

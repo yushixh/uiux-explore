@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--plaid-stats",
+  "source": "kage",
+  "slug": "component--plaid-stats",
+  "url": "https://kage.design/component/plaid-stats",
+  "name": "Network impact stats by plaid.com",
+  "description": "A spacious split section pairs an abstract stack of floating product and notification cards with a strong editorial headline and a four-item proof-point grid. The contrast between oversized serif numerals and compact sans-serif labels makes the metrics feel premium, memorable, and easy to scan.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/plaid-com/7f22fbce-e808-4b19-99a1-7dcb31fbfb56-1789060800-4.webp",
+  "prompts": [
+    "kage/component--plaid-stats/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/plaid-landing-page",
+  "product": "plaid-com",
+  "tags": [
+    "search?q=stats",
+    "search?q=metrics",
+    "search?q=editorial",
+    "search?q=split-layout"
+  ],
+  "pageSha256": "6df4ae6fd0990a19f004de53621e480ed102b37fc83d6ba575ec8602cd13f4cb"
+}

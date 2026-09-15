@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--labs-winszn-feature-grid",
+  "source": "kage",
+  "slug": "component--labs-winszn-feature-grid",
+  "url": "https://kage.design/component/labs-winszn-feature-grid",
+  "name": "Evidence-led project feature grid by labs.winszn.xyz",
+  "description": "A two-column, editorial project grid that pairs vivid product previews with concise, evidence-led metadata. It works because every card has a consistent rhythm—visual proof first, then title, status, explanation, verification line, and compact technology tags—making a large body of work easy to scan without feeling like a generic logo wall.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/labs-winszn-xyz/4df5b54d-904b-4cf9-bf65-93181d626a5e-1789097620-3.webp",
+  "prompts": [
+    "kage/component--labs-winszn-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/labs-winszn-landing-page",
+  "product": "labs-winszn-xyz",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=case-studies",
+    "search?q=dark-ui",
+    "search?q=editorial",
+    "search?q=portfolio"
+  ],
+  "pageSha256": "d4503e1cceb79c9703891fc07fe915a5a247b1fcdd7c11158d7a03ca80523b86"
+}

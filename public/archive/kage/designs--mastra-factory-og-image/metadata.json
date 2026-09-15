@@ -1,0 +1,24 @@
+{
+  "id": "kage--designs--mastra-factory-og-image",
+  "source": "kage",
+  "slug": "designs--mastra-factory-og-image",
+  "url": "https://kage.design/designs/mastra-factory-og-image",
+  "name": "Mastra Factory OG social card by Mastra Factory",
+  "description": "A stark monochrome 1200×630 social card. The mastra wordmark with its dotted molecule-like mark sits top-left, while the page title \"Factory\" is set large and bold on the lower-left baseline, leaving the right two-thirds and the middle band entirely as empty black negative space. The tension between the two corner-anchored text blocks and the vast emptiness gives the card its confidence; no illustration, gradient or imagery competes with the type.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/mastra-factory/851c697c-9bd7-489b-a43b-e735b1bbd525-1789106605727.webp",
+  "prompts": [
+    "kage/designs--mastra-factory-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/kinetics-colorion-og-image",
+  "product": "mastra-factory",
+  "tags": [
+    "search?q=social-card",
+    "search?q=wordmark",
+    "search?q=typographic",
+    "search?q=negative-space",
+    "search?q=monochrome"
+  ],
+  "pageSha256": "33cd4349cd682dd17c12fdf1aa636f100f93d39af14531a9d47d168881adf6ac"
+}

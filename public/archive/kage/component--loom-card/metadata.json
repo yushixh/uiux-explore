@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--loom-card",
+  "source": "kage",
+  "slug": "component--loom-card",
+  "url": "https://kage.design/component/loom-card",
+  "name": "Dark enterprise spotlight card by loom.com",
+  "description": "A high-contrast, rounded promotional card uses centered messaging and a single vivid CTA over a dark atmospheric background. The generous vertical composition creates a premium feature moment while leaving room for product artwork or media to emerge from below.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/loom-com/c384a931-6938-4c5e-b36b-e07415522afb-1789060440-9.webp",
+  "prompts": [
+    "kage/component--loom-card/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/loom-landing-page",
+  "product": "loom-com",
+  "tags": [
+    "search?q=cta",
+    "search?q=dark",
+    "search?q=enterprise",
+    "search?q=gradient"
+  ],
+  "pageSha256": "a581f96e1429d133f8f731f7f64ffba24db1293f25578de540a4e33eb1dcb9d9"
+}

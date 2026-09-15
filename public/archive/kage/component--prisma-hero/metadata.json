@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--prisma-hero",
+  "source": "kage",
+  "slug": "component--prisma-hero",
+  "url": "https://kage.design/component/prisma-hero",
+  "name": "Product platform hero by prisma.io",
+  "description": "A centered, high-conviction SaaS hero that pairs a concise product promise with supporting proof, multiple conversion paths, and a large product preview. Soft atmospheric colour and restrained interface chrome make the product feel polished without competing with the message.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/prisma-io/a9579200-8b41-4bc5-a193-79d074877e51-1789073818-1.webp",
+  "prompts": [
+    "kage/component--prisma-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/prisma-landing-page",
+  "product": "prisma-io",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=developer"
+  ],
+  "pageSha256": "5fe84793db1ce6a5c561c4fbc2385bafa4bd28bf496f662e5067d789f9c60e04"
+}

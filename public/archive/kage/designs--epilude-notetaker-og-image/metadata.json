@@ -1,0 +1,26 @@
+{
+  "id": "kage--designs--epilude-notetaker-og-image",
+  "source": "kage",
+  "slug": "designs--epilude-notetaker-og-image",
+  "url": "https://kage.design/designs/epilude-notetaker-og-image",
+  "name": "Epilude OG social card — wordmark-only dark canvas by Epilude Notetaker",
+  "description": "A 1200×630 social card that bets everything on a single centered lockup: a near-black canvas with no headline, tagline or product shot. The mark is a run of thin diagonal strokes that gain weight and terminate in a solid block, butted flush against a heavy all-caps italic wordmark in off-white, so the mark reads as acceleration into the name. Two values only — charcoal ground, bone-white type — and roughly 60% empty canvas make it survive being shrunk into a Slack or X preview.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/screenshots/epilude-notetaker/761e70ab-da8f-440b-8568-982b003e6e60-1789365699702.webp",
+  "prompts": [
+    "kage/designs--epilude-notetaker-og-image/design-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/raycast-2-0-og-image",
+  "product": "epilude-notetaker",
+  "tags": [
+    "search?q=og-image",
+    "search?q=wordmark",
+    "search?q=speed-lines",
+    "search?q=italic-sans",
+    "search?q=centered-lockup",
+    "search?q=high-contrast",
+    "search?q=negative-space"
+  ],
+  "pageSha256": "c0b9fbde5eb38de518b55b37d1d649ac5b54bf73d52b0d201323c7992e73f5d0"
+}

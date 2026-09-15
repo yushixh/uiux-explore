@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--adscope-logo-cloud",
+  "source": "kage",
+  "slug": "component--adscope-logo-cloud",
+  "url": "https://kage.design/component/adscope-logo-cloud",
+  "name": "Integration status card grid by AdScope",
+  "description": "A restrained three-card integration section makes connected channels immediately scannable through familiar marks, concise descriptions, and a clear availability state. Consistent card anatomy, generous whitespace, and small status controls distinguish active integrations from planned ones without adding visual noise.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/adscope/d628eaa8-0259-4816-ad11-db69e3ce98d4-1789106702-2.webp",
+  "prompts": [
+    "kage/component--adscope-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/adscope-landing-page",
+  "product": "adscope",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=integrations",
+    "search?q=status",
+    "search?q=cards"
+  ],
+  "pageSha256": "9f2e70b94781d1fddd55c0729938a6de17db1d2ebd6ef1533255e73fb0b43386"
+}

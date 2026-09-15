@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--posthog-navigation",
+  "source": "kage",
+  "slug": "component--posthog-navigation",
+  "url": "https://kage.design/component/posthog-navigation",
+  "name": "Framed product navigation shell by posthog.com",
+  "description": "A playful SaaS navigation system combines a slim persistent top bar with icon-led side rails and a large rounded central content frame. The high-contrast utility actions, compact labels, and clearly separated primary workspace make a dense product experience feel approachable without sacrificing orientation.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/posthog-com/73877279-c1a4-4217-acde-d4b5e92c7eb5-1789060472-0.webp",
+  "prompts": [
+    "kage/component--posthog-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/posthog-landing-page",
+  "product": "posthog-com",
+  "tags": [
+    "search?q=navigation",
+    "search?q=sidebar",
+    "search?q=overlay",
+    "search?q=saas"
+  ],
+  "pageSha256": "96100c2d6a065cbecf050befcf0d5288df6b620cb0b592d9d7691dfc8f6ba43a"
+}

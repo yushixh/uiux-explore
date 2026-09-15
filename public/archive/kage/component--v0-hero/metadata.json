@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--v0-hero",
+  "source": "kage",
+  "slug": "component--v0-hero",
+  "url": "https://kage.design/component/v0-hero",
+  "name": "AI builder hero with template discovery by v0.dev",
+  "description": "A spacious, minimal hero centers an AI creation prompt while a compact template browser anchors the lower viewport. The composition works through strong vertical hierarchy, restrained monochrome styling, pill-shaped suggestions, and a clear transition from creation to inspiration.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/v0-dev/99e42d3b-29f6-491c-8f06-cd6295e0d986-1789073271-1.webp",
+  "prompts": [
+    "kage/component--v0-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/v0-empty-state",
+  "product": "v0-dev",
+  "tags": [
+    "search?q=hero",
+    "search?q=ai-builder",
+    "search?q=prompt-input",
+    "search?q=templates"
+  ],
+  "pageSha256": "e2c559f493b6f44e80223f5dd526e6ca15456913f58790aa19a85942e48b5763"
+}

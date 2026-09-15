@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--arc-feature-grid",
+  "source": "kage",
+  "slug": "component--arc-feature-grid",
+  "url": "https://kage.design/component/arc-feature-grid",
+  "name": "Stacked product feature showcase by arc.net",
+  "description": "A calm, editorial feature section that turns a product’s major capabilities into a sequence of centered stories, each pairing a concise message with a large, polished product visual. Generous whitespace, vivid accent typography, and consistent browser-like frames make the section feel premium without becoming dense.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/arc-net/a4b44bb4-fce3-4305-950f-d12af4bc9a59-1789060398-4.webp",
+  "prompts": [
+    "kage/component--arc-feature-grid/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/arc-landing-page",
+  "product": "arc-net",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=product-ui",
+    "search?q=editorial",
+    "search?q=responsive"
+  ],
+  "pageSha256": "c710c7f5244664bf6d00363e48c3d6861ea5bc98a64d86d4b9868a383e050775"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--patreon-cta",
+  "source": "kage",
+  "slug": "component--patreon-cta",
+  "url": "https://kage.design/component/patreon-cta",
+  "name": "Final signup call to action by patreon.com",
+  "description": "A cinematic closing image is interrupted by a centered white signup panel, creating a clear conversion moment before the footer.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/patreon-com/f09b5697-c1c9-4600-81d4-e7bb56a9df3f-1789146383-7.webp",
+  "prompts": [
+    "kage/component--patreon-cta/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/patreon-landing-page",
+  "product": "patreon-com",
+  "tags": [
+    "search?q=signup",
+    "search?q=overlay",
+    "search?q=image",
+    "search?q=conversion"
+  ],
+  "pageSha256": "fecedd8da5e468f13b225fa5abe6c137f780d7ee3cd396cb31e4fdddf6182cdf"
+}

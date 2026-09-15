@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--mercury-navigation",
+  "source": "kage",
+  "slug": "component--mercury-navigation",
+  "url": "https://kage.design/component/mercury-navigation",
+  "name": "Announcement bar and primary navigation by mercury.com",
+  "description": "A slim announcement strip sits above a compact dark navigation with the Mercury wordmark, centered links, and a bright account button.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/mercury-com/99bed992-0157-4d82-b4d6-a0016ce1a166-1789141941-0.webp",
+  "prompts": [
+    "kage/component--mercury-navigation/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/mercury-empty-state",
+  "product": "mercury-com",
+  "tags": [
+    "search?q=nav",
+    "search?q=announcement",
+    "search?q=dark"
+  ],
+  "pageSha256": "4d76401fa822907928cdd274b66ef4d7bf7f07545321ad6eac219fea336ce628"
+}

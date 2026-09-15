@@ -1,0 +1,24 @@
+{
+  "id": "kage--component--basedash-in-espanol-francais-portugues-hero",
+  "source": "kage",
+  "slug": "component--basedash-in-espanol-francais-portugues-hero",
+  "url": "https://kage.design/component/basedash-in-espanol-francais-portugues-hero",
+  "name": "AI analytics product hero by Basedash in Español Français & Português",
+  "description": "A restrained, high-trust SaaS hero that pairs a precise headline and proof-oriented messaging with compact credibility signals, clear dual CTAs, and a large product interface preview. The warm editorial palette and detailed dashboard/chat mockup make the product feel both enterprise-ready and immediately understandable.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/basedash-in-espanol-francais-portugues/b3381e01-f9b6-42c9-8798-975c026618b1-1789106701-1.webp",
+  "prompts": [
+    "kage/component--basedash-in-espanol-francais-portugues-hero/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/basedash-in-espanol-francais-portugues-landing-page",
+  "product": "basedash-in-espanol-francais-portugues",
+  "tags": [
+    "search?q=hero",
+    "search?q=saas",
+    "search?q=analytics",
+    "search?q=dashboard",
+    "search?q=b2b"
+  ],
+  "pageSha256": "0a176230f75e23852e0ee690692be71536efc72b48cc714b7a34c20998bc2149"
+}

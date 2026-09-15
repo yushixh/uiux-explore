@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--trigger-feature-grid-4",
+  "source": "kage",
+  "slug": "component--trigger-feature-grid-4",
+  "url": "https://kage.design/component/trigger-feature-grid-4",
+  "name": "Categorized feature matrix by trigger.dev",
+  "description": "This section works by turning a broad product surface into a scannable, three-column matrix: a compact category header establishes the hierarchy, while evenly sized rows make a large feature set easy to compare. Subtle borders, restrained contrast, and a single accent colour keep the interface dense without feeling noisy.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/trigger-dev/b9ca49c4-30e6-4b69-8f7d-3e7049f90280-1789073777-6.webp",
+  "prompts": [
+    "kage/component--trigger-feature-grid-4/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/trigger-landing-page",
+  "product": "trigger-dev",
+  "tags": [
+    "search?q=feature-grid",
+    "search?q=dark-ui",
+    "search?q=product-navigation",
+    "search?q=dense-layout"
+  ],
+  "pageSha256": "fa221138b9ed85b199d560b9acf8eae56fd70f565e7d3b3dd99ba6f832e689e5"
+}

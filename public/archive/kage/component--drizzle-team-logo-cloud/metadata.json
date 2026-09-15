@@ -1,0 +1,23 @@
+{
+  "id": "kage--component--drizzle-team-logo-cloud",
+  "source": "kage",
+  "slug": "component--drizzle-team-logo-cloud",
+  "url": "https://kage.design/component/drizzle-team-logo-cloud",
+  "name": "Tiered sponsor logo cloud by drizzle.team",
+  "description": "A compact sponsor showcase that uses clear tier hierarchy, grouped logo cards, and a restrained utility-header treatment. The dominant tier gets generous space and larger cards, while secondary tiers remain visible in a narrower, clipped multi-column area to communicate breadth without overwhelming the page.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/drizzle-team/742c665e-9ce1-4c98-831f-72085091350d-1789073809-3.webp",
+  "prompts": [
+    "kage/component--drizzle-team-logo-cloud/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/drizzle-team-landing-page",
+  "product": "drizzle-team",
+  "tags": [
+    "search?q=logo-cloud",
+    "search?q=sponsors",
+    "search?q=grid",
+    "search?q=directory"
+  ],
+  "pageSha256": "8b55f5878f7f1a99a27e5cb6bb3404c3cc84480b0145aabe03ac8b98fa78cea4"
+}

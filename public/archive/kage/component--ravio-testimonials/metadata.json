@@ -1,0 +1,22 @@
+{
+  "id": "kage--component--ravio-testimonials",
+  "source": "kage",
+  "slug": "component--ravio-testimonials",
+  "url": "https://kage.design/component/ravio-testimonials",
+  "name": "Customer success story by Ravio",
+  "description": "A case-study area combines an editorial heading, customer logo selector, arrow controls, and a split testimonial card with proof metric, quote, attribution, and portrait.",
+  "image": "https://kage-design-assets.t3.tigrisfiles.io/components/ravio/21fc8fab-2ae9-4a70-87c8-10ebee6c9a8e-1789142159-4.webp",
+  "prompts": [
+    "kage/component--ravio-testimonials/component-prompt.md"
+  ],
+  "files": [],
+  "kind": "reference",
+  "parentUrl": "https://kage.design/designs/ravio-landing-page",
+  "product": "ravio",
+  "tags": [
+    "search?q=testimonial",
+    "search?q=case-study",
+    "search?q=carousel"
+  ],
+  "pageSha256": "e36870b720a075ff70f55ce954a6c5e9fe5f738f52976563d54e3b751162967a"
+}
