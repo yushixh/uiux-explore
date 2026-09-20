@@ -4,7 +4,8 @@
 @source '../../tests';
 
 @theme {
-  --font-sans: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --font-sans:
+    -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   --font-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
   --color-canvas: #f8f9fb;
   --color-paper: #ffffff;
@@ -19,7 +20,7 @@
   --spacing: 0.25rem;
   --radius-panel: 1rem;
   --radius-control: 0.625rem;
-  --ease-atmosphere: cubic-bezier(.22, .68, 0, 1.02);
+  --ease-atmosphere: cubic-bezier(0.22, 0.68, 0, 1.02);
 }
 
 :root {

@@ -67,45 +67,104 @@ for (const record of snippets) {
   const render = catalogNodes.get(id);
   if (!render) throw new Error('Missing public renderer: ' + id);
   pull(render);
-  const params = Object.fromEntries((catalog.find(c => c.id === id)?.params ?? []).map(p => [p.id, p.default]));
-  renderers.push(`${JSON.stringify(record.id)}: () => (${raw.slice(render.start, render.end)})(${JSON.stringify(params)})`);
+  const params = Object.fromEntries(
+    (catalog.find(c => c.id === id)?.params ?? []).map(p => [p.id, p.default]),
+  );
+  renderers.push(
+    `${JSON.stringify(record.id)}: () => (${raw.slice(render.start, render.end)})(${JSON.stringify(params)})`,
+  );
 }
 const defs = variables.get('hd').defs[0].node;
-declarations.set(defs.start, defs); pull(defs);
+declarations.set(defs.start, defs);
+pull(defs);
 const ordered = [...declarations.values()].sort((a, b) => a.start - b.start);
-const fragments = ordered.map(n => (n.type === 'VariableDeclarator' ? 'var ' : '') + raw.slice(n.start, n.end) + ';').join('\n');
-const folder = path.join(root, 'bencho/runtime'); fs.mkdirSync(folder, { recursive: true });
+const fragments = ordered
+  .map(n => (n.type === 'VariableDeclarator' ? 'var ' : '') + raw.slice(n.start, n.end) + ';')
+  .join('\n');
+const folder = path.join(root, 'bencho/runtime');
+fs.mkdirSync(folder, { recursive: true });
 const header = `// Bencho — Lorenzo Cabra — https://bencho.dev/\n// Extracted from the public production bundle; not the original authoring TSX.\n// Dependency imports and sound handling are local preview adapters.\n`;
 fs.writeFileSync(path.join(folder, 'original-declarations.js.txt'), header + fragments + '\n');
-const code = imports + fragments + `\nexport const renderers = {${renderers.join(',\n')}};\nexport {hd as SharedFilters};\n`;
+const code =
+  imports +
+  fragments +
+  `\nexport const renderers = {${renderers.join(',\n')}};\nexport {hd as SharedFilters};\n`;
 const formatted = await transform(code, { loader: 'js', format: 'esm', target: 'es2022' });
 fs.writeFileSync(path.join(folder, 'components.js'), header + formatted.code);
 fs.copyFileSync('archive/evidence/bencho.css', path.join(folder, 'upstream.css'));
-fs.writeFileSync(path.join(folder, 'provenance.json'), JSON.stringify({
-  source: 'https://bencho.dev/assets/index-DkISJD_p.js', author: 'Lorenzo Cabra',
-  sha256: bundleHash,
-  entryIds: snippets.map(r => r.id),
-  declarations: ordered.map(n => ({ start: n.start, end: n.end })),
-  adapters: [...external],
-}, null, 2) + '\n');
+fs.writeFileSync(
+  path.join(folder, 'provenance.json'),
+  JSON.stringify(
+    {
+      source: 'https://bencho.dev/assets/index-DkISJD_p.js',
+      author: 'Lorenzo Cabra',
+      sha256: bundleHash,
+      entryIds: snippets.map(r => r.id),
+      declarations: ordered.map(n => ({ start: n.start, end: n.end })),
+      adapters: [...external],
+    },
+    null,
+    2,
+  ) + '\n',
+);
 for (const record of snippets) {
   const dir = 'bencho/' + record.id.replace('bencho--', '');
   const entry = dir + '/runtime-entry.js';
-  fs.writeFileSync(path.join(root, entry), header + `import {renderers} from '../runtime/components.js';\nexport default renderers[${JSON.stringify(record.id)}];\n`);
-  record.files = [entry, ...record.files.filter(f => !f.includes('/runtime/') && !f.endsWith('/runtime-entry.js')), 'bencho/runtime/components.js', 'bencho/runtime/upstream.css', 'bencho/runtime/provenance.json'];
+  fs.writeFileSync(
+    path.join(root, entry),
+    header +
+      `import {renderers} from '../runtime/components.js';\nexport default renderers[${JSON.stringify(record.id)}];\n`,
+  );
+  record.files = [
+    entry,
+    ...record.files.filter(f => !f.includes('/runtime/') && !f.endsWith('/runtime-entry.js')),
+    'bencho/runtime/components.js',
+    'bencho/runtime/upstream.css',
+    'bencho/runtime/provenance.json',
+  ];
   if (record.status === 'snippet') record.previewOrigin = 'upstream-bundle';
 }
 fs.writeFileSync(path.join(root, 'library-records.json'), JSON.stringify(records, null, 2) + '\n');
-console.log(`Extracted ${snippets.length} public renderers, ${ordered.length} declarations, ${fragments.length} bytes.`);
+console.log(
+  `Extracted ${snippets.length} public renderers, ${ordered.length} declarations, ${fragments.length} bytes.`,
+);
 
 // Original previews also retain the exact bundled dependency implementations.
 // The adapted module above remains exclusive to the project version.
-external.clear();declarations.clear();
-for(const record of snippets)pull(catalogNodes.get(record.id.replace('bencho--','')));
-for(const name of ['hd','md','Wc','ud']){const def=variables.get(name).defs[0].node;declarations.set(def.start,def);pull(def);}
-const exactOrdered=[...declarations.values()].sort((a,b)=>a.start-b.start);
-const exactFragments=exactOrdered.map(n=>(n.type==='VariableDeclarator'?'var ':'')+raw.slice(n.start,n.end)+';').join('\n');
-const exactEntry=`\nconst archiveId=document.body.dataset.id;\nconst archiveRenderers={${renderers.join(',\n')}};\nclass ArchiveBoundary extends y.Component{constructor(p){super(p);this.state={error:false}}static getDerivedStateFromError(){return{error:true}}componentDidCatch(e){document.body.dataset.previewStatus='error';console.error(e)}render(){return this.state.error?U.jsx('p',{children:'预览加载失败'}):this.props.children}}\nmd.createRoot(document.getElementById('root')).render(U.jsx(ArchiveBoundary,{children:U.jsx(Wc,{reducedMotion:'user',children:U.jsx(ud.Provider,{value:{weight:'regular',color:'currentColor'},children:U.jsxs('div',{className:'original-stage','data-fill':'light','data-surface':'flat',children:[U.jsx(hd,{}),archiveRenderers[archiveId]()]})})})}));document.body.dataset.previewStatus='ready';\n`;
-fs.writeFileSync(path.join(folder,'exact-runtime.js'),`// Exact public Bencho declarations and dependencies. Catalogue/startup excluded.\n// Lorenzo Cabra — https://bencho.dev/\n`+exactFragments+exactEntry);
-fs.writeFileSync(path.join(folder,'exact-provenance.json'),JSON.stringify({source:'https://bencho.dev/assets/index-DkISJD_p.js',sha256:bundleHash,author:'Lorenzo Cabra',dependencyReplacements:[],entryIds:snippets.map(r=>r.id),declarations:exactOrdered.map(n=>({start:n.start,end:n.end}))},null,2)+'\n');
-console.log(`Preserved exact original dependencies: ${exactOrdered.length} declarations, ${exactFragments.length} bytes.`);
+external.clear();
+declarations.clear();
+for (const record of snippets) pull(catalogNodes.get(record.id.replace('bencho--', '')));
+for (const name of ['hd', 'md', 'Wc', 'ud']) {
+  const def = variables.get(name).defs[0].node;
+  declarations.set(def.start, def);
+  pull(def);
+}
+const exactOrdered = [...declarations.values()].sort((a, b) => a.start - b.start);
+const exactFragments = exactOrdered
+  .map(n => (n.type === 'VariableDeclarator' ? 'var ' : '') + raw.slice(n.start, n.end) + ';')
+  .join('\n');
+const exactEntry = `\nconst archiveId=document.body.dataset.id;\nconst archiveRenderers={${renderers.join(',\n')}};\nclass ArchiveBoundary extends y.Component{constructor(p){super(p);this.state={error:false}}static getDerivedStateFromError(){return{error:true}}componentDidCatch(e){document.body.dataset.previewStatus='error';console.error(e)}render(){return this.state.error?U.jsx('p',{children:'预览加载失败'}):this.props.children}}\nmd.createRoot(document.getElementById('root')).render(U.jsx(ArchiveBoundary,{children:U.jsx(Wc,{reducedMotion:'user',children:U.jsx(ud.Provider,{value:{weight:'regular',color:'currentColor'},children:U.jsxs('div',{className:'original-stage','data-fill':'light','data-surface':'flat',children:[U.jsx(hd,{}),archiveRenderers[archiveId]()]})})})}));document.body.dataset.previewStatus='ready';\n`;
+fs.writeFileSync(
+  path.join(folder, 'exact-runtime.js'),
+  `// Exact public Bencho declarations and dependencies. Catalogue/startup excluded.\n// Lorenzo Cabra — https://bencho.dev/\n` +
+    exactFragments +
+    exactEntry,
+);
+fs.writeFileSync(
+  path.join(folder, 'exact-provenance.json'),
+  JSON.stringify(
+    {
+      source: 'https://bencho.dev/assets/index-DkISJD_p.js',
+      sha256: bundleHash,
+      author: 'Lorenzo Cabra',
+      dependencyReplacements: [],
+      entryIds: snippets.map(r => r.id),
+      declarations: exactOrdered.map(n => ({ start: n.start, end: n.end })),
+    },
+    null,
+    2,
+  ) + '\n',
+);
+console.log(
+  `Preserved exact original dependencies: ${exactOrdered.length} declarations, ${exactFragments.length} bytes.`,
+);

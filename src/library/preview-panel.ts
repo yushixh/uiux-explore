@@ -49,8 +49,13 @@ export class PreviewPanel {
     const codeStage = query(this.element, '.code-stage');
     const footer = query(this.element, '.panel-footer');
     this.view = new SegmentedControl<'preview' | 'code'>({
-      label: `${options.name}展示方式`, value: 'preview', iconOnly: true,
-      options: [{ value: 'preview', label: '预览', icon: 'eye' }, { value: 'code', label: '代码', icon: 'code' }],
+      label: `${options.name}展示方式`,
+      value: 'preview',
+      iconOnly: true,
+      options: [
+        { value: 'preview', label: '预览', icon: 'eye' },
+        { value: 'code', label: '代码', icon: 'code' },
+      ],
       onChange: view => {
         this.currentView = view;
         this.stage.hidden = view !== 'preview';
@@ -63,10 +68,19 @@ export class PreviewPanel {
     const reset = query(this.element, '.reset-demo');
     reset.setAttribute('aria-label', `重置${options.name}`);
     reset.addEventListener('click', options.onReset, { signal: this.abort.signal });
-    query(this.element, '.copy-button').addEventListener('click', () => { void this.copy(this.code); }, { signal: this.abort.signal });
+    query(this.element, '.copy-button').addEventListener(
+      'click',
+      () => {
+        void this.copy(this.code);
+      },
+      { signal: this.abort.signal },
+    );
   }
 
-  setCode(code: string): void { this.code = code; query(this.element, 'code').textContent = code; }
+  setCode(code: string): void {
+    this.code = code;
+    query(this.element, 'code').textContent = code;
+  }
 
   private async copy(code: string): Promise<void> {
     const button = query<HTMLButtonElement>(this.element, '.copy-button');
@@ -81,14 +95,23 @@ export class PreviewPanel {
       const range = document.createRange();
       range.selectNodeContents(query(this.element, 'code'));
       const selection = window.getSelection();
-      selection?.removeAllRanges(); selection?.addRange(range);
+      selection?.removeAllRanges();
+      selection?.addRange(range);
       button.textContent = '已选中';
       status.hidden = false;
       status.textContent = '请按 ⌘C / Ctrl+C 复制';
     }
     window.clearTimeout(this.timer);
-    this.timer = window.setTimeout(() => { button.textContent = '复制代码'; status.hidden = true; }, 3500);
+    this.timer = window.setTimeout(() => {
+      button.textContent = '复制代码';
+      status.hidden = true;
+    }, 3500);
   }
 
-  destroy(): void { this.abort.abort(); this.view.destroy(); this.colors.destroy(); window.clearTimeout(this.timer); }
+  destroy(): void {
+    this.abort.abort();
+    this.view.destroy();
+    this.colors.destroy();
+    window.clearTimeout(this.timer);
+  }
 }

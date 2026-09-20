@@ -8,8 +8,10 @@ const paths = {
   beam: '<rect x="4" y="4" width="16" height="16" rx="2"/>',
   gooey: '<circle cx="12" cy="12" r="8" fill="currentColor" stroke="none"/>',
   metal: '<path d="m12 3 9 9-9 9-9-9Z"/><path d="m12 7 5 5-5 5-5-5Z" fill="currentColor" stroke="none"/>',
-  image: '<rect x="4" y="4" width="16" height="16" rx="2"/><path d="m4 15 5-5 5 5 3-3 3 3"/><circle cx="15.5" cy="8.5" r="1" fill="currentColor" stroke="none"/>',
-  keyboard: '<rect x="3" y="6" width="18" height="12" rx="2"/><path d="M6 9h.01M10 9h.01M14 9h.01M18 9h.01M6 12h.01M10 12h.01M14 12h.01M18 12h.01M8 15h8"/>',
+  image:
+    '<rect x="4" y="4" width="16" height="16" rx="2"/><path d="m4 15 5-5 5 5 3-3 3 3"/><circle cx="15.5" cy="8.5" r="1" fill="currentColor" stroke="none"/>',
+  keyboard:
+    '<rect x="3" y="6" width="18" height="12" rx="2"/><path d="M6 9h.01M10 9h.01M14 9h.01M18 9h.01M6 12h.01M10 12h.01M14 12h.01M18 12h.01M8 15h8"/>',
   search: '<circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/>',
   chevron: '<path d="m9 5 7 7-7 7"/>',
   arrow: '<path d="M4 12h16m-6-6 6 6-6 6"/>',

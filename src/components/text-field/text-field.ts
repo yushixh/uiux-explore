@@ -59,18 +59,29 @@ export class TextField {
     query(this.element, '.field-required').textContent = options.required ? '必填' : '选填';
     const leading = query(this.element, '.field-leading');
     if (options.leadingIcon) leading.innerHTML = icon(options.leadingIcon);
-    else { leading.hidden = true; this.element.classList.add('without-leading'); }
+    else {
+      leading.hidden = true;
+      this.element.classList.add('without-leading');
+    }
     this.clearButton = query<HTMLButtonElement>(this.element, '.field-clear');
     this.clearButton.setAttribute('aria-label', `清空${options.label}`);
-    this.clearButton.addEventListener('click', () => {
-      this.setValue('');
-      this.input.focus();
-      this.input.dispatchEvent(new Event('input', { bubbles: true }));
-    }, { signal: this.abort.signal });
-    this.input.addEventListener('input', event => {
-      this.updateClearButton();
-      options.onInput?.(this.value, event);
-    }, { signal: this.abort.signal });
+    this.clearButton.addEventListener(
+      'click',
+      () => {
+        this.setValue('');
+        this.input.focus();
+        this.input.dispatchEvent(new Event('input', { bubbles: true }));
+      },
+      { signal: this.abort.signal },
+    );
+    this.input.addEventListener(
+      'input',
+      event => {
+        this.updateClearButton();
+        options.onInput?.(this.value, event);
+      },
+      { signal: this.abort.signal },
+    );
     this.input.addEventListener('blur', () => options.onBlur?.(this.value), { signal: this.abort.signal });
     this.setValue(options.value ?? '');
     this.setStatus('default');
@@ -78,10 +89,19 @@ export class TextField {
     this.setSize(options.size ?? 'comfortable');
   }
 
-  get value(): string { return this.input.value; }
-  setValue(value: string): void { this.input.value = value; this.updateClearButton(); }
-  focus(): void { this.input.focus(); }
-  setSize(size: 'compact' | 'comfortable'): void { this.element.dataset.size = size; }
+  get value(): string {
+    return this.input.value;
+  }
+  setValue(value: string): void {
+    this.input.value = value;
+    this.updateClearButton();
+  }
+  focus(): void {
+    this.input.focus();
+  }
+  setSize(size: 'compact' | 'comfortable'): void {
+    this.element.dataset.size = size;
+  }
   setDisabled(disabled: boolean): void {
     this.input.disabled = disabled;
     this.element.dataset.disabled = String(disabled);
@@ -91,7 +111,8 @@ export class TextField {
     this.element.dataset.state = status;
     this.input.setAttribute('aria-invalid', String(status === 'error'));
     this.hint.textContent = message ?? this.options.hint ?? '';
-    query(this.element, '.field-message-icon').innerHTML = status === 'default' ? '' : icon(status === 'error' ? 'alert' : 'check');
+    query(this.element, '.field-message-icon').innerHTML =
+      status === 'default' ? '' : icon(status === 'error' ? 'alert' : 'check');
     const feedback = query(this.element, '.field-message');
     feedback.setAttribute('role', status === 'error' ? 'alert' : 'status');
     feedback.setAttribute('aria-live', 'polite');
@@ -101,5 +122,7 @@ export class TextField {
     this.clearButton.style.visibility = visible ? 'visible' : 'hidden';
     this.clearButton.disabled = !visible;
   }
-  destroy(): void { this.abort.abort(); }
+  destroy(): void {
+    this.abort.abort();
+  }
 }

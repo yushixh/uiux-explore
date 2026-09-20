@@ -1,0 +1,10 @@
+# Archived third-party sources and generated data stay byte-identical to their recorded hashes.
+/public/archive/
+/archive/
+/dist/
+/artifacts/
+node_modules/
+package-lock.json
+
+# Prose keeps its hand-set tables and line breaks.
+*.md

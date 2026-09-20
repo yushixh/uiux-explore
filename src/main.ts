@@ -12,10 +12,16 @@ mount.replaceChildren(page.element);
 function route() {
   const next = location.hash.startsWith('#archive') ? 'archive' : 'workbench';
   if (next === mode) return;
-  page.destroy(); mode = next;
+  page.destroy();
+  mode = next;
   page = mode === 'archive' ? createArchivePage() : createCatalogPage(catalog);
   mount.replaceChildren(page.element);
 }
 window.addEventListener('hashchange', route);
 window.addEventListener('popstate', route);
-if (import.meta.hot) import.meta.hot.dispose(() => { page.destroy(); window.removeEventListener('hashchange', route); window.removeEventListener('popstate', route); });
+if (import.meta.hot)
+  import.meta.hot.dispose(() => {
+    page.destroy();
+    window.removeEventListener('hashchange', route);
+    window.removeEventListener('popstate', route);
+  });

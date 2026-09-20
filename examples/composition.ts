@@ -3,7 +3,10 @@ import { WeatherCard, TextField, ColorScope, composePalette, type WeatherData } 
 
 // This host imports no library UI or app.css. Each instance owns only its state.
 const data: WeatherData = {
-  city: '上海', location: 'SHANGHAI, CN', high: 33, low: 26,
+  city: '上海',
+  location: 'SHANGHAI, CN',
+  high: 33,
+  low: 26,
   periods: {
     day: { temperature: 31, condition: '晴朗', localTime: '14:00' },
     night: { temperature: 26, condition: '晴朗', localTime: '21:00' },
@@ -17,20 +20,55 @@ mount.innerHTML = `<h1 class="text-xl mb-2">独立组件组合</h1><p class="tex
 document.querySelector('#weather-examples')!.append(first.element, second.element);
 const globalColors = new ColorScope(mount, { palette: 'ocean' });
 const firstColors = new ColorScope(first.element, { parent: globalColors });
-const secondColors = new ColorScope(second.element, { parent: globalColors, palette: composePalette('forest', { secondary: '#b396d0', highlight: '#e3b7d1' }) });
-document.querySelector('#toggle-first')!.addEventListener('click', () => first.setMode(first.mode === 'day' ? 'night' : 'day'));
-const name = new TextField({ id: 'example-name', name: 'name', label: '显示名称', value: '林间', hint: '无图标的文本输入变体。' });
-const email = new TextField({ id: 'example-email', name: 'email', label: '电子邮箱', type: 'email', leadingIcon: 'mail', value: 'lin@example.com', required: true, hint: '由宿主表单决定校验策略。' });
+const secondColors = new ColorScope(second.element, {
+  parent: globalColors,
+  palette: composePalette('forest', { secondary: '#b396d0', highlight: '#e3b7d1' }),
+});
+document
+  .querySelector('#toggle-first')!
+  .addEventListener('click', () => first.setMode(first.mode === 'day' ? 'night' : 'day'));
+const name = new TextField({
+  id: 'example-name',
+  name: 'name',
+  label: '显示名称',
+  value: '林间',
+  hint: '无图标的文本输入变体。',
+});
+const email = new TextField({
+  id: 'example-email',
+  name: 'email',
+  label: '电子邮箱',
+  type: 'email',
+  leadingIcon: 'mail',
+  value: 'lin@example.com',
+  required: true,
+  hint: '由宿主表单决定校验策略。',
+});
 document.querySelector('#name-mount')!.append(name.element);
 document.querySelector('#email-mount')!.append(email.element);
-const formColors = new ColorScope(document.querySelector<HTMLElement>('#profile')!, { parent: globalColors, palette: 'iris' });
+const formColors = new ColorScope(document.querySelector<HTMLElement>('#profile')!, {
+  parent: globalColors,
+  palette: 'iris',
+});
 document.querySelector<HTMLFormElement>('#profile')!.addEventListener('submit', event => {
   event.preventDefault();
   const form = event.currentTarget as HTMLFormElement;
   const valid = form.checkValidity();
   email.setStatus(valid ? 'success' : 'error', valid ? '格式正确。' : '请检查邮箱格式。');
-  document.querySelector('#result')!.textContent = valid ? JSON.stringify(Object.fromEntries(new FormData(form))) : '请检查表单。';
+  document.querySelector('#result')!.textContent = valid
+    ? JSON.stringify(Object.fromEntries(new FormData(form)))
+    : '请检查表单。';
 });
 
 export { first, second, name, email, data };
-if (import.meta.hot) import.meta.hot.dispose(() => { first.destroy(); second.destroy(); name.destroy(); email.destroy(); firstColors.destroy(); secondColors.destroy(); formColors.destroy(); globalColors.destroy(); });
+if (import.meta.hot)
+  import.meta.hot.dispose(() => {
+    first.destroy();
+    second.destroy();
+    name.destroy();
+    email.destroy();
+    firstColors.destroy();
+    secondColors.destroy();
+    formColors.destroy();
+    globalColors.destroy();
+  });

@@ -27,7 +27,8 @@ export class LibraryShell {
     this.home = query<HTMLAnchorElement>(this.element, '.wordmark');
     this.sidebar = query(this.element, '.library-sidebar');
     this.element.querySelectorAll<HTMLAnchorElement>('.module-navigation a').forEach(a => {
-      if ((location.hash.startsWith('#archive')) === (a.hash === '#archive')) a.setAttribute('aria-current', 'page');
+      if (location.hash.startsWith('#archive') === (a.hash === '#archive'))
+        a.setAttribute('aria-current', 'page');
     });
   }
 }
