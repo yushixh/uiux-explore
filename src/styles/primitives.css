@@ -11,7 +11,7 @@
   display: grid;
   grid-template-columns: repeat(var(--segments), minmax(0, 1fr));
   padding: 3px;
-  background: #eceff2;
+  background: var(--chrome-sunken, #eceff2);
   border-radius: 8px;
   isolation: isolate;
 }
@@ -22,9 +22,9 @@
   bottom: 3px;
   left: 3px;
   width: calc((100% - 6px) / var(--segments));
-  background: white;
+  background: var(--chrome-raised, #fff);
   border-radius: 5px;
-  box-shadow: 0 1px 3px #26324215;
+  box-shadow: 0 1px 3px var(--chrome-shadow, #26324215);
   transform: translateX(calc(var(--selected) * 100%));
   transition: transform 350ms cubic-bezier(0.22, 0.68, 0, 1.02);
 }
@@ -38,7 +38,7 @@
   border: none;
   border-radius: 5px;
   background: transparent;
-  color: #85909e;
+  color: var(--chrome-muted, #5f6b78);
   font: inherit;
   font-size: 11px;
   white-space: nowrap;
@@ -58,7 +58,7 @@
   height: 16px;
 }
 .segment-button[aria-pressed='true'] {
-  color: #414b58;
+  color: var(--chrome-ink, #28313b);
 }
 .segmented[data-shape='pill'] {
   border-radius: 24px;
@@ -82,7 +82,7 @@
   --segment-fill: var(--ui-accent, #515963);
   --segment-height: 24px;
   padding: 2px;
-  background: color-mix(in srgb, var(--segment-fill) 10%, #fff);
+  background: color-mix(in srgb, var(--segment-fill) 10%, var(--chrome-surface, #fff));
   box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--segment-fill) 12%, transparent);
 }
 .segmented[data-effect='gooey'] .segment-thumb {
@@ -122,7 +122,7 @@
   height: 14px;
 }
 .segmented[data-effect='gooey'] .segment-button {
-  color: #697582;
+  color: var(--chrome-muted, #5f6b78);
 }
 .segmented[data-effect='gooey'] .segment-button[aria-pressed='true'] {
   color: var(--ui-onAccent, #fff);

@@ -3,6 +3,7 @@ import type { BeamVariant } from '../components/effects/border-beam';
 import type { GooeyVariant } from '../components/effects/gooey';
 import type { ImagePreset } from '../components/effects/image-generation';
 import { TextField } from '../components/text-field/text-field';
+import { SegmentedControl } from '../components/segmented-control';
 import { createElement, query } from '../lib/dom';
 import { PreviewPanel } from './preview-panel';
 import { LayoutInspector } from './layout-inspector';
@@ -38,18 +39,37 @@ function setup(metadata: ComponentMetadata, context: DemoContext) {
     '<div class="effect-demo-stage" data-layout="container" data-layout-label="效果预览容器"></div>',
   );
   panel.stage.append(stage);
+  /** Up to three options stay visible as segments; longer lists keep the native select. */
   function select<T extends string>(
     label: string,
     options: readonly (readonly [T, string])[],
     initial: T,
     change: (value: T) => void,
-  ) {
+  ): { setValue: (value: T) => void } {
+    const name = `${metadata.name}${label}`;
+    if (options.length <= 3) {
+      const group = createElement<HTMLDivElement>('<div class="demo-select"><span></span></div>');
+      query(group, 'span').textContent = label;
+      const segments = new SegmentedControl<T>({
+        label: name,
+        value: initial,
+        options: options.map(([value, text]) => ({ value, label: text })),
+        onChange: value => {
+          change(value);
+          onUpdate();
+        },
+      });
+      cleanups.push(() => segments.destroy());
+      group.append(segments.element);
+      panel.controls.append(group);
+      return segments;
+    }
     const control = createElement<HTMLLabelElement>(
       '<label class="demo-select"><span></span><select></select></label>',
     );
     query(control, 'span').textContent = label;
     const input = query<HTMLSelectElement>(control, 'select');
-    input.setAttribute('aria-label', `${metadata.name}${label}`);
+    input.setAttribute('aria-label', name);
     options.forEach(([value, text]) => input.add(new Option(text, value)));
     input.value = initial;
     input.addEventListener(
@@ -61,7 +81,11 @@ function setup(metadata: ComponentMetadata, context: DemoContext) {
       { signal: abort.signal },
     );
     panel.controls.append(control);
-    return input;
+    return {
+      setValue: value => {
+        input.value = value;
+      },
+    };
   }
   function action(label: string, run: () => void) {
     const button = createElement<HTMLButtonElement>('<button type="button" class="demo-action"></button>');
@@ -157,9 +181,9 @@ export async function createOrbDemo(metadata: ComponentMetadata, context: DemoCo
       state = 'searching';
       size = 64;
       speed = 1;
-      stateSelect.value = state;
-      sizeSelect.value = '64';
-      speedSelect.value = '1';
+      stateSelect.setValue(state);
+      sizeSelect.setValue('64');
+      speedSelect.setValue('1');
       orb.setState(state);
       orb.setSpeed(speed);
       orb.reset();
@@ -214,8 +238,8 @@ export async function createBeamDemo(metadata: ComponentMetadata, context: DemoC
     () => {
       variant = 'md';
       speed = 1;
-      variantSelect.value = variant;
-      speedSelect.value = '1';
+      variantSelect.setValue(variant);
+      speedSelect.setValue('1');
       beam.setVariant(variant);
       beam.setSpeed(speed);
     },
@@ -254,7 +278,7 @@ export async function createGooeyDemo(metadata: ComponentMetadata, context: Demo
   return demo.finish(
     () => {
       variant = 'morph';
-      select.value = variant;
+      select.setValue(variant);
       gooey.setVariant(variant);
       gooey.reset();
       status.textContent = '';
@@ -307,7 +331,7 @@ export async function createMetalDemo(metadata: ComponentMetadata, context: Demo
   return demo.finish(
     () => {
       strength = 1;
-      intensity.value = '1';
+      intensity.setValue('1');
       metal.setStrength(1);
       field.setValue('');
       feedback.textContent = '';
@@ -365,7 +389,7 @@ export async function createImageDemo(metadata: ComponentMetadata, context: Demo
   const result = demo.finish(
     () => {
       preset = 'pixels-organic';
-      style.value = preset;
+      style.setValue(preset);
       image.hide();
       image.setPreset(preset);
     },

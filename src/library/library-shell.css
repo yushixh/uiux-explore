@@ -1,244 +1,247 @@
-/* Page → header/catalog regions → local controls. */
+/* Page → header, sidebar and main regions. Every module shares these; module styles only add to them. */
 .library-shell {
-  --page-width: 1184px;
-  --page-inset: clamp(20px, 4vw, 56px);
-  --page-gap: 24px;
+  --header-height: 44px;
   display: grid;
   grid-template-rows: auto 1fr;
+  grid-template-columns: minmax(0, 1fr);
   min-height: 100svh;
+  color: var(--chrome-ink);
+  background: var(--chrome-canvas);
 }
 .library-header {
-  border-bottom: 1px solid var(--color-line);
-  background: var(--color-paper);
-  padding-inline: var(--page-inset);
+  padding: 0 16px;
+  border-bottom: 1px solid var(--chrome-line);
+  background: var(--chrome-surface);
 }
 .library-header-inner {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-columns: auto minmax(0, 1fr) auto;
   align-items: center;
-  gap: var(--page-gap);
-  min-height: 88px;
-  max-width: var(--page-width);
-  margin-inline: auto;
+  gap: 16px;
+  min-height: var(--header-height);
 }
 .wordmark {
   display: inline-grid;
-  grid-template-columns: 28px auto;
+  grid-auto-flow: column;
   align-items: center;
-  gap: 12px;
+  gap: 8px;
   width: fit-content;
-  font-size: 27px;
+  color: inherit;
+  font-size: 18px;
   font-weight: 600;
-  letter-spacing: -1.3px;
+  line-height: 1.25;
+  letter-spacing: -0.5px;
   text-decoration: none;
+  white-space: nowrap;
 }
-.wordmark > .icon {
-  width: 28px;
-  height: 28px;
-  color: #b7804f;
-  stroke-width: 1.4;
+.brand-mark {
+  display: block;
+  width: 24px;
+  height: 24px;
 }
+.wordmark-name {
+  font-weight: 400;
+}
+.module-navigation {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+  padding-left: 18px;
+}
+.module-navigation a {
+  display: flex;
+  align-items: center;
+  min-height: 32px;
+  padding: 0 12px;
+  border-radius: 6px;
+  color: var(--chrome-muted);
+  font-size: 12px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.module-navigation a:hover {
+  color: var(--chrome-ink);
+  background: var(--chrome-hover);
+}
+.module-navigation a[aria-current='page'] {
+  color: var(--chrome-ink);
+  background: var(--chrome-sunken);
+}
+
+/* Header actions never shrink: the icon-only mode switch has no intrinsic minimum of its own. */
 .library-header-actions {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
 }
-.inspect-toggle {
+.library-header-actions > * {
+  flex: none;
+}
+.global-mode .segmented {
+  width: max-content;
+}
+.global-palette {
+  position: relative;
+  z-index: 20;
+}
+.global-palette summary {
   display: grid;
-  grid-template-columns: 16px auto;
-  align-items: center;
-  gap: 8px;
-  padding: 9px 13px;
-  min-height: 38px;
-  border: 1px solid var(--color-line);
-  border-radius: 8px;
-  color: #687381;
-  background: white;
-  font-size: 12px;
+  place-items: center;
+  width: 44px;
+  height: 30px;
+  border: 1px solid var(--chrome-line);
+  border-radius: 7px;
+  background: var(--chrome-surface);
+  cursor: pointer;
+  list-style: none;
 }
-.inspect-toggle > .icon {
-  width: 16px;
-  height: 16px;
+.global-palette summary::-webkit-details-marker {
+  display: none;
 }
-.inspect-toggle:hover,
-.inspect-toggle[aria-pressed='true'] {
-  border-color: #cfb79f;
-  color: #996a43;
-  background: #fcf8f3;
+.global-palette summary:focus-visible {
+  outline: 2px solid var(--ui-accent, var(--color-accent));
+  outline-offset: 3px;
+}
+.global-palette[open] summary,
+.global-palette summary:hover {
+  border-color: var(--chrome-line-strong);
+  background: var(--chrome-hover);
+}
+.global-palette-options {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  display: grid;
+  grid-template-columns: repeat(5, 36px);
+  gap: 4px;
+  padding: 8px;
+  border: 1px solid var(--chrome-line);
+  border-radius: 10px;
+  background: var(--chrome-surface);
+  box-shadow: 0 8px 24px var(--chrome-shadow);
+}
+.global-palette-option {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: transparent;
+}
+.global-palette-option:hover {
+  background: var(--chrome-hover);
+}
+.global-palette-option[aria-pressed='true'] {
+  border-color: var(--chrome-line-strong);
+  background: var(--chrome-hover);
+}
+.palette-dots {
+  display: flex;
+  flex-shrink: 0;
+}
+.palette-dots i {
+  width: 13px;
+  height: 13px;
+  border: 1px solid color-mix(in srgb, var(--chrome-surface) 55%, transparent);
+  border-radius: 50%;
+}
+.palette-dots i + i {
+  margin-left: -4px;
+}
+
+.library-body {
+  display: grid;
+  grid-template-columns: 184px minmax(0, 1fr);
+  width: 100%;
+  max-width: 1600px;
+  min-width: 0;
+  margin-inline: auto;
+}
+/* The directory stays in view while a long list scrolls beside it. */
+.library-sidebar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-self: start;
+  min-width: 0;
+  min-height: calc(100svh - var(--header-height) - 1px);
+  max-height: 100svh;
+  overflow-y: auto;
+  padding: 20px 12px;
+  border-right: 1px solid var(--chrome-line);
 }
 .main-content {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   align-content: start;
-  gap: var(--page-gap);
-  width: min(calc(100% - var(--page-inset) * 2), var(--page-width));
-  margin-inline: auto;
-  padding-block: 36px 56px;
-  outline: none;
-}
-.catalog-toolbar {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 236px;
-  gap: 24px;
-  align-items: center;
-}
-.catalog-navigation {
-  min-width: 0;
-  overflow-x: auto;
-  padding: 4px;
-  margin: -4px;
-}
-.catalog-navigation .segmented {
-  width: max-content;
-  background: #eceef1;
-}
-.catalog-navigation .segment-button {
-  min-width: 74px;
-  height: 34px;
-  font-size: 12px;
-}
-.catalog-search {
-  display: grid;
-  grid-template-columns: 16px minmax(0, 1fr) 24px;
-  align-items: center;
-  gap: 8px;
-  min-height: 40px;
-  padding-inline: 12px 6px;
-  border: 1px solid #e0e4e9;
-  border-radius: 8px;
-  background: white;
-}
-.catalog-search > .icon {
-  width: 16px;
-  height: 16px;
-  color: #8c96a3;
-}
-.catalog-search input {
+  gap: 16px;
   width: 100%;
   min-width: 0;
-  padding: 0;
-  font-size: 12px;
-  line-height: 24px;
-  color: #4b5664;
-  border: 0;
+  padding: 20px 24px 32px;
   outline: none;
-  background: transparent;
 }
-.catalog-search input::placeholder {
-  color: #8a94a1;
+.library-shell select:focus-visible {
+  outline: 2px solid var(--ui-accent, var(--color-accent));
+  outline-offset: 2px;
 }
-.catalog-search input::-webkit-search-cancel-button {
-  display: none;
-}
-.catalog-search:focus-within {
-  border-color: #bd9675;
-  box-shadow: 0 0 0 3px #c6a78915;
-}
-.catalog-search kbd {
-  display: grid;
-  place-items: center;
-  width: 20px;
-  height: 22px;
-  border: 1px solid #e7eaee;
-  border-radius: 4px;
-  color: #949daa;
-  font-family: var(--font-mono);
-  font-size: 10px;
-}
-.catalog-search .clear-search {
-  width: 24px;
-  height: 28px;
-}
-.clear-search .icon {
-  width: 14px;
-  height: 14px;
-}
-.empty-state {
-  display: grid;
-  justify-items: center;
-  gap: 20px;
-  border: 1px dashed #d5dbe3;
-  border-radius: 16px;
-  background: white;
-  padding: 80px 20px;
-}
-.empty-state h2 {
-  font-size: 15px;
-  font-weight: 500;
-}
-.empty-reset {
-  font-size: 12px;
-  padding: 10px 16px;
-  border: 1px solid #d6c5b4;
-  border-radius: 8px;
-  color: #916b49;
-}
-.inspector-toolbar {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  align-items: center;
-  gap: 12px;
-  padding: 10px 12px;
-  border: 1px solid #e2d8cd;
-  border-radius: 10px;
-  background: #faf7f2;
-}
-.inspector-levels .segmented {
-  width: fit-content;
-  background: #eee8e1;
-}
-.component-grid {
-  min-width: 0;
-}
-@media (max-width: 1023px) {
-  .main-content {
-    max-width: 660px;
-  }
-  .library-header-inner {
-    max-width: 660px;
-  }
-}
-@media (max-width: 600px) {
-  .library-shell {
-    --page-gap: 20px;
-  }
-  .library-header-inner {
-    min-height: 72px;
-  }
-  .wordmark {
-    font-size: 24px;
-    gap: 9px;
-    grid-template-columns: 24px auto;
-  }
-  .wordmark > .icon {
-    width: 24px;
-    height: 24px;
+
+@media (max-width: 1100px) {
+  .library-body {
+    grid-template-columns: 172px minmax(0, 1fr);
   }
   .main-content {
-    padding-block: 24px 36px;
+    padding: 20px;
   }
-  .catalog-toolbar {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 16px;
+}
+@media (max-width: 760px) {
+  .library-header-inner {
+    gap: 8px;
   }
-  .catalog-search input {
-    font-size: 16px;
+  .library-header-actions {
+    gap: 8px;
   }
-  .catalog-search input::placeholder {
-    font-size: 13px;
+  .module-navigation {
+    padding-left: 0;
   }
-  .catalog-search {
-    min-height: 44px;
+  .module-navigation a {
+    padding-inline: 8px;
   }
-  .catalog-navigation .segment-button {
-    min-width: 72px;
+  .library-body {
+    display: block;
+  }
+  .library-sidebar {
+    position: static;
+    min-height: 0;
+    max-height: none;
+    padding: 12px 16px 8px;
+    border-right: 0;
+    border-bottom: 1px solid var(--chrome-line);
+  }
+  .main-content {
+    gap: 12px;
+    padding: 12px 16px 24px;
+  }
+}
+/* Below this width the mark alone identifies the site, leaving room for both modules and actions. */
+@media (max-width: 420px) {
+  .wordmark-text {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
   }
 }
 @media (max-width: 380px) {
-  .library-shell {
-    --page-inset: 16px;
+  .library-header {
+    padding-inline: 12px;
   }
-  .inspect-toggle {
-    padding-inline: 10px;
+  .main-content,
+  .library-sidebar {
+    padding-inline: 12px;
   }
 }

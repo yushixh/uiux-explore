@@ -15,23 +15,23 @@
   align-items: center;
   gap: 10px;
   font-size: 12px;
-  color: #747e8a;
+  color: var(--chrome-muted);
 }
 .demo-select select {
   padding: 8px 26px 8px 10px;
-  border: 1px solid #e1e5ea;
+  border: 1px solid var(--chrome-line);
   border-radius: 7px;
-  background: #fff;
-  color: #424d58;
+  color: var(--chrome-ink);
+  background: var(--chrome-surface);
   max-width: 150px;
 }
 .demo-action {
-  border: 1px solid #dfe4ea;
+  border: 1px solid var(--chrome-line);
   border-radius: 8px;
   padding: 8px 12px;
   font-size: 12px;
-  color: #526070;
-  background: white;
+  color: var(--chrome-text);
+  background: var(--chrome-surface);
 }
 .demo-action:disabled {
   opacity: 0.4;
@@ -103,7 +103,7 @@
   background: var(--ui-raised);
   border: 1px solid var(--ui-line);
   border-radius: 20px;
-  box-shadow: 0 12px 30px #17243304;
+  box-shadow: 0 12px 30px color-mix(in srgb, var(--ui-ink) 2%, transparent);
 }
 .metal-composer-actions {
   display: flex;
@@ -166,4 +166,8 @@
   .beam-demo-card h3 {
     font-size: 20px;
   }
+}
+.demo-select .segment-button {
+  height: 28px;
+  font-size: 12px;
 }

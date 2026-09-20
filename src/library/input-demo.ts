@@ -1,4 +1,5 @@
 import { TextField, SegmentedControl } from '../components';
+import { codeLiteral } from '../lib/code-literal';
 import { createElement, query } from '../lib/dom';
 import { PreviewPanel } from './preview-panel';
 import { LayoutInspector } from './layout-inspector';
@@ -51,7 +52,6 @@ form.addEventListener('submit', event => {
 
 email.setDisabled(false);`,
   });
-  panel.stage.classList.add('input-stage');
   const canvas = createElement<HTMLDivElement>(`
     <div class="input-preview-canvas">
       <div class="input-demo-content">
@@ -150,7 +150,7 @@ email.setDisabled(false);`,
       onUpdate = callback;
     },
     getCode: () =>
-      `import { TextField } from './src/components';\n\nconst form = document.createElement('form');\nform.noValidate = true;\nmount.append(form);\nconst email = new TextField({\n  id: 'contact-email', name: 'email', label: '电子邮箱',\n  type: 'email', required: true, size: '${currentSize}',\n  value: ${JSON.stringify(field.value)},\n  onInput: () => email.setStatus('default'),\n});\nform.append(email.element);\nemail.setDisabled(${currentState === 'disabled'});\nemail.setStatus('${currentState === 'disabled' ? 'default' : currentState}');\nform.addEventListener('submit', event => {\n  event.preventDefault();\n  const valid = email.input.checkValidity();\n  email.setStatus(valid ? 'success' : 'error',\n    valid ? '邮箱格式正确' : '请输入有效邮箱');\n});\n\n// 卸载时调用 email.destroy();`,
+      `import { TextField } from './src/components';\n\nconst form = document.createElement('form');\nform.noValidate = true;\nmount.append(form);\nconst email = new TextField({\n  id: 'contact-email', name: 'email', label: '电子邮箱',\n  type: 'email', required: true, size: '${currentSize}',\n  value: ${codeLiteral(field.value)},\n  onInput: () => email.setStatus('default'),\n});\nform.append(email.element);\nemail.setDisabled(${currentState === 'disabled'});\nemail.setStatus('${currentState === 'disabled' ? 'default' : currentState}');\nform.addEventListener('submit', event => {\n  event.preventDefault();\n  const valid = email.input.checkValidity();\n  email.setStatus(valid ? 'success' : 'error',\n    valid ? '邮箱格式正确' : '请输入有效邮箱');\n});\n\n// 卸载时调用 email.destroy();`,
     destroy: () => {
       abort.abort();
       switcher.destroy();

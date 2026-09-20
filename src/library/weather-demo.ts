@@ -1,4 +1,5 @@
 import { WeatherCard, SegmentedControl, type DayPeriod, type WeatherData } from '../components';
+import { codeLiteral } from '../lib/code-literal';
 import { createElement, setPressed, query } from '../lib/dom';
 import { icon } from '../lib/icons';
 import { PreviewPanel } from './preview-panel';
@@ -60,7 +61,6 @@ const weather = new WeatherCard({
 document.querySelector('#mount')!.append(weather.element);
 weather.setMode('night');`,
   });
-  panel.stage.classList.add('weather-stage');
   const canvas = createElement<HTMLDivElement>(
     '<div class="weather-preview-canvas"><div class="weather-demo-mount"></div><span class="weather-demo-note">示例数据</span></div>',
   );
@@ -124,7 +124,7 @@ weather.setMode('night');`,
       onUpdate = callback;
     },
     getCode: () =>
-      `import { WeatherCard } from './src/components';\n\nconst weather = new WeatherCard({\n  mode: '${weather.mode}',\n  data: ${JSON.stringify(demoWeather, null, 2).replaceAll('\n', '\n  ')},\n});\nmount.append(weather.element);\n\n// 卸载时调用 weather.destroy();`,
+      `import { WeatherCard } from './src/components';\n\nconst weather = new WeatherCard({\n  mode: '${weather.mode}',\n  data: ${codeLiteral(demoWeather, '  ')},\n});\nmount.append(weather.element);\n\n// 卸载时调用 weather.destroy();`,
     setPaused: (paused: boolean) => {
       weather.setPaused(paused);
       play.disabled = paused;

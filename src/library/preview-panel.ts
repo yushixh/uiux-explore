@@ -1,4 +1,5 @@
 import { createElement, query } from '../lib/dom';
+import { highlight } from '../lib/highlight';
 import { SegmentedControl } from '../components';
 import { ColorScope } from '../components/color-scope';
 import './preview-panel.css';
@@ -12,11 +13,13 @@ export interface PreviewPanelOptions {
   parentColors?: ColorScope;
 }
 
-/** Shared frame: identity → preview or code → controls. No descriptive slots. */
+/** Shared frame: identity and page actions → preview or code → controls. No descriptive slots. */
 export class PreviewPanel {
   readonly element: HTMLElement;
   readonly stage: HTMLDivElement;
   readonly controls: HTMLDivElement;
+  /** Heading slot for actions the page attaches to whichever panel is showing. */
+  readonly actions: HTMLDivElement;
   readonly colors: ColorScope;
   private readonly abort = new AbortController();
   private readonly view: SegmentedControl<'preview' | 'code'>;
@@ -27,25 +30,33 @@ export class PreviewPanel {
   constructor(options: PreviewPanelOptions) {
     this.code = options.code;
     this.element = createElement(`
-      <section class="component-panel rounded-panel border border-line bg-paper min-w-0 overflow-hidden">
-        <header class="panel-heading"><h2 class="panel-name text-sm font-medium"></h2><div class="panel-view"></div></header>
-        <div class="panel-stage relative"></div>
+      <section class="component-panel">
+        <header class="panel-heading">
+          <h2 class="panel-name"></h2>
+          <div class="panel-actions"></div>
+          <div class="panel-view"></div>
+        </header>
+        <div class="panel-stage"></div>
         <div class="code-stage" hidden>
-          <div class="code-toolbar"><span class="font-mono">TypeScript</span><button type="button" class="copy-button">复制代码</button></div>
+          <div class="code-toolbar"><span class="code-language">TypeScript</span><button type="button" class="copy-button">复制代码</button></div>
           <pre tabindex="0"><code></code></pre>
           <p class="copy-status" role="status" hidden></p>
         </div>
-        <footer class="panel-footer"><div class="panel-controls"></div><button type="button" class="reset-demo">重置</button></footer>
+        <footer class="panel-footer">
+          <div class="panel-controls"></div>
+          <button type="button" class="reset-demo">重置演示</button>
+        </footer>
       </section>`);
     this.element.id = options.id;
     const heading = query(this.element, 'h2');
     heading.id = `${options.id}-heading`;
     heading.textContent = options.name;
     this.element.setAttribute('aria-labelledby', heading.id);
-    query(this.element, 'code').textContent = options.code;
+    query(this.element, 'code').replaceChildren(highlight(options.code));
     this.stage = query<HTMLDivElement>(this.element, '.panel-stage');
     this.colors = new ColorScope(this.stage, options.parentColors ? { parent: options.parentColors } : {});
     this.controls = query<HTMLDivElement>(this.element, '.panel-controls');
+    this.actions = query<HTMLDivElement>(this.element, '.panel-actions');
     const codeStage = query(this.element, '.code-stage');
     const footer = query(this.element, '.panel-footer');
     this.view = new SegmentedControl<'preview' | 'code'>({
@@ -66,7 +77,7 @@ export class PreviewPanel {
     });
     query(this.element, '.panel-view').append(this.view.element);
     const reset = query(this.element, '.reset-demo');
-    reset.setAttribute('aria-label', `重置${options.name}`);
+    reset.setAttribute('aria-label', `重置${options.name}演示`);
     reset.addEventListener('click', options.onReset, { signal: this.abort.signal });
     query(this.element, '.copy-button').addEventListener(
       'click',
@@ -79,7 +90,7 @@ export class PreviewPanel {
 
   setCode(code: string): void {
     this.code = code;
-    query(this.element, 'code').textContent = code;
+    query(this.element, 'code').replaceChildren(highlight(code));
   }
 
   private async copy(code: string): Promise<void> {

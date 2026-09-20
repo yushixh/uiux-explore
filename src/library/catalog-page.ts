@@ -1,5 +1,6 @@
 import { createElement, query, setPressed } from '../lib/dom';
 import { icon, type IconName } from '../lib/icons';
+import { codeLiteral } from '../lib/code-literal';
 import {
   SegmentedControl,
   ColorScope,
@@ -8,7 +9,8 @@ import {
   type PaletteName,
   type ColorMode,
 } from '../components';
-import { LibraryShell } from './library-shell';
+import { LibraryShell, setPageTitle } from './library-shell';
+import { createAppearanceControls, paletteDots } from './appearance-controls';
 import type { CatalogEntry, ComponentDemo } from './catalog';
 import type { LayoutLevel } from './layout-inspector';
 import './workbench.css';
@@ -19,151 +21,154 @@ interface Settings {
   mode: ColorMode | 'inherit';
   paused: boolean;
 }
+const defaults = (): Settings => ({ palette: 'inherit', mix: '', mode: 'inherit', paused: false });
+const groups = [
+  ['effects', '动态组件'],
+  ['base', '基础组件'],
+] as const;
+const symbols: Record<string, IconName> = {
+  orbs: 'orb',
+  beam: 'beam',
+  gooey: 'gooey',
+  metal: 'metal',
+  image: 'image',
+  weather: 'sun',
+  input: 'keyboard',
+};
+const instanceNames: Record<string, string> = {
+  orbs: 'orb',
+  beam: 'beam',
+  gooey: 'gooey',
+  metal: 'metal',
+  image: 'image',
+  weather: 'weather',
+};
+const componentsModule = './src/components';
 
 export function createCatalogPage(entries: readonly CatalogEntry[]) {
-  const shell = new LibraryShell();
+  const shell = new LibraryShell({ module: 'workbench', heading: 'UIUX Explore 组件工作台' });
   const abort = new AbortController();
   const { signal } = abort;
   const colors = new ColorScope(shell.element);
   const demos = new Map<string, ComponentDemo>();
   const pending = new Map<string, Promise<ComponentDemo>>();
   const originalCodes = new Map<string, string>();
-  const settings = new Map(
-    entries.map(entry => [
-      entry.id,
-      { palette: 'inherit', mix: '', mode: 'inherit', paused: false } as Settings,
-    ]),
-  );
+  const settings = new Map(entries.map(entry => [entry.id, defaults()]));
   let selected = entries.find(entry => entry.id === location.hash.slice(1))?.id ?? entries[0]!.id;
   let inspecting = false;
   let level: Exclude<LayoutLevel, 'off'> = 'container';
+  let chipTimer = 0;
 
-  shell.actions.innerHTML =
-    '<details class="global-palette"><summary aria-label="全局配色"><span class="palette-dots" aria-hidden="true"></span></summary><div class="global-palette-options" role="group" aria-label="全局配色方案"></div></details><div class="global-mode"></div>';
-  const globalPalette = query<HTMLDetailsElement>(shell.actions, '.global-palette');
-  const paletteTrigger = query(globalPalette, 'summary');
-  const paletteChoices = query(globalPalette, '.global-palette-options');
-  palettes.forEach(palette => {
-    const button = createElement<HTMLButtonElement>(
-      '<button type="button" class="global-palette-option"><span class="palette-dots" aria-hidden="true"></span></button>',
-    );
-    button.dataset.palette = palette.id;
-    button.setAttribute('aria-label', palette.name);
-    button.title = palette.name;
-    for (const color of palette.colors) {
-      const dot = document.createElement('i');
-      dot.style.backgroundColor = color;
-      query(button, '.palette-dots').append(dot);
-    }
-    button.addEventListener(
-      'click',
-      () => {
-        colors.setPalette(palette.id);
-        syncGlobalPalette();
-        applyAll();
-        globalPalette.open = false;
-        paletteTrigger.focus();
-      },
-      { signal },
-    );
-    paletteChoices.append(button);
-  });
-  function syncGlobalPalette(): void {
-    const palette = palettes.find(item => item.id === colors.selection)!;
-    paletteTrigger.title = `全局配色：${palette.name}`;
-    const dots = query(paletteTrigger, '.palette-dots');
-    dots.replaceChildren();
-    for (const color of palette.colors) {
-      const dot = document.createElement('i');
-      dot.style.backgroundColor = color;
-      dots.append(dot);
-    }
-    paletteChoices
-      .querySelectorAll<HTMLButtonElement>('button')
-      .forEach(button => setPressed(button, button.dataset.palette === palette.id));
-  }
-  syncGlobalPalette();
-  const modeControl = new SegmentedControl<ColorMode>({
-    label: '全局明暗',
-    value: 'light',
-    shape: 'pill',
-    effect: 'gooey',
-    iconOnly: true,
-    options: [
-      { value: 'light', label: '明亮', icon: 'sun' },
-      { value: 'dark', label: '深色', icon: 'moon' },
-    ],
-    onChange: value => {
-      colors.setMode(value);
-      applyAll();
-    },
-  });
-  query(shell.actions, '.global-mode').append(modeControl.element);
+  const appearance = createAppearanceControls(colors, applyAll);
+  shell.actions.append(...appearance.elements);
 
-  shell.sidebar.innerHTML = `<div class="catalog-search">${icon('search')}<input type="search" placeholder="搜索组件" aria-label="搜索组件" autocomplete="off"/><kbd>/</kbd></div><nav class="component-navigation" aria-label="组件"></nav><div class="sidebar-bottom"><span>${entries.length} 个组件</span><a href="https://github.com/Jakubantalik/Libraries.dev" target="_blank" rel="noreferrer">上游源码 ↗</a></div>`;
+  shell.sidebar.innerHTML = `
+    <div class="catalog-search">
+      ${icon('search')}
+      <input type="search" placeholder="搜索组件" aria-label="搜索组件" autocomplete="off" />
+      <kbd>/</kbd>
+    </div>
+    <nav class="component-navigation" aria-label="组件"></nav>
+    <div class="sidebar-bottom">
+      <span>${entries.length} 个组件</span>
+      <a href="https://github.com/Jakubantalik/Libraries.dev" target="_blank" rel="noreferrer">上游源码 ↗</a>
+    </div>`;
   const navigation = query(shell.sidebar, 'nav');
-  const symbols: Record<string, IconName> = {
-    orbs: 'orb',
-    beam: 'beam',
-    gooey: 'gooey',
-    metal: 'metal',
-    image: 'image',
-    weather: 'sun',
-    input: 'keyboard',
-  };
-  for (const [group, label] of [
-    ['effects', '动态组件'],
-    ['base', '基础组件'],
-  ] as const) {
+  for (const [group, label] of groups) {
     const section = createElement<HTMLDivElement>(
       `<div class="nav-group" data-group="${group}"><p class="nav-group-title">${label}</p></div>`,
     );
-    entries
-      .filter(entry => entry.group === group)
-      .forEach(entry => {
-        const link = createElement<HTMLAnchorElement>(
-          '<a class="component-link"><span class="nav-symbol" aria-hidden="true"></span><span></span></a>',
-        );
-        link.href = `#${entry.id}`;
-        link.dataset.component = entry.id;
-        query(link, '.nav-symbol').innerHTML = icon(symbols[entry.id] ?? 'grid');
-        link.lastElementChild!.textContent = entry.name;
-        link.addEventListener(
-          'click',
-          event => {
-            event.preventDefault();
-            void choose(entry.id);
-          },
-          { signal },
-        );
-        section.append(link);
-      });
+    for (const entry of entries.filter(item => item.group === group)) {
+      const link = createElement<HTMLAnchorElement>(
+        '<a class="component-link"><span class="nav-symbol" aria-hidden="true"></span><span></span></a>',
+      );
+      link.href = `#${entry.id}`;
+      link.dataset.component = entry.id;
+      query(link, '.nav-symbol').innerHTML = icon(symbols[entry.id] ?? 'grid');
+      link.lastElementChild!.textContent = entry.name;
+      link.addEventListener(
+        'click',
+        event => {
+          event.preventDefault();
+          void choose(entry.id);
+        },
+        { signal },
+      );
+      section.append(link);
+    }
     navigation.append(section);
   }
-  shell.main.innerHTML = `<div class="workspace-toolbar"><div class="workspace-location"><span class="current-group"></span><span aria-hidden="true">/</span><span class="current-name"></span></div><button class="inspect-toggle" type="button" aria-pressed="false">${icon('layers')}<span>布局检查</span></button></div><div class="inspector-toolbar" hidden><div class="inspector-levels"></div><button class="close-inspector" type="button" aria-label="关闭布局检查">×</button></div><div class="workbench"><div class="preview-mount"></div><aside class="appearance-panel" aria-label="组件外观"><div class="appearance-heading"><h2>外观</h2><button class="reset-appearance" type="button">重置</button></div><fieldset class="palette-field"><legend>配色方案</legend><label class="inherit-choice"><input type="radio" name="component-palette" value="inherit" checked/>跟随全局</label><div class="palette-options"></div></fieldset><label class="property-select"><span>混合辅色</span><select aria-label="混合辅色"><option value="">原配色</option></select></label><div class="color-chips" aria-label="当前配色"></div><label class="property-select"><span>明暗</span><select aria-label="组件明暗"><option value="inherit">跟随全局</option><option value="light">明亮</option><option value="dark">深色</option></select></label><div class="motion-property"><span>动效</span><button type="button" class="pause-effect" aria-pressed="false">暂停</button></div><p class="motion-preference" hidden>已跟随系统减少动态效果</p></aside></div><div class="load-status" role="status" hidden></div><div class="empty-state" hidden><h2>未找到组件</h2><button class="empty-reset" type="button">清除筛选</button></div><p class="sr-only result-count" role="status"></p>`;
+
+  shell.main.innerHTML = `
+    <div class="inspector-toolbar" hidden>
+      <div class="inspector-levels"></div>
+      <button class="close-inspector" type="button" aria-label="关闭布局检查">×</button>
+    </div>
+    <div class="workbench">
+      <div class="preview-mount"></div>
+      <aside class="appearance-panel" aria-label="组件外观">
+        <div class="appearance-heading">
+          <h2>外观</h2>
+          <button class="reset-appearance" type="button">重置外观</button>
+        </div>
+        <fieldset class="palette-field">
+          <legend>配色方案</legend>
+          <label class="inherit-choice"><input type="radio" name="component-palette" value="inherit" checked />跟随全局</label>
+          <div class="palette-options"></div>
+        </fieldset>
+        <div class="property-group">
+          <label class="property-select">
+            <span>辅色取自</span>
+            <select class="mix-select"><option value="">当前配色</option></select>
+          </label>
+          <div class="color-chips" role="group" aria-label="当前色值，点击复制"></div>
+          <p class="chip-status" role="status"></p>
+        </div>
+        <label class="property-select">
+          <span>明暗</span>
+          <select class="mode-select">
+            <option value="inherit">跟随全局</option>
+            <option value="light">明亮</option>
+            <option value="dark">深色</option>
+          </select>
+        </label>
+        <div class="motion-property">
+          <span>动效</span>
+          <button type="button" class="pause-effect" aria-pressed="false">暂停</button>
+        </div>
+        <p class="motion-preference" hidden>已跟随系统减少动态效果</p>
+      </aside>
+    </div>
+    <div class="load-status" role="status" hidden></div>
+    <div class="empty-state" hidden>
+      <h2>未找到组件</h2>
+      <button class="empty-reset" type="button">清除筛选</button>
+    </div>
+    <p class="sr-only result-count" role="status"></p>`;
   const mount = query(shell.main, '.preview-mount');
   const workbench = query(shell.main, '.workbench');
   const loadStatus = query(shell.main, '.load-status');
   const search = query<HTMLInputElement>(shell.sidebar, 'input[type="search"]');
-  const inspectButton = query<HTMLButtonElement>(shell.main, '.inspect-toggle');
   const pause = query<HTMLButtonElement>(shell.main, '.pause-effect');
-  const mix = query<HTMLSelectElement>(shell.main, '[aria-label="混合辅色"]');
-  const localMode = query<HTMLSelectElement>(shell.main, '[aria-label="组件明暗"]');
+  const mix = query<HTMLSelectElement>(shell.main, '.mix-select');
+  const localMode = query<HTMLSelectElement>(shell.main, '.mode-select');
   const swatches = query(shell.main, '.palette-options');
-  palettes.forEach(palette => {
+  const chips = query(shell.main, '.color-chips');
+  const chipStatus = query(shell.main, '.chip-status');
+  // One button, shown in the heading of whichever panel is current.
+  const inspectButton = createElement<HTMLButtonElement>(
+    `<button class="inspect-toggle" type="button" aria-pressed="false" title="布局检查">${icon('layers')}<span>布局检查</span></button>`,
+  );
+  for (const palette of palettes) {
     mix.add(new Option(palette.name, palette.id));
     const label = createElement<HTMLLabelElement>(
-      '<label class="palette-option"><input type="radio" name="component-palette"/><span class="palette-dots" aria-hidden="true"></span><span class="palette-label"></span></label>',
+      '<label class="palette-option"><input type="radio" name="component-palette" /><span class="palette-label"></span></label>',
     );
     query<HTMLInputElement>(label, 'input').value = palette.id;
     query(label, '.palette-label').textContent = palette.name;
-    for (const color of palette.colors) {
-      const dot = document.createElement('i');
-      dot.style.background = color;
-      query(label, '.palette-dots').append(dot);
-    }
+    query(label, '.palette-label').before(paletteDots(palette.colors));
     swatches.append(label);
-  });
+  }
   const levels = new SegmentedControl<Exclude<LayoutLevel, 'off'>>({
     label: '布局层级',
     value: level,
@@ -180,23 +185,28 @@ export function createCatalogPage(entries: readonly CatalogEntry[]) {
   query(shell.main, '.inspector-levels').append(levels.element);
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 
+  /** The sample leads with one import per module, then the colour scope the component reads. */
   function updateCode(id: string): void {
     const demo = demos.get(id);
     if (!demo) return;
     const base = demo.getCode?.() ?? originalCodes.get(id) ?? '';
-    const palette = demo.panel.colors.selection;
-    const prelude = `import { ColorScope } from './src/components';\n\nconst mount = document.querySelector<HTMLElement>('#mount')!;\nconst colors = new ColorScope(mount, {\n  palette: ${JSON.stringify(palette, null, 2).replaceAll('\n', '\n  ')},\n  mode: '${demo.panel.colors.appearance.mode}',\n});\n\n`;
-    const instanceNames: Record<string, string> = {
-      orbs: 'orb',
-      beam: 'beam',
-      gooey: 'gooey',
-      metal: 'metal',
-      image: 'image',
-      weather: 'weather',
-    };
-    const pauseCode =
-      settings.get(id)?.paused && instanceNames[id] ? `\n\n${instanceNames[id]}.setPaused(true);` : '';
-    demo.panel.setCode(prelude + base + pauseCode + '\n\n// 容器卸载时调用 colors.destroy();');
+    const leading = /^import \{ ([^}]+) \} from '([^']+)';\n+/.exec(base);
+    const imports =
+      leading?.[2] === componentsModule
+        ? [`import { ColorScope, ${leading[1]} } from '${componentsModule}';`]
+        : [`import { ColorScope } from '${componentsModule}';`, ...(leading ? [leading[0].trimEnd()] : [])];
+    const scope = [
+      "const mount = document.querySelector<HTMLElement>('#mount')!;",
+      'const colors = new ColorScope(mount, {',
+      `  palette: ${codeLiteral(demo.panel.colors.selection, '  ')},`,
+      `  mode: '${demo.panel.colors.appearance.mode}',`,
+      '});',
+    ];
+    const instance = instanceNames[id];
+    const pauseCode = settings.get(id)?.paused && instance ? `\n\n${instance}.setPaused(true);` : '';
+    demo.panel.setCode(
+      `${imports.join('\n')}\n\n${scope.join('\n')}\n\n${base.slice(leading?.[0].length ?? 0)}${pauseCode}\n\n// 容器卸载时调用 colors.destroy();`,
+    );
   }
   function apply(id: string): void {
     const demo = demos.get(id);
@@ -229,28 +239,40 @@ export function createCatalogPage(entries: readonly CatalogEntry[]) {
     setPressed(pause, state.paused);
     pause.textContent = state.paused ? '播放' : '暂停';
     query(shell.main, '.motion-preference').hidden = !reduced.matches;
-    const chips = query(shell.main, '.color-chips');
     chips.replaceChildren();
-    if (demo)
-      for (const [name, value] of [
-        ['主色', demo.panel.colors.appearance.colors.accent],
-        ['辅色', demo.panel.colors.appearance.colors.secondary],
-        ['亮色', demo.panel.colors.appearance.colors.highlight],
-      ]) {
-        const chip = document.createElement('span');
-        chip.style.backgroundColor = value!;
-        chip.title = `${name} ${value}`;
-        chip.setAttribute('aria-label', `${name} ${value}`);
-        chips.append(chip);
-      }
+    if (!demo) return;
+    const { accent, secondary, highlight } = demo.panel.colors.appearance.colors;
+    for (const [name, value] of [
+      ['主色', accent],
+      ['辅色', secondary],
+      ['亮色', highlight],
+    ] as const) {
+      const chip = createElement<HTMLButtonElement>('<button type="button" class="color-chip"></button>');
+      chip.style.backgroundColor = value;
+      chip.title = `${name} ${value} · 点击复制`;
+      chip.setAttribute('aria-label', `复制${name} ${value}`);
+      chip.addEventListener('click', () => void copyColor(name, value), { signal });
+      chips.append(chip);
+    }
+  }
+  async function copyColor(name: string, value: string): Promise<void> {
+    try {
+      await navigator.clipboard.writeText(value);
+      chipStatus.textContent = `已复制${name} ${value}`;
+    } catch {
+      chipStatus.textContent = `${name} ${value}`;
+    }
+    window.clearTimeout(chipTimer);
+    chipTimer = window.setTimeout(() => {
+      chipStatus.textContent = '';
+    }, 2400);
   }
   async function choose(id: string): Promise<void> {
-    if (!entries.some(entry => entry.id === id)) return;
+    const entry = entries.find(item => item.id === id);
+    if (!entry) return;
     selected = id;
     history.replaceState(null, '', `#${id}`);
-    const entry = entries.find(item => item.id === id)!;
-    query(shell.main, '.current-group').textContent = entry.group === 'effects' ? '动态组件' : '基础组件';
-    query(shell.main, '.current-name').textContent = entry.name;
+    setPageTitle(entry.name, '组件工作台');
     navigation.querySelectorAll<HTMLAnchorElement>('[data-component]').forEach(link => {
       if (link.dataset.component === id) link.setAttribute('aria-current', 'page');
       else link.removeAttribute('aria-current');
@@ -283,6 +305,7 @@ export function createCatalogPage(entries: readonly CatalogEntry[]) {
       demo.setActive?.(selected === id);
       if (selected === id) {
         loadStatus.hidden = true;
+        demo.panel.actions.append(inspectButton);
         syncProperties();
         updateInspector();
       }
@@ -291,16 +314,8 @@ export function createCatalogPage(entries: readonly CatalogEntry[]) {
       if (selected === id) {
         loadStatus.hidden = false;
         loadStatus.textContent = '组件未能载入。';
-        const retry = document.createElement('button');
-        retry.textContent = '重试';
-        retry.type = 'button';
-        retry.addEventListener(
-          'click',
-          () => {
-            void choose(id);
-          },
-          { once: true },
-        );
+        const retry = createElement<HTMLButtonElement>('<button type="button">重试</button>');
+        retry.addEventListener('click', () => void choose(id), { once: true });
         loadStatus.append(retry);
       }
       console.error(error);
@@ -329,63 +344,50 @@ export function createCatalogPage(entries: readonly CatalogEntry[]) {
     query(shell.main, '.inspector-toolbar').hidden = !inspecting;
     demos.forEach((demo, id) => demo.inspector.setLevel(inspecting && id === selected ? level : 'off'));
   }
-  document.addEventListener(
-    'pointerdown',
-    event => {
-      if (event.target instanceof Node && !globalPalette.contains(event.target)) globalPalette.open = false;
-    },
-    { signal },
-  );
-  globalPalette.addEventListener(
-    'focusout',
-    event => {
-      if (event.relatedTarget instanceof Node && !globalPalette.contains(event.relatedTarget))
-        globalPalette.open = false;
-    },
-    { signal },
-  );
+  function change(update: (state: Settings) => void): void {
+    update(settings.get(selected)!);
+    apply(selected);
+    syncProperties();
+  }
+
   shell.main.querySelectorAll<HTMLInputElement>('[name="component-palette"]').forEach(input =>
     input.addEventListener(
       'change',
-      () => {
-        settings.get(selected)!.palette = input.value as Settings['palette'];
-        apply(selected);
-        syncProperties();
-      },
+      () =>
+        change(state => {
+          state.palette = input.value as Settings['palette'];
+        }),
       { signal },
     ),
   );
   mix.addEventListener(
     'change',
-    () => {
-      settings.get(selected)!.mix = mix.value as Settings['mix'];
-      apply(selected);
-      syncProperties();
-    },
+    () =>
+      change(state => {
+        state.mix = mix.value as Settings['mix'];
+      }),
     { signal },
   );
   localMode.addEventListener(
     'change',
-    () => {
-      settings.get(selected)!.mode = localMode.value as Settings['mode'];
-      apply(selected);
-      syncProperties();
-    },
+    () =>
+      change(state => {
+        state.mode = localMode.value as Settings['mode'];
+      }),
     { signal },
   );
   pause.addEventListener(
     'click',
-    () => {
-      settings.get(selected)!.paused = !settings.get(selected)!.paused;
-      apply(selected);
-      syncProperties();
-    },
+    () =>
+      change(state => {
+        state.paused = !state.paused;
+      }),
     { signal },
   );
   query(shell.main, '.reset-appearance').addEventListener(
     'click',
     () => {
-      settings.set(selected, { palette: 'inherit', mix: '', mode: 'inherit', paused: false });
+      settings.set(selected, defaults());
       apply(selected);
       syncProperties();
     },
@@ -430,12 +432,6 @@ export function createCatalogPage(entries: readonly CatalogEntry[]) {
   document.addEventListener(
     'keydown',
     event => {
-      if (event.key === 'Escape' && globalPalette.open) {
-        globalPalette.open = false;
-        paletteTrigger.focus();
-        event.preventDefault();
-        return;
-      }
       const editing =
         event.target instanceof HTMLElement &&
         (event.target.matches('input,textarea,select') || event.target.isContentEditable);
@@ -443,36 +439,31 @@ export function createCatalogPage(entries: readonly CatalogEntry[]) {
         event.preventDefault();
         search.focus();
       }
-      if (event.key === 'Escape') {
-        if (document.activeElement === search) {
-          search.value = '';
-          filter();
-          search.blur();
-        } else {
-          inspecting = false;
-          updateInspector();
-        }
+      if (event.key !== 'Escape') return;
+      if (document.activeElement === search) {
+        search.value = '';
+        filter();
+        search.blur();
+      } else {
+        inspecting = false;
+        updateInspector();
       }
     },
     { signal },
   );
-  window.addEventListener(
-    'hashchange',
-    () => {
-      void choose(location.hash.slice(1));
-    },
-    { signal },
-  );
+  window.addEventListener('hashchange', () => void choose(location.hash.slice(1)), { signal });
   reduced.addEventListener('change', syncProperties, { signal });
   void choose(selected);
+
   return {
     element: shell.element,
-    destroy: () => {
+    destroy(): void {
       abort.abort();
+      window.clearTimeout(chipTimer);
       demos.forEach(demo => demo.destroy());
-      colors.destroy();
-      modeControl.destroy();
+      appearance.destroy();
       levels.destroy();
+      colors.destroy();
     },
   };
 }

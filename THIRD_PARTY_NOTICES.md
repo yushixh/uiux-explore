@@ -1,6 +1,6 @@
 # Third-party components
 
-Daylight integrates the following MIT-licensed packages by Jakub Antalik. Original copyright notices and licenses are retained in their npm distributions. The local adapter code is in `src/components/effects/`; no package files are modified.
+UIUX Explore integrates the following MIT-licensed packages by Jakub Antalik. Original copyright notices and licenses are retained in their npm distributions. The local adapter code is in `src/components/effects/`; no package files are modified.
 
 | Package | Installed version | Source |
 | --- | --- | --- |

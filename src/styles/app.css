@@ -1,7 +1,7 @@
 :root {
   font-family: var(--font-sans);
-  color: var(--color-ink);
-  background: var(--color-canvas);
+  color: var(--chrome-ink);
+  background: var(--chrome-canvas);
   font-synthesis: none;
   -webkit-font-smoothing: antialiased;
 }
@@ -45,22 +45,11 @@ input {
   z-index: 100;
   border-radius: 8px;
   padding: 10px 16px;
-  background: white;
+  color: var(--chrome-ink);
+  background: var(--chrome-surface);
 }
 .skip-link:focus {
   top: 12px;
-}
-.icon-button {
-  display: grid;
-  place-items: center;
-  width: 32px;
-  height: 32px;
-  border-radius: 6px;
-  color: var(--color-muted);
-}
-.icon-button:hover {
-  background: #eceff2;
-  color: var(--color-ink);
 }
 @media (prefers-reduced-motion: reduce) {
   *,

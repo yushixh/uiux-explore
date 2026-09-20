@@ -35,3 +35,41 @@
   --layout-region: #4d83b9;
   --layout-element: #9570b2;
 }
+
+/* Page chrome follows the nearest colour scope, so a stage can stay light inside a dark page.
+   Text tones keep at least 4.5:1 against every chrome surface of the same scope. */
+:root,
+[data-theme='light'] {
+  color-scheme: light;
+  --chrome-canvas: #fbfcfd;
+  --chrome-surface: #ffffff;
+  --chrome-raised: #ffffff;
+  --chrome-sunken: #f1f3f5;
+  --chrome-hover: #eef1f4;
+  --chrome-line: #e4e9ee;
+  --chrome-line-strong: #c9d2db;
+  --chrome-ink: #28313b;
+  --chrome-text: #465362;
+  --chrome-muted: #5f6b78;
+  --chrome-positive: #2f6a55;
+  --chrome-caution: #7a5c1e;
+  --chrome-backdrop: #1e2f4066;
+  --chrome-shadow: #23344b14;
+}
+[data-theme='dark'] {
+  color-scheme: dark;
+  --chrome-canvas: #13161b;
+  --chrome-surface: #1b1f26;
+  --chrome-raised: #3a4250;
+  --chrome-sunken: #252a33;
+  --chrome-hover: #2a303a;
+  --chrome-line: #2f3641;
+  --chrome-line-strong: #465060;
+  --chrome-ink: #eef0f4;
+  --chrome-text: #cfd5dd;
+  --chrome-muted: #a3acba;
+  --chrome-positive: #88c2a1;
+  --chrome-caution: #dcbc7c;
+  --chrome-backdrop: #00000099;
+  --chrome-shadow: #00000059;
+}
