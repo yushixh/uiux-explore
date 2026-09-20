@@ -25,7 +25,13 @@ export class LayoutInspector {
     this.mutationObserver = new MutationObserver(records => {
       if (records.some(record => !this.overlay.contains(record.target))) this.schedule();
     });
-    this.mutationObserver.observe(stage, { subtree: true, childList: true, characterData: true, attributes: true, attributeFilter: ['hidden', 'data-mode', 'data-state'] });
+    this.mutationObserver.observe(stage, {
+      subtree: true,
+      childList: true,
+      characterData: true,
+      attributes: true,
+      attributeFilter: ['hidden', 'data-mode', 'data-state'],
+    });
     void document.fonts.ready.then(() => this.schedule());
   }
 
@@ -55,7 +61,14 @@ export class LayoutInspector {
       const y = rect.top - bounds.top;
       const group = document.createElementNS(SVG_NS, 'g');
       const outline = document.createElementNS(SVG_NS, 'rect');
-      for (const [key, value] of Object.entries({ x, y, width: rect.width, height: rect.height, rx: this.level === 'container' ? 4 : 1 })) outline.setAttribute(key, String(value));
+      for (const [key, value] of Object.entries({
+        x,
+        y,
+        width: rect.width,
+        height: rect.height,
+        rx: this.level === 'container' ? 4 : 1,
+      }))
+        outline.setAttribute(key, String(value));
       const title = document.createElementNS(SVG_NS, 'title');
       title.textContent = `${element.dataset.layoutLabel ?? ''} · ${Math.round(rect.width)} × ${Math.round(rect.height)}`;
       group.append(title, outline);

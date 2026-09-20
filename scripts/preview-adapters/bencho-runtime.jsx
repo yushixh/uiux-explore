@@ -29,35 +29,64 @@ export default function BenchoRuntimeDemo({ id }) {
       panel.inert = !expanded;
       panel.setAttribute('aria-hidden', String(!expanded));
       if (expanded && focusOnOpen !== null) {
-        items[focusOnOpen]?.focus(); focusOnOpen = null;
+        items[focusOnOpen]?.focus();
+        focusOnOpen = null;
       }
     };
     sync();
-    if (restoreFocus.current) { trigger.focus(); restoreFocus.current = false; }
+    if (restoreFocus.current) {
+      trigger.focus();
+      restoreFocus.current = false;
+    }
     const observer = new MutationObserver(sync);
     observer.observe(stage, { attributes: true, attributeFilter: ['data-open'] });
     const keydown = event => {
       if (event.key === 'Escape' && (open() || stage.dataset.sink)) {
-        event.preventDefault(); event.stopPropagation();
-        restoreFocus.current = true; setVersion(v => v + 1); return;
+        event.preventDefault();
+        event.stopPropagation();
+        restoreFocus.current = true;
+        setVersion(v => v + 1);
+        return;
       }
       if (event.target === trigger && ['Enter', ' ', 'ArrowDown', 'ArrowUp'].includes(event.key)) {
         focusOnOpen = event.key === 'ArrowUp' ? items.length - 1 : 0;
-        if (['ArrowDown', 'ArrowUp'].includes(event.key)) { event.preventDefault(); trigger.click(); }
+        if (['ArrowDown', 'ArrowUp'].includes(event.key)) {
+          event.preventDefault();
+          trigger.click();
+        }
         return;
       }
       if (!open() || !items.includes(document.activeElement)) return;
       const index = items.indexOf(document.activeElement);
-      const next = event.key === 'ArrowDown' ? (index + 1) % items.length
-        : event.key === 'ArrowUp' ? (index - 1 + items.length) % items.length
-        : event.key === 'Home' ? 0 : event.key === 'End' ? items.length - 1 : null;
-      if (next !== null) { event.preventDefault(); items[next].focus(); }
+      const next =
+        event.key === 'ArrowDown'
+          ? (index + 1) % items.length
+          : event.key === 'ArrowUp'
+            ? (index - 1 + items.length) % items.length
+            : event.key === 'Home'
+              ? 0
+              : event.key === 'End'
+                ? items.length - 1
+                : null;
+      if (next !== null) {
+        event.preventDefault();
+        items[next].focus();
+      }
     };
     root.addEventListener('keydown', keydown);
-    return () => { observer.disconnect(); root.removeEventListener('keydown', keydown); };
+    return () => {
+      observer.disconnect();
+      root.removeEventListener('keydown', keydown);
+    };
   }, [id, version]);
-  return <div ref={host} className="bencho-runtime-preview" style={{ display: 'grid', placeItems: 'center', width: '100%' }}>
-    <SharedFilters />
-    <React.Fragment key={version}>{renderers[id]()}</React.Fragment>
-  </div>;
+  return (
+    <div
+      ref={host}
+      className="bencho-runtime-preview"
+      style={{ display: 'grid', placeItems: 'center', width: '100%' }}
+    >
+      <SharedFilters />
+      <React.Fragment key={version}>{renderers[id]()}</React.Fragment>
+    </div>
+  );
 }

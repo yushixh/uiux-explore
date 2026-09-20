@@ -1,5 +1,5 @@
 {
-  "name": "daylight-ui",
+  "name": "uiux-explore",
   "version": "0.2.0",
   "description": "A composable UI component workbench with scoped palettes and motion.",
   "private": true,
@@ -14,12 +14,16 @@
   "scripts": {
     "dev": "vite",
     "typecheck": "tsc --noEmit",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
     "archive:restore": "python3 scripts/restore-archive-cache.py",
     "archive:index": "node scripts/build-archive-index.mjs",
     "archive:previews": "node scripts/extract-bencho-runtime.mjs && node scripts/build-archive-previews.mjs && node scripts/build-original-previews.mjs",
     "test:archive": "node tests/archive-integrity.mjs",
     "build": "tsc --noEmit && vite build",
-    "preview": "vite preview --host 127.0.0.1"
+    "preview": "vite preview --host 127.0.0.1",
+    "test:browser": "node scripts/browser-checks.mjs",
+    "test": "npm run test:archive && npm run test:browser"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.3.3",
@@ -28,23 +32,24 @@
     "@types/react-dom": "^19.3.0",
     "@types/three": "^0.185.4",
     "eslint-scope": "^9.1.2",
+    "framer-motion": "^13.3.0",
+    "lucide-react": "^1.46.0",
     "playwright": "^1.55.0",
+    "prettier": "^3.9.8",
     "sass": "^1.104.1",
     "tailwindcss": "^4.3.3",
     "typescript": "^7.0.2",
-    "vite": "^7.1.0"
+    "vite": "^7.1.0",
+    "web-haptics": "^0.0.6"
   },
   "dependencies": {
     "border-beam": "^1.3.0",
-    "framer-motion": "^13.3.0",
     "img-fx": "^0.5.1",
     "liquid-gooey": "^0.2.1",
-    "lucide-react": "^1.46.0",
     "metal-fx": "^2.0.10",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "thinking-orbs": "^0.3.1",
-    "three": "^0.186.0",
-    "web-haptics": "^0.0.6"
+    "three": "^0.186.0"
   }
 }
